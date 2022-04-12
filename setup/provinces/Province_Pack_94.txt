@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -79,9 +79,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -98,9 +98,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -136,9 +136,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -155,9 +155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	slaves=
@@ -174,9 +174,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="vegetables"
 	slaves=
@@ -193,9 +193,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -212,10 +212,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="wine"
 	slaves=
@@ -232,9 +232,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	slaves=
@@ -251,9 +251,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	slaves=
@@ -270,9 +270,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -289,9 +289,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -308,9 +308,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -327,9 +327,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -346,9 +346,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -365,9 +365,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	slaves=
@@ -384,9 +384,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -403,9 +403,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="marble"
 	slaves=
@@ -422,9 +422,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -441,9 +441,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -460,9 +460,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -479,9 +479,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="marble"
 	slaves=
@@ -499,9 +499,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -518,9 +518,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -537,9 +537,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -556,9 +556,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -575,9 +575,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -594,9 +594,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	slaves=
@@ -613,9 +613,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -632,9 +632,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -651,9 +651,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -670,9 +670,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -689,9 +689,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="bosque_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -708,9 +708,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -727,9 +727,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -746,9 +746,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -765,9 +765,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="iron"
 	slaves=
@@ -784,9 +784,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="precious_metals"
 	slaves=
@@ -803,9 +803,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -822,9 +822,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	slaves=
@@ -841,9 +841,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -860,9 +860,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -879,9 +879,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -898,9 +898,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -917,9 +917,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -936,9 +936,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -955,9 +955,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -974,9 +974,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -993,9 +993,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1012,9 +1012,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="iron"
 	slaves=
@@ -1031,9 +1031,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -1050,9 +1050,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	slaves=
@@ -1069,9 +1069,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1088,9 +1088,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	slaves=
@@ -1107,9 +1107,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="woad"
 	slaves=
@@ -1126,9 +1126,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1145,9 +1145,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	slaves=
@@ -1164,9 +1164,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	freemen=
@@ -1183,9 +1183,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="honey"
 	slaves=
@@ -1202,9 +1202,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="earthware"
 	slaves=
@@ -1221,9 +1221,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1240,9 +1240,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="earthware"
 	slaves=
@@ -1259,9 +1259,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -1278,9 +1278,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -1297,9 +1297,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	freemen=
@@ -1316,9 +1316,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1335,9 +1335,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	slaves=
@@ -1354,9 +1354,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1373,9 +1373,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="marble"
 	slaves=
@@ -1392,9 +1392,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -1411,9 +1411,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1430,9 +1430,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1449,9 +1449,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1468,9 +1468,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -1487,9 +1487,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1506,9 +1506,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -1525,9 +1525,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -1544,9 +1544,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1563,10 +1563,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	holy_site="omen_mlugus"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1583,9 +1583,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -1602,9 +1602,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	slaves=
@@ -1621,9 +1621,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	slaves=
@@ -1640,9 +1640,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	slaves=
@@ -1659,9 +1659,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	slaves=
@@ -1678,9 +1678,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=

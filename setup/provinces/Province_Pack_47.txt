@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="earthware"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -79,9 +79,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -98,9 +98,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -136,9 +136,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="base_metals"
 	slaves=
@@ -155,9 +155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	slaves=
@@ -174,9 +174,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	slaves=
@@ -193,9 +193,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -212,9 +212,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="spices"
 	slaves=
@@ -231,9 +231,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -250,9 +250,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -270,9 +270,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants_african"
 	slaves=
@@ -289,9 +289,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -308,9 +308,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -327,9 +327,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	slaves=
@@ -346,9 +346,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -365,9 +365,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -384,9 +384,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="stone"
 	tribesmen=
@@ -399,9 +399,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	tribesmen=
@@ -414,9 +414,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -433,9 +433,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="elephants_african"
 	slaves=
@@ -452,9 +452,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libo_punic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="canaanitic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	citizen=
@@ -468,14 +468,14 @@
 	slaves=
 	{
 		amount=2
-		culture="mauri"
-		religion="libyan_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=3
-		culture="mauri"
-		religion="libyan_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	port_building=1
 }
@@ -484,9 +484,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -503,9 +503,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="gems"
 	slaves=
@@ -522,9 +522,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants_african"
 	slaves=
@@ -541,9 +541,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	slaves=
@@ -560,9 +560,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -579,9 +579,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	slaves=
@@ -598,9 +598,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -617,9 +617,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="olive"
 	tribesmen=
@@ -636,9 +636,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	slaves=
@@ -655,9 +655,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -674,9 +674,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	tribesmen=
@@ -693,9 +693,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -712,9 +712,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -731,9 +731,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants_african"
 	slaves=
@@ -750,9 +750,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	tribesmen=
@@ -769,9 +769,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -788,9 +788,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	tribesmen=
@@ -807,9 +807,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -826,9 +826,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -845,9 +845,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -864,9 +864,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	tribesmen=
@@ -883,9 +883,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -902,9 +902,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	tribesmen=
@@ -921,9 +921,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="olive"
 	tribesmen=
@@ -940,9 +940,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -959,9 +959,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants_african"
 	slaves=
@@ -978,9 +978,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -997,9 +997,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	slaves=
@@ -1016,9 +1016,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1031,9 +1031,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="base_metals"
 	tribesmen=
@@ -1046,9 +1046,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	tribesmen=
@@ -1061,9 +1061,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -1076,9 +1076,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	tribesmen=
@@ -1091,9 +1091,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="spices"
 	tribesmen=
@@ -1106,9 +1106,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -1125,9 +1125,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1140,9 +1140,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	tribesmen=
@@ -1155,9 +1155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -1174,9 +1174,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	tribesmen=
@@ -1189,9 +1189,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	tribesmen=
@@ -1204,9 +1204,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1219,9 +1219,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1234,9 +1234,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="elephants_african"
 	tribesmen=
@@ -1249,9 +1249,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1264,9 +1264,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -1283,9 +1283,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	tribesmen=
@@ -1298,9 +1298,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="spices"
 	tribesmen=
@@ -1313,9 +1313,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="spices"
 	tribesmen=
@@ -1328,9 +1328,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	tribesmen=
@@ -1343,9 +1343,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mauri"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=

@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	tribesmen=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	tribesmen=
@@ -37,9 +37,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -52,9 +52,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -67,9 +67,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -86,9 +86,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -101,9 +101,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="wood"
 	slaves=
@@ -120,10 +120,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="amber"
 	slaves=
@@ -140,9 +140,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	slaves=
@@ -159,9 +159,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	slaves=
@@ -178,10 +178,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -194,9 +194,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -209,9 +209,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -228,9 +228,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -247,10 +247,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -267,9 +267,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -282,9 +282,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -301,9 +301,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	slaves=
@@ -320,10 +320,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	tribesmen=
@@ -344,9 +344,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	tribesmen=
@@ -367,9 +367,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -382,9 +382,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -397,10 +397,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	tribesmen=
@@ -421,9 +421,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -440,10 +440,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="amber"
 	tribesmen=
@@ -464,9 +464,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	tribesmen=
@@ -479,9 +479,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -502,9 +502,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="amber"
 	tribesmen=
@@ -525,9 +525,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -548,10 +548,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	holy_site="omen_mnerthus"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -568,10 +568,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -588,9 +588,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -611,9 +611,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	tribesmen=
@@ -626,9 +626,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -645,9 +645,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	tribesmen=
@@ -664,9 +664,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -683,10 +683,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	tribesmen=
@@ -699,9 +699,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -718,9 +718,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	tribesmen=
@@ -733,9 +733,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -748,10 +748,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	tribesmen=
@@ -764,9 +764,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -779,9 +779,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -794,9 +794,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	tribesmen=
@@ -809,9 +809,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -824,9 +824,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -839,9 +839,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -854,9 +854,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -873,9 +873,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -888,9 +888,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	tribesmen=
@@ -903,9 +903,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -918,9 +918,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -933,9 +933,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	tribesmen=
@@ -948,9 +948,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -963,9 +963,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	slaves=
@@ -982,9 +982,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	tribesmen=
@@ -997,9 +997,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	tribesmen=
@@ -1012,9 +1012,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1027,9 +1027,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1042,9 +1042,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	tribesmen=
@@ -1057,9 +1057,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	tribesmen=
@@ -1073,10 +1073,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1089,9 +1089,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1104,9 +1104,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1119,9 +1119,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	tribesmen=
@@ -1134,9 +1134,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1149,9 +1149,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1164,9 +1164,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	tribesmen=
@@ -1179,9 +1179,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1198,10 +1198,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	tribesmen=
@@ -1214,9 +1214,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1229,9 +1229,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1244,9 +1244,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1259,9 +1259,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1274,9 +1274,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="north_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=

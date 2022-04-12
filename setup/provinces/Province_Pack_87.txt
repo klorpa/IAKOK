@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="cloth"
 	slaves=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -79,9 +79,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="gems"
 	slaves=
@@ -98,9 +98,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	slaves=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -136,9 +136,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -155,9 +155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	slaves=
@@ -174,9 +174,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -193,9 +193,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="woad"
 	slaves=
@@ -212,9 +212,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants_indian"
 	slaves=
@@ -231,9 +231,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -250,9 +250,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	slaves=
@@ -269,9 +269,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="hemp"
 	citizen=
@@ -296,9 +296,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kolamic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	slaves=
@@ -315,9 +315,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kolamic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	slaves=
@@ -334,9 +334,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	nobles=
@@ -366,9 +366,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	slaves=
@@ -385,9 +385,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -404,9 +404,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -423,9 +423,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -442,9 +442,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fish"
 	citizen=
@@ -471,9 +471,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -490,9 +490,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	slaves=
@@ -509,9 +509,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	slaves=
@@ -528,9 +528,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -547,9 +547,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -566,9 +566,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="woad"
 	slaves=
@@ -585,9 +585,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -604,9 +604,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="naikan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -623,9 +623,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	slaves=
@@ -642,9 +642,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="woad"
 	slaves=
@@ -661,9 +661,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="naikan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -680,9 +680,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	slaves=
@@ -699,9 +699,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="honey"
 	slaves=
@@ -718,9 +718,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -737,9 +737,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	slaves=
@@ -756,9 +756,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -775,9 +775,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="tin"
 	slaves=
@@ -794,9 +794,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="duruwan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="precious_metals"
 	slaves=
@@ -813,9 +813,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="duruwan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	slaves=
@@ -832,9 +832,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ollari"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	slaves=
@@ -851,9 +851,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ollari"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -870,9 +870,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="earthware"
 	slaves=
@@ -889,9 +889,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -908,9 +908,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="base_metals"
 	slaves=
@@ -927,9 +927,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="honey"
 	slaves=
@@ -946,9 +946,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	slaves=
@@ -965,9 +965,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -984,9 +984,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1003,9 +1003,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -1022,9 +1022,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	slaves=
@@ -1041,9 +1041,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="base_metals"
 	citizen=
@@ -1060,9 +1060,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="leather"
 	slaves=
@@ -1079,9 +1079,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -1098,9 +1098,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	slaves=
@@ -1117,9 +1117,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1136,9 +1136,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	slaves=
@@ -1155,9 +1155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	slaves=
@@ -1174,9 +1174,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1193,9 +1193,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	citizen=
@@ -1220,9 +1220,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	slaves=
@@ -1239,9 +1239,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -1258,9 +1258,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="asmakan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	slaves=
@@ -1277,9 +1277,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="base_metals"
 	slaves=
@@ -1296,9 +1296,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	citizen=
@@ -1323,9 +1323,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	slaves=
@@ -1342,9 +1342,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="dye"
 	slaves=
@@ -1361,9 +1361,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	slaves=
@@ -1380,9 +1380,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	slaves=
@@ -1399,9 +1399,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fish"
 	citizen=
@@ -1427,9 +1427,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1446,9 +1446,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1465,9 +1465,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	slaves=
@@ -1484,9 +1484,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -1503,9 +1503,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="city"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	citizen=
@@ -1532,9 +1532,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1551,9 +1551,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="salt"
 	slaves=
@@ -1570,9 +1570,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1589,9 +1589,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -1608,9 +1608,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	slaves=
@@ -1627,9 +1627,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	slaves=
@@ -1646,9 +1646,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1665,9 +1665,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1684,9 +1684,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kurmal"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	slaves=
@@ -1703,9 +1703,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1722,9 +1722,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	slaves=

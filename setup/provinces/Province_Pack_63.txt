@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -19,12 +19,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Taryana
@@ -32,9 +32,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="leather"
 	citizen=
@@ -48,12 +48,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Sousa
@@ -61,9 +61,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="city_metropolis"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="honey"
 	nobles=
@@ -81,14 +81,14 @@
 	slaves=
 	{
 		amount=5
-		culture="agade"
-		religion="anunnaki_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=4
-		culture="kassite"
-		religion="anunnaki_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -105,9 +105,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="awanic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	nobles=
@@ -129,8 +129,8 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
-		religion="anunnaki_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -143,9 +143,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="awanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	freemen=
@@ -155,12 +155,12 @@
 	slaves=
 	{
 		amount=2
-		culture="ellipian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Bendosaboron
@@ -168,9 +168,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -191,9 +191,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	freemen=
@@ -214,9 +214,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	freemen=
@@ -237,9 +237,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	freemen=
@@ -260,9 +260,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	freemen=
@@ -283,9 +283,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	nobles=
@@ -303,14 +303,14 @@
 	slaves=
 	{
 		amount=2
-		culture="agade"
-		religion="anunnaki_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=2
-		culture="kassite"
-		religion="anunnaki_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -327,9 +327,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="vegetables"
 	citizen=
@@ -343,12 +343,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Arakka
@@ -356,9 +356,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="dates"
 	citizen=
@@ -372,12 +372,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Kissia
@@ -385,9 +385,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="cattle"
 	citizen=
@@ -401,12 +401,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Dorista
@@ -414,9 +414,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="awanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	citizen=
@@ -430,12 +430,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Sykta
@@ -443,9 +443,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	slaves=
@@ -462,9 +462,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -481,10 +481,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	holy_site="omen_adur_farnbag"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	slaves=
@@ -501,9 +501,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	slaves=
@@ -520,9 +520,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -539,9 +539,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	freemen=
@@ -558,9 +558,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	tribesmen=
@@ -577,9 +577,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	slaves=
@@ -596,9 +596,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wine"
 	slaves=
@@ -615,9 +615,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="iron"
 	slaves=
@@ -634,9 +634,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	slaves=
@@ -653,9 +653,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="base_metals"
 	slaves=
@@ -672,9 +672,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="gems"
 	slaves=
@@ -691,9 +691,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="spices"
 	slaves=
@@ -710,9 +710,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	slaves=
@@ -729,9 +729,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	slaves=
@@ -748,9 +748,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="glass"
 	slaves=
@@ -767,9 +767,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -786,9 +786,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wine"
 	slaves=
@@ -805,9 +805,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	slaves=
@@ -824,9 +824,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wine"
 	slaves=
@@ -843,9 +843,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	slaves=
@@ -862,9 +862,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="spices"
 	slaves=
@@ -881,9 +881,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	slaves=
@@ -900,9 +900,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="partic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	slaves=
@@ -919,9 +919,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -938,9 +938,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="iron"
 	slaves=
@@ -957,9 +957,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	slaves=
@@ -976,9 +976,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -995,9 +995,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="susanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="salt"
 	citizen=
@@ -1011,12 +1011,12 @@
 	slaves=
 	{
 		amount=4
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Arragan
@@ -1024,9 +1024,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	freemen=
@@ -1047,9 +1047,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="glass"
 	freemen=
@@ -1059,8 +1059,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1072,9 +1072,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	freemen=
@@ -1084,8 +1084,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1097,9 +1097,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	freemen=
@@ -1120,9 +1120,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -1143,9 +1143,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="camel"
 	freemen=
@@ -1155,8 +1155,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1168,10 +1168,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="salt"
 	citizen=
@@ -1189,14 +1189,14 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	fortress_building=1
 }
@@ -1205,9 +1205,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	tribesmen=
@@ -1220,9 +1220,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	slaves=
@@ -1239,9 +1239,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -1258,9 +1258,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="dates"
 	slaves=
@@ -1277,9 +1277,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	slaves=
@@ -1296,9 +1296,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	slaves=
@@ -1315,9 +1315,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	freemen=
@@ -1327,8 +1327,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1340,9 +1340,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -1352,8 +1352,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1365,9 +1365,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wine"
 	freemen=
@@ -1377,14 +1377,14 @@
 	slaves=
 	{
 		amount=2
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=4
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Korra
@@ -1392,9 +1392,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -1411,9 +1411,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="wine"
 	slaves=
@@ -1430,9 +1430,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="cattle"
 	freemen=
@@ -1446,8 +1446,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kaupirrish
@@ -1455,9 +1455,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="glass"
 	freemen=
@@ -1471,8 +1471,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Persides
@@ -1480,9 +1480,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="grain"
 	nobles=
@@ -1504,14 +1504,14 @@
 	slaves=
 	{
 		amount=2
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	holy_site="omen_napirisha"
 	fortress_building=1
@@ -1521,10 +1521,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	holy_site="omen_manahita"
 	province_rank="city"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="glass"
 	citizen=
@@ -1549,9 +1549,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="anshanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wine"
 	freemen=
@@ -1561,8 +1561,8 @@
 	slaves=
 	{
 		amount=3
-		culture="persic"
-		religion="protoiranian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1574,9 +1574,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="utic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	slaves=
@@ -1593,9 +1593,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	slaves=
@@ -1612,9 +1612,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	slaves=
@@ -1631,9 +1631,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	slaves=
@@ -1650,9 +1650,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="awanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="elamite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	freemen=
@@ -1662,12 +1662,12 @@
 	slaves=
 	{
 		amount=2
-		culture="agade"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="chaldean"
+		culture="wvenedi"
 	}
 }
 #Axiana
@@ -1675,9 +1675,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1694,9 +1694,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="stone"
 	slaves=
@@ -1713,9 +1713,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="grain"
 	slaves=
@@ -1732,9 +1732,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="persic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=

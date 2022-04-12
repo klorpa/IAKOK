@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	nobles=
@@ -27,7 +27,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 	fortress_building=1
 }
@@ -36,9 +36,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	nobles=
@@ -60,7 +60,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Koussai
@@ -68,9 +68,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="gems"
 	citizen=
@@ -88,7 +88,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Lykopolis
@@ -96,10 +96,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	holy_site="omen_manubis"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	nobles=
@@ -121,7 +121,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Pokis
@@ -129,9 +129,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -149,7 +149,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Hypselis
@@ -157,9 +157,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -177,7 +177,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Antaiopolis
@@ -185,9 +185,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	citizen=
@@ -205,7 +205,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Panopolis
@@ -213,9 +213,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	nobles=
@@ -237,7 +237,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Tripheion
@@ -245,9 +245,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -265,7 +265,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Ptolemais Hermeiou
@@ -273,9 +273,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	citizen=
@@ -293,7 +293,7 @@
 	slaves=
 	{
 		amount=1
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #This
@@ -301,10 +301,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	holy_site="omen_manhur"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	nobles=
@@ -326,7 +326,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Abydos Aigyptou
@@ -334,10 +334,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	holy_site="omen_mosiris"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	nobles=
@@ -359,7 +359,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Diospolis
@@ -367,9 +367,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	citizen=
@@ -387,7 +387,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Tentyris
@@ -395,10 +395,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	holy_site="omen_mhathor"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	nobles=
@@ -420,7 +420,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Kaine
@@ -428,9 +428,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -448,7 +448,7 @@
 	slaves=
 	{
 		amount=1
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Ghuzza
@@ -456,9 +456,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	freemen=
@@ -468,7 +468,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -480,9 +480,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	nobles=
@@ -504,7 +504,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Apollinopolis Mikra
@@ -512,9 +512,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -532,7 +532,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Kerameia
@@ -540,9 +540,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	citizen=
@@ -560,7 +560,7 @@
 	slaves=
 	{
 		amount=1
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Egyptian Thebes
@@ -568,10 +568,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	holy_site="omen_mamun"
 	province_rank="city_metropolis"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	nobles=
@@ -593,8 +593,8 @@
 	tribesmen=
 	{
 		amount=6
-		culture="ma"
-		religion="kemetic_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	library_building=1
 	commerce_building=1
@@ -605,9 +605,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -625,7 +625,7 @@
 	slaves=
 	{
 		amount=1
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Terkythis
@@ -633,9 +633,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	citizen=
@@ -653,7 +653,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Hermonthis
@@ -661,9 +661,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -681,7 +681,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Pathyris
@@ -689,9 +689,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	nobles=
@@ -713,7 +713,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Lato Polis
@@ -721,9 +721,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	citizen=
@@ -741,7 +741,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Eileithyiopolis
@@ -749,9 +749,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	nobles=
@@ -773,7 +773,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="ma"
+		culture="wvenedi"
 	}
 }
 #Dunqash
@@ -781,9 +781,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="marble"
 	slaves=
@@ -800,9 +800,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	citizen=
@@ -820,7 +820,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 }
 #Myos Hormos
@@ -828,9 +828,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="marble"
 	nobles=
@@ -848,7 +848,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="medjay"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -861,9 +861,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	freemen=
@@ -877,7 +877,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 }
 #Siqdit
@@ -885,9 +885,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	freemen=
@@ -901,7 +901,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 }
 #Berenike
@@ -909,9 +909,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	slaves=
@@ -928,9 +928,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -947,9 +947,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	freemen=
@@ -966,9 +966,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="dates"
 	slaves=
@@ -985,9 +985,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	slaves=
@@ -1004,9 +1004,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	slaves=
@@ -1023,9 +1023,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="tin"
 	slaves=
@@ -1042,9 +1042,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="medjay"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="gems"
 	slaves=
@@ -1061,9 +1061,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	freemen=
@@ -1073,7 +1073,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1085,9 +1085,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -1105,7 +1105,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 }
 #Drepanon
@@ -1113,9 +1113,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	freemen=
@@ -1129,7 +1129,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 }
 #Erebe
@@ -1137,9 +1137,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1156,9 +1156,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	tribesmen=
@@ -1171,9 +1171,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="dates"
 	tribesmen=
@@ -1186,9 +1186,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1201,9 +1201,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="desert_kemetic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kemetic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -1217,12 +1217,12 @@
 	tribesmen=
 	{
 		amount=2
-		culture="medjay"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="libi"
+		culture="wvenedi"
 	}
 	holy_site="omen_mset"
 }
@@ -1231,9 +1231,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="dates"
 	slaves=
@@ -1250,9 +1250,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="earthware"
 	slaves=
@@ -1269,9 +1269,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	slaves=
@@ -1288,9 +1288,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	slaves=
@@ -1307,9 +1307,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	slaves=
@@ -1326,9 +1326,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	slaves=
@@ -1345,9 +1345,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="dates"
 	slaves=
@@ -1364,9 +1364,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	slaves=
@@ -1383,9 +1383,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -1402,9 +1402,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	slaves=
@@ -1418,8 +1418,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="medjay"
-		religion="kemetic_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Skyaminia
@@ -1427,9 +1427,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wood"
 	tribesmen=
@@ -1442,9 +1442,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1457,9 +1457,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="stone"
 	tribesmen=
@@ -1472,9 +1472,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="dates"
 	slaves=
@@ -1491,9 +1491,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -1506,9 +1506,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	tribesmen=
@@ -1525,9 +1525,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="papyrus"
 	tribesmen=
@@ -1544,9 +1544,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="dates"
 	slaves=
@@ -1563,9 +1563,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	freemen=
@@ -1579,8 +1579,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="medjay"
-		religion="kemetic_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Bishaya
@@ -1588,9 +1588,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -1607,9 +1607,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -1626,9 +1626,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="stone"
 	slaves=
@@ -1645,9 +1645,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -1660,9 +1660,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1675,9 +1675,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1690,9 +1690,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	tribesmen=
@@ -1705,9 +1705,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="libyan_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	slaves=

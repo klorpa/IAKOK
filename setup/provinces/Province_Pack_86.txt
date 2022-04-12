@@ -3,7 +3,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -18,7 +18,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -33,7 +33,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -48,7 +48,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="hills"
@@ -71,7 +71,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -86,7 +86,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -110,7 +110,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="hills"
@@ -125,7 +125,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -148,7 +148,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -163,7 +163,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -178,7 +178,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="hills"
@@ -201,10 +201,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	tribesmen=
@@ -217,9 +217,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	tribesmen=
@@ -233,10 +233,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -249,9 +249,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="amber"
 	slaves=
@@ -268,9 +268,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -287,7 +287,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -302,9 +302,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	tribesmen=
@@ -317,9 +317,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	tribesmen=
@@ -332,7 +332,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -347,7 +347,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -362,9 +362,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="west_barb"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="chaosgods_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	tribesmen=
@@ -377,7 +377,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -392,7 +392,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -411,7 +411,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -426,7 +426,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -445,7 +445,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -464,7 +464,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -479,7 +479,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -494,7 +494,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -509,7 +509,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -532,7 +532,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -551,7 +551,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -566,7 +566,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -581,7 +581,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -596,7 +596,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -611,7 +611,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -626,7 +626,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -645,7 +645,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -665,7 +665,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -684,7 +684,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -703,7 +703,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -722,7 +722,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -737,10 +737,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	holy_site="omen_mperkunas"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="amber"
 	tribesmen=
@@ -757,7 +757,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -772,7 +772,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -791,7 +791,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -814,7 +814,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -829,7 +829,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -852,7 +852,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -871,7 +871,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -890,7 +890,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sevenedi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -905,7 +905,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -924,7 +924,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -943,7 +943,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -962,7 +962,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -977,7 +977,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -992,7 +992,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1011,7 +1011,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1026,7 +1026,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1041,7 +1041,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1056,7 +1056,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1075,7 +1075,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1090,7 +1090,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1109,7 +1109,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1132,7 +1132,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1147,7 +1147,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1166,7 +1166,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1185,7 +1185,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1204,7 +1204,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1219,7 +1219,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1234,7 +1234,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1249,7 +1249,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1268,7 +1268,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1283,7 +1283,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1298,7 +1298,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1313,7 +1313,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1328,7 +1328,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="forest"
@@ -1343,9 +1343,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1358,9 +1358,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -1373,9 +1373,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1388,9 +1388,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1404,9 +1404,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1419,9 +1419,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 }
@@ -1430,9 +1430,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1445,9 +1445,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1460,9 +1460,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	tribesmen=
@@ -1475,9 +1475,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	tribesmen=
@@ -1490,9 +1490,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	tribesmen=
@@ -1505,9 +1505,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1520,9 +1520,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 }
@@ -1531,9 +1531,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	tribesmen=
@@ -1546,9 +1546,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="amber"
 	slaves=
@@ -1565,9 +1565,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -1584,7 +1584,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1603,7 +1603,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1623,9 +1623,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="balti"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="baltic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -1638,7 +1638,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"
@@ -1653,7 +1653,7 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vendi"
+	culture="wvenedi"
 	province_rank="settlement"
 	religion="slavic_pantheon"
 	terrain="plains"

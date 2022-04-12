@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="stone"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fish"
 	nobles=
@@ -73,9 +73,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -96,9 +96,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -116,9 +116,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -139,9 +139,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -158,9 +158,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="honey"
 	slaves=
@@ -177,9 +177,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	slaves=
@@ -196,9 +196,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -215,9 +215,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -234,9 +234,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -253,9 +253,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -272,9 +272,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="honey"
 	slaves=
@@ -291,9 +291,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -310,9 +310,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -329,9 +329,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	tribesmen=
@@ -348,9 +348,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	slaves=
@@ -367,9 +367,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	slaves=
@@ -386,9 +386,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -405,9 +405,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -424,9 +424,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -443,9 +443,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mittanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -462,9 +462,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -481,9 +481,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mittanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -500,9 +500,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mittanic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	nobles=
@@ -532,9 +532,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lullubian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kassite_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -555,9 +555,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lullubian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="kassite_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -582,9 +582,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mittanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fish"
 	tribesmen=
@@ -601,9 +601,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	tribesmen=
@@ -620,9 +620,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	tribesmen=
@@ -639,9 +639,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -654,9 +654,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	tribesmen=
@@ -673,9 +673,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	tribesmen=
@@ -688,9 +688,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	tribesmen=
@@ -707,9 +707,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	tribesmen=
@@ -722,9 +722,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	tribesmen=
@@ -741,9 +741,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -760,9 +760,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wood"
 	slaves=
@@ -779,9 +779,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -798,9 +798,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -817,9 +817,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="manneanic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	tribesmen=
@@ -836,9 +836,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -855,9 +855,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -874,9 +874,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -893,9 +893,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -912,9 +912,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -931,9 +931,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -950,9 +950,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -969,9 +969,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -988,9 +988,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	slaves=
@@ -1007,9 +1007,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	slaves=
@@ -1026,9 +1026,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1045,9 +1045,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1064,9 +1064,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	tribesmen=
@@ -1083,9 +1083,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -1102,9 +1102,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1121,9 +1121,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1140,9 +1140,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -1159,9 +1159,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	citizen=
@@ -1187,9 +1187,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1206,9 +1206,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1225,9 +1225,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	slaves=
@@ -1244,9 +1244,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	slaves=
@@ -1263,9 +1263,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	slaves=
@@ -1282,9 +1282,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1301,9 +1301,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1320,9 +1320,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	tribesmen=
@@ -1339,9 +1339,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1358,9 +1358,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1377,9 +1377,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="honey"
 	slaves=
@@ -1396,9 +1396,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1415,9 +1415,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1434,9 +1434,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="honey"
 	tribesmen=
@@ -1453,9 +1453,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1472,9 +1472,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="honey"
 	slaves=
@@ -1491,9 +1491,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1510,9 +1510,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -1529,9 +1529,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="iron"
 	slaves=
@@ -1548,9 +1548,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -1567,10 +1567,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	holy_site="omen_mtsovinar"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -1587,9 +1587,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -1606,9 +1606,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -1625,9 +1625,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -1644,9 +1644,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -1663,9 +1663,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	slaves=
@@ -1682,9 +1682,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -1701,9 +1701,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1720,9 +1720,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bianilic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hurrian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -1739,9 +1739,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -1758,9 +1758,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1777,9 +1777,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -1796,9 +1796,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	slaves=
@@ -1815,9 +1815,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -1834,9 +1834,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ciberic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="caucasic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -1853,9 +1853,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ciberic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="caucasic_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="leather"
 	slaves=
@@ -1872,9 +1872,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ciberic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="caucasic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	tribesmen=
@@ -1887,10 +1887,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	holy_site="omen_areg"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1907,9 +1907,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mossynoetian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="caucasic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -1926,9 +1926,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1945,9 +1945,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1964,10 +1964,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="azzian"
+	culture="wvenedi"
 	holy_site="omen_nvard"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -1984,9 +1984,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="urumian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="armenic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=

@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="olive"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="olive"
 	slaves=
@@ -79,9 +79,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	slaves=
@@ -98,10 +98,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -118,9 +118,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -137,9 +137,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="marble"
 	slaves=
@@ -156,9 +156,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -175,9 +175,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -194,9 +194,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="base_metals"
 	slaves=
@@ -213,9 +213,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -232,9 +232,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -251,9 +251,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	slaves=
@@ -270,9 +270,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -289,9 +289,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -308,9 +308,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -327,9 +327,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -346,9 +346,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	slaves=
@@ -365,9 +365,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="marble"
 	slaves=
@@ -384,9 +384,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -403,9 +403,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -422,9 +422,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -441,9 +441,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="base_metals"
 	slaves=
@@ -460,9 +460,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="iron"
 	slaves=
@@ -479,9 +479,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -498,9 +498,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	slaves=
@@ -517,9 +517,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -536,9 +536,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -555,9 +555,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -574,9 +574,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -593,9 +593,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -612,9 +612,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -631,9 +631,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -650,9 +650,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	slaves=
@@ -669,9 +669,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	slaves=
@@ -688,9 +688,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -707,10 +707,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="salt"
 	slaves=
@@ -727,9 +727,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -746,9 +746,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -765,9 +765,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	slaves=
@@ -784,9 +784,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -803,9 +803,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	slaves=
@@ -822,10 +822,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	slaves=
@@ -842,9 +842,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cattle"
 	slaves=
@@ -861,10 +861,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	holy_site="omen_mglanis"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	slaves=
@@ -881,9 +881,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cattle"
 	slaves=
@@ -900,9 +900,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	slaves=
@@ -919,9 +919,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -938,10 +938,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -958,9 +958,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fur"
 	slaves=
@@ -977,9 +977,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	slaves=
@@ -996,9 +996,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="wceltic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="iron"
 	slaves=
@@ -1015,9 +1015,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1034,10 +1034,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -1054,9 +1054,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1073,9 +1073,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1092,9 +1092,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	slaves=
@@ -1111,9 +1111,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	slaves=
@@ -1130,9 +1130,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fur"
 	tribesmen=
@@ -1149,9 +1149,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	slaves=
@@ -1168,9 +1168,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -1187,9 +1187,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -1206,9 +1206,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -1225,9 +1225,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="hemp"
 	slaves=
@@ -1244,9 +1244,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1263,9 +1263,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	slaves=
@@ -1282,9 +1282,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="alpinic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="marble"
 	slaves=
@@ -1301,9 +1301,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="alpinic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="precious_metals"
 	slaves=
@@ -1320,9 +1320,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	slaves=
@@ -1339,9 +1339,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="alpinic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="celtic_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="iron"
 	tribesmen=
@@ -1358,9 +1358,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="marble"
 	slaves=
@@ -1378,9 +1378,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1397,9 +1397,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	slaves=
@@ -1416,9 +1416,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	tribesmen=
@@ -1435,10 +1435,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="galo_liguric"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="liguric_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=

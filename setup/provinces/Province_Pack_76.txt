@@ -3,10 +3,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kuruntic"
+	culture="wvenedi"
 	holy_site="omen_mvishnu"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="dye"
 	nobles=
@@ -35,9 +35,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	nobles=
@@ -66,9 +66,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	freemen=
@@ -89,9 +89,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	slaves=
@@ -108,9 +108,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	nobles=
@@ -139,9 +139,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	tribesmen=
@@ -162,9 +162,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	freemen=
@@ -185,9 +185,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="elephants_indian"
 	freemen=
@@ -208,10 +208,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	holy_site="omen_mshiva"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	nobles=
@@ -240,9 +240,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	nobles=
@@ -272,9 +272,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -299,9 +299,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -322,9 +322,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -341,9 +341,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -360,9 +360,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="stone"
 	freemen=
@@ -383,9 +383,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="glass"
 	tribesmen=
@@ -398,10 +398,10 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	holy_site="omen_mbrahma"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="salt"
 	slaves=
@@ -418,9 +418,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -441,9 +441,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	slaves=
@@ -460,9 +460,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -479,9 +479,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -498,9 +498,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	slaves=
@@ -517,9 +517,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	tribesmen=
@@ -536,9 +536,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	freemen=
@@ -559,9 +559,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	nobles=
@@ -590,9 +590,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -613,9 +613,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	slaves=
@@ -632,9 +632,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="earthware"
 	freemen=
@@ -655,9 +655,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	freemen=
@@ -678,9 +678,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	slaves=
@@ -697,9 +697,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	freemen=
@@ -720,9 +720,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	nobles=
@@ -751,9 +751,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kuruntic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	tribesmen=
@@ -774,9 +774,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	freemen=
@@ -797,9 +797,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="glass"
 	slaves=
@@ -816,9 +816,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="earthware"
 	freemen=
@@ -835,9 +835,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -858,9 +858,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	citizen=
@@ -885,9 +885,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	tribesmen=
@@ -900,9 +900,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	tribesmen=
@@ -915,9 +915,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="dye"
 	freemen=
@@ -938,9 +938,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	freemen=
@@ -961,9 +961,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="base_metals"
 	freemen=
@@ -984,9 +984,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	slaves=
@@ -1003,9 +1003,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="incense"
 	slaves=
@@ -1022,9 +1022,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1041,9 +1041,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	slaves=
@@ -1060,9 +1060,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -1083,9 +1083,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	slaves=
@@ -1102,9 +1102,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -1125,9 +1125,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	freemen=
@@ -1148,9 +1148,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	freemen=
@@ -1171,9 +1171,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -1194,9 +1194,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -1217,9 +1217,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	slaves=
@@ -1236,9 +1236,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	slaves=
@@ -1255,9 +1255,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	slaves=
@@ -1274,9 +1274,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="incense"
 	freemen=
@@ -1297,9 +1297,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	freemen=
@@ -1320,9 +1320,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="elephants_indian"
 	citizen=
@@ -1347,9 +1347,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -1370,9 +1370,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="glass"
 	slaves=
@@ -1389,9 +1389,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1408,9 +1408,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants_indian"
 	slaves=
@@ -1427,9 +1427,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -1446,9 +1446,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="vegetables"
 	freemen=
@@ -1469,9 +1469,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1488,9 +1488,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	freemen=
@@ -1511,9 +1511,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kuruntic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	freemen=
@@ -1534,9 +1534,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1553,9 +1553,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1572,9 +1572,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kuruntic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="elephants_indian"
 	freemen=
@@ -1595,9 +1595,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	freemen=
@@ -1618,9 +1618,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	freemen=
@@ -1641,9 +1641,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -1664,9 +1664,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	tribesmen=
@@ -1679,9 +1679,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	tribesmen=
@@ -1694,9 +1694,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	tribesmen=
@@ -1709,9 +1709,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avantic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1724,9 +1724,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gonkui"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="harrapan_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	slaves=
@@ -1743,9 +1743,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants_indian"
 	freemen=
@@ -1766,9 +1766,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nisadic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="stone"
 	slaves=
@@ -1785,9 +1785,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -1804,9 +1804,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1823,9 +1823,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants_indian"
 	freemen=
@@ -1846,9 +1846,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	slaves=
@@ -1865,9 +1865,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -1884,9 +1884,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="svedic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	slaves=
@@ -1903,9 +1903,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nisadic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="spices"
 	slaves=
@@ -1922,9 +1922,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ahiric"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="vedic_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=

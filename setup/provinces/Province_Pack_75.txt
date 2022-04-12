@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="chorasmic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	slaves=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="chorasmic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	slaves=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	tribesmen=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -83,9 +83,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	tribesmen=
@@ -106,9 +106,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	slaves=
@@ -125,9 +125,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -148,9 +148,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -167,9 +167,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -190,9 +190,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -209,9 +209,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	tribesmen=
@@ -232,9 +232,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	tribesmen=
@@ -251,9 +251,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -274,9 +274,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -301,9 +301,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -320,9 +320,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	tribesmen=
@@ -343,9 +343,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	tribesmen=
@@ -362,9 +362,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	tribesmen=
@@ -381,9 +381,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -404,9 +404,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -427,9 +427,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -450,9 +450,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	tribesmen=
@@ -469,9 +469,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -488,9 +488,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -511,9 +511,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -530,9 +530,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -553,9 +553,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cloth"
 	tribesmen=
@@ -576,9 +576,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -595,9 +595,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	tribesmen=
@@ -614,9 +614,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -633,9 +633,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -652,9 +652,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	tribesmen=
@@ -675,9 +675,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -694,9 +694,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -713,9 +713,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -732,9 +732,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -751,9 +751,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	tribesmen=
@@ -774,9 +774,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -793,9 +793,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	slaves=
@@ -812,9 +812,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -831,9 +831,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -850,9 +850,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -869,9 +869,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -888,9 +888,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -907,9 +907,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -930,9 +930,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -953,9 +953,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	tribesmen=
@@ -972,9 +972,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -991,9 +991,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1010,9 +1010,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1029,9 +1029,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1052,9 +1052,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="salt"
 	tribesmen=
@@ -1067,9 +1067,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	tribesmen=
@@ -1082,9 +1082,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	tribesmen=
@@ -1105,9 +1105,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -1132,9 +1132,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -1147,9 +1147,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	tribesmen=
@@ -1162,9 +1162,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1181,9 +1181,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1200,9 +1200,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1215,9 +1215,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -1230,9 +1230,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -1245,9 +1245,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -1260,9 +1260,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -1275,9 +1275,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1290,9 +1290,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	tribesmen=
@@ -1305,9 +1305,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1324,9 +1324,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="wood"
 	tribesmen=
@@ -1343,9 +1343,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	tribesmen=
@@ -1358,9 +1358,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -1373,9 +1373,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1388,9 +1388,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -1403,9 +1403,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1418,9 +1418,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	tribesmen=
@@ -1441,9 +1441,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="horses"
 	tribesmen=
@@ -1456,9 +1456,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1471,9 +1471,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1490,9 +1490,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	slaves=
@@ -1509,9 +1509,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="woad"
 	tribesmen=
@@ -1524,9 +1524,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	slaves=
@@ -1543,9 +1543,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1558,9 +1558,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	tribesmen=
@@ -1573,9 +1573,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	slaves=
@@ -1592,9 +1592,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -1607,9 +1607,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -1626,9 +1626,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="horses"
 	tribesmen=
@@ -1641,9 +1641,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="grain"
 	tribesmen=
@@ -1656,9 +1656,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -1671,9 +1671,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	slaves=
@@ -1690,9 +1690,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	tribesmen=
@@ -1709,9 +1709,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1728,9 +1728,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -1743,9 +1743,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -1758,9 +1758,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	tribesmen=
@@ -1773,9 +1773,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	tribesmen=
@@ -1792,9 +1792,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -1815,9 +1815,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	tribesmen=
@@ -1838,9 +1838,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1857,9 +1857,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="chorasmic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -1876,9 +1876,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="chorasmic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="protoiranian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	slaves=
@@ -1895,9 +1895,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	slaves=
@@ -1914,9 +1914,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	slaves=
@@ -1933,9 +1933,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="city"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -1961,9 +1961,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	tribesmen=
@@ -1988,9 +1988,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dahic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -2007,9 +2007,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -2022,9 +2022,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	tribesmen=
@@ -2037,9 +2037,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	tribesmen=
@@ -2052,9 +2052,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fish"
 	tribesmen=
@@ -2067,9 +2067,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -2082,9 +2082,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -2097,9 +2097,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tagiskic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	tribesmen=
@@ -2112,9 +2112,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -2127,9 +2127,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amirabic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	tribesmen=
@@ -2142,9 +2142,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythoi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="scythic_pantheon"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	tribesmen=
