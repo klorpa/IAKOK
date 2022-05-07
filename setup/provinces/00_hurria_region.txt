@@ -1,8 +1,8 @@
 ﻿3551={ #Nagû
 	terrain="hills"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 3591={ #Kafra
 	terrain="hills"
-	culture="sam_alla"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -32,9 +32,9 @@
 
 3610={ #Herbel
 	terrain="desert_valley"
-	culture="ahrasi"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45,9 +45,9 @@
 
 3611={ #Ahras
 	terrain="desert_valley"
-	culture="ahrasi"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,9 +58,9 @@
 
 4329={ #Sa-fe-ni
 	terrain="mountain"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -71,9 +71,9 @@
 
 4330={ #Revivim
 	terrain="deep_forest"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -87,8 +87,8 @@
 
 4331={ #Segev
 	terrain="forest"
-	culture="marqasa"
-	religion="hurrian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -103,9 +103,9 @@
 
 4332={ #Marqasa
 	terrain="farmland"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -122,9 +122,9 @@
 
 4333={ #Te-u-ni
 	terrain="farmland"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -138,9 +138,9 @@
 
 4334={ #Sua-mani
 	terrain="hills"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -157,9 +157,9 @@
 
 4335={ #Inu-ab-i
 	terrain="forest"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,9 +173,9 @@
 
 4336={ #An-ni
 	terrain="hills"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -189,8 +189,8 @@
 
 4337={ #Niga-taye
 	terrain="forest"
-	culture="marqasa"
-	religion="hurrian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
@@ -205,9 +205,9 @@
 
 4338={ #Keri-mi
 	terrain="plains"
-	culture="marqasa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -224,9 +224,9 @@
 
 4339={ #Eradi-tae
 	terrain="plains"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -243,9 +243,9 @@
 
 4340={ #Apsi-ra
 	terrain="forest"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -259,9 +259,9 @@
 
 4341={ #Ase-siyi
 	terrain="plains"
-	culture="sam_alla"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -272,9 +272,9 @@
 
 4342={ #Sam'alla
 	terrain="farmland"
-	culture="sam_alla"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -291,9 +291,9 @@
 
 4343={ #Irde-nui
 	terrain="forest"
-	culture="sam_alla"
-	religion="hurrian_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -310,8 +310,8 @@
 
 4344={ #Shu-kudu
 	terrain="forest"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -326,9 +326,9 @@
 
 4345={ #Bulbulhum
 	terrain="farmland"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -345,9 +345,9 @@
 
 4346={ #Ul-xas
 	terrain="hills"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -364,9 +364,9 @@
 
 4347={ #Pal-migi
 	terrain="forest"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -380,8 +380,8 @@
 
 4348={ #Isena-siye
 	terrain="forest"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -396,9 +396,9 @@
 
 4349={ #Tari-xari
 	terrain="hills"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -412,9 +412,9 @@
 
 4350={ #Pab-suye
 	terrain="hills"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -428,9 +428,9 @@
 
 4351={ #Punyi-ti
 	terrain="hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,9 +444,9 @@
 
 4352={ #Tisa-ur-mi
 	terrain="hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -460,9 +460,9 @@
 
 4353={ #Nuyi-payi
 	terrain="hills"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,9 +476,9 @@
 
 4354={ #Ur-puxxi
 	terrain="plains"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,8 +495,8 @@
 
 4355={ #Tae-nariya
 	terrain="forest"
-	culture="urshui"
-	religion="hurrian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -511,9 +511,9 @@
 
 4356={ #Urshu
 	terrain="farmland"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -533,9 +533,9 @@
 
 4357={ #Erbi-tti
 	terrain="plains"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -552,9 +552,9 @@
 
 4358={ #Urumu
 	terrain="hills"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,9 +571,9 @@
 
 4359={ #Sa-alla
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,9 +587,9 @@
 
 4360={ #Tûba
 	terrain="plains"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -609,9 +609,9 @@
 
 4361={ #Mani-alla
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -625,9 +625,9 @@
 
 4362={ #Karkamisa
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -645,9 +645,9 @@
 
 4363={ #Undu-tti
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -661,9 +661,9 @@
 
 4364={ #Te-u-kki
 	terrain="plains"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -680,9 +680,9 @@
 
 4365={ #Sini-tal-mi
 	terrain="plains"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -699,9 +699,9 @@
 
 4366={ #Tal-a-tti
 	terrain="plains"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -715,9 +715,9 @@
 
 4367={ #Te-u-tali
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -731,9 +731,9 @@
 
 4368={ #Ase-payi
 	terrain="plains"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -747,9 +747,9 @@
 
 4369={ #Uri-nui
 	terrain="plains"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -763,9 +763,9 @@
 
 4370={ #Si-a-tti
 	terrain="hills"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,9 +782,9 @@
 
 4371={ #Hassuwa
 	terrain="hills"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=45
 	barbarian_power=0
 	province_rank="city"
@@ -804,9 +804,9 @@
 
 4373={ #Siya-nui
 	terrain="desert_hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -820,9 +820,9 @@
 
 4374={ #Fur-a-tti
 	terrain="hills"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -836,9 +836,9 @@
 
 4375={ #Naxx-ar
 	terrain="hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -852,9 +852,9 @@
 
 4376={ #Xill-nui
 	terrain="hills"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -868,9 +868,9 @@
 
 4377={ #Pab-ni-yi
 	terrain="plains"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -884,9 +884,9 @@
 
 4378={ #Ursu
 	terrain="farmland"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -903,9 +903,9 @@
 
 4379={ #Ese-siwe
 	terrain="hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -919,9 +919,9 @@
 
 4419={ #Xas-ar
 	terrain="desert_hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -935,9 +935,9 @@
 
 4420={ #Aw-tiye
 	terrain="desert_hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,9 +951,9 @@
 
 4421={ #Xill-kudu
 	terrain="desert_hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -967,9 +967,9 @@
 
 4422={ #Asta-et-i
 	terrain="desert_hills"
-	culture="ursui"
-	religion="hurrian_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -983,9 +983,9 @@
 
 4423={ #Pab-ni-ri
 	terrain="desert_valley"
-	culture="ahrasi"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -996,9 +996,9 @@
 
 4424={ #Undu-xili
 	terrain="desert_valley"
-	culture="ahrasi"
-	religion="hurrian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -1009,9 +1009,9 @@
 
 4425={ #Kus-usi
 	terrain="desert_valley"
-	culture="sam_alla"
-	religion="hurrian_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1022,9 +1022,9 @@
 
 4426={ #Shu-time
 	terrain="hills"
-	culture="bulbulhumi"
-	religion="hurrian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1038,9 +1038,9 @@
 
 4427={ #Siwe-xili
 	terrain="plains"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1054,9 +1054,9 @@
 
 4428={ #Bandi-tti
 	terrain="plains"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1070,9 +1070,9 @@
 
 4429={ #Sukziya
 	terrain="farmland"
-	culture="urshui"
-	religion="hurrian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -1086,9 +1086,9 @@
 
 4431={ #Sini-siye
 	terrain="plains"
-	culture="hassuwa"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1105,9 +1105,9 @@
 
 4439={ #Mazuwati
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -1118,9 +1118,9 @@
 
 4440={ #Marîna
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -1134,9 +1134,9 @@
 
 4441={ #Pal-itti
 	terrain="farmland"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1150,9 +1150,9 @@
 
 4442={ #Mâ-uffa
 	terrain="hills"
-	culture="karkamisa"
-	religion="hurrian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1169,9 +1169,9 @@
 
 4443={ #Kudu-nui
 	terrain="hills"
-	culture="aligui"
-	religion="hurrian_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -1185,9 +1185,9 @@
 
 4444={ #Siyi-tti
 	terrain="hills"
-	culture="aligui"
-	religion="hurrian_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1201,9 +1201,9 @@
 
 4445={ #Apsi-nui
 	terrain="hills"
-	culture="aligui"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"

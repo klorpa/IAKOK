@@ -1,8 +1,8 @@
 ﻿3109={ #Egkomi
 	terrain="hills"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 3115={ #Divera
 	terrain="plains"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -32,9 +32,9 @@
 
 3117={ #Panagra
 	terrain="hills"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -48,9 +48,9 @@
 
 3118={ #Laphitos
 	terrain="farmland"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -70,8 +70,8 @@
 
 3119={ #Palealona
 	terrain="forest"
-	culture="kyrenia"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -86,9 +86,9 @@
 
 3120={ #Kyrenia
 	terrain="farmland"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -108,9 +108,9 @@
 
 3121={ #Dikomo
 	terrain="hills"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -124,9 +124,9 @@
 
 3123={ #Aghiza
 	terrain="hills"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -140,9 +140,9 @@
 
 3124={ #Tamassos
 	terrain="forest"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,9 +159,9 @@
 
 3125={ #Ediil
 	terrain="farmland"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -175,9 +175,9 @@
 
 3126={ #Yeri
 	terrain="farmland"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -191,9 +191,9 @@
 
 3127={ #Ledra
 	terrain="farmland"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -213,9 +213,9 @@
 
 3128={ #Leucusia
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -229,9 +229,9 @@
 
 3129={ #Kythrea
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -245,9 +245,9 @@
 
 3130={ #Mora
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -261,9 +261,9 @@
 
 3132={ #Pyrga
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -283,9 +283,9 @@
 
 3133={ #Kiados
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,9 +299,9 @@
 
 3134={ #Stylloi
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -315,9 +315,9 @@
 
 3135={ #Alasiya
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="saffron"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -337,9 +337,9 @@
 
 3136={ #Salamis
 	terrain="farmland"
-	culture="liopetri"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,9 +353,9 @@
 
 3137={ #Deryneia
 	terrain="farmland"
-	culture="liopetri"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,9 +366,9 @@
 
 3138={ #Protaras
 	terrain="plains"
-	culture="liopetri"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -382,9 +382,9 @@
 
 3139={ #Liopetri
 	terrain="farmland"
-	culture="liopetri"
-	religion="canaanite_religion"
-	trade_goods="saffron"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -404,9 +404,9 @@
 
 3140={ #Ormidhia
 	terrain="forest"
-	culture="liopetri"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,8 +420,8 @@
 
 3143={ #Pyla
 	terrain="forest"
-	culture="lacarna"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -436,8 +436,8 @@
 
 3144={ #Arsos
 	terrain="forest"
-	culture="lacarna"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -452,9 +452,9 @@
 
 3145={ #Golgoi
 	terrain="farmland"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -474,8 +474,8 @@
 
 3146={ #Mouttes
 	terrain="forest"
-	culture="lacarna"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -490,9 +490,9 @@
 
 3147={ #Mathiatis
 	terrain="hills"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,9 +509,9 @@
 
 3148={ #Larnaca
 	terrain="farmland"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -531,9 +531,9 @@
 
 3149={ #Alethriko
 	terrain="hills"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -547,9 +547,9 @@
 
 3150={ #Softades
 	terrain="farmland"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -563,9 +563,9 @@
 
 3151={ #Alaminos
 	terrain="hills"
-	culture="lacarna"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -579,9 +579,9 @@
 
 3192={ #Vounous
 	terrain="plains"
-	culture="kyrenia"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -595,9 +595,9 @@
 
 3193={ #Kharkeia
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -617,9 +617,9 @@
 
 3194={ #Kalograia
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -633,9 +633,9 @@
 
 3195={ #Artemi
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -649,8 +649,8 @@
 
 3196={ #Trikomo
 	terrain="forest"
-	culture="enkomi"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -665,8 +665,8 @@
 
 3197={ #Akanthou
 	terrain="forest"
-	culture="enkomi"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -681,9 +681,9 @@
 
 3198={ #Davlos
 	terrain="forest"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -697,9 +697,9 @@
 
 3199={ #Alaas
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -716,9 +716,9 @@
 
 3201={ #Ralateia
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -732,9 +732,9 @@
 
 3203={ #Neta
 	terrain="hills"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -748,9 +748,9 @@
 
 3204={ #Rialonsa
 	terrain="farmland"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -770,9 +770,9 @@
 
 3206={ #Rizokarpaso
 	terrain="plains"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -786,9 +786,9 @@
 
 3207={ #Cape Andreas
 	terrain="plains"
-	culture="enkomi"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

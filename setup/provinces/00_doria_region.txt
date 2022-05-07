@@ -1,8 +1,8 @@
 ﻿1571={ #Gorkala
 	terrain="hills"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 1742={ #Aristi
 	terrain="mountain_valley"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -32,9 +32,9 @@
 
 1743={ #Iliorrachi
 	terrain="mountain_valley"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -51,9 +51,9 @@
 
 1746={ #Pixaria
 	terrain="mountain"
-	culture="orestae"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,9 +67,9 @@
 
 1765={ #Gilne
 	terrain="hills"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -83,9 +83,9 @@
 
 1766={ #Vagalat
 	terrain="mountain_valley"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,9 +102,9 @@
 
 1769={ #Maiandria
 	terrain="farmland"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -118,9 +118,9 @@
 
 1770={ #Komuna
 	terrain="mountain_valley"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,9 +134,9 @@
 
 1771={ #Finiko
 	terrain="plains"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -150,9 +150,9 @@
 
 1772={ #Phoinike
 	terrain="farmland"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -166,9 +166,9 @@
 
 1773={ #Vergo
 	terrain="mountain_valley"
-	culture="chaonians"
-	religion="hellenic_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -182,9 +182,9 @@
 
 1774={ #Zelato
 	terrain="hills"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -198,8 +198,8 @@
 
 1775={ #Borso
 	terrain="forest"
-	culture="amantes"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -217,9 +217,9 @@
 
 1776={ #Khimaira
 	terrain="forest"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,9 +236,9 @@
 
 1778={ #Mesaliko
 	terrain="farmland"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -252,8 +252,8 @@
 
 1779={ #Vermiko
 	terrain="deep_forest"
-	culture="amantes"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -268,9 +268,9 @@
 
 1780={ #Amantia
 	terrain="forest"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -284,9 +284,9 @@
 
 1781={ #Kote
 	terrain="farmland"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -300,9 +300,9 @@
 
 1782={ #Mekatso
 	terrain="hills"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -316,9 +316,9 @@
 
 1783={ #Aulon
 	terrain="farmland"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -332,9 +332,9 @@
 
 1784={ #Orikon
 	terrain="farmland"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="tin"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -351,9 +351,9 @@
 
 1785={ #Selenike
 	terrain="hills"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -367,9 +367,9 @@
 
 1786={ #Poremo
 	terrain="farmland"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -383,9 +383,9 @@
 
 1787={ #Bregasi
 	terrain="plains"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -399,9 +399,9 @@
 
 1788={ #Gusaro
 	terrain="mountain_valley"
-	culture="amantes"
-	religion="hellenic_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -415,9 +415,9 @@
 
 1789={ #Pikro
 	terrain="plains"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,9 +431,9 @@
 
 1790={ #Soreno
 	terrain="farmland"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -447,9 +447,9 @@
 
 1791={ #Lusato
 	terrain="farmland"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -463,9 +463,9 @@
 
 1792={ #Sokero
 	terrain="farmland"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -479,9 +479,9 @@
 
 1793={ #Kosine
 	terrain="farmland"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,9 +495,9 @@
 
 1794={ #Piska
 	terrain="hills"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -511,9 +511,9 @@
 
 1985={ #Khrastro
 	terrain="farmland"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -527,9 +527,9 @@
 
 1986={ #Dardha
 	terrain="mountain"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -543,9 +543,9 @@
 
 1989={ #Voskori
 	terrain="hills"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -559,9 +559,9 @@
 
 1990={ #Krekhovi
 	terrain="farmland"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -578,8 +578,8 @@
 
 1991={ #Meniko
 	terrain="forest"
-	culture="dexaroi"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -594,9 +594,9 @@
 
 1992={ #Khreporio
 	terrain="hills"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,9 +613,9 @@
 
 1994={ #Erseki
 	terrain="farmland"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -632,9 +632,9 @@
 
 1996={ #Phrasero
 	terrain="hills"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,9 +648,9 @@
 
 1997={ #Kerano
 	terrain="hills"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -664,8 +664,8 @@
 
 1998={ #Arnova
 	terrain="forest"
-	culture="enchelei"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -680,9 +680,9 @@
 
 2634={ #Kidrama
 	terrain="farmland"
-	culture="dexaroi"
-	religion="hellenic_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -699,9 +699,9 @@
 
 2635={ #Tabai
 	terrain="hills"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -718,9 +718,9 @@
 
 2636={ #Saleia
 	terrain="mountain"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -734,9 +734,9 @@
 
 2638={ #Olbaso
 	terrain="hills"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -750,8 +750,8 @@
 
 2640={ #Arneai
 	terrain="hills"
-	culture="enchelei"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -766,9 +766,9 @@
 
 2641={ #Limyra
 	terrain="hills"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,8 +782,8 @@
 
 2643={ #Pinara
 	terrain="mountain_valley"
-	culture="enchelei"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
@@ -798,9 +798,9 @@
 
 2644={ #Arsada
 	terrain="mountain_valley"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -814,8 +814,8 @@
 
 2646={ #Boubon
 	terrain="forest"
-	culture="enchelei"
-	religion="hellenic_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -830,9 +830,9 @@
 
 2647={ #Gagai
 	terrain="mountain_valley"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -846,9 +846,9 @@
 
 2648={ #Kandos
 	terrain="mountain_valley"
-	culture="enchelei"
-	religion="hellenic_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
@@ -862,9 +862,9 @@
 
 2649={ #Phellos
 	terrain="hills"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -878,9 +878,9 @@
 
 2650={ #Aperlai
 	terrain="hills"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,9 +894,9 @@
 
 2651={ #Tabai
 	terrain="hills"
-	culture="atintanes"
-	religion="hellenic_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
@@ -910,9 +910,9 @@
 
 2652={ #Xystis
 	terrain="mountain"
-	culture="parauaeans"
-	religion="hellenic_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"

@@ -1,8 +1,8 @@
 ﻿4762={ #Hebut
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -19,9 +19,9 @@
 
 4763={ #Nut
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -38,9 +38,9 @@
 
 4764={ #Feqat
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,9 +54,9 @@
 
 4765={ #Psôbthis
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -76,9 +76,9 @@
 
 4792={ #Qenbet
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -92,9 +92,9 @@
 
 4793={ #Par-Mewat
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -108,9 +108,9 @@
 
 4794={ #Whet-rasw
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -127,9 +127,9 @@
 
 4795={ #Seqai
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -143,9 +143,9 @@
 
 4796={ #Nubti
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,9 +159,9 @@
 
 4797={ #Akhsesef
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -178,9 +178,9 @@
 
 4798={ #Nabtu
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,9 +197,9 @@
 
 4799={ #Fekh
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -213,9 +213,9 @@
 
 4800={ #Kenmet
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -235,9 +235,9 @@
 
 4801={ #Maqet
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -251,9 +251,9 @@
 
 4802={ #Aber
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -270,9 +270,9 @@
 
 4803={ #Sekhtu
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -286,9 +286,9 @@
 
 4805={ #Qernet
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,9 +305,9 @@
 
 4806={ #Te-jahew
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -324,9 +324,9 @@
 
 4807={ #Ateptu
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,9 +340,9 @@
 
 4808={ #Ahehi
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -356,9 +356,9 @@
 
 4809={ #Qerqer
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -375,9 +375,9 @@
 
 4810={ #Nubau
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -391,9 +391,9 @@
 
 4811={ #Seshem
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -407,9 +407,9 @@
 
 4812={ #Nutiu
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -423,9 +423,9 @@
 
 4813={ #Maati
 	terrain="oasis"
-	culture="temehu"
-	religion="egyptian_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"

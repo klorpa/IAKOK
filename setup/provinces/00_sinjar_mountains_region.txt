@@ -1,8 +1,8 @@
 ﻿151={ #Muntukû
 	terrain="desert"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -13,9 +13,9 @@
 
 1351={ #Hillutu
 	terrain="desert"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -26,9 +26,9 @@
 
 1375={ #Nardappu
 	terrain="desert"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,9 +39,9 @@
 
 1635={ #Shâqûtu
 	terrain="farmland"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,9 +58,9 @@
 
 2273={ #Tesû
 	terrain="desert"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -71,9 +71,9 @@
 
 2318={ #Qinnutu
 	terrain="desert"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -84,9 +84,9 @@
 
 2572={ #Birim
 	terrain="desert"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,9 +97,9 @@
 
 5190={ #Agammu
 	terrain="plains"
-	culture="tille"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -113,9 +113,9 @@
 
 5222={ #Gizillu
 	terrain="plains"
-	culture="halzi_atbari"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -129,9 +129,9 @@
 
 5237={ #Suhar
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,9 +145,9 @@
 
 5238={ #Tigilu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -161,9 +161,9 @@
 
 5239={ #Upputtu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -177,9 +177,9 @@
 
 5240={ #Wasamu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,9 +193,9 @@
 
 5241={ #Zandiqu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -209,9 +209,9 @@
 
 5246={ #Nisutu
 	terrain="plains"
-	culture="tille"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -225,9 +225,9 @@
 
 5247={ #Murnisqu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -241,9 +241,9 @@
 
 5248={ #Kakkaban
 	terrain="plains"
-	culture="tille"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -257,9 +257,9 @@
 
 5254={ #Dapnis
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -273,9 +273,9 @@
 
 5268={ #Kaskasu
 	terrain="plains"
-	culture="halzi_atbari"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -289,9 +289,9 @@
 
 5269={ #Eqlu
 	terrain="plains"
-	culture="halzi_atbari"
-	religion="hurrian_religion"
-	trade_goods="bitumen"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -305,9 +305,9 @@
 
 5270={ #Maluku
 	terrain="plains"
-	culture="halzi_atbari"
-	religion="hurrian_religion"
-	trade_goods="bitumen"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -321,9 +321,9 @@
 
 5272={ #Naspittu
 	terrain="plains"
-	culture="halzi_atbari"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -337,9 +337,9 @@
 
 5306={ #Lehmu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,9 +353,9 @@
 
 5307={ #Razanma
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -372,9 +372,9 @@
 
 5308={ #Singara
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -388,9 +388,9 @@
 
 5309={ #Kulbabu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -404,9 +404,9 @@
 
 5310={ #Andarig
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -423,9 +423,9 @@
 
 5311={ #Izibtu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -442,9 +442,9 @@
 
 5312={ #Metama
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,9 +458,9 @@
 
 5313={ #Ibru
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -474,9 +474,9 @@
 
 5314={ #Humusa
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -490,9 +490,9 @@
 
 5335={ #Nabutu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -506,9 +506,9 @@
 
 5336={ #Paltigu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,9 +522,9 @@
 
 5337={ #Qeberu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -541,9 +541,9 @@
 
 5338={ #Ragabu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,9 +557,9 @@
 
 5339={ #Sadiru
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -573,9 +573,9 @@
 
 5340={ #Suknusu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -589,9 +589,9 @@
 
 5341={ #Tadinu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -605,9 +605,9 @@
 
 5342={ #Tabrati
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -621,9 +621,9 @@
 
 5343={ #Apku
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -637,9 +637,9 @@
 
 5344={ #Tapsum
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -656,9 +656,9 @@
 
 5345={ #Urranu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -672,9 +672,9 @@
 
 5346={ #Warkitu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,9 +691,9 @@
 
 5347={ #Yanumis
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -707,9 +707,9 @@
 
 5348={ #Zimru
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,9 +723,9 @@
 
 5349={ #Zumru
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -739,9 +739,9 @@
 
 5360={ #Apparu
 	terrain="plains"
-	culture="assyrian"
-	religion="mesopotamian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,9 +755,9 @@
 
 5362={ #Immatema
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -774,9 +774,9 @@
 
 5363={ #Kabburu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -790,9 +790,9 @@
 
 5364={ #Labitu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -806,9 +806,9 @@
 
 5365={ #Makasu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -822,9 +822,9 @@
 
 5366={ #Razama
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -838,9 +838,9 @@
 
 5367={ #Nalshu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -857,9 +857,9 @@
 
 5368={ #Patranu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,9 +873,9 @@
 
 5369={ #Qiriru
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -889,9 +889,9 @@
 
 5370={ #Rapaqu
 	terrain="plains"
-	culture="numha"
-	religion="mesopotamian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -908,9 +908,9 @@
 
 5371={ #Salqu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -924,9 +924,9 @@
 
 5372={ #Karana
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -940,9 +940,9 @@
 
 5373={ #Sahittu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -956,9 +956,9 @@
 
 5374={ #Takbaru
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -972,9 +972,9 @@
 
 5375={ #Shurshudu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -991,9 +991,9 @@
 
 5376={ #Qattara
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -1013,9 +1013,9 @@
 
 5377={ #Umninu
 	terrain="plains"
-	culture="numha"
-	religion="hurrian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,9 +1029,9 @@
 
 5378={ #Wabrutum
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1045,9 +1045,9 @@
 
 5380={ #Zirzirru
 	terrain="plains"
-	culture="assyrian"
-	religion="mesopotamian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1061,9 +1061,9 @@
 
 5381={ #Ekallati
 	terrain="plains"
-	culture="assyrian"
-	religion="mesopotamian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1077,9 +1077,9 @@
 
 5382={ #Shanduwatum
 	terrain="plains"
-	culture="assyrian"
-	religion="mesopotamian_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1093,9 +1093,9 @@
 
 5383={ #Tarbutu
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1109,9 +1109,9 @@
 
 5384={ #Shuatina
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1128,9 +1128,9 @@
 
 5385={ #Nasiu
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1144,9 +1144,9 @@
 
 5386={ #Munziqu
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1163,9 +1163,9 @@
 
 5387={ #Masallu
 	terrain="plains"
-	culture="yamutbal"
-	religion="hurrian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1179,9 +1179,9 @@
 
 6676={ #Gapnu
 	terrain="plains"
-	culture="yamutbal"
-	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1195,9 +1195,9 @@
 
 6677={ #Binanu
 	terrain="plains"
-	culture="assyrian"
-	religion="mesopotamian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

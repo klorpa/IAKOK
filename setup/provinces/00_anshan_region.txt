@@ -1,7 +1,7 @@
 ﻿6528={ #Dimtu
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
@@ -22,8 +22,8 @@
 
 6532={ #Esru
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -38,8 +38,8 @@
 
 6533={ #Namrase
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
@@ -54,9 +54,9 @@
 
 6534={ #Patu
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -70,9 +70,9 @@
 
 6535={ #Pulhu
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -86,9 +86,9 @@
 
 6536={ #Susanian Gates
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,9 +102,9 @@
 
 6537={ #Sibutum
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -118,9 +118,9 @@
 
 6538={ #Sarraqum
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -134,9 +134,9 @@
 
 6539={ #Penu
 	terrain="mountain"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -147,9 +147,9 @@
 
 6540={ #Salsu
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -166,9 +166,9 @@
 
 6541={ #Samu
 	terrain="mountain"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -179,9 +179,9 @@
 
 6542={ #Salasa
 	terrain="mountain"
-	culture="zaharan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,9 +192,9 @@
 
 6543={ #Abanaskuppatu
 	terrain="mountain"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -205,9 +205,9 @@
 
 6544={ #Shub
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -224,9 +224,9 @@
 
 6545={ #Tanaddassi
 	terrain="mountain"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -237,9 +237,9 @@
 
 6546={ #Sharan
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -253,9 +253,9 @@
 
 6547={ #Kad
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -269,9 +269,9 @@
 
 6548={ #Adannu
 	terrain="hills"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -285,9 +285,9 @@
 
 6549={ #Ultu
 	terrain="hills"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,9 +301,9 @@
 
 6550={ #Kimah
 	terrain="hills"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -317,9 +317,9 @@
 
 6551={ #Shinnu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -333,9 +333,9 @@
 
 6552={ #Anshan
 	terrain="farmland"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -353,9 +353,9 @@
 
 6553={ #Reshu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -369,9 +369,9 @@
 
 6554={ #Laptu
 	terrain="farmland"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -388,9 +388,9 @@
 
 6555={ #Nisirtisu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -407,9 +407,9 @@
 
 6556={ #Epesu
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -423,9 +423,9 @@
 
 6557={ #Rabum
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -439,9 +439,9 @@
 
 6558={ #Mandattu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -455,9 +455,9 @@
 
 6559={ #Biltu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -471,9 +471,9 @@
 
 6560={ #Danu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -487,9 +487,9 @@
 
 6561={ #Pilsu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -503,9 +503,9 @@
 
 6562={ #Dalhu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -519,9 +519,9 @@
 
 6563={ #Emu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -538,9 +538,9 @@
 
 6564={ #Usemi
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -554,9 +554,9 @@
 
 6565={ #Sinser
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -570,9 +570,9 @@
 
 6566={ #Sina
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -586,9 +586,9 @@
 
 6567={ #Magiri
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -602,9 +602,9 @@
 
 6568={ #Adi
 	terrain="marsh"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -618,9 +618,9 @@
 
 6569={ #Elenu
 	terrain="marsh"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -634,9 +634,9 @@
 
 6604={ #Akitu
 	terrain="mountain_valley"
-	culture="zaharan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -650,9 +650,9 @@
 
 6605={ #Niru
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,9 +666,9 @@
 
 6606={ #Seher
 	terrain="mountain_valley"
-	culture="kimashan"
-	religion="elamite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,9 +685,9 @@
 
 6607={ #Etlutu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -701,9 +701,9 @@
 
 6608={ #Wardatu
 	terrain="hills"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,9 +717,9 @@
 
 6609={ #Anpa
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -733,9 +733,9 @@
 
 6610={ #Eunir
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -749,9 +749,9 @@
 
 6611={ #Ushpar
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -765,9 +765,9 @@
 
 6612={ #Zâbil
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -781,9 +781,9 @@
 
 6613={ #Utu'ûtu
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -797,9 +797,9 @@
 
 6614={ #Tabsûtu
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -813,9 +813,9 @@
 
 6619={ #Eleppi
 	terrain="farmland"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -829,9 +829,9 @@
 
 6620={ #Âpiu
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -845,9 +845,9 @@
 
 6621={ #Isinnu
 	terrain="plains"
-	culture="anshan"
-	religion="elamite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"

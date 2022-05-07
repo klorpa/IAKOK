@@ -1,8 +1,8 @@
 ﻿1230={ #Tartawra
 	terrain="deep_forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 1241={ #Azuw
 	terrain="hills"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -35,9 +35,9 @@
 
 1445={ #Tuvraawa
 	terrain="forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -51,9 +51,9 @@
 
 2239={ #Sigron
 	terrain="plains"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -67,9 +67,9 @@
 
 2240={ #Eresos
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -83,9 +83,9 @@
 
 2241={ #Provaso
 	terrain="hills"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -99,8 +99,8 @@
 
 2242={ #Argiso
 	terrain="forest"
-	culture="thermian"
-	religion="aegean_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
@@ -115,9 +115,9 @@
 
 2243={ #Antissa
 	terrain="hills"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -131,9 +131,9 @@
 
 2244={ #Methymna
 	terrain="plains"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -150,9 +150,9 @@
 
 2246={ #Arisba
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -166,9 +166,9 @@
 
 2247={ #Kravison
 	terrain="hills"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -182,9 +182,9 @@
 
 2248={ #Therma
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -198,9 +198,9 @@
 
 2250={ #Mytilene
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -217,9 +217,9 @@
 
 2251={ #Hiera
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -239,9 +239,9 @@
 
 2252={ #Pyrra
 	terrain="plains"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -255,9 +255,9 @@
 
 2254={ #Osai
 	terrain="farmland"
-	culture="thermian"
-	religion="aegean_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -277,9 +277,9 @@
 
 2289={ #Aluwa
 	terrain="farmland"
-	culture="sardan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -299,9 +299,9 @@
 
 2292={ #Keska
 	terrain="hills"
-	culture="sardan"
-	religion="anatolian_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -315,9 +315,9 @@
 
 2294={ #Praru
 	terrain="hills"
-	culture="sardan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -331,9 +331,9 @@
 
 2295={ #Ukur
 	terrain="hills"
-	culture="sardan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -347,9 +347,9 @@
 
 2299={ #Lakrannu
 	terrain="farmland"
-	culture="kuizassan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,9 +366,9 @@
 
 2300={ #Lukkulu
 	terrain="hills"
-	culture="kuizassan"
-	religion="anatolian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,9 +379,9 @@
 
 2303={ #Takutora
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -398,9 +398,9 @@
 
 2304={ #Krakusa
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,9 +414,9 @@
 
 2335={ #Kuwrahu
 	terrain="plains"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,9 +430,9 @@
 
 2337={ #Wallawatta
 	terrain="farmland"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -452,9 +452,9 @@
 
 2341={ #Taruku
 	terrain="plains"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -468,8 +468,8 @@
 
 2344={ #Kalruwu
 	terrain="forest"
-	culture="turwruhan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -484,9 +484,9 @@
 
 2345={ #Millru
 	terrain="plains"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -500,9 +500,9 @@
 
 2346={ #Turwruha
 	terrain="farmland"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -522,9 +522,9 @@
 
 2348={ #Pritumma
 	terrain="farmland"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -538,9 +538,9 @@
 
 2349={ #Priyamra
 	terrain="farmland"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,8 +557,8 @@
 
 2352={ #Warapa
 	terrain="forest"
-	culture="turwruhan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -576,9 +576,9 @@
 
 2353={ #Ubnuwanna
 	terrain="farmland"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -598,9 +598,9 @@
 
 2355={ #Tuzrukka
 	terrain="farmland"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -617,9 +617,9 @@
 
 2356={ #Akku
 	terrain="mountain"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -633,8 +633,8 @@
 
 2359={ #Nutnatta
 	terrain="forest"
-	culture="turwruhan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -649,9 +649,9 @@
 
 2361={ #Ukna
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -668,9 +668,9 @@
 
 2362={ #Nartassa
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -687,9 +687,9 @@
 
 2364={ #Kultassa
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -706,9 +706,9 @@
 
 2365={ #Uwwa
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -728,9 +728,9 @@
 
 2366={ #Ahutrapa
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -744,9 +744,9 @@
 
 2368={ #Mirwanna
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -763,9 +763,9 @@
 
 2369={ #Akkiru
 	terrain="forest"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -779,9 +779,9 @@
 
 2370={ #Etuwassa
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -801,8 +801,8 @@
 
 2373={ #Artame
 	terrain="forest"
-	culture="ekwiman"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
@@ -817,9 +817,9 @@
 
 2374={ #Ekwima
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -836,9 +836,9 @@
 
 2375={ #Akzuza
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -852,9 +852,9 @@
 
 2378={ #Iwa
 	terrain="farmland"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -868,9 +868,9 @@
 
 2379={ #Warhunna
 	terrain="hills"
-	culture="ekwiman"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -884,9 +884,9 @@
 
 2380={ #Taruzili
 	terrain="farmland"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -900,8 +900,8 @@
 
 2381={ #Alasunna
 	terrain="forest"
-	culture="turwruhan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -916,9 +916,9 @@
 
 2382={ #Wakunna
 	terrain="forest"
-	culture="turwruhan"
-	religion="anatolian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -929,9 +929,9 @@
 
 2385={ #Ukke
 	terrain="mountain"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -945,9 +945,9 @@
 
 2386={ #Kusta
 	terrain="plains"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -961,9 +961,9 @@
 
 2388={ #Suztatta
 	terrain="farmland"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -977,9 +977,9 @@
 
 2389={ #Natuwassa
 	terrain="farmland"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -999,9 +999,9 @@
 
 2391={ #Wakratta
 	terrain="hills"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1015,8 +1015,8 @@
 
 2393={ #Enteppa
 	terrain="forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1031,9 +1031,9 @@
 
 2394={ #Usha
 	terrain="plains"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1047,9 +1047,9 @@
 
 2396={ #Tahtranna
 	terrain="farmland"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -1069,9 +1069,9 @@
 
 2399={ #Eswanda
 	terrain="plains"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -1085,9 +1085,9 @@
 
 2400={ #Utwu
 	terrain="farmland"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -1107,8 +1107,8 @@
 
 2401={ #Wadru
 	terrain="deep_forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
@@ -1120,9 +1120,9 @@
 
 2403={ #Tarna
 	terrain="hills"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -1136,8 +1136,8 @@
 
 2405={ #Datwassa
 	terrain="deep_forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
@@ -1149,9 +1149,9 @@
 
 2406={ #Kuwati
 	terrain="farmland"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -1168,9 +1168,9 @@
 
 2408={ #Punatinzi
 	terrain="forest"
-	culture="kuwatian"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1187,9 +1187,9 @@
 
 2486={ #Dupiti
 	terrain="forest"
-	culture="wallawattan"
-	religion="anatolian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"

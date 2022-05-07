@@ -1,8 +1,8 @@
 ﻿4086={ #Qurussa
 	terrain="hills"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=3
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 4087={ #Dinhâbâh
 	terrain="hills"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -32,8 +32,8 @@
 
 4088={ #Irbid
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=3
@@ -48,9 +48,9 @@
 
 4089={ #Husun
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=3
 	province_rank="settlement"
@@ -64,9 +64,9 @@
 
 4090={ #Kitim
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=3
 	province_rank="settlement"
@@ -80,9 +80,9 @@
 
 4091={ #Metuna
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=3
 	province_rank="settlement"
@@ -96,9 +96,9 @@
 
 4092={ #Ras Munif
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=3
 	province_rank="settlement"
@@ -115,9 +115,9 @@
 
 4093={ #Bêyt-'Arbê'l
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=3
 	province_rank="settlement"
@@ -131,9 +131,9 @@
 
 4094={ #Samâ
 	terrain="plains"
-	culture="sama"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=54
 	barbarian_power=3
 	province_rank="city"
@@ -153,9 +153,9 @@
 
 4095={ #Himmyah
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=32
 	barbarian_power=3
 	province_rank="settlement"
@@ -169,9 +169,9 @@
 
 4096={ #Qâmôn
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=49
 	barbarian_power=3
 	province_rank="city"
@@ -191,9 +191,9 @@
 
 4097={ #Lô-debâr
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -207,9 +207,9 @@
 
 4098={ #Waqqas
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -223,9 +223,9 @@
 
 4099={ #Kazir
 	terrain="hills"
-	culture="apeqi"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=3
 	province_rank="settlement"
@@ -239,9 +239,9 @@
 
 4100={ #Mevo Hama
 	terrain="hills"
-	culture="apeqi"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -255,9 +255,9 @@
 
 4101={ #Bêyt-Semes
 	terrain="plains"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=3
 	province_rank="settlement"
@@ -271,9 +271,9 @@
 
 4102={ #Yardena
 	terrain="farmland"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=3
 	province_rank="settlement"
@@ -284,9 +284,9 @@
 
 4103={ #Bêyt-Se'ân
 	terrain="farmland"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=3
 	province_rank="city"
@@ -306,9 +306,9 @@
 
 4104={ #Rakeb
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -322,9 +322,9 @@
 
 4105={ #Mehola
 	terrain="hills"
-	culture="qamoni"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -338,9 +338,9 @@
 
 4106={ #Ma'oz Haim
 	terrain="farmland"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=3
 	province_rank="settlement"
@@ -354,9 +354,9 @@
 
 4107={ #Shadmot
 	terrain="farmland"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -370,9 +370,9 @@
 
 4108={ #Hemdat
 	terrain="farmland"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -383,9 +383,9 @@
 
 4109={ #Zubaydat
 	terrain="farmland"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -399,9 +399,9 @@
 
 4111={ #Auja
 	terrain="farmland"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -415,9 +415,9 @@
 
 4112={ #Ha'arava
 	terrain="plains"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,9 +431,9 @@
 
 4113={ #Hajla
 	terrain="plains"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,9 +444,9 @@
 
 4114={ #Jericho
 	terrain="oasis"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="dates"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -466,9 +466,9 @@
 
 4116={ #Bêyt-Hârân
 	terrain="plains"
-	culture="sittimi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -482,9 +482,9 @@
 
 4117={ #Sittim
 	terrain="farmland"
-	culture="sittimi"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -501,9 +501,9 @@
 
 4119={ #'Âdâm
 	terrain="farmland"
-	culture="sittimi"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -514,9 +514,9 @@
 
 4120={ #Panû'êl
 	terrain="farmland"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -527,9 +527,9 @@
 
 4121={ #Sukkôt
 	terrain="farmland"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -549,9 +549,9 @@
 
 4122={ #'Âbêl-Mahôlâh
 	terrain="farmland"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -565,8 +565,8 @@
 
 4123={ #'Âmmatâ
 	terrain="mountain_valley"
-	culture="sukkoti"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
@@ -581,9 +581,9 @@
 
 4124={ #Sâpôn
 	terrain="mountain_valley"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -597,9 +597,9 @@
 
 4125={ #Burmâ
 	terrain="mountain_valley"
-	culture="sukkoti"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,9 +613,9 @@
 
 4127={ #Taqwa
 	terrain="hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -629,9 +629,9 @@
 
 4128={ #Mispâh
 	terrain="hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -645,9 +645,9 @@
 
 4132={ #'Edre'î
 	terrain="plains"
-	culture="siri_basani"
-	religion="canaanite_religion"
-	trade_goods="marble"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -661,9 +661,9 @@
 
 4133={ #Yeno'am
 	terrain="plains"
-	culture="siri_basani"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -677,9 +677,9 @@
 
 4134={ #Mafraq
 	terrain="desert_hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="marble"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -693,9 +693,9 @@
 
 4135={ #Jerash
 	terrain="desert_hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -709,9 +709,9 @@
 
 4136={ #Gil'âd
 	terrain="desert_hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=40
 	barbarian_power=0
 	province_rank="city"
@@ -731,9 +731,9 @@
 
 4137={ #Graisa
 	terrain="desert_hills"
-	culture="gil_adi"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -747,9 +747,9 @@
 
 4140={ #Subayhi
 	terrain="mountain_valley"
-	culture="mahanayimi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -763,9 +763,9 @@
 
 4141={ #Mahânayim
 	terrain="mountain_valley"
-	culture="mahanayimi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -785,9 +785,9 @@
 
 4142={ #Mastaba
 	terrain="hills"
-	culture="mahanayimi"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -801,9 +801,9 @@
 
 4143={ #Birah
 	terrain="hills"
-	culture="mahanayimi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -817,9 +817,9 @@
 
 4144={ #Zarqa
 	terrain="plains"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -833,9 +833,9 @@
 
 4145={ #Allan
 	terrain="plains"
-	culture="mahanayimi"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -849,9 +849,9 @@
 
 4146={ #Hanou
 	terrain="plains"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -865,9 +865,9 @@
 
 4147={ #Yogbahâh
 	terrain="plains"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -881,9 +881,9 @@
 
 4148={ #Ela'âlêh
 	terrain="plains"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -897,8 +897,8 @@
 
 4149={ #Ya'zêr
 	terrain="hills"
-	culture="sittimi"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -913,9 +913,9 @@
 
 4150={ #Bêyt-Nimrâh
 	terrain="mountain_valley"
-	culture="sittimi"
-	religion="canaanite_religion"
-	trade_goods="marble"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -929,9 +929,9 @@
 
 4160={ #Rabbat-'Ammôn
 	terrain="farmland"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -951,9 +951,9 @@
 
 4161={ #Hesbôn
 	terrain="farmland"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -967,9 +967,9 @@
 
 4165={ #'Âbêl-Karâmîm
 	terrain="plains"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="horses"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -983,9 +983,9 @@
 
 4169={ #Susseifa
 	terrain="desert"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
@@ -996,9 +996,9 @@
 
 4170={ #Hallabat
 	terrain="desert_hills"
-	culture="rabbat_ammoni"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1012,9 +1012,9 @@
 
 4177={ #Kinnâret
 	terrain="plains"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1031,9 +1031,9 @@
 
 4178={ #Gat-hêpêr
 	terrain="plains"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1047,9 +1047,9 @@
 
 4188={ #Kadarim
 	terrain="hills"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -1063,9 +1063,9 @@
 
 4190={ #Rimmôn
 	terrain="plains"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -1079,9 +1079,9 @@
 
 4193={ #Megiddô
 	terrain="plains"
-	culture="megiddoi"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=54
 	barbarian_power=0
 	province_rank="city"
@@ -1101,9 +1101,9 @@
 
 4194={ #Ta'nak
 	terrain="hills"
-	culture="megiddoi"
-	religion="canaanite_religion"
-	trade_goods="hemp"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=53
 	barbarian_power=0
 	province_rank="city"
@@ -1123,9 +1123,9 @@
 
 4195={ #Nahâlôl
 	terrain="plains"
-	culture="megiddoi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=41
 	barbarian_power=0
 	province_rank="settlement"
@@ -1139,8 +1139,8 @@
 
 4197={ #Simrôn
 	terrain="forest"
-	culture="yizra_elite"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -1155,9 +1155,9 @@
 
 4198={ #Yizra'el
 	terrain="hills"
-	culture="yizra_elite"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=49
 	barbarian_power=0
 	province_rank="city"
@@ -1177,9 +1177,9 @@
 
 4199={ #'Êyn-Dôr
 	terrain="hills"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1193,9 +1193,9 @@
 
 4200={ #Sûnêm
 	terrain="plains"
-	culture="yizra_elite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1209,8 +1209,8 @@
 
 4201={ #Ha Gilbo'a
 	terrain="forest"
-	culture="yizra_elite"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -1225,9 +1225,9 @@
 
 4202={ #Rehôb
 	terrain="plains"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1241,9 +1241,9 @@
 
 4203={ #Gan Ner
 	terrain="hills"
-	culture="yizra_elite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -1257,9 +1257,9 @@
 
 4227={ #'Êyn-Gannîm'
 	terrain="plains"
-	culture="megiddoi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1273,9 +1273,9 @@
 
 4228={ #Yible'âm
 	terrain="hills"
-	culture="yizra_elite"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -1289,9 +1289,9 @@
 
 4231={ #Reshafim
 	terrain="hills"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1305,9 +1305,9 @@
 
 4233={ #Têbês
 	terrain="desert_hills"
-	culture="beyt_se_ani"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1321,9 +1321,9 @@
 
 4234={ #Sâratân
 	terrain="desert_hills"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1337,9 +1337,9 @@
 
 4235={ #Yitav
 	terrain="desert_hills"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1353,9 +1353,9 @@
 
 4236={ #Gilgâl
 	terrain="desert_hills"
-	culture="jerichoi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -1369,9 +1369,9 @@
 
 4327={ #Raqqat
 	terrain="farmland"
-	culture="raqqati"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"

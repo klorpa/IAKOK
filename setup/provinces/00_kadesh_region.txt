@@ -1,8 +1,8 @@
 ﻿3678={ #Zulabi
 	terrain="plains"
-	culture="eblaite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -19,9 +19,9 @@
 
 3680={ #Maela
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -35,9 +35,9 @@
 
 3683={ #Sinzar
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -51,9 +51,9 @@
 
 3685={ #Muqlos
 	terrain="mountain_valley"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,9 +67,9 @@
 
 3687={ #Fullah
 	terrain="plains"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -83,9 +83,9 @@
 
 3688={ #Âmatu
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -102,9 +102,9 @@
 
 3689={ #Qatân
 	terrain="farmland"
-	culture="qatanite"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -121,9 +121,9 @@
 
 3690={ #Niya
 	terrain="hills"
-	culture="qatanite"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -140,9 +140,9 @@
 
 3692={ #Jurin
 	terrain="hills"
-	culture="qatanite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,9 +159,9 @@
 
 3693={ #Jayyid
 	terrain="farmland"
-	culture="qatanite"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -175,9 +175,9 @@
 
 3694={ #Jiplaya
 	terrain="mountain_valley"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -191,9 +191,9 @@
 
 3696={ #Hadida
 	terrain="hills"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,9 +210,9 @@
 
 3697={ #Tunip
 	terrain="farmland"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -229,9 +229,9 @@
 
 3698={ #al-Qusayr
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,8 +248,8 @@
 
 3699={ #Chadra
 	terrain="mountain_valley"
-	culture="qadeshi"
-	religion="canaanite_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
@@ -264,9 +264,9 @@
 
 3700={ #Qadesh
 	terrain="farmland"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -284,9 +284,9 @@
 
 3705={ #Shathah
 	terrain="hills"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -303,9 +303,9 @@
 
 3706={ #Mirdash
 	terrain="plains"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -319,9 +319,9 @@
 
 3707={ #Fidda
 	terrain="hills"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -335,9 +335,9 @@
 
 3708={ #Hurra
 	terrain="plains"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -351,9 +351,9 @@
 
 3709={ #Madiq
 	terrain="plains"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -367,9 +367,9 @@
 
 3710={ #Qiratah
 	terrain="hills"
-	culture="tunipite"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -383,9 +383,9 @@
 
 3711={ #Hamimah
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="settlement"
@@ -399,9 +399,9 @@
 
 3712={ #Aweed
 	terrain="hills"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -415,9 +415,9 @@
 
 3713={ #Kirkat
 	terrain="plains"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -434,9 +434,9 @@
 
 3714={ #Sahriyah
 	terrain="farmland"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -453,9 +453,9 @@
 
 3715={ #Qiratah
 	terrain="farmland"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -475,9 +475,9 @@
 
 3716={ #Bara
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -494,9 +494,9 @@
 
 3717={ #Ennab
 	terrain="farmland"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="settlement"
@@ -510,9 +510,9 @@
 
 3833={ #Jbab
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=63
 	barbarian_power=0
 	province_rank="city"
@@ -529,9 +529,9 @@
 
 3834={ #Alfuqaney
 	terrain="farmland"
-	culture="amatuite"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="settlement"
@@ -545,9 +545,9 @@
 
 3840={ #Furqlus
 	terrain="farmland"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,9 +561,9 @@
 
 3841={ #Annaqa
 	terrain="farmland"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="settlement"
@@ -577,9 +577,9 @@
 
 3842={ #Qatna
 	terrain="farmland"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="wine"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=63
 	barbarian_power=0
 	province_rank="city"
@@ -596,9 +596,9 @@
 
 3844={ #Aaliyat
 	terrain="farmland"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=63
 	barbarian_power=0
 	province_rank="city"
@@ -615,9 +615,9 @@
 
 3845={ #Harbijja
 	terrain="farmland"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -634,9 +634,9 @@
 
 3846={ #Zahra
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -650,9 +650,9 @@
 
 3847={ #Sha'irat
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -666,9 +666,9 @@
 
 3848={ #Rayyan
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -682,9 +682,9 @@
 
 3849={ #Jandar
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -698,9 +698,9 @@
 
 3850={ #Dibeh
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,9 +717,9 @@
 
 3855={ #Dabaa
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -733,9 +733,9 @@
 
 3856={ #Fairuzah
 	terrain="plains"
-	culture="qatnite"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -749,9 +749,9 @@
 
 3858={ #Qizhel
 	terrain="plains"
-	culture="shararatite"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -765,9 +765,9 @@
 
 3859={ #Hnaider
 	terrain="plains"
-	culture="shararatite"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -781,9 +781,9 @@
 
 3860={ #Arbeen
 	terrain="plains"
-	culture="shararatite"
-	religion="canaanite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -797,9 +797,9 @@
 
 3915={ #Hariqah
 	terrain="hills"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -816,9 +816,9 @@
 
 3916={ #Charbine
 	terrain="hills"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -832,9 +832,9 @@
 
 3917={ #Hermel
 	terrain="hills"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -848,9 +848,9 @@
 
 3918={ #Wadi Faara
 	terrain="hills"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -864,9 +864,9 @@
 
 3921={ #Safra
 	terrain="hills"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -880,9 +880,9 @@
 
 3922={ #Hazi
 	terrain="hills"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=40
 	barbarian_power=0
 	province_rank="city"
@@ -902,9 +902,9 @@
 
 3923={ #Nahleh
 	terrain="plains"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -918,9 +918,9 @@
 
 3925={ #Younine
 	terrain="plains"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -934,9 +934,9 @@
 
 3926={ #Makneh
 	terrain="plains"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -950,9 +950,9 @@
 
 3927={ #Laboueh
 	terrain="plains"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -966,9 +966,9 @@
 
 3929={ #Fakeha
 	terrain="plains"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="copper"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -982,9 +982,9 @@
 
 3932={ #Zira'a
 	terrain="plains"
-	culture="hermeli"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -998,9 +998,9 @@
 
 3933={ #Dijabijja
 	terrain="desert_hills"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1014,9 +1014,9 @@
 
 3934={ #Khanaser
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1030,9 +1030,9 @@
 
 3935={ #Sha'irat
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1046,9 +1046,9 @@
 
 3936={ #Hafar
 	terrain="plains"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1062,9 +1062,9 @@
 
 3937={ #Sadad
 	terrain="plains"
-	culture="shararatite"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1078,9 +1078,9 @@
 
 3938={ #Yammoune
 	terrain="hills"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -1094,9 +1094,9 @@
 
 3939={ #Bodai
 	terrain="hills"
-	culture="hazi"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -1110,9 +1110,9 @@
 
 4015={ #Qurasiti
 	terrain="desert"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1123,9 +1123,9 @@
 
 4017={ #Sednayah
 	terrain="desert_hills"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1139,9 +1139,9 @@
 
 4018={ #Ma'loula
 	terrain="desert_hills"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1155,9 +1155,9 @@
 
 4019={ #Yabrûdu
 	terrain="desert_valley"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1174,9 +1174,9 @@
 
 4020={ #Alward
 	terrain="desert_valley"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="marble"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1187,9 +1187,9 @@
 
 4021={ #An Nabk
 	terrain="desert_hills"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1203,9 +1203,9 @@
 
 4022={ #Qarah
 	terrain="desert"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -1216,9 +1216,9 @@
 
 4024={ #Hassia
 	terrain="desert_hills"
-	culture="qadeshi"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1232,9 +1232,9 @@
 
 4043={ #Qutayfah
 	terrain="desert_hills"
-	culture="yarbrudui"
-	religion="canaanite_religion"
-	trade_goods="precious_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"

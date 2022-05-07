@@ -1,8 +1,8 @@
 ﻿3231={ #Haluhalli
 	terrain="forest"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 3232={ #Tai
 	terrain="farmland"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -35,8 +35,8 @@
 
 3233={ #Titarza
 	terrain="forest"
-	culture="saranduwan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -51,9 +51,9 @@
 
 3234={ #Zarazti
 	terrain="plains"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,9 +67,9 @@
 
 3235={ #Nahita
 	terrain="farmland"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -89,9 +89,9 @@
 
 3236={ #Issaris
 	terrain="hills"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -105,9 +105,9 @@
 
 3237={ #Assa
 	terrain="plains"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -121,9 +121,9 @@
 
 3238={ #Hassarsa
 	terrain="plains"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -137,9 +137,9 @@
 
 3239={ #Zuhriya
 	terrain="farmland"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -156,9 +156,9 @@
 
 3240={ #Saranduwa
 	terrain="farmland"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -178,8 +178,8 @@
 
 3241={ #Kirsu
 	terrain="forest"
-	culture="saranduwan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -194,9 +194,9 @@
 
 3242={ #Zitannis
 	terrain="hills"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,9 +210,9 @@
 
 3243={ #Wanas
 	terrain="hills"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -226,9 +226,9 @@
 
 3244={ #Kunaskui
 	terrain="plains"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="fish"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -242,9 +242,9 @@
 
 3245={ #Urayis
 	terrain="forest"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -255,9 +255,9 @@
 
 3246={ #Walma
 	terrain="farmland"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -271,9 +271,9 @@
 
 3248={ #Kuwari
 	terrain="hills"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -287,9 +287,9 @@
 
 3249={ #Kuiyas
 	terrain="plains"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -303,9 +303,9 @@
 
 3250={ #Ura
 	terrain="farmland"
-	culture="uran"
-	religion="anatolian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -325,8 +325,8 @@
 
 3252={ #Warsiya
 	terrain="forest"
-	culture="uran"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -341,9 +341,9 @@
 
 3253={ #Zuranis
 	terrain="hills"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -357,9 +357,9 @@
 
 3254={ #Arupati
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -373,9 +373,9 @@
 
 3257={ #Kuwaliti
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -389,9 +389,9 @@
 
 3259={ #Parwantis
 	terrain="mountain_valley"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -408,9 +408,9 @@
 
 3260={ #Wawis
 	terrain="mountain_valley"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -424,9 +424,9 @@
 
 3261={ #Addupalis
 	terrain="mountain_valley"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,9 +443,9 @@
 
 3262={ #Isaranta
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -465,9 +465,9 @@
 
 3263={ #Kuimanza
 	terrain="forest"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -481,9 +481,9 @@
 
 3265={ #Apinzi
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -497,9 +497,9 @@
 
 3267={ #Itis
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -513,9 +513,9 @@
 
 3268={ #Anzus
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -532,9 +532,9 @@
 
 3269={ #Uwanis
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,9 +548,9 @@
 
 3270={ #Zarhassa
 	terrain="farmland"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -570,9 +570,9 @@
 
 3271={ #Urni
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -586,9 +586,9 @@
 
 3274={ #Maluni
 	terrain="farmland"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -605,9 +605,9 @@
 
 3276={ #Lahhwiyassi
 	terrain="farmland"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -627,9 +627,9 @@
 
 3277={ #Usati
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -643,9 +643,9 @@
 
 3278={ #Hawarsa
 	terrain="farmland"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -659,8 +659,8 @@
 
 3279={ #Pitasti
 	terrain="forest"
-	culture="appasan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
@@ -675,9 +675,9 @@
 
 3280={ #Ahur
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,9 +691,9 @@
 
 3281={ #Awis
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=3
 	province_rank="settlement"
@@ -707,9 +707,9 @@
 
 3283={ #Kuipalis
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -720,9 +720,9 @@
 
 3285={ #Uriyas
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -736,9 +736,9 @@
 
 3286={ #Arwas
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -752,9 +752,9 @@
 
 3287={ #Appas
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=4
 	province_rank="settlement"
@@ -771,8 +771,8 @@
 
 3288={ #Wusati
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -787,9 +787,9 @@
 
 3289={ #Assiti
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -803,9 +803,9 @@
 
 3290={ #Akunas
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=4
 	province_rank="settlement"
@@ -819,9 +819,9 @@
 
 3291={ #Wanzus
 	terrain="forest"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -835,8 +835,8 @@
 
 3292={ #Apuwar
 	terrain="forest"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=4
@@ -851,9 +851,9 @@
 
 3294={ #Minzi
 	terrain="forest"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=3
 	province_rank="settlement"
@@ -867,9 +867,9 @@
 
 3295={ #Timuwizas
 	terrain="mountain_valley"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=3
 	province_rank="settlement"
@@ -883,8 +883,8 @@
 
 3297={ #Talwisuwanda
 	terrain="mountain_valley"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -902,9 +902,9 @@
 
 3298={ #Harsawa
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -918,9 +918,9 @@
 
 3299={ #Tarhuntassa
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -941,9 +941,9 @@
 
 3300={ #Harmassa
 	terrain="plains"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -960,9 +960,9 @@
 
 3301={ #Artapas
 	terrain="hills"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=3
 	province_rank="settlement"
@@ -976,9 +976,9 @@
 
 3303={ #Ishiti
 	terrain="plains"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="olive"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -995,9 +995,9 @@
 
 3304={ #Apiti
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1014,9 +1014,9 @@
 
 3305={ #Yammis
 	terrain="farmland"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=4
 	province_rank="settlement"
@@ -1033,9 +1033,9 @@
 
 3306={ #Arway
 	terrain="mountain_valley"
-	culture="appasan"
-	religion="anatolian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1046,9 +1046,9 @@
 
 3307={ #Ahuris
 	terrain="mountain_valley"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1062,8 +1062,8 @@
 
 3312={ #Walisaddu
 	terrain="deep_forest"
-	culture="saranduwan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=3
@@ -1078,9 +1078,9 @@
 
 3313={ #Apalis
 	terrain="mountain"
-	culture="saranduwan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1091,8 +1091,8 @@
 
 3314={ #Kuimatta
 	terrain="mountain"
-	culture="saranduwan"
-	religion="anatolian_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=3
@@ -1104,9 +1104,9 @@
 
 3315={ #Isasti
 	terrain="mountain"
-	culture="tarhuntassan"
-	religion="anatolian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
@@ -1117,9 +1117,9 @@
 
 3316={ #Sarisalis
 	terrain="mountain"
-	culture="zarhassan"
-	religion="anatolian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=3
 	province_rank="settlement"

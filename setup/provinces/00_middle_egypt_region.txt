@@ -1,8 +1,8 @@
 ﻿242={ #Usekt
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -19,9 +19,9 @@
 
 343={ #Bakhau
 	terrain="flood_plain"
-	culture="qisan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -38,9 +38,9 @@
 
 394={ #Peter
 	terrain="plains"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -57,9 +57,9 @@
 
 433={ #Pet-mer
 	terrain="flood_plain"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -76,9 +76,9 @@
 
 459={ #Maar
 	terrain="flood_plain"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="settlement"
@@ -95,9 +95,9 @@
 
 470={ #Fenti
 	terrain="plains"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -114,9 +114,9 @@
 
 1259={ #Neshem
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -133,9 +133,9 @@
 
 1266={ #Neturt
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -152,9 +152,9 @@
 
 1267={ #Hetepu
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,9 +171,9 @@
 
 1346={ #Hekeru
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -190,9 +190,9 @@
 
 1347={ #Hert-ab
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -209,9 +209,9 @@
 
 1355={ #Hatatu
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -228,9 +228,9 @@
 
 1357={ #Haqet
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -247,9 +247,9 @@
 
 1362={ #Ipu
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -269,9 +269,9 @@
 
 1368={ #Hemaka
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,9 +288,9 @@
 
 1374={ #Tjebu
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -311,9 +311,9 @@
 
 1379={ #Henhen
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -330,9 +330,9 @@
 
 1464={ #Atennu
 	terrain="flood_plain"
-	culture="qisan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -349,9 +349,9 @@
 
 1511={ #Akat
 	terrain="flood_plain"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -368,9 +368,9 @@
 
 1512={ #Asarba
 	terrain="flood_plain"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -387,9 +387,9 @@
 
 1532={ #Anetch
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -406,9 +406,9 @@
 
 1556={ #Maan-tu
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -425,9 +425,9 @@
 
 1581={ #Ahat
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,9 +444,9 @@
 
 1588={ #Akhtuset
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -463,9 +463,9 @@
 
 1589={ #Shashotep
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -485,9 +485,9 @@
 
 1624={ #Mastu
 	terrain="flood_plain"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -504,9 +504,9 @@
 
 1625={ #Heteru
 	terrain="flood_plain"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -523,9 +523,9 @@
 
 1629={ #Zawty
 	terrain="flood_plain"
-	culture="zawtyan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=63
 	barbarian_power=0
 	province_rank="city"
@@ -546,9 +546,9 @@
 
 1643={ #Per-Nemty
 	terrain="flood_plain"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -565,9 +565,9 @@
 
 1647={ #Badari
 	terrain="flood_plain"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -584,9 +584,9 @@
 
 1654={ #Netches
 	terrain="flood_plain"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -603,9 +603,9 @@
 
 1675={ #Kheper
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,9 +622,9 @@
 
 1760={ #Nehait
 	terrain="plains"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -641,9 +641,9 @@
 
 1762={ #Sept-mast
 	terrain="plains"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -660,9 +660,9 @@
 
 1767={ #Sehetep
 	terrain="plains"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,9 +679,9 @@
 
 1777={ #Uheset
 	terrain="plains"
-	culture="shashotepan"
-	religion="egyptian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -698,9 +698,9 @@
 
 1886={ #Akerati
 	terrain="flood_plain"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,9 +717,9 @@
 
 1888={ #Heri-ta
 	terrain="plains"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -736,9 +736,9 @@
 
 1894={ #Seshmet
 	terrain="plains"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,9 +755,9 @@
 
 2093={ #Retashaka
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=3
 	province_rank="settlement"
@@ -774,9 +774,9 @@
 
 2306={ #Abdju
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -797,9 +797,9 @@
 
 2309={ #Uarekht
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -816,9 +816,9 @@
 
 2311={ #Khenra
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -835,9 +835,9 @@
 
 2313={ #Hut-Repyt
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=59
 	barbarian_power=0
 	province_rank="city"
@@ -858,9 +858,9 @@
 
 2324={ #Kheri
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -877,9 +877,9 @@
 
 2326={ #Sait
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -896,9 +896,9 @@
 
 2328={ #Nequt
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -915,9 +915,9 @@
 
 2331={ #Seshesh
 	terrain="flood_plain"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -938,9 +938,9 @@
 
 2377={ #Marqata
 	terrain="hills"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -957,9 +957,9 @@
 
 2473={ #Hetemu
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -976,9 +976,9 @@
 
 2477={ #Tjenu
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="papyrus"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -996,9 +996,9 @@
 
 2609={ #Bahes
 	terrain="hills"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1015,9 +1015,9 @@
 
 2614={ #Metun
 	terrain="hills"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1034,9 +1034,9 @@
 
 2615={ #Neserit
 	terrain="hills"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1053,9 +1053,9 @@
 
 2621={ #Henut
 	terrain="plains"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1072,9 +1072,9 @@
 
 2622={ #Hemt
 	terrain="plains"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1091,9 +1091,9 @@
 
 4666={ #Kheru
 	terrain="flood_plain"
-	culture="qisan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1110,9 +1110,9 @@
 
 4667={ #Apuatu
 	terrain="flood_plain"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1129,9 +1129,9 @@
 
 4668={ #Sekhepti
 	terrain="plains"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="stone"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1148,9 +1148,9 @@
 
 4669={ #Keba
 	terrain="plains"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1167,9 +1167,9 @@
 
 4670={ #Unnut
 	terrain="plains"
-	culture="per_nemytan"
-	religion="egyptian_religion"
-	trade_goods="vegetables"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1186,9 +1186,9 @@
 
 4671={ #Tekas
 	terrain="plains"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1205,9 +1205,9 @@
 
 4672={ #Unemt
 	terrain="plains"
-	culture="tjebuan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1224,9 +1224,9 @@
 
 4673={ #Ur-maat
 	terrain="flood_plain"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="honey"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -1243,9 +1243,9 @@
 
 4674={ #Netnet
 	terrain="plains"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -1262,9 +1262,9 @@
 
 4675={ #Qetetbu
 	terrain="plains"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="base_metals"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1281,9 +1281,9 @@
 
 4676={ #Mastiu
 	terrain="desert_hills"
-	culture="ipuan"
-	religion="egyptian_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -1300,9 +1300,9 @@
 
 4677={ #Tehen
 	terrain="plains"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1319,9 +1319,9 @@
 
 4678={ #Sekhai
 	terrain="flood_plain"
-	culture="abdjuan"
-	religion="egyptian_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1338,9 +1338,9 @@
 
 4679={ #Ka-hetep
 	terrain="plains"
-	culture="sesheshan"
-	religion="egyptian_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"

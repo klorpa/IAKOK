@@ -1,8 +1,8 @@
 ﻿235={ #Nâbqu
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -19,9 +19,9 @@
 
 374={ #Amâru
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -35,9 +35,9 @@
 
 375={ #Halabit
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,9 +54,9 @@
 
 386={ #Nûru
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -73,9 +73,9 @@
 
 419={ #Barâru
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -89,9 +89,9 @@
 
 549={ #Upputu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -108,9 +108,9 @@
 
 550={ #Ripîtu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -127,9 +127,9 @@
 
 552={ #Gukku
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -143,9 +143,9 @@
 
 577={ #Akullû
 	terrain="plains"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,9 +159,9 @@
 
 605={ #Lasqum
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -181,9 +181,9 @@
 
 611={ #Shamnu
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,9 +197,9 @@
 
 614={ #Kipina
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -216,9 +216,9 @@
 
 626={ #Samanum
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -232,9 +232,9 @@
 
 1313={ #Mashqium
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -251,9 +251,9 @@
 
 1353={ #Kippu
 	terrain="desert"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -264,9 +264,9 @@
 
 1356={ #Shakâku
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -280,9 +280,9 @@
 
 1641={ #Padan
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -296,9 +296,9 @@
 
 1795={ #Birûtu
 	terrain="desert"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -309,9 +309,9 @@
 
 2264={ #Ru'tu
 	terrain="desert"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -322,9 +322,9 @@
 
 2351={ #Mêressu
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -341,9 +341,9 @@
 
 2493={ #Saggaratum
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -360,9 +360,9 @@
 
 2499={ #Surim
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,9 +379,9 @@
 
 3083={ #Dittu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=3
 	province_rank="settlement"
@@ -398,9 +398,9 @@
 
 3086={ #Hurshânu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=3
 	province_rank="settlement"
@@ -417,9 +417,9 @@
 
 3255={ #Mushtu
 	terrain="desert"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="wild_game"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,9 +430,9 @@
 
 3258={ #Shiknu
 	terrain="desert"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,9 +443,9 @@
 
 3296={ #Kalappu
 	terrain="desert"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -456,9 +456,9 @@
 
 3337={ #Sa-Harani
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -472,9 +472,9 @@
 
 3599={ #Nemed-Ishtar
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="fur"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -491,9 +491,9 @@
 
 3600={ #Dur-Yahdun
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -510,9 +510,9 @@
 
 4003={ #Nemru
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -529,9 +529,9 @@
 
 5324={ #Asatum
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,9 +548,9 @@
 
 5325={ #Aluzinnu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="cattle"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -567,9 +567,9 @@
 
 5326={ #Nasruptu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -583,9 +583,9 @@
 
 5327={ #Yalihum
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="cloth"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -602,9 +602,9 @@
 
 5700={ #Mamlu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -621,9 +621,9 @@
 
 5701={ #Hardu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -637,9 +637,9 @@
 
 5702={ #Usala
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -653,9 +653,9 @@
 
 5703={ #Ganibatum
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -672,9 +672,9 @@
 
 5704={ #Terqa
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -694,9 +694,9 @@
 
 5705={ #Ershûtu
 	terrain="farmland"
-	culture="hana"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -710,9 +710,9 @@
 
 5706={ #Kêttu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -726,9 +726,9 @@
 
 5707={ #Nagiati
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="earthware"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -745,9 +745,9 @@
 
 5708={ #Hindanu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="leather"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,9 +761,9 @@
 
 5709={ #Mutellum
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -780,9 +780,9 @@
 
 5725={ #Rummunina
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -796,9 +796,9 @@
 
 5726={ #Nebarti-Ashur
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="ivory"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -812,9 +812,9 @@
 
 5727={ #Suprum
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -831,9 +831,9 @@
 
 5728={ #Aqarbanu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -850,9 +850,9 @@
 
 5729={ #Buâshu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -869,9 +869,9 @@
 
 5730={ #Dilhu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -885,9 +885,9 @@
 
 5924={ #Mari
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="fruits"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -908,9 +908,9 @@
 
 6665={ #Alânu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -924,9 +924,9 @@
 
 6666={ #Sarsartu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -943,9 +943,9 @@
 
 6667={ #Tiâlu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="grain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -959,9 +959,9 @@
 
 6668={ #Arbatu
 	terrain="farmland"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="reeds"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -975,9 +975,9 @@
 
 6669={ #Urzînu
 	terrain="plains"
-	culture="yamina"
-	religion="canaanite_religion"
-	trade_goods="salt"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
