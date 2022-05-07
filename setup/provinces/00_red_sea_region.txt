@@ -1,0 +1,1392 @@
+﻿556={ #Khadem
+	terrain="desert_valley"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="gems"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+590={ #Merrt
+	terrain="desert_valley"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+665={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+736={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+739={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+744={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+749={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+751={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+753={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+755={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+758={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+759={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+760={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+761={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+763={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+766={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+770={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+786={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+828={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+834={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+863={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+870={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+894={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1295={ #Khemenu
+	terrain="desert_hills"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1296={ #Re-per
+	terrain="desert"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1332={ #Resit
+	terrain="desert_valley"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1342={ #Henu
+	terrain="desert"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1387={ #Ubti
+	terrain="desert"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1412={ #Suten-henen
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1415={ #Sebeh
+	terrain="desert_hills"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1418={ #Setekaut
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1433={ #Ketuit
+	terrain="desert_hills"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1436={ #Tephet
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1439={ #Kekut
+	terrain="desert_valley"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1442={ #Tehutit
+	terrain="desert_valley"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1452={ #Tenhtenh
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="copper"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1460={ #Akekit
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+1473={ #Utchet
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1474={ #Magârah
+	terrain="desert_valley"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="gems"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1484={ #Hurpu
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1488={ #Ashep
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1493={ #Henti
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1494={ #Kherta
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1496={ #Nestu
+	terrain="desert_valley"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1506={ #Unnefer
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1523={ #Makhait
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1538={ #Anset
+	terrain="desert_valley"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1547={ #Anrerut
+	terrain="desert_valley"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1553={ #Ertisa
+	terrain="desert_valley"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1559={ #Amseth
+	terrain="desert"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1561={ #Amenhiu
+	terrain="desert"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1570={ #Amentet
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1572={ #Heru-khuti
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1649={ #Tept
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+1672={ #Rekh
+	terrain="desert"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2270={ #Pesk-re
+	terrain="desert_valley"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2334={ #Herui
+	terrain="desert"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="gems"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2338={ #Setet
+	terrain="desert"
+	culture="midianite"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3308={ #Netcher
+	terrain="desert"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3309={ #Herit
+	terrain="desert"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3310={ #Ubekh
+	terrain="desert"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3311={ #Pehtes
+	terrain="desert_hills"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3342={ #Matait
+	terrain="desert_valley"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3793={ #Mestpekh
+	terrain="desert_hills"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3794={ #Nibun
+	terrain="desert_hills"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3796={ #Nenu
+	terrain="desert"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3797={ #Ninurti
+	terrain="desert"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3798={ #Nubnub
+	terrain="desert"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3799={ #Nurit
+	terrain="desert"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3800={ #Humaqa
+	terrain="desert"
+	culture="magarahi"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3924={ #Haql
+	terrain="desert"
+	culture="elathi"
+	religion="canaanite_religion"
+	trade_goods="gems"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4628={ #Serekhi
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4701={ #Met-Irt
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="gems"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4706={ #Metchet
+	terrain="desert_hills"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4713={ #Talafssa
+	terrain="desert_hills"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4714={ #Philotera
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4720={ #Kekhehet
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4721={ #Maautu
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="gems"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4722={ #Sekenniu
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4723={ #Teb-her
+	terrain="desert_hills"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="marble"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4724={ #Sekhet
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4725={ #Gabal al-Zayt
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4726={ #Aqennu
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4727={ #Nekau
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4728={ #Kehaat
+	terrain="desert_hills"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="copper"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4729={ #Rekhit
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4730={ #Entet
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4731={ #Uamemti
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4732={ #Qamemt
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4733={ #Urkha
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4734={ #Aq-her
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4735={ #Pehrer
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="tin"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4736={ #Uatch
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4737={ #Qebh
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4738={ #Ahai
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4739={ #Usekh
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4740={ #Bernike
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="gems"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4741={ #Sekert
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4742={ #Uart
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4743={ #Abtet
+	terrain="desert_hills"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4753={ #Sekhekh
+	terrain="desert_valley"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+}
+
+4814={ #Abhu
+	terrain="desert_valley"
+	culture="harifi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+

@@ -1,0 +1,7920 @@
+﻿9={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+23={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+33={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+34={ #Profitis Ilias
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+35={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+36={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+37={ #Parnon
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+38={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+39={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+40={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+41={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+42={ #Aigaleon
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+43={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+44={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+45={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+46={ #Potentia
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+58={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank="settlement"
+}
+
+69={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+70={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+71={ #Erymanthos
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+72={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+73={ #Panakhaiko
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+74={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+75={ #Aroania
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+76={ #Kyllini
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+77={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+78={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+79={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+80={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+81={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+82={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+83={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+84={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+85={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+86={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+87={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+88={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+89={ #Mountain
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+90={ #Parne
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+91={ #Mountain
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+92={ #Mountain
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+93={ #Mountain
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+94={ #Mountain
+	terrain="impassable_terrain"
+	culture="kranaoi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+95={ #Mountain
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+96={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+97={ #Dirphys
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+98={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+99={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+100={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+101={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+102={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+103={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+104={ #Mountain
+	terrain="impassable_terrain"
+	culture="kuretes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+105={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+110={ #Gamlu
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+116={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+148={ #Siriam
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+278={ #Kitharion
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+279={ #Helikon
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+280={ #Mountain
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+281={ #Parnassos
+	terrain="impassable_terrain"
+	culture="hyades"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+282={ #Mountain
+	terrain="impassable_terrain"
+	culture="hyades"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+283={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+284={ #Oita
+	terrain="impassable_terrain"
+	culture="dryopes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+285={ #Mountain
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+286={ #Mountain
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+287={ #Korax
+	terrain="impassable_terrain"
+	culture="aithikes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+288={ #Mountain
+	terrain="impassable_terrain"
+	culture="hyades"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+289={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+290={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+291={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+292={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+293={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=5
+	province_rank=""
+}
+
+294={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+295={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+296={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+297={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+298={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+299={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+300={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+301={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+302={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+303={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+304={ #Psili Koryfi
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+305={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+306={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+307={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+308={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+309={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+310={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+311={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+312={ #Pelion
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+313={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+314={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+315={ #Olympos
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+316={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+317={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+318={ #Mountain
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+319={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+320={ #Mountain
+	terrain="plains"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+321={ #Mountain
+	terrain="plains"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+346={ #Mountain
+	terrain="impassable_terrain"
+	culture="hektenas"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+353={ #Limni Paralimni
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+354={ #Limni Iliki
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+355={ #Limni Kopaida
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+356={ #Limni Trichonida
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+357={ #Limni Lisimachia
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+358={ #Lake Tashk
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+359={ #Lake Parishan
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+360={ #Lake Bakhtegan
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+361={ #Sea of Galilee
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+642={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+646={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+651={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+654={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+655={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+657={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+663={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+666={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+684={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+687={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+690={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+698={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+703={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+706={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+707={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+708={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+709={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+711={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+715={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+716={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+717={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+719={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+721={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+724={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+732={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+737={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+738={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+741={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+742={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+747={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+754={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+757={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+765={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+767={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+771={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+773={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+780={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+782={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+785={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+788={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+793={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+795={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+802={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+805={ #Red Sea
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+806={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+810={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+812={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+814={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+816={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+817={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+818={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+820={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+824={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+830={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+831={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+838={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+839={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+840={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+842={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+847={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+848={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+850={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+851={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+852={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+854={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+861={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+864={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+866={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+872={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+877={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+879={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+898={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+905={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+928={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+959={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+967={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+970={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+976={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+981={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+985={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+989={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+990={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+992={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+996={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+997={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1047={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1048={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1049={ #Pakhnes
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1050={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1051={ #Profitis Ide
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1052={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1053={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1054={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1055={ #Mountain
+	terrain="impassable_terrain"
+	culture="telchines"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1056={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1057={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1058={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+1059={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1060={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1061={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1062={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1063={ #Mountain
+	terrain="impassable_terrain"
+	culture="cycladic"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1064={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1065={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1066={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1067={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1068={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1069={ #Sipylos
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+1070={ #Gallika Phlaouia
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank=""
+}
+
+1142={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1461={ #Uninhabitable Desert
+	terrain="desert_hills"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+1463={ #Uninhabitable Desert
+	terrain="desert_hills"
+	culture="nabataean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+1527={ #Uninhabitable Desert
+	terrain="desert"
+	culture="yaminite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+1540={ #Arxi
+	terrain="desert"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+1686={ #Prahundru
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1687={ #Pruso
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1688={ #Enai
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1689={ #Iles
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1690={ #Ikeisa
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1691={ #Sabrusu
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1692={ #Sabok
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1693={ #Iwia
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1694={ #Bukruhu
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1695={ #Tuhpra
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1696={ #Wudrusashana
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1697={ #Wurunaha
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1698={ #Sawrula
+	terrain="impassable_terrain"
+	culture="enchelei"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1699={ #Truprata
+	terrain="impassable_terrain"
+	culture="amantes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1701={ #Nanrakru
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1702={ #Ebehwe
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1703={ #Atuhta
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1704={ #Trupruha
+	terrain="impassable_terrain"
+	culture="amantes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1705={ #Surahu
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1706={ #Arsnaraha
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1707={ #Wanranura
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1708={ #Ihza
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1709={ #Sratuto
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1710={ #Pumrohu
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1711={ #Ittahatia
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1712={ #Prahakone
+	terrain="impassable_terrain"
+	culture="upper_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1713={ #Neso
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1714={ #Parafosa
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1715={ #Izu
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1716={ #Besu
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1722={ #Uninhabitable Desert
+	terrain="desert"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+1873={ #Limni Volvi
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1874={ #Limni Koronia
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1875={ #Limni Dojran
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1876={ #Limni Ohrid
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1877={ #Limni Prespa
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1878={ #Limni Mikro Prespa
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1879={ #Lake Antioch
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1880={ #Limni Kastorias Orestiada
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1881={ #Limni Boebeis
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1882={ #Limni Vegoritida
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1883={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+1884={ #Marmara
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2000={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2001={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2002={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2003={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2004={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2005={ #Mountain
+	terrain="impassable_terrain"
+	culture="amantes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2006={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2007={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2008={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2009={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2010={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2011={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2012={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2013={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2014={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2015={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2016={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2017={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2018={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2019={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2020={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2021={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2022={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2023={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2024={ #Mountain
+	terrain="impassable_terrain"
+	culture="abraciots"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2025={ #Mountain
+	terrain="impassable_terrain"
+	culture="atintanes"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2026={ #Mountain
+	terrain="impassable_terrain"
+	culture="molossians"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2027={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2028={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2029={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2030={ #Mountain
+	terrain="impassable_terrain"
+	culture="leleges"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2031={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2032={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2033={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2034={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2035={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2036={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2037={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2038={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2039={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2040={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2041={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2042={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2043={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2044={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2045={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank=""
+}
+
+2046={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2047={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2048={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2049={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2050={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2051={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2052={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2089={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+}
+
+2253={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+2523={ #Limni Voulkaria
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2524={ #Limni Amvrakia
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2525={ #Limni Ozeros
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2526={ #Limni Pamvotida
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2527={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2528={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2529={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2530={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2531={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2532={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2533={ #The Dead Sea
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2534={ #Lake
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2660={ #Sinai
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2661={ #Mountain
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2662={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2663={ #Mountain
+	terrain="impassable_terrain"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2664={ #Mountain
+	terrain="impassable_terrain"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2665={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2666={ #Mountain
+	terrain="impassable_terrain"
+	culture="silohi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2667={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2668={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2669={ #Mountain
+	terrain="impassable_terrain"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2670={ #Mountain
+	terrain="impassable_terrain"
+	culture="harrani"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2671={ #Mountain
+	terrain="impassable_terrain"
+	culture="mahanayimi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2672={ #Mountain
+	terrain="impassable_terrain"
+	culture="sukkoti"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2673={ #Ajloun Forest
+	terrain="impassable_terrain"
+	culture="sukkoti"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2674={ #Mountain
+	terrain="impassable_terrain"
+	culture="yarbrudui"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2675={ #Mountain
+	terrain="impassable_terrain"
+	culture="aramean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2676={ #Mountain
+	terrain="impassable_terrain"
+	culture="aramean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2677={ #Mountain
+	terrain="impassable_terrain"
+	culture="aramean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2678={ #Mountain
+	terrain="impassable_terrain"
+	culture="palmyrene"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2679={ #Deep Forest
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2680={ #Mountain
+	terrain="impassable_terrain"
+	culture="utiman"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2681={ #Mountain
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2682={ #Mountain
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2683={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2684={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2685={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2686={ #Mountain
+	terrain="impassable_terrain"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2687={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2688={ #Mountain
+	terrain="impassable_terrain"
+	culture="mestpekhi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2689={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2690={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2691={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2692={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2693={ #Mountain
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2694={ #Mountain
+	terrain="impassable_terrain"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2695={ #Mountain
+	terrain="impassable_terrain"
+	culture="harrani"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2696={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2697={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2698={ #Mountain
+	terrain="impassable_terrain"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2699={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2700={ #Mountain
+	terrain="impassable_terrain"
+	culture="zalwari"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2701={ #Mountain
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2702={ #Mountain
+	terrain="impassable_terrain"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2703={ #Mountain
+	terrain="impassable_terrain"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2704={ #Mountain
+	terrain="impassable_terrain"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2705={ #Mountain
+	terrain="impassable_terrain"
+	culture="cypriot"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2706={ #Mountain
+	terrain="impassable_terrain"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2707={ #Mountain
+	terrain="impassable_terrain"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2708={ #Mountain
+	terrain="impassable_terrain"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2709={ #Mountain
+	terrain="impassable_terrain"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2710={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2711={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2712={ #Mountain
+	terrain="impassable_terrain"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2713={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="adyrmachidae"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2714={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2715={ #Mountain
+	terrain="impassable_terrain"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2716={ #Mountain
+	terrain="impassable_terrain"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2717={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2718={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2719={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2720={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2721={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2722={ #Mountain
+	terrain="impassable_terrain"
+	culture="kizzuni"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2723={ #Mount Hermon
+	terrain="impassable_terrain"
+	culture="aramean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2724={ #Mountain
+	terrain="impassable_terrain"
+	culture="yarbrudui"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2725={ #Mount Lebanon
+	terrain="impassable_terrain"
+	culture="phoenician"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2726={ #Mountain
+	terrain="impassable_terrain"
+	culture="eblaite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2727={ #Mountain
+	terrain="impassable_terrain"
+	culture="eblaite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2728={ #Mountain
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2729={ #Mountain
+	terrain="impassable_terrain"
+	culture="zalwari"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2730={ #Mountain
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2731={ #Mountain
+	terrain="impassable_terrain"
+	culture="eblaite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2732={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2733={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2734={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2735={ #Mountain
+	terrain="impassable_terrain"
+	culture="cypriot"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2736={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2737={ #Mountain
+	terrain="impassable_terrain"
+	culture="tarhuntassan"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2738={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2739={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2740={ #Mountain
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2759={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2760={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2787={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2788={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2791={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2793={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2821={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2844={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2846={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2848={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2855={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2864={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2868={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2906={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2920={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2931={ #Mediterranean
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+2932={ #Mediterranean
+	terrain="ocean"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3009={ #Shîmtu
+	terrain="desert"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+3795={ #Ilan
+	terrain="desert"
+	culture="sinaian"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+3816={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+3817={ #Uninhabitable Desert
+	terrain="desert"
+	culture="aramean"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+3920={ #Uninhabitable Desert
+	terrain="desert"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+3930={ #Uninhabitable Desert
+	terrain="desert"
+	culture="canaanite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4004={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4014={ #Uninhabitable Desert
+	terrain="desert"
+	culture="yarbrudui"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4023={ #Uninhabitable Desert
+	terrain="desert"
+	culture="yarbrudui"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4044={ #Uninhabitable Desert
+	terrain="desert"
+	culture="dammaseqi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=4
+	province_rank="settlement"
+}
+
+4138={ #Uninhabitable Desert
+	terrain="desert"
+	culture="gil_adi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4139={ #Uninhabitable Desert
+	terrain="desert"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4176={ #Uninhabitable Desert
+	terrain="desert"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4323={ #Uninhabitable Desert
+	terrain="desert"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4324={ #Uninhabitable Desert
+	terrain="desert"
+	culture="ammonite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4325={ #Uninhabitable Desert
+	terrain="desert"
+	culture="dammaseqi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4326={ #Uninhabitable Desert
+	terrain="desert_hills"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4410={ #Uninhabitable Desert
+	terrain="desert"
+	culture="diboni"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4411={ #Uninhabitable Desert
+	terrain="desert"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4412={ #Uninhabitable Desert
+	terrain="desert_hills"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4413={ #Uninhabitable Desert
+	terrain="desert_hills"
+	culture="salkhadi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4414={ #Uninhabitable Desert
+	terrain="desert"
+	culture="palmyrene"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4415={ #Uninhabitable Desert
+	terrain="desert"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4417={ #Uninhabitable Desert
+	terrain="desert"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4418={ #Uninhabitable Desert
+	terrain="desert"
+	culture="moabite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4430={ #Uninhabitable Desert
+	terrain="desert"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4627={ #Hement
+	terrain="desert"
+	culture="khademi"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4744={ #Akhabu
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4748={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4750={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4752={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4754={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4755={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4756={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4757={ #Caravan Route
+	terrain="desert"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4758={ #Caravan Route
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4759={ #Caravan Route
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4760={ #Caravan Route
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4761={ #Caravan Route
+	terrain="desert"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4766={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4767={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4768={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4769={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4770={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4771={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4772={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4773={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4774={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4775={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4776={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4777={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4778={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4779={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4780={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4781={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4782={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4783={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4784={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4785={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4786={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4787={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4788={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4789={ #Caravan Route
+	terrain="desert"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4790={ #Caravan Route
+	terrain="desert"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4791={ #Caravan Route
+	terrain="desert"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4815={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4816={ #Desert Mountains
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4817={ #Syrian Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4818={ #The Sahara Desert
+	terrain="impassable_terrain"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4819={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4820={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4821={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4822={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4823={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4824={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4825={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="met_irtan"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4826={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4827={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4828={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="mu_kedi"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4829={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="zyges"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4830={ #Mountain
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4831={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="zyges"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4832={ #Mountain
+	terrain="impassable_terrain"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4833={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="adyrmachidae"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4834={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="zyges"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4835={ #Mount Lebanon
+	terrain="impassable_terrain"
+	culture="phoenician"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4836={ #Mount Lebanon
+	terrain="impassable_terrain"
+	culture="phoenician"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4837={ #Mount Lebanon
+	terrain="impassable_terrain"
+	culture="phoenician"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4838={ #Mount Hermon
+	terrain="impassable_terrain"
+	culture="adyrmachidae"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4839={ #Mountain
+	terrain="impassable_terrain"
+	culture="yarbrudui"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4840={ #Mountain
+	terrain="impassable_terrain"
+	culture="yarbrudui"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4841={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4842={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4843={ #Mountain
+	terrain="impassable_terrain"
+	culture="harrani"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4844={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4845={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4846={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4847={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4848={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4849={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4850={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4851={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4852={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4853={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4854={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4855={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4856={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4857={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4858={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4859={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4860={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4861={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4862={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4863={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4864={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4865={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4866={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4867={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4868={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4869={ #Mountain
+	terrain="impassable_terrain"
+	culture="lydian"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4870={ #Mountain
+	terrain="impassable_terrain"
+	culture="lydian"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4871={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4872={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4873={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4874={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4875={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4876={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4877={ #Mountain
+	terrain="impassable_terrain"
+	culture="almopians"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4878={ #Mountain
+	terrain="impassable_terrain"
+	culture="almopians"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4879={ #Mountain
+	terrain="impassable_terrain"
+	culture="almopians"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4880={ #Mountain
+	terrain="impassable_terrain"
+	culture="derrones"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4881={ #Mountain
+	terrain="impassable_terrain"
+	culture="derrones"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4882={ #Mountain
+	terrain="impassable_terrain"
+	culture="derrones"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4883={ #Mountain
+	terrain="impassable_terrain"
+	culture="derrones"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4884={ #Mountain
+	terrain="impassable_terrain"
+	culture="perrhaebi"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4885={ #Profitis Ide
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4886={ #Mountain
+	terrain="impassable_terrain"
+	culture="minoan"
+	religion="aegean_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4887={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="adyrmachidae"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4888={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4889={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="edomite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4890={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4891={ #Taurus
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4892={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4893={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4894={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4895={ #Mountain
+	terrain="impassable_terrain"
+	culture="almopians"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4896={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4897={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4898={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4899={ #Mountain
+	terrain="impassable_terrain"
+	culture="sapaeans"
+	religion="hellenic_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4900={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4901={ #Mountain
+	terrain="impassable_terrain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4949={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4950={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4951={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4956={ #Caravan Route
+	terrain="desert"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4957={ #Caravan Route
+	terrain="desert"
+	culture="adyrmachidae"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4958={ #Caravan Route
+	terrain="desert"
+	culture="adyrmachidae"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+4959={ #Caravan Route
+	terrain="desert"
+	culture="adyrmachidae"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+5000={ #Dibar Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5001={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5002={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5003={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5004={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5005={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5006={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="halzi_atbari"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5007={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5008={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5009={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5010={ #Mountain
+	terrain="impassable_terrain"
+	culture="amidui"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5011={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5012={ #Mountain
+	terrain="impassable_terrain"
+	culture="shubrian"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5013={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5014={ #Mountain
+	terrain="impassable_terrain"
+	culture="shubrian"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5015={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5016={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5017={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5018={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5019={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5020={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5021={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5022={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5023={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5024={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5025={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5026={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5027={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5028={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5029={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5030={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5031={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5032={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5033={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5034={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5035={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5036={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5037={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5038={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5039={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5040={ #Mountain
+	terrain="impassable_terrain"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5041={ #Mountain
+	terrain="impassable_terrain"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5042={ #Mountain
+	terrain="impassable_terrain"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5043={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5044={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5045={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5046={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5047={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5048={ #Sinjar Mountains
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5049={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5050={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5051={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5052={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5053={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5054={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5055={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5056={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5057={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5058={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5059={ #Mountain
+	terrain="impassable_terrain"
+	culture="haburi"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5060={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5061={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5062={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5063={ #Mountain
+	terrain="impassable_terrain"
+	culture="shubrian"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5064={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5065={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5066={ #Mountain
+	terrain="impassable_terrain"
+	culture="awanite"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5067={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5068={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5069={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5070={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5071={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5072={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5073={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5074={ #Mountain
+	terrain="impassable_terrain"
+	culture="ellipian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5075={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5076={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5077={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5078={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5079={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5080={ #Mountain
+	terrain="impassable_terrain"
+	culture="zaharan"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5081={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5082={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5083={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5084={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5085={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5086={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5087={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5088={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5089={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5090={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5091={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5092={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5093={ #Mountain
+	terrain="impassable_terrain"
+	culture="hidali"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5094={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5095={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5096={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5097={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5098={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5099={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5100={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5101={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5102={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5103={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5104={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5105={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5106={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5107={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5108={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5109={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5110={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5111={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5112={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5113={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5114={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5115={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5116={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5117={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5118={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5119={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5120={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5121={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5122={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5123={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5124={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5125={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5126={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5127={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5128={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5129={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5130={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5131={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5132={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5133={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5134={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5135={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5136={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5137={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5138={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5139={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5140={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5141={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5142={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5143={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5144={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5145={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5146={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5147={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5148={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5149={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5150={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5151={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5152={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5153={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5154={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5155={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5156={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5157={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5158={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5159={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5160={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5161={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5162={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5163={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5164={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5165={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5166={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5167={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5168={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5169={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5170={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5171={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5172={ #Mountain
+	terrain="impassable_terrain"
+	culture="shubrian"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5173={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5174={ #Mountain
+	terrain="impassable_terrain"
+	culture="tukri"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5175={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5176={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5177={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5178={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5179={ #Mountain
+	terrain="impassable_terrain"
+	culture="assyrian"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5180={ #Mountain
+	terrain="impassable_terrain"
+	culture="harrani"
+	religion="hurrian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5181={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5182={ #Mountain
+	terrain="impassable_terrain"
+	culture="maganite"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5183={ #Mountain
+	terrain="impassable_terrain"
+	culture="lower_guti"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5184={ #Mountain
+	terrain="impassable_terrain"
+	culture="anshanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5185={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="amorite"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5186={ #Arabian Desert
+	terrain="impassable_terrain"
+	culture="bedu"
+	religion="canaanite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5187={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="dilmunite"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5188={ #Vast Desert
+	terrain="impassable_terrain"
+	culture="maganite"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5189={ #Mountain
+	terrain="impassable_terrain"
+	culture="maganite"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+6570={ #Uninhabitable Desert
+	terrain="desert"
+	culture="susanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6571={ #Uninhabitable Desert
+	terrain="desert"
+	culture="susanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6572={ #Uninhabitable Desert
+	terrain="desert"
+	culture="susanian"
+	religion="elamite_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6646={ #Uninhabitable Desert
+	terrain="desert"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6720={ #Uninhabitable Desert
+	terrain="desert"
+	culture="shashrumi"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6721={ #Uninhabitable Desert
+	terrain="desert"
+	culture="pulukkui"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+
+6742={ #Euphrat River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+6750={ #Euphrat River
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+6803={ #Persian Gulf
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+6857={ #Uninhabitable Desert
+	terrain="desert"
+	culture="dilmunite"
+	religion="mesopotamian_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+}
+

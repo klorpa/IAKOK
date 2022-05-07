@@ -1,0 +1,439 @@
+﻿4762={ #Hebut
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4763={ #Nut
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4764={ #Feqat
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4765={ #Psôbthis
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4792={ #Qenbet
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4793={ #Par-Mewat
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4794={ #Whet-rasw
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4795={ #Seqai
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4796={ #Nubti
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4797={ #Akhsesef
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4798={ #Nabtu
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4799={ #Fekh
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4800={ #Kenmet
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4801={ #Maqet
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4802={ #Aber
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4803={ #Sekhtu
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4805={ #Qernet
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4806={ #Te-jahew
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4807={ #Ateptu
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4808={ #Ahehi
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4809={ #Qerqer
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4810={ #Nubau
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4811={ #Seshem
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4812={ #Nutiu
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4813={ #Maati
+	terrain="oasis"
+	culture="temehu"
+	religion="egyptian_religion"
+	trade_goods="dates"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+

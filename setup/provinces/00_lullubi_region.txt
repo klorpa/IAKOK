@@ -1,0 +1,1573 @@
+﻿5490={ #Karrishtum
+	terrain="hills"
+	culture="shudamelumi"
+	religion="hurrian_religion"
+	trade_goods="bitumen"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5492={ #Shulmi
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="salt"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5493={ #Hutennu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="leather"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5494={ #Laglagu
+	terrain="hills"
+	culture="shudamelumi"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5495={ #Ibilu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="salt"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5496={ #Humut
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="precious_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5497={ #Kakmum
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="fur"
+	civilization_value=45
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5498={ #Gazalu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="precious_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5499={ #Erishu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5500={ #Dabibu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5538={ #Itati
+	terrain="plains"
+	culture="ardamekumi"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5541={ #Admûmu
+	terrain="plains"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="wild_game"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5542={ #Dalqu
+	terrain="plains"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="hemp"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5543={ #Namarum
+	terrain="plains"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="cloth"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5544={ #Bushtitum
+	terrain="plains"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="wild_game"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5545={ #Aribû
+	terrain="plains"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="cloth"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5566={ #Naqâhu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5567={ #Uzzu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5568={ #Kurkû
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5569={ #Urinnu
+	terrain="plains"
+	culture="lower_guti"
+	religion="hurrian_religion"
+	trade_goods="vegetables"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5570={ #Lurmu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="fur"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5571={ #Aiuru
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5572={ #Mahiru
+	terrain="hills"
+	culture="simurrun"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5573={ #Simurrum
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="honey"
+	civilization_value=45
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		religion="mesopotamian_religion"
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+}
+
+5574={ #Mashtaktu
+	terrain="hills"
+	culture="simurrun"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5575={ #Summulu
+	terrain="hills"
+	culture="simurrun"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5576={ #Naburru
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5577={ #Têrubtu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5578={ #Tu'intu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5579={ #Maggâru
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5580={ #Birmu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5581={ #Urrâkûtu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5582={ #Harshi
+	terrain="plains"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="dates"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5583={ #Ushmittu
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5584={ #Kapsharrûtu
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="honey"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5585={ #Alamgâtu
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="fur"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5586={ #Nikum
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="horses"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5587={ #Gulgullatu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5589={ #Qubûru
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5590={ #Sipittu
+	terrain="plains"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5591={ #Salâ'u
+	terrain="plains"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5592={ #Shalamdu
+	terrain="plains"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods="bitumen"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5593={ #Mûtu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="earthware"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5594={ #Meturna
+	terrain="farmland"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods="bitumen"
+	civilization_value=60
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="lower_guti"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="lower_guti"
+		amount=1
+	}
+}
+
+5595={ #Tâdirti
+	terrain="farmland"
+	culture="akkadian"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value=39
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5596={ #Kaqqudu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="horses"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5597={ #Nakâsu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5598={ #Kimahhu
+	terrain="plains"
+	culture="nikumi"
+	religion="mesopotamian_religion"
+	trade_goods="leather"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5599={ #Pagri
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5601={ #Awal
+	terrain="farmland"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value=39
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5602={ #Arraku
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5603={ #Rûtu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5606={ #Shizû
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5607={ #Pushku
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5608={ #Aslu
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+
+5637={ #Elmêshu
+	terrain="mountain_valley"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5638={ #Kanara
+	terrain="mountain_valley"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="copper"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5639={ #Atlila
+	terrain="mountain_valley"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="wood"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5640={ #Kupru
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5641={ #Pîlânish
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=39
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+5642={ #Rîbu
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value=39
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+5643={ #Sâpinu
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="grain"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+5644={ #Dushû
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="copper"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5645={ #Didallu
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+5646={ #Billu
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value=35
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+5647={ #Adbaru
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value=39
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+5649={ #Dibiru
+	terrain="forest"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="wood"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5650={ #Pettu
+	terrain="forest"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="wood"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5651={ #Ru'tîtu
+	terrain="hills"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="precious_metals"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5654={ #Ziptu
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5655={ #Naptu
+	terrain="hills"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5656={ #Gannanati
+	terrain="plains"
+	culture="lower_guti"
+	religion="mesopotamian_religion"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5657={ #Nitiru
+	terrain="hills"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="precious_metals"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5658={ #Halman
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5659={ #Abrish
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5660={ #Dâme
+	terrain="hills"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="wild_game"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6190={ #Utebbibassu
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="vegetables"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6191={ #Nibi
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="base_metals"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6192={ #Sataru
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="elamite_religion"
+	trade_goods="cattle"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6201={ #Luluban
+	terrain="farmland"
+	culture="lullubi"
+	religion="mesopotamian_religion"
+	trade_goods="horses"
+	civilization_value=60
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6202={ #Sarrum
+	terrain="mountain_valley"
+	culture="halmani"
+	religion="elamite_religion"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6205={ #Nasaqu
+	terrain="hills"
+	culture="halmani"
+	religion="mesopotamian_religion"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6452={ #Ekishnugal
+	terrain="hills"
+	culture="simurrun"
+	religion="hurrian_religion"
+	trade_goods="bitumen"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="mesopotamian_religion"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		religion="mesopotamian_religion"
+		amount=1
+	}
+}
+

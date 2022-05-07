@@ -1,0 +1,980 @@
+﻿431={ #Messolonghi
+	terrain="plains"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4709={ #Aydy
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4710={ #Washta
+	terrain="desert"
+	culture="adyrmachidae"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4711={ #Ahrelma
+	terrain="desert"
+	culture="adyrmachidae"
+	religion="berber_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4712={ #Aghilasse
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4715={ #Adlasse
+	terrain="plains"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4716={ #Ifista
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4717={ #Jaje
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4718={ #Iwarkate
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4719={ #Tassajate
+	terrain="desert"
+	culture="aniritae"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4804={ #Katisa
+	terrain="plains"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4902={ #Shot-jemet
+	terrain="oasis"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods="dates"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4903={ #Batata
+	terrain="plains"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4904={ #Timsahe
+	terrain="plains"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4905={ #Ikhasse
+	terrain="plains"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4906={ #Tyazite
+	terrain="plains"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4907={ #Doupe
+	terrain="plains"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4908={ #Itbirane
+	terrain="plains"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4909={ #Ifile
+	terrain="plains"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4910={ #Zarafate
+	terrain="plains"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4911={ #Yisse
+	terrain="plains"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4912={ #Bitelma
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4913={ #Sabbate
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4914={ #Ponja
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4915={ #Tablate
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="hemp"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4916={ #Sahra
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="hemp"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4917={ #Ourare
+	terrain="desert"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4918={ #Ktabe
+	terrain="desert"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4919={ #Iapicine
+	terrain="desert_hills"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4920={ #Shajrat
+	terrain="forest"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4921={ #Ismade
+	terrain="hills"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4922={ #Tbisha
+	terrain="plains"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="silphium"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4923={ #Shta
+	terrain="forest"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4924={ #Yallise
+	terrain="hills"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4925={ #Argaze
+	terrain="forest"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4926={ #Oustade
+	terrain="hills"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4927={ #Adale
+	terrain="hills"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="earthware"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4928={ #Amallale
+	terrain="forest"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4929={ #Dazirar
+	terrain="hills"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4930={ #Ikwa
+	terrain="hills"
+	culture="libu"
+	religion="berber_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4931={ #Iwsaa
+	terrain="hills"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4932={ #Douke
+	terrain="desert_hills"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4933={ #Doushbihe
+	terrain="desert"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4934={ #Albarrani
+	terrain="hills"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4935={ #Ighla
+	terrain="hills"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4936={ #Dazdade
+	terrain="forest"
+	culture="meshwesh"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4937={ #Irtabe
+	terrain="hills"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4938={ #Aazraye
+	terrain="hills"
+	culture="kehek"
+	religion="berber_religion"
+	trade_goods="base_metals"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4939={ #Imaklate
+	terrain="plains"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4940={ #Ijaffe
+	terrain="plains"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4941={ #Idlame
+	terrain="hills"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4942={ #Oufrishe
+	terrain="plains"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4943={ #Moulou
+	terrain="desert_hills"
+	culture="ashbytae"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4944={ #Afarane
+	terrain="desert"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4945={ #Tifalfalte
+	terrain="hills"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4946={ #Soukkare
+	terrain="hills"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4947={ #Amansy
+	terrain="hills"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4948={ #Ibawane
+	terrain="desert_hills"
+	culture="barcaei"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4952={ #Inka
+	terrain="oasis"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4953={ #Ihla
+	terrain="oasis"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods="reeds"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4954={ #Dakdime
+	terrain="oasis"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4955={ #Takattite
+	terrain="oasis"
+	culture="nasamones"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+

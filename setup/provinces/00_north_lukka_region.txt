@@ -1,0 +1,1130 @@
+﻿1889={ #Ilaniya
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="fur"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2498={ #Mirli
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="base_metals"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2935={ #Punawari
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2955={ #Harmazti
+	terrain="mountain_valley"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2956={ #Utti
+	terrain="mountain_valley"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="honey"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2957={ #Zarza
+	terrain="mountain_valley"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="earthware"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2958={ #Karsti
+	terrain="mountain_valley"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2959={ #Malini
+	terrain="mountain_valley"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2964={ #Ilhati
+	terrain="hills"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2965={ #Lahisti
+	terrain="forest"
+	culture="zumarrian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2966={ #Wisiti
+	terrain="hills"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2967={ #Tiwarsa
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="honey"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2968={ #Alariyas
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2969={ #Harattis
+	terrain="hills"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="honey"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2970={ #Ussalli
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2971={ #Nawis
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+2972={ #Parha
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="earthware"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2979={ #Aruti
+	terrain="forest"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2980={ #Harmanis
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2981={ #Tumzurni
+	terrain="forest"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2982={ #Attarima
+	terrain="hills"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2983={ #Arwalan
+	terrain="farmland"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="leather"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2984={ #Tarwilan
+	terrain="hills"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2985={ #Huiannis
+	terrain="deep_forest"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2986={ #Wizitis
+	terrain="forest"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="precious_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2987={ #Kuizas
+	terrain="hills"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2988={ #Kuwalapassa
+	terrain="farmland"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2989={ #Apamu
+	terrain="forest"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2990={ #Apawi
+	terrain="mountain"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2991={ #Mintammi
+	terrain="farmland"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2992={ #Inankui
+	terrain="mountain_valley"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2993={ #Winawati
+	terrain="mountain_valley"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2994={ #Amuti
+	terrain="mountain_valley"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2995={ #Isnati
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="precious_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3013={ #Wasawis
+	terrain="mountain"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="copper"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3014={ #Sarkuiza
+	terrain="mountain_valley"
+	culture="kuwalapassan"
+	religion="anatolian_religion"
+	trade_goods="stone"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3015={ #Hutarli
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3016={ #Lawar
+	terrain="mountain"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3019={ #Titita
+	terrain="deep_forest"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3020={ #Tideimi
+	terrain="hills"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3021={ #Uruwa
+	terrain="plains"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3022={ #Waralli
+	terrain="mountain"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3023={ #Wassina
+	terrain="mountain"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3024={ #Hishija
+	terrain="mountain"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3025={ #Happisa
+	terrain="deep_forest"
+	culture="siyantian"
+	religion="anatolian_religion"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3026={ #Annan
+	terrain="mountain_valley"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cloth"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3027={ #Ahhalta
+	terrain="mountain_valley"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3028={ #Issasti
+	terrain="mountain_valley"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3029={ #Kummi
+	terrain="forest"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3030={ #Madduli
+	terrain="hills"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3031={ #Nawanun
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3032={ #Nisnija
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="earthware"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3033={ #Uwassa
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3034={ #Parnati
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=4
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3035={ #Tatar
+	terrain="plains"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cloth"
+	civilization_value=29
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3036={ #Uwalant
+	terrain="mountain"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=4
+	barbarian_power=4
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3037={ #Wastara
+	terrain="hills"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3038={ #Nanasri
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="olive"
+	civilization_value=30
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3039={ #Naniziti
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3322={ #Anis
+	terrain="mountain_valley"
+	culture="parhan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3333={ #Ehratta
+	terrain="mountain"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3334={ #Nurina
+	terrain="hills"
+	culture="murillan"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3335={ #Pilani
+	terrain="mountain"
+	culture="murillan"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3336={ #Yuniya
+	terrain="hills"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3338={ #Mussatta
+	terrain="hills"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3339={ #Piyana
+	terrain="farmland"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3340={ #Mutralla
+	terrain="hills"
+	culture="parnatian"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3343={ #Azitta
+	terrain="farmland"
+	culture="murillan"
+	religion="anatolian_religion"
+	trade_goods="wine"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+

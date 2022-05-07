@@ -1,0 +1,799 @@
+﻿3109={ #Egkomi
+	terrain="hills"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="precious_metals"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3115={ #Divera
+	terrain="plains"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3117={ #Panagra
+	terrain="hills"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3118={ #Laphitos
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3119={ #Palealona
+	terrain="forest"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3120={ #Kyrenia
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3121={ #Dikomo
+	terrain="hills"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3123={ #Aghiza
+	terrain="hills"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3124={ #Tamassos
+	terrain="forest"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3125={ #Ediil
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3126={ #Yeri
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3127={ #Ledra
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3128={ #Leucusia
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3129={ #Kythrea
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3130={ #Mora
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3132={ #Pyrga
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3133={ #Kiados
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3134={ #Stylloi
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3135={ #Alasiya
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="saffron"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3136={ #Salamis
+	terrain="farmland"
+	culture="liopetri"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=42
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3137={ #Deryneia
+	terrain="farmland"
+	culture="liopetri"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3138={ #Protaras
+	terrain="plains"
+	culture="liopetri"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3139={ #Liopetri
+	terrain="farmland"
+	culture="liopetri"
+	religion="canaanite_religion"
+	trade_goods="saffron"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3140={ #Ormidhia
+	terrain="forest"
+	culture="liopetri"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3143={ #Pyla
+	terrain="forest"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3144={ #Arsos
+	terrain="forest"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3145={ #Golgoi
+	terrain="farmland"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3146={ #Mouttes
+	terrain="forest"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3147={ #Mathiatis
+	terrain="hills"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3148={ #Larnaca
+	terrain="farmland"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3149={ #Alethriko
+	terrain="hills"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3150={ #Softades
+	terrain="farmland"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3151={ #Alaminos
+	terrain="hills"
+	culture="lacarna"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3192={ #Vounous
+	terrain="plains"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3193={ #Kharkeia
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3194={ #Kalograia
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3195={ #Artemi
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3196={ #Trikomo
+	terrain="forest"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3197={ #Akanthou
+	terrain="forest"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3198={ #Davlos
+	terrain="forest"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3199={ #Alaas
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3201={ #Ralateia
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3203={ #Neta
+	terrain="hills"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3204={ #Rialonsa
+	terrain="farmland"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3206={ #Rizokarpaso
+	terrain="plains"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3207={ #Cape Andreas
+	terrain="plains"
+	culture="enkomi"
+	religion="canaanite_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+

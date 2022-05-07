@@ -1,0 +1,775 @@
+﻿3101={ #Morphou
+	terrain="farmland"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=3
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3102={ #Alonia
+	terrain="farmland"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3103={ #Deneia
+	terrain="hills"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=9
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3104={ #Orounta
+	terrain="hills"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=24
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3105={ #Lazanias
+	terrain="mountain"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=3
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3106={ #Ora
+	terrain="mountain"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=4
+	barbarian_power=3
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3107={ #Arediou
+	terrain="forest"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3108={ #Kapedes
+	terrain="forest"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3110={ #Philia
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3112={ #Kyra
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3113={ #Khrysiliou
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3114={ #Irini
+	terrain="farmland"
+	culture="kyrenia"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3152={ #Trelloukas
+	terrain="farmland"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3153={ #Kalabasos
+	terrain="farmland"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3154={ #Mavroraki
+	terrain="farmland"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3156={ #Amathus
+	terrain="hills"
+	culture="mavroraki"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3157={ #Akrounta
+	terrain="mountain_valley"
+	culture="bamboula"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3159={ #Limassol
+	terrain="farmland"
+	culture="bamboula"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3160={ #Asomatos
+	terrain="farmland"
+	culture="bamboula"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3161={ #Bamboula
+	terrain="farmland"
+	culture="bamboula"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3163={ #Sotira
+	terrain="hills"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3164={ #Alassa
+	terrain="mountain_valley"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3165={ #Anogyra
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3166={ #Kouklia
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3167={ #Mandria
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3168={ #Nata
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3169={ #Arminou
+	terrain="mountain_valley"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3170={ #Pappa
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3171={ #Lakkous
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3172={ #Mesana
+	terrain="mountain"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3173={ #Lemona
+	terrain="hills"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3174={ #Skalia
+	terrain="forest"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3175={ #Kissonerga
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3176={ #Drouseia
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3177={ #Lysos
+	terrain="hills"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3178={ #Marion
+	terrain="hills"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3179={ #Yialia
+	terrain="hills"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3181={ #Kampos
+	terrain="hills"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3182={ #Mylikouri
+	terrain="mountain"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3184={ #Vouni
+	terrain="farmland"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3186={ #Ambelikou
+	terrain="forest"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3187={ #Elia
+	terrain="plains"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3188={ #Nikitari
+	terrain="forest"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3190={ #Agros
+	terrain="mountain"
+	culture="morphoui"
+	religion="canaanite_religion"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3191={ #Zoopigi
+	terrain="mountain"
+	culture="bamboula"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3202={ #Amorosa
+	terrain="farmland"
+	culture="kouklia"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+

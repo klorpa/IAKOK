@@ -1,0 +1,1227 @@
+﻿3064={ #Aziti
+	terrain="hills"
+	culture="uran"
+	religion="anatolian_religion"
+	trade_goods="fish"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3345={ #Ân-sse-na
+	terrain="plains"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="salt"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3346={ #Lamiya
+	terrain="farmland"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3347={ #Kul-tân-i
+	terrain="hills"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3348={ #Et-i-tta
+	terrain="forest"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3349={ #Lefa-ssi
+	terrain="forest"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3350={ #Ânol-i-a
+	terrain="farmland"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="olive"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3351={ #Pass-i-tan
+	terrain="deep_forest"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3352={ #Tiwê-tta
+	terrain="hills"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3353={ #Ôs-i-tta
+	terrain="hills"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3354={ #Pal-et-i
+	terrain="forest"
+	culture="lamiyans"
+	religion="anatolian_religion"
+	trade_goods="fur"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3355={ #Saliya
+	terrain="farmland"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3356={ #Lefa-le
+	terrain="hills"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3357={ #Seni-sse
+	terrain="forest"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="fur"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3358={ #Tân-au-te
+	terrain="deep_forest"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3359={ #Tarsa
+	terrain="farmland"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="saffron"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	holy_site=omen_shanta
+}
+
+3360={ #Uffu-nna
+	terrain="farmland"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="saffron"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3361={ #Et-i-tân
+	terrain="farmland"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3362={ #Wêna-tân-i
+	terrain="farmland"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="saffron"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3363={ #Pal-ôs-i
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="dye"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3364={ #Tân-et-i
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3365={ #Kepâssi
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3366={ #Kos-itt-ôs
+	terrain="hills"
+	culture="adaniyans"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3367={ #Mân-i-a
+	terrain="forest"
+	culture="hatti"
+	religion="anatolian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3368={ #Adaniya
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="earthware"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3369={ #Tiwêna
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3370={ #Mâ-sse
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="olive"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3371={ #Koz-tân
+	terrain="farmland"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="olive"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3372={ #Ûr-i-nna
+	terrain="farmland"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="saffron"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3373={ #Tân-ôs-a
+	terrain="hills"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3374={ #Seniffuta
+	terrain="forest"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="wild_game"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3375={ #Lefa-tta
+	terrain="hills"
+	culture="tarsans"
+	religion="anatolian_religion"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3376={ #Kul-itt-e
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3377={ #Ôs-i-mâ
+	terrain="mountain_valley"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3378={ #Paduwanda
+	terrain="mountain_valley"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="precious_metals"
+	civilization_value=45
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3379={ #Kul-le
+	terrain="mountain_valley"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="precious_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3380={ #Lefa-tta
+	terrain="mountain_valley"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="tin"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3381={ #Kepânol
+	terrain="deep_forest"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3382={ #Pal-lae
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3383={ #Pass-ien
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3384={ #Ûr-i-uffa
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="earthware"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3385={ #Pal-i-mâ
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3386={ #Pass-êt-i
+	terrain="hills"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3387={ #Koz-ôs-o
+	terrain="forest"
+	culture="hatti"
+	religion="hurrian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3388={ #Aw-i-ab
+	terrain="forest"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3389={ #Asti-ri
+	terrain="deep_forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="fur"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3390={ #Aw-keri
+	terrain="forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3391={ #Su-mitti
+	terrain="forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3392={ #Radi-inu
+	terrain="forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wild_game"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3393={ #Apsi-ri
+	terrain="deep_forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3394={ #Ban-tiye
+	terrain="forest"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3395={ #Tima-ri
+	terrain="hills"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3396={ #Sawayri
+	terrain="hills"
+	culture="zarunans"
+	religion="hurrian_religion"
+	trade_goods="wine"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3399={ #Simi-siwe
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+}
+
+3400={ #Un-itti
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="saffron"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3402={ #Xas-ri
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3403={ #Bi-eradi
+	terrain="farmland"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="dye"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3404={ #Wi-uzi
+	terrain="farmland"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3405={ #Kiga-tumni
+	terrain="marsh"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="reeds"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3406={ #Sini-tti
+	terrain="marsh"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3407={ #Undu
+	terrain="marsh"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3408={ #Su-kki
+	terrain="marsh"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="salt"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3409={ #Sua-lla
+	terrain="plains"
+	culture="tarsans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3411={ #Tali
+	terrain="farmland"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3412={ #Erwi
+	terrain="marsh"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3413={ #Aw-iti
+	terrain="farmland"
+	culture="siyekigans"
+	religion="hurrian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3414={ #Te-u-na
+	terrain="plains"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="leather"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3415={ #Nariya
+	terrain="plains"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="horses"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3416={ #Sini-kiga
+	terrain="plains"
+	culture="adaniyans"
+	religion="hurrian_religion"
+	trade_goods="leather"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3418={ #Mani-abba
+	terrain="plains"
+	culture="siyekigans"
+	religion="hurrian_religion"
+	trade_goods="earthware"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3419={ #Fe-sa-tti
+	terrain="farmland"
+	culture="siyekigans"
+	religion="hurrian_religion"
+	trade_goods="olive"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3423={ #Ese-siye
+	terrain="plains"
+	culture="siyekigans"
+	religion="hurrian_religion"
+	trade_goods="horses"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3446={ #Mani-aw-i
+	terrain="farmland"
+	culture="izziyans"
+	religion="hurrian_religion"
+	trade_goods="fish"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3447={ #Malluma
+	terrain="farmland"
+	culture="izziyans"
+	religion="hurrian_religion"
+	trade_goods="saffron"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+

@@ -1,0 +1,1221 @@
+﻿3609={ #Malid
+	terrain="desert_valley"
+	culture="ahrasi"
+	religion="hurrian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3612={ #Baszkuj
+	terrain="desert_valley"
+	culture="ahrasi"
+	religion="hurrian_religion"
+	trade_goods="base_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3613={ #Miskan
+	terrain="desert_valley"
+	culture="hazazui"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3614={ #Rifat
+	terrain="hills"
+	culture="hazazui"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3626={ #At-Tamura
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="horses"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3627={ #Bayanoun
+	terrain="hills"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3629={ #Shair
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3630={ #Hajlan
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="ivory"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3631={ #Hraytan
+	terrain="hills"
+	culture="hazazui"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3632={ #Hazazu
+	terrain="hills"
+	culture="hazazui"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=49
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3633={ #Arpadda
+	terrain="farmland"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=59
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3634={ #Sajfat
+	terrain="hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3635={ #Anadan
+	terrain="desert_hills"
+	culture="hazazui"
+	religion="canaanite_religion"
+	trade_goods="copper"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3636={ #A'wejel
+	terrain="desert_hills"
+	culture="ahrasi"
+	religion="hurrian_religion"
+	trade_goods="leather"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3637={ #Tadil
+	terrain="desert_hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3638={ #Takad
+	terrain="hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3639={ #A'ajel
+	terrain="hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3640={ #Basratun
+	terrain="hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="olive"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3641={ #Zerbeh
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="wine"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3642={ #Barfoum
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3643={ #Qanater
+	terrain="farmland"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3644={ #Arada
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3645={ #Zitan
+	terrain="hills"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3646={ #Birnah
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="horses"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3647={ #Hadher
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3648={ #Sahrij
+	terrain="hills"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="honey"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3650={ #Jallas
+	terrain="hills"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="wood"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3651={ #Halab
+	terrain="farmland"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=2
+	}
+	holy_site=omen_hadad
+}
+
+3652={ #Amim
+	terrain="desert_hills"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3653={ #Arnê
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3654={ #Nerab
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3655={ #Afes
+	terrain="hills"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="honey"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3656={ #Sarmin
+	terrain="hills"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3721={ #Latma
+	terrain="hills"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3722={ #Tobeh
+	terrain="plains"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3723={ #Bared
+	terrain="plains"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3724={ #Eljem
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3725={ #Pitûru
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="ivory"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3726={ #Kanfo
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3727={ #Qren
+	terrain="farmland"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="ivory"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3728={ #Azû
+	terrain="farmland"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=59
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3740={ #Mahrusah
+	terrain="plains"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3743={ #Tremseh
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3744={ #Tuba
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="stone"
+	civilization_value=54
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3745={ #Chbouq
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3746={ #Kfartayeh
+	terrain="plains"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3747={ #Qabou
+	terrain="plains"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="cloth"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3748={ #Mizan
+	terrain="plains"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3749={ #Marjaba
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3750={ #Jouar
+	terrain="plains"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3751={ #Mrouj
+	terrain="plains"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="horses"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3752={ #Qach
+	terrain="plains"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="leather"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3753={ #Hemlaya
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="horses"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3754={ #Sfayleh
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3755={ #Qlayaat
+	terrain="hills"
+	culture="tobeh"
+	religion="canaanite_religion"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3756={ #Houz
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="dates"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3757={ #Harf
+	terrain="plains"
+	culture="arpadda"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3758={ #Arsoun
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3759={ #Ya'ir
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="earthware"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3760={ #Falame
+	terrain="plains"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+3761={ #Eliyahu
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="vegetables"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3762={ #Qalqiya
+	terrain="farmland"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="ivory"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3763={ #Bêrl
+	terrain="farmland"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="reeds"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+}
+
+3764={ #Tirah
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3766={ #Vered
+	terrain="plains"
+	culture="karkamisa"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3767={ #Zoran
+	terrain="desert"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+3768={ #Elishama
+	terrain="desert_hills"
+	culture="hermeshite"
+	religion="canaanite_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3769={ #Adanim
+	terrain="desert"
+	culture="halabi"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4001={ #Temara
+	terrain="desert"
+	culture="arnite"
+	religion="canaanite_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4434={ #Reham
+	terrain="farmland"
+	culture="emarite"
+	religion="canaanite_religion"
+	trade_goods="ivory"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4435={ #Jabria
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+4436={ #Basîru
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+4437={ #Surun
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+4438={ #Natkina
+	terrain="farmland"
+	culture="piturui"
+	religion="canaanite_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+

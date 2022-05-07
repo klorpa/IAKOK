@@ -1,0 +1,1583 @@
+﻿1258={ #Maheb
+	terrain="desert"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+1423={ #Kenem
+	terrain="desert"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1637={ #Manutut
+	terrain="plains"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+1640={ #Atfui
+	terrain="desert"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2319={ #Khemt
+	terrain="desert"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=4
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+2320={ #Khensu
+	terrain="desert"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+2340={ #Mermer
+	terrain="desert"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+4503={ #Shuti
+	terrain="marsh"
+	culture="djeduans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4504={ #Sukha
+	terrain="marsh"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="hemp"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4505={ #Thephet
+	terrain="flood_plain"
+	culture="tjebjuteri"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4507={ #Nitret
+	terrain="flood_plain"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4508={ #Habeq
+	terrain="flood_plain"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4510={ #Sukati
+	terrain="marsh"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=23
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4511={ #Semabehdet
+	terrain="flood_plain"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4512={ #Senfekhfekh
+	terrain="marsh"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4513={ #Hapu
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4516={ #Thesau
+	terrain="marsh"
+	culture="semabehdetans"
+	religion="egyptian_religion"
+	trade_goods="hemp"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4517={ #Haaker
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4518={ #Nenunser
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4523={ #Setennu
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4524={ #Kherp
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4525={ #Menthu
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4526={ #Taremu
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4527={ #Sutenit
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4528={ #Ta-meyt
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4529={ #Resenet
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4530={ #Weprehwy
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4531={ #Djedet
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4532={ #Ra-nefer
+	terrain="marsh"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=23
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4533={ #Sekhemu
+	terrain="marsh"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4534={ #Sebeh
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4535={ #Shabu
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="hemp"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4536={ #Tamiat
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4537={ #Thanasa
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4538={ #Kheseft
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4539={ #Re-hent
+	terrain="flood_plain"
+	culture="setennuans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4540={ #Hauatu
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4541={ #Per-shat
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4542={ #Sekhef
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4543={ #Nefer-her
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4544={ #Sebeku
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4554={ #Rekhes
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4555={ #Shepent
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4556={ #Per-Bast
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+	holy_site=omen_bastet
+}
+
+4557={ #Setchit
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4558={ #Sednaw
+	terrain="flood_plain"
+	culture="djetans"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4559={ #Nepert
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4560={ #Tetrit
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4561={ #Mestu
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4562={ #Haret
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+}
+
+4563={ #Hut-waret
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4564={ #Per-Ramesses
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4565={ #Djanet
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4566={ #Hetem
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4567={ #Makha
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4568={ #Jemt
+	terrain="marsh"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4569={ #Neb-nun-naswet
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4570={ #Birst
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="hemp"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4571={ #Senemti
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="fish"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+4572={ #Setcheser
+	terrain="marsh"
+	culture="deltans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4573={ #Aaqer
+	terrain="marsh"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4578={ #Tchefau
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4579={ #Shenat
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4580={ #Hatatu
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4581={ #Nehebet
+	terrain="flood_plain"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4582={ #Khamesu
+	terrain="flood_plain"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4583={ #Per-Sopdu
+	terrain="flood_plain"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4584={ #Taiu
+	terrain="flood_plain"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4585={ #Senehep
+	terrain="flood_plain"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4586={ #Teben
+	terrain="flood_plain"
+	culture="hut_waretans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4587={ #Renpit
+	terrain="flood_plain"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4588={ #Tjaru
+	terrain="flood_plain"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=5
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4589={ #Per-Amun
+	terrain="flood_plain"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4590={ #Senqet
+	terrain="plains"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="salt"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4631={ #Per-Atum
+	terrain="plains"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=50
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4632={ #Remu
+	terrain="desert"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+4633={ #Mesbeb
+	terrain="plains"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+4634={ #Tchara
+	terrain="plains"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4635={ #Thehent
+	terrain="plains"
+	culture="tjaruans"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4636={ #Tekwa
+	terrain="plains"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4637={ #Kersher
+	terrain="plains"
+	culture="per_sopduans"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4638={ #Sehura
+	terrain="plains"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+4639={ #Hennuti
+	terrain="plains"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+4640={ #Apten
+	terrain="flood_plain"
+	culture="per_bastans"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="canaanite"
+		religion="canaanite_religion"
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6891={ #Rekuti
+	terrain="desert"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6892={ #Nestet
+	terrain="desert"
+	culture="per_atumans"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+

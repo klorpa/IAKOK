@@ -1,0 +1,1312 @@
+﻿20={ #Drialos
+	terrain="farmland"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="honey"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+28={ #Paralía
+	terrain="farmland"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="earthware"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+47={ #Asprókhoma
+	terrain="hills"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="base_metals"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+48={ #Velika
+	terrain="farmland"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+49={ #Arfará
+	terrain="farmland"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=1
+	}
+}
+
+50={ #Mezana
+	terrain="farmland"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+51={ #Meligalás
+	terrain="hills"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+53={ #Diodia
+	terrain="forest"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+54={ #Korone
+	terrain="hills"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+55={ #Asine
+	terrain="farmland"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="earthware"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+56={ #Iamia
+	terrain="forest"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+60={ #Gialova
+	terrain="farmland"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+61={ #Vlakhópoulon
+	terrain="hills"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="stone"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+62={ #Lefki
+	terrain="plains"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+63={ #Mouzaki
+	terrain="farmland"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+64={ #Marathó
+	terrain="farmland"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="hemp"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+65={ #Kalonero
+	terrain="forest"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="leather"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+66={ #Phigalia
+	terrain="hills"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+68={ #Lepreo
+	terrain="farmland"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+108={ #Pylos
+	terrain="farmland"
+	culture="pylians"
+	religion="aegean_religion"
+	trade_goods="cloth"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	holy_site=omen_poseidawonos
+}
+
+146={ #Kleitor
+	terrain="hills"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="honey"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+147={ #Dara
+	terrain="mountain"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="stone"
+	civilization_value=2
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+149={ #Lapathia
+	terrain="farmland"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+150={ #Aroania
+	terrain="forest"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+154={ #Nemouta
+	terrain="hills"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+156={ #Karmio
+	terrain="mountain_valley"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="stone"
+	civilization_value=2
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+157={ #Hypsos
+	terrain="farmland"
+	culture="parrhasians"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+158={ #Dimitsana
+	terrain="forest"
+	culture="parrhasians"
+	religion="aegean_religion"
+	trade_goods="fur"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+161={ #Karnasi
+	terrain="hills"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+162={ #Akovos
+	terrain="forest"
+	culture="sciritae"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+164={ #Sami
+	terrain="hills"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+166={ #Olympia
+	terrain="forest"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+167={ #Pednelissos
+	terrain="farmland"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="fruits"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+168={ #Aspendos
+	terrain="deep_forest"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="wild_game"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+169={ #Pyrgos
+	terrain="farmland"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+170={ #Termessos
+	terrain="hills"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+171={ #Isinda
+	terrain="deep_forest"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="fur"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+172={ #Letrini
+	terrain="plains"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+173={ #Kouzouli
+	terrain="farmland"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+}
+
+174={ #Elis
+	terrain="forest"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+175={ #Marathea
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+176={ #Gastouni
+	terrain="plains"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+177={ #Kyllene
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="tin"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+178={ #Mirsini
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+180={ #Areti
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+181={ #Pharae
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+183={ #Pareikhos
+	terrain="plains"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+185={ #Dyme
+	terrain="farmland"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="cloth"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+}
+
+186={ #Pigadia
+	terrain="deep_forest"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+187={ #Roupakia
+	terrain="deep_forest"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+188={ #Kaminia
+	terrain="farmland"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+189={ #Mazarakion
+	terrain="farmland"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+190={ #Kalentzi
+	terrain="hills"
+	culture="acroreians"
+	religion="aegean_religion"
+	trade_goods="base_metals"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+191={ #Olenos
+	terrain="farmland"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="honey"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+192={ #Leontion
+	terrain="mountain_valley"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="stone"
+	civilization_value=2
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+194={ #Patrae
+	terrain="hills"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="fish"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+195={ #Panormos
+	terrain="farmland"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="hemp"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+196={ #Aegion
+	terrain="farmland"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+197={ #Rododafni
+	terrain="hills"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+198={ #Keryneia
+	terrain="hills"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+199={ #Diakopto
+	terrain="plains"
+	culture="aegialeans"
+	religion="aegean_religion"
+	trade_goods="honey"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+456={ #Oeneidae
+	terrain="hills"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+641={ #Kamaria
+	terrain="forest"
+	culture="messenians"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1217={ #Skillous
+	terrain="farmland"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="olive"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1389={ #Myrsinos
+	terrain="hills"
+	culture="eleans"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1489={ #Brenthe
+	terrain="forest"
+	culture="parrhasians"
+	religion="aegean_religion"
+	trade_goods="wood"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1497={ #Makistos
+	terrain="farmland"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="stone"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+}
+
+1530={ #Owla
+	terrain="plains"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1574={ #Vorso
+	terrain="farmland"
+	culture="parrhasians"
+	religion="aegean_religion"
+	trade_goods="salt"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1577={ #Efkiroti
+	terrain="farmland"
+	culture="azanes"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1627={ #Itubwa
+	terrain="mountain"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="fur"
+	civilization_value=2
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2195={ #Leuktron
+	terrain="hills"
+	culture="sciritae"
+	religion="aegean_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2508={ #Lykosoura
+	terrain="hills"
+	culture="parrhasians"
+	religion="aegean_religion"
+	trade_goods="wine"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2511={ #Theisoa
+	terrain="plains"
+	culture="triphylians"
+	religion="aegean_religion"
+	trade_goods="earthware"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2513={ #Phrixa
+	terrain="farmland"
+	culture="pisatae"
+	religion="aegean_religion"
+	trade_goods="grain"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+

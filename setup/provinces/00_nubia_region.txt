@@ -1,0 +1,1647 @@
+﻿13={ #Usesh
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+117={ #Uta
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1162={ #Mehtiu
+	terrain="desert_hills"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1165={ #Mekhsu
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1182={ #Meska
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1186={ #Naarik
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1197={ #Nakeka
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1198={ #Nub-heh
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1235={ #Nepra
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1245={ #Nef-ur
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1248={ #Neferu
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="ivory"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1249={ #Heratu
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1252={ #Nesbi
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1255={ #Nekhekh
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1271={ #Netcheru
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1281={ #Amithu
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=20
+	barbarian_power=3
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1282={ #Cheset
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1288={ #Kerma
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=55
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1299={ #Rekhit
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1304={ #Renp-ta
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1307={ #Renpit
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1310={ #Ermentu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1315={ #Rehebu
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=20
+	barbarian_power=4
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1318={ #Hewt Netr
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1326={ #Rertu-nefu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1327={ #Re-henent
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="base_metals"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1336={ #Iken
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1338={ #Reqau
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1392={ #Chenem-Waset
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1458={ #Buhen
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1459={ #Teherau
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1465={ #Atert
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1472={ #Ashta
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1491={ #Asartiu
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="fruits"
+	civilization_value=34
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+1519={ #Sehnen
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1521={ #Akhser
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1542={ #Anemsit
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1555={ #Amt-tehen
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1580={ #Ahibit
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1600={ #Ashemu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1602={ #Uhemu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1606={ #Ukheb
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1677={ #Kheset
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+1683={ #Hept-ur
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2245={ #Tebu
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2249={ #Setetu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2255={ #Setupt
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2271={ #Bessu
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2336={ #Urtut
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2339={ #Ustesh
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2343={ #Nekut
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2383={ #Nebti
+	terrain="plains"
+	culture="swenettan"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		culture="nertian"
+		religion="egyptian_religion"
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2384={ #Wabt
+	terrain="plains"
+	culture="swenettan"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		culture="nertian"
+		religion="egyptian_religion"
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2387={ #Seshit
+	terrain="plains"
+	culture="swenettan"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		culture="nertian"
+		religion="egyptian_religion"
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2390={ #Netert
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2392={ #Hetemit
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2395={ #Petchu
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2397={ #Nenit
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2398={ #Shefshefit
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2402={ #Abraskti
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2404={ #Aper-peh
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="gems"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2407={ #Uput
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2409={ #Amentiu
+	terrain="plains"
+	culture="nertian"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2412={ #Pertcha
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2414={ #Perrites
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="honey"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2417={ #Mesut
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="earthware"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2419={ #Netchem
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2423={ #Hetut
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2426={ #Uhennu
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2428={ #Atur-ti
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2437={ #Ahait
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2438={ #Khept
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2439={ #Abahûdah
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2440={ #Meha
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2444={ #Tuat
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="base_metals"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2445={ #Netchses
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2446={ #Khakhat
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="papyrus"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2448={ #Baksut
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="vegetables"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2456={ #Bagasa
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2460={ #Senther
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="reeds"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2461={ #Atekh
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2464={ #Pekhut
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2468={ #Nefit
+	terrain="plains"
+	culture="medjayan"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2469={ #Hebut
+	terrain="plains"
+	culture="haterti"
+	religion="egyptian_religion"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2520={ #Atur-res
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="wild_game"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+2537={ #Atum
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="fur"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2556={ #Neferut
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="cloth"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2561={ #Nubit
+	terrain="plains"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2628={ #Metut
+	terrain="flood_plain"
+	culture="kerman"
+	religion="egyptian_religion"
+	trade_goods="grain"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3111={ #Perit
+	terrain="desert_hills"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="precious_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3122={ #Pertiu
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="cattle"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3131={ #Perkh
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="base_metals"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3205={ #Pestu
+	terrain="plains"
+	culture="ikenen"
+	religion="egyptian_religion"
+	trade_goods="leather"
+	civilization_value=25
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
