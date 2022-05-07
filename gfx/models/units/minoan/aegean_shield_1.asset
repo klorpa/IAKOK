@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "aegean_shield_1_mesh"
+	file = "aegean_shield_1.mesh"
+
+	meshsettings = {
+		name = "aegean_shield_1Shape"
+		index = 0
+		texture_diffuse = "aegean_shield_1_diffuse.dds"
+		texture_normal = "aegean_shield_1_normal.dds"
+		texture_specular = "aegean_shield_1_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "aegean_shield_1_entity"
+	pdxmesh = "aegean_shield_1_mesh"
+}

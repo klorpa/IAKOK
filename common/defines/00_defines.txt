@@ -1,6 +1,6 @@
 ﻿NGame = {
-	START_DATE = "1292.11.19"
-	END_DATE = "1667.1.1"
+	START_DATE = "785.1.1"
+	END_DATE = "5000.2.17"
 	GAME_SPEED_TICKS = {	 #how many seconds should a day take in every game speed
 		1
 		0.75
@@ -9,21 +9,21 @@
 		0.0
 	}
 	COMBAT_TICK_LIMIT = 1
-	HOTJOIN_TICK_LIMIT = 2
+	HOTJOIN_TICK_LIMIT = 3
 	IMPERIAL_GLORY_RANK = 10
 	SCORE_START_MAX = 500
 	SCORE_START_BASE = 50
-	SCORE_START_POP_WEIGHT = 0.45
+	SCORE_START_POP_WEIGHT = 0.25
 	
-	MIN_MERCENARIES_PER_REGION = 3
-	MERCENARIES_CITY_THRESHOLD = 50
+	MIN_MERCENARIES_PER_REGION = 1
+	MERCENARIES_CITY_THRESHOLD = 70
 	MERCENARIES_PER_CITY = 0.1
 	
 	MERCENARY_BASE_AMOUNT = 2
-	MERCENARY_PER_POP_SCALE = 0.075
-	MERCENARY_AMOUNT_DEVIATION = 0.15 
-	PIRATE_BASE_AMOUNT = 8
-	PIRATE_PER_POP_SCALE = 0.05
+	MERCENARY_PER_POP_SCALE = 0.03
+	MERCENARY_AMOUNT_DEVIATION = 0.25 
+	PIRATE_BASE_AMOUNT = 10
+	PIRATE_PER_POP_SCALE = 0.03
 	PIRATE_SIZE_MAX = 18
 	PIRATE_COOLDOWN_MONTHS = 24
 	PIRATE_RAIDING_MONTHS = 6
@@ -33,13 +33,12 @@
 	
 	EVENT_TIMEOUT_DAYS = 90
 	AUTOPEACE_DAYS_SINCE_LAST_BATTLE = 1080 # No automatic whitepeace if there's been a battle in the war within this defined amount
-
-	STARTING_COHORTS_PER_MANPOWER = 0.2
-	STARTING_SHIPS_PER_PORT_POPULATION = 0.06
+	
+	STARTING_COHORTS_PER_MANPOWER = 0.15
+	STARTING_SHIPS_PER_PORT_POPULATION = 0.1
 }
 
 NCountry = {
-
 	MINIMUM_POLITICAL_INFLUENCE = -100
 	MAXIMUM_POLITICAL_INFLUENCE = 500
 	STARTING_POLITICAL_INFLUENCE = 100
@@ -56,23 +55,23 @@ NCountry = {
 	STABILITY_BLOCK_THRESHOLD = 20
 	INTEGRATE_MIN_COST = 10
 	INTEGRATE_COST_PER_POP = 0.75
-	MINIMUM_COLONISATION_POP = 10 #Modified
-	MAX_COLONISATION_BARB_IN_TARGET = 2
-	FORT_MAINTENANCE = 0.4
+	MINIMUM_COLONISATION_POP = 8
+	MAX_COLONISATION_BARB_IN_TARGET = 3
+	FORT_MAINTENANCE = 0.5
 	
 	BASE_FORT_LIMIT_PER_STATE = 5
 	FIRST_FORT_COST_IN_POINTS = 3 # Is measured against BASE_FORT_LIMIT_PER_STATE. This applies for the first fort in every province - every other fort in the same province is 1 point towards this limit
 	
-	LAND_MAINTENANCE_FACTOR = 0.25 
-	NAVAL_MAINTENANCE_FACTOR = 0.2
+	LAND_MAINTENANCE_FACTOR = 0.35 
+	NAVAL_MAINTENANCE_FACTOR = 0.4
 	MERCENARY_MAINTENANCE = 1.5
-	RETINUE_MAINTENANCE = 0.0
+	RETINUE_MAINTENANCE = 0.1
 	DISBAND_PAYOFF_FACTOR = 0.15
 	MERCENARY_DEBT_THRESHOLD = 1.0
 	
 	INNOVATIONS_PER_TECHLEVEL = 1.00
 	
-	SLAVE_DISTRO_MIN_NUM_OF_STATES = 3  #Slaves captured will be distributed to these number of states near the capital plus capital unless there are less states 
+	SLAVE_DISTRO_MIN_NUM_OF_STATES = 8  #Slaves captured will be distributed to these number of states near the capital plus capital unless there are less states 
 
 	MAX_RETINUE_MAN_POWER_ALLOCATION = 0.33 #How much percentage of max manpower of a country is allocated to retinues
 	
@@ -87,10 +86,10 @@ NCountry = {
 	
 	
 	RANK_MIGRANT_HORDE = 0
-	RANK_CITY_STATE = 5
-	RANK_LOCAL_POWER = 25
-	RANK_REGIONAL_POWER = 100
-	RANK_MAJOR_POWER = 250
+	RANK_CITY_STATE = 3
+	RANK_LOCAL_POWER = 40
+	RANK_REGIONAL_POWER = 200
+	RANK_MAJOR_POWER = 500
 	
 	
 	LOYAL_TROOPS_MAINTENANCE_FACTOR = 0.66
@@ -100,26 +99,26 @@ NCountry = {
 	MAX_MANPOWER_YEARS = 11
 	TECH_ENTRY_YEARS = 16
 	UNREST_MONTHLY_REDUCTION = -0.1
-	POPS_PER_BUILDING = 10
+	POPS_PER_BUILDING = 25
 	ALERT_HIGH_WAR_EXHAUSTION = 8
 	TECH_AHEAD_OF_TIME = -0.12
 	TECH_BEHIND_OF_TIME = -0.12
 	OMEN_DURATION = 1825
 
-	BASE_CONTROL_RANGE = 650
+	BASE_CONTROL_RANGE = 500
 	
 
 	
 	
 	
-	CIVIL_WAR_STATES_THRESHOLD = 1
-	CIVIL_WAR_CITIES_THRESHOLD = 2
+	CIVIL_WAR_STATES_THRESHOLD = 2
+	CIVIL_WAR_CITIES_THRESHOLD = 3
 	
 	
-	CIVIL_WAR_MONTHLY_TICK = 5 
-	REVOLT_MONTHLY_TICK = 2.5 
+	CIVIL_WAR_MONTHLY_TICK = 5
+	REVOLT_MONTHLY_TICK = 2.5
 	
-	LOYALTY_INCREASE_AT_CIVIL_WAR_OR_REBELLION = 50
+	LOYALTY_INCREASE_AT_CIVIL_WAR_OR_REBELLION = 20
 	
 	
 	
@@ -142,7 +141,7 @@ NCountry = {
 	BAD_RESEARCH_RATIO = 66 #Entirely arbitrary number where we'll want to alert player.
 	MAX_RESEARCH_EFFICIENCY = 1.25 #multiply by 100 to receive initial base max research efficiency. Global modifier is applied on top of this.
 	
-	BASE_NAVAL_RANGE = 300
+	BASE_NAVAL_RANGE = 500
 
 	POTENTIAL_MISSION_COUNT = 4 # Number of random missions to pick between
 
@@ -169,12 +168,12 @@ NCountry = {
 
 
 NPowerBase = {
-	FROM_TITLE = 2
-	LOYAL_COHORTS = 100
+FROM_TITLE = 2
+	LOYAL_COHORTS = 120
 	LOYAL_VETERANS = 5
 	NON_LOYAL_COHORTS = 30
 	SHIPS = 10
-	GOVERNOR_POP = 70
+	GOVERNOR_POP = 160
 	RULER_POP = 20
 	HOLDINGS = 50
 	HEAD_OF_FAMILY = 120
@@ -185,15 +184,15 @@ NPowerBase = {
 NPop = {
 	PROMOTE_DEMOTE_THRESHOLD = 0.005	#percentage above desired ratio before demote.
 	HAPPYNESS_FOR_UNREST_THRESHOLD = 0.5
-	PRIMARY_CULTURE_HAPPINESS = 0.3
-	WRONG_CULTURE_GROUP_HAPPYNESS = 0.12
+	PRIMARY_CULTURE_HAPPINESS = 0.25
+	WRONG_CULTURE_GROUP_HAPPYNESS = -0.15
 	WRONG_CULTURE_HAPPYNESS = 0.2
-	WRONG_RELIGION_HAPPNESS = 0
+	WRONG_RELIGION_HAPPNESS = -0.1
 	WRONG_GOVERNOR_RELIGION_HAPPYNESS = -0.06
 	DEITY_SAME_RELIGION_HAPPINESS = 0.04
 	
 	UNREST_GENERATION = 0.5
-	UNREST_SCALE = 20 #Basically UNREST_GENERATION * UNREST_SCALE..
+	UNREST_SCALE = 30 #Basically UNREST_GENERATION * UNREST_SCALE..
 	
 	MIGRATE_MINIMUM = 3
 	MIGRATE_MAXMIMUM = 20
@@ -203,14 +202,14 @@ NPop = {
 	ATTRACTION_DIFFERENCE_THRESHOLD = 2
 	ATTRACTION_INCOMING_MODIFIER = -0.5
 	ASSIMILATE_DIFF_RELIGION_PENALTY = -0.33
-	CONVERT_DIFF_CULTURE_PENALTY = -0.20
+	CONVERT_DIFF_CULTURE_PENALTY = -0.33
 
-	CONVERSION_SCALE_PER_MISMATCHED_DEITY = -0.2
+	CONVERSION_SCALE_PER_MISMATCHED_DEITY = -0.05
 }
 
 
 NCombat = {
-	GREAT_BATTLE_SIZE_THRESHOLD = 8000
+	GREAT_BATTLE_SIZE_THRESHOLD = 3000
 	MORALE_COLLAPSE_THRESHOLD = 0.25
 	PERSONAL_LOYALTY_BONUS = 0.1
 	
@@ -237,8 +236,8 @@ NCombat = {
 	MORALE_HIT_FOR_NON_SECONDARY_REINFORCEMENT = 0.05 # Applied to all units that reinforce a battle from behind, but are not designated as the secondary rank unit type
 
 	DAYS_PER_PHASE = 5
-	DAYS_PER_SIEGE_PHASE = 20
-	DAYS_PER_SIEGE_PHASE_WITHOUT_FORT = 10
+	DAYS_PER_SIEGE_PHASE = 25
+	DAYS_PER_SIEGE_PHASE_WITHOUT_FORT = 15
 	COMBAT_DICE_SIDE = 6
 	COMBAT_BASE = 5
 	COMBAT_MAX = 15
@@ -249,8 +248,8 @@ NCombat = {
 	LAND_POPULARITY_FACTOR = 0.1
 	NAVAL_POPULARITY_FACTOR = 0.025
 	
-	ASSAULT_ATTACKER_LOSS = 1.0
-	ASSAULT_DEFENDER_LOSS = 0.1
+	ASSAULT_ATTACKER_LOSS = 1.35
+	ASSAULT_DEFENDER_LOSS = 0.075
 	ASSAULT_DICE_MODIFIER = 5
 	
 	SIEGE_DISEASE_IMPACT = 0.05
@@ -258,7 +257,7 @@ NCombat = {
 	SIEGE_WIN = 20
 	MAX_BREACH = 1
 	
-	GARRISON_SIZE = 1
+	GARRISON_SIZE = 2.0
 	ASSAULT_WIDTH_LIMIT = 3
 	
 	SIEGE_FORCE_NEEDED_MULTIPLIER  = 3.85
@@ -310,8 +309,8 @@ NHorde = {
 	BARBARIAN_CLOSENESS_PREFERENCE = 2 #Barbarians' preference to pick a target close to current location.
 	BARBARIAN_HOME_PREFERENCE = 1 #Barbarians' preference to pick a target close to home location.
 	
-	BARBARIAN_TRIBAL_SPAWN = 0.5
-	BARBARIAN_TOTAL_SPAWN = 0.1
+	BARBARIAN_TRIBAL_SPAWN = 0.24
+	BARBARIAN_TOTAL_SPAWN = 0.12
 
 	MIN_BARBARIAN_SPAWN_POWER = 2
 	BARBARIAN_TO_POWERFUL = 10
@@ -329,7 +328,7 @@ NHorde = {
 }
 
 NUnit = {
-	COHORT_SIZE = 500
+	COHORT_SIZE = 250
 	
 	ATTRITION_ON_FOOD_CONSUMPTION_IMPACT = 0.1
 	
@@ -343,7 +342,7 @@ NUnit = {
 	MOVEMENT_LOCKED = 0.5
 	LOW_MORALE_THRESHOLD = 0.5
 
-	ROAD_MOVEMENT_BONUS = -0.5
+	ROAD_MOVEMENT_BONUS = -0.35
 	
 	COHORT_MANPOWER_COST = 1
 	
@@ -439,7 +438,7 @@ NDiplomacy = {
 	INTERVENE_OPINION_THRESHOLD = 100
 
 	
-	DIPLOMATIC_RANGE = 400
+	DIPLOMATIC_RANGE = 800
 
 	OPINION_MIN = -200
 	OPINION_MAX = 200
@@ -461,9 +460,9 @@ NDiplomacy = {
 	
 	DEFAULT_WARGOAL_TICKINGWARSCORE_BONUS = 1		# Amount of warscore per month since attacker/defender started getting the bonus for completing war goal
 	WARGOAL_MAX_BONUS = 25
-	DEFAULT_WARGOAL_BATTLESCORE_BONUS = 3		# Battle score bonus from winning battles
+	DEFAULT_WARGOAL_BATTLESCORE_BONUS = 6		# Battle score bonus from winning battles
 	SUPERIORITY_WARGOAL_WARSCORE_THRESHOLD	= 10	# Needed battle score for getting ticking war score for war goal superiority
-	WARSCORE_MAX_FROM_BATTLES = 40					# maximum amount to get from a battles .
+	WARSCORE_MAX_FROM_BATTLES = 60					# maximum amount to get from a battles .
 
 	
 	WAR_JOIN_DEADLINE_MONTHS = 12
@@ -691,7 +690,7 @@ NProvince = {
 	
 	
 	#State
-	DEFAULT_FOOD_CAPACITY = 0
+	DEFAULT_FOOD_CAPACITY = -90
 	STARVATION_IMMINENT_WARNING = 100
 	DISLOYAL_STATE_WARN_MONTHS = 3
 	TOO_DISLOYAL_THRESHOLD = 33
@@ -729,7 +728,7 @@ NGreatWork = {
 }
 
 NJominiMap = {
-	WORLD_EXTENTS_X = 8191
+	WORLD_EXTENTS_X = 10239
 	WORLD_EXTENTS_Y = 25.5
 	WORLD_EXTENTS_Z = 4095
 	WATERLEVEL = 3.9
@@ -871,7 +870,7 @@ NAI = {
 	
 	#Peace
 	MAX_CALL_FOR_PEACE = 20 #Start worrying about peacing ASAP above this value. 0-100 value, tho WE from it is capped at usual level.
-	PEACE_RESPITE_MONTHS = 6 #Anti-ragequit device applied to human player on Easy and Normal; don't DOW them if they had no time to rest.
+	PEACE_RESPITE_MONTHS = 1 #Anti-ragequit device applied to human player on Easy and Normal; don't DOW them if they had no time to rest.
 	PEACE_ACCEPTANCE_SEPARATE_PEACE = -25 #Modifier for peacing out separatately in the cases that's despicable.
 	PEACE_ACCEPTANCE_MONTHS_OF_WAR = 48 #Maximum months of war (and coincidentally, maximum modifier).
 	PEACE_ACCEPTANCE_MONTHS_OF_WAR_GW = 100 #Max months of war for Great Conquests
@@ -992,17 +991,16 @@ NLevy = {
 	EXPERIENCE_GAIN_THRESHOLD = 8 # months that the levy has to be raised before disbanding it will give any military experience
 	WAR_EXHAUSTION_THRESHOLD = 6 # months until a newly raised levy will start contributing to war exhaustion
 	WAR_EXHAUSTION_ON_RAISE = 0.5 # amount of war exhaustion gained from simply raising a levy
-	MONTHLY_WAR_EXHAUSTION = 0.04 # each governorship contributes this much to war exhaustion after having levies raised for too long
-	RAISE_LEVY_COOLDOWN_MONTHS = 4 # number of months of cooldown after disbanding before you can raise a levy again
+	MONTHLY_WAR_EXHAUSTION = 0.1 # each governorship contributes this much to war exhaustion after having levies raised for too long
+	RAISE_LEVY_COOLDOWN_MONTHS = 5 # number of months of cooldown after disbanding before you can raise a levy again
 	SIZE_MULTIPLIER_MAX = 1.5 # that the max value for the raise levy size multiplier is. 
 	FOOD_TO_LEAVE_IN_STATE_ON_RAISE = 50 # Minimum food to leave raising state with.
 	FLAGGED_ATTRITION_DECAY = 0.1
-	MONTHS_TO_ADD_TO_DISBAND = 24 #The maximum months that can be added to a levy cooldown when disbanded, based on the strength of the levy at disband time.
+	MONTHS_TO_ADD_TO_DISBAND = 32 #The maximum months that can be added to a levy cooldown when disbanded, based on the strength of the levy at disband time.
 	LEVY_IMPACT_MULTIPLIER = 7
 }
 
 NLegion = {
-	GLOBAL_RECRUITMENT_COST_MULT = 1.0
+	GLOBAL_RECRUITMENT_COST_MULT = 2.5
 	MAXIMUM_TRIBUNE_SIZE = 4
 }
-

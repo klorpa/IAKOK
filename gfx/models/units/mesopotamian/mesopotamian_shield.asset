@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "mesopotamian_shield_mesh"
+	file = "mesopotamian_shield.mesh"
+
+	meshsettings = {
+		name = "mesopotamian_shieldShape"
+		index = 0
+		texture_diffuse = "mesopotamian_weapons_diffuse.dds"
+		texture_normal = "mesopotamian_weapons_normal.dds"
+		texture_specular = "mesopotamian_weapons_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "mesopotamian_shield_entity"
+	pdxmesh = "mesopotamian_shield_mesh"
+	scale = 1
+}

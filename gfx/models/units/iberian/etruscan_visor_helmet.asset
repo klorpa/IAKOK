@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "etruscan_visor_helmet_mesh"
+	file = "etruscan_visor_helmet.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 5.7 }
+		lod = { index = 2 percent = 3.5 }
+	}
+
+	meshsettings = {
+		name = "etruscan_visor_helmet"
+		index = 0
+		texture_diffuse = "etruscan_visor_helmet_diffuse.dds"
+		texture_normal = "etruscan_visor_helmet_normal.dds"
+		texture_specular = "etruscan_visor_helmet_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "etruscan_visor_helmet_entity"
+	pdxmesh = "etruscan_visor_helmet_mesh"
+}

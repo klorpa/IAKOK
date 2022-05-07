@@ -1,22 +1,22 @@
 ### LEVIES LIGHT INFANTRY
 pdxmesh = {
-	name = "arabian_infantry_01_mesh"
-	file = "arabian_infantry_01.mesh"
+	name = "persian_levies_infantry_01_mesh"
+	file = "persian_levies_infantry_01.mesh"
 	
 	cull_distance = 3000
-	animation = { id = "idle_1_base_animation" type = "../ROM/ROM_infantry_01_idle_1_base_shield_L.anim" }
-	animation = { id = "idle_1_var_1_animation" type = "../ROM/ROM_infantry_01_idle_1_var_1_shield_L.anim" }
+	animation = { id = "idle_1_base_animation" type = "../ROM/ROM_infantry_01_idle_1_base_shield_SM.anim" }
+	animation = { id = "idle_1_var_1_animation" type = "../ROM/ROM_infantry_01_idle_1_var_1_shield_SM.anim" }
 	animation = { id = "moving_1_animation" type = "../ROM/ROM_infantry_01_moving_1.anim" }
 	animation = { id = "retreat_1_animation" type = "../ROM/ROM_infantry_01_retreat_1.anim" }
 	animation = { id = "force_march_1_animation" type = "../ROM/ROM_infantry_01_force_march_1.anim" }
-	animation = { id = "raiding_1_animation" type = "../ROM/ROM_infantry_01_raiding_1_shield_L.anim" }
+	animation = { id = "raiding_1_animation" type = "../ROM/ROM_infantry_01_raiding_1_shield_SM.anim" }
 	animation = { id = "army_drill_1_animation" type = "../ROM/ROM_infantry_01_army_drill_1.anim" }
-	animation = { id = "idle_2_base_animation" type = "../ROM/ROM_infantry_01_idle_2_base_shield_L.anim" }
-	animation = { id = "idle_2_var_1_animation" type = "../ROM/ROM_infantry_01_idle_2_var_1_shield_L.anim" }
+	animation = { id = "idle_2_base_animation" type = "../ROM/ROM_infantry_01_idle_2_base_shield_SM.anim" }
+	animation = { id = "idle_2_var_1_animation" type = "../ROM/ROM_infantry_01_idle_2_var_1_shield_SM.anim" }
 	animation = { id = "moving_2_animation" type = "../ROM/ROM_infantry_01_moving_2.anim" }
 	animation = { id = "retreat_2_animation" type = "../ROM/ROM_infantry_01_retreat_2.anim" }
 	animation = { id = "force_march_2_animation" type = "../ROM/ROM_infantry_01_force_march_2.anim" }
-	animation = { id = "raiding_2_animation" type = "../ROM/ROM_infantry_01_raiding_2_shield_L.anim" }
+	animation = { id = "raiding_2_animation" type = "../ROM/ROM_infantry_01_raiding_2_shield_SM.anim" }
 	animation = { id = "army_drill_2_animation" type = "../ROM/ROM_infantry_01_army_drill_2.anim" }
 	
 	animation = { id = "build_road_shoveling_animation" type = "../ROM/ROM_infantry_01_build_road_shoveling.anim" }
@@ -81,65 +81,67 @@ pdxmesh = {
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD0Shape"
+		name = "persian_levies_infantry_01_LOD0Shape"
 		index = 0
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD0Shape"
+		name = "persian_levies_infantry_01_LOD0Shape"
 		index = 1
-		texture_diffuse = "arabian_armor_01_diffuse.dds"
-		texture_normal = "arabian_armor_01_normal.dds"
-		texture_specular = "arabian_armor_01_properties.dds"
+		texture_diffuse = "persian_levies_infantry_01_diffuse.dds"
+		texture_normal = "persian_levies_infantry_01_normal.dds"
+		texture_specular = "persian_levies_infantry_01_properties.dds"
 		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD1Shape"
+		name = "persian_levies_infantry_01_LOD1Shape"
 		index = 0
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD1Shape"
+		name = "persian_levies_infantry_01_LOD1Shape"
 		index = 1
-		texture_diffuse = "arabian_armor_01_diffuse.dds"
-		texture_normal = "arabian_armor_01_normal.dds"
-		texture_specular = "arabian_armor_01_properties.dds"
+		texture_diffuse = "persian_levies_infantry_01_diffuse.dds"
+		texture_normal = "persian_levies_infantry_01_normal.dds"
+		texture_specular = "persian_levies_infantry_01_properties.dds"
 		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD2Shape"
+		name = "persian_levies_infantry_01_LOD2Shape"
 		index = 0
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_infantry_01_LOD2Shape"
+		name = "persian_levies_infantry_01_LOD2Shape"
 		index = 1
-		texture_diffuse = "arabian_armor_01_diffuse.dds"
-		texture_normal = "arabian_armor_01_normal.dds"
-		texture_specular = "arabian_armor_01_properties.dds"
+		texture_diffuse = "persian_levies_infantry_01_diffuse.dds"
+		texture_normal = "persian_levies_infantry_01_normal.dds"
+		texture_specular = "persian_levies_infantry_01_properties.dds"
 		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 }
+
+
 
 
 
@@ -151,8 +153,8 @@ pdxmesh = {
 
 ### LEGION HEAVY INFANTRY
 pdxmesh = {
-	name = "arabian_legion_infantry_01_mesh"
-	file = "arabian_legion_infantry_01.mesh"
+	name = "persian_infantry_01_mesh"
+	file = "persian_infantry_01.mesh"
 	
 	cull_distance = 3000
 	animation = { id = "idle_1_base_animation" type = "../ROM/ROM_infantry_01_idle_1_base_shield_L.anim" }
@@ -232,62 +234,62 @@ pdxmesh = {
 	}
 
 	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD0Shape"
+		name = "persian_infantry_01_LOD0Shape"
 		index = 0
-		texture_diffuse = "arabian_legion_infantry_01_diffuse.dds"
-		texture_normal = "arabian_legion_infantry_01_normal.dds"
-		texture_specular = "arabian_legion_infantry_01_properties.dds"
-		shader = "standard_usercolor"
-		shader_file = "gfx/FX/pdxmesh.shader"
-	}
-
-	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD0Shape"
-		index = 1
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD1Shape"
-		index = 0
-		texture_diffuse = "arabian_legion_infantry_01_diffuse.dds"
-		texture_normal = "arabian_legion_infantry_01_normal.dds"
-		texture_specular = "arabian_legion_infantry_01_properties.dds"
+		name = "persian_infantry_01_LOD0Shape"
+		index = 1
+		texture_diffuse = "persian_armor_01_diffuse.dds"
+		texture_normal = "persian_armor_01_normal.dds"
+		texture_specular = "persian_armor_01_properties.dds"
 		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD1Shape"
-		index = 1
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		name = "persian_infantry_01_LOD1Shape"
+		index = 0
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD2Shape"
-		index = 0
-		texture_diffuse = "arabian_legion_infantry_01_diffuse.dds"
-		texture_normal = "arabian_legion_infantry_01_normal.dds"
-		texture_specular = "arabian_legion_infantry_01_properties.dds"
+		name = "persian_infantry_01_LOD1Shape"
+		index = 1
+		texture_diffuse = "persian_armor_01_diffuse.dds"
+		texture_normal = "persian_armor_01_normal.dds"
+		texture_specular = "persian_armor_01_properties.dds"
 		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 
 	meshsettings = {
-		name = "arabian_legion_infantry_01_LOD2Shape"
-		index = 1
-		texture_diffuse = "arabian_infantry_01_diffuse.dds"
-		texture_normal = "arabian_infantry_01_normal.dds"
-		texture_specular = "arabian_infantry_01_properties.dds"
+		name = "persian_infantry_01_LOD2Shape"
+		index = 0
+		texture_diffuse = "persian_infantry_01_diffuse.dds"
+		texture_normal = "persian_infantry_01_normal.dds"
+		texture_specular = "persian_infantry_01_properties.dds"
 		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "persian_infantry_01_LOD2Shape"
+		index = 1
+		texture_diffuse = "persian_armor_01_diffuse.dds"
+		texture_normal = "persian_armor_01_normal.dds"
+		texture_specular = "persian_armor_01_properties.dds"
+		shader = "standard_usercolor"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
 }
@@ -300,11 +302,10 @@ pdxmesh = {
 
 
 
-
-### LEVIES LIGHT INFANTRY
+# Spear unit
 entity = {
 	name = "arabian_gfx_light_infantry"
-	pdxmesh = "arabian_infantry_01_mesh"
+	pdxmesh = "persian_infantry_01_mesh"
 	
 	Scale = 0.1
 	
@@ -316,8 +317,8 @@ entity = {
 		chance = 5
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" }
+	}
 	state = {
 		name = "idle"
     	animation = "idle_1_var_1_animation"
@@ -325,38 +326,38 @@ entity = {
 		chance = 1
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "move"
     	animation = "moving_1_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-    }
+	}
     state = {
     	name = "force_march"
     	animation = "force_march_1_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:back_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:back_node_1 entity = "italian_shield_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-    }
+	}
     state = {
     	name = "retreat"
     	animation = "retreat_1_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
 		start_event = {sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_retreat"}}
-    }
+	}
     state = {
     	name = "raiding"
     	animation = "raiding_1_animation"
 		looping = no
 		next_state = "idle"
 		event = { time = 0.0 node = THE_RIG:Right_hand_node_1 entity = "torch_01_entity" attachment_id = "raiding_torch_1" entity_fade_speed = 1.0 life = 5 }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 0.31 }
-		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 4.29 }
-		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" life = 0.31 }
+		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" life = 4.29 }
+		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_raiding"}}
 		event = { time = 2.8 node = THE_RIG:root particle = "units/raiding_ground_fire_01_effect" keep_particle = yes trigger_once = no life = 1 }
 	}
@@ -364,14 +365,14 @@ entity = {
     	name = "recruiting"
     	animation = "recruiting_loop_animation"
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
-    }
+	}
     state = {
     	name = "recruit"
     	animation = "recruiting_action_animation"
 		looping = no
 		next_state = "idle"
 		event = { time = 0.0 node = THE_RIG:Left_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
-    }
+	}
     state = {
     	name = "build_road_2"
     	animation = "build_road_shoveling_animation"
@@ -383,8 +384,8 @@ entity = {
 				"build_road_2" = 100
 			}
 		}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" state = "shoveling" }  # Change to shovel when model is in.
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity"  state = "shoveling"}  # Change to shovel when model is in.
+	}
     state = {
     	name = "build_road_2"
     	animation = "build_road_pre_moving_animation"
@@ -397,7 +398,7 @@ entity = {
 			}
 		}
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
-    }
+	}
     state = {
     	name = "build_road"
     	animation = "build_road_moving_animation"
@@ -414,7 +415,7 @@ entity = {
 			}
 		}
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
-    }
+	}
     state = {
     	name = "build_road"
     	animation = "build_road_post_moving_animation"
@@ -431,26 +432,25 @@ entity = {
 			}
 		}
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
-    }
+	}
     state = {
     	name = "combat_ready"
     	animation = "combat_ready_1"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "army_drill"
     	animation = "army_drill_1_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = army_drill }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-		start_event = { node = THE_RIG:root entity = "arabian_drill_post_entity" state = attack }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+		start_event = { node = THE_RIG:root entity = "persian_drill_post_entity" state = attack }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill1"}}
-    }
+	}
     state = {
     	name = "cheer"
     	animation = "idle_1_base_animation"
     }
-	
 	
 	##############
 	#### Offensive combat
@@ -460,28 +460,28 @@ entity = {
     	animation = "weapon_1_offensive_successful"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_successful }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_dodge"
     	animation = "weapon_1_offensive_dodge"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_block"
     	animation = "weapon_1_offensive_block"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_counter"
     	animation = "weapon_1_offensive_counter"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
     state = {
@@ -489,39 +489,39 @@ entity = {
     	animation = "weapon_1_offensive_sequence_1"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "offensive_sequence_2"
     	animation = "weapon_1_offensive_sequence_2"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "offensive_sequence_3"
     	animation = "weapon_1_offensive_sequence_3"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-		event = { time = 4.23 node = THE_RIG:world_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 3.0 }
-		event = { time = 7.10 node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 1.0 }
-		event = { time = 7.94 remove_attachment = "main_weapon" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+		event = { time = 4.23 node = THE_RIG:world_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 2.83 }
+		event = { time = 7.10 node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 0.9 }
+		event = { time = 7.95 remove_attachment = "main_weapon" }
+	}
     state = {
     	name = "offensive_sequence_4"
     	animation = "weapon_1_offensive_sequence_4"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "offensive_sequence_5"
     	animation = "weapon_1_offensive_sequence_5"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
 	
 	
 	
@@ -533,28 +533,28 @@ entity = {
     	animation = "weapon_1_defensive_hit"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_hit }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_dodge"
     	animation = "weapon_1_defensive_dodge"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_block"
     	animation = "weapon_1_defensive_block"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_counter"
     	animation = "weapon_1_defensive_counter"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
     state = {
@@ -562,57 +562,46 @@ entity = {
     	animation = "weapon_1_defensive_sequence_1"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "defensive_sequence_2"
     	animation = "weapon_1_defensive_sequence_2"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "defensive_sequence_3"
     	animation = "weapon_1_defensive_sequence_3"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "defensive_sequence_4"
     	animation = "weapon_1_defensive_sequence_4"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
     state = {
     	name = "defensive_sequence_5"
     	animation = "weapon_1_defensive_sequence_5"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+	}
 	
-    attach = { THE_RIG:Character1_Head = "arabian_helmet_01_entity" }
+	attach = { name = "helmet" THE_RIG:Character1_Head = "carthaginian_levies_helmet_01_entity" }
 }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-### LEGION HEAVY INFANTRY
+### LEVIES LIGHT INFANTRY
 entity = {
-	name = "arabian_legion_infantry"
-	pdxmesh = "arabian_legion_infantry_01_mesh"
+	name = "arabian_levy_infantry"
+	pdxmesh = "persian_levies_infantry_01_mesh"
 	
 	Scale = 0.1
 	
@@ -623,67 +612,67 @@ entity = {
 		looping = no
 		chance = 5
 		next_state = "idle"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
 	state = {
 		name = "idle"
     	animation = "idle_1_var_1_animation"
 		looping = no
 		chance = 1
 		next_state = "idle"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "move"
     	animation = "moving_1_animation"
-    	start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
+	}
     state = {
     	name = "force_march"
     	animation = "force_march_1_animation"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" }
-		start_event = { node = THE_RIG:back_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:back_node_1 entity = "carthaginian_levies_shield_01_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-    }
+	}
     state = {
     	name = "retreat"
     	animation = "retreat_1_animation"
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
 		start_event = {sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_retreat"}}
-    }
+	}
     state = {
     	name = "raiding"
     	animation = "raiding_1_animation"
 		looping = no
 		next_state = "idle"
 		event = { time = 0.0 node = THE_RIG:Right_hand_node_1 entity = "torch_01_entity" attachment_id = "raiding_torch_1" entity_fade_speed = 1.0 life = 5 }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 0.31 }
-		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 4.29 }
-		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" }
+		start_event = { node = THE_RIG:world_node_1 entity = "carthaginian_levies_shield_01_entity" attachment_id = "moving_shield_1" life = 0.31 }
+		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" attachment_id = "moving_shield_1" life = 4.29 }
+		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "carthaginian_levies_shield_01_entity" attachment_id = "moving_shield_1" }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_raiding"}}
 		event = { time = 2.8 node = THE_RIG:root particle = "units/raiding_ground_fire_01_effect" keep_particle = yes trigger_once = no life = 1 }
 	}
     state = {
     	name = "recruiting"
     	animation = "recruiting_loop_animation"
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
-    }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "persian_levies_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
+	}
     state = {
     	name = "recruit"
     	animation = "recruiting_action_animation"
 		looping = no
 		next_state = "idle"
-		event = { time = 0.0 node = THE_RIG:Left_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
-    }
+		event = { time = 0.0 node = THE_RIG:Left_hand_node_1 entity = "persian_levies_spear_01_entity" attachment_id = "recruit_banner_1" entity_fade_speed = 0.5 } # Change to banner when model is in.
+	}
     state = {
     	name = "build_road_2"
     	animation = "build_road_shoveling_animation"
 		looping = no
-		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_build_road_loop"}}
 		next_state = "build_road_2"
 		chance = {
 			if_current_state = {
@@ -691,13 +680,12 @@ entity = {
 				"build_road_2" = 100
 			}
 		}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity"  state = "shoveling"}  # Change to shovel when model is in.
+	}
     state = {
     	name = "build_road_2"
     	animation = "build_road_pre_moving_animation"
 		looping = no
-		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_build_road_post"}}
 		next_state = "build_road"
 		chance = {
 			if_current_state = {
@@ -705,13 +693,12 @@ entity = {
 				"build_road_2" = 50
 			}
 		}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" } # Change to shovel when model is in.
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
+	}
     state = {
     	name = "build_road"
     	animation = "build_road_moving_animation"
 		looping = no
-		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
 		next_state = "build_road"
 		chance = {
 			if_current_state = {
@@ -723,13 +710,12 @@ entity = {
 				"force_march" = 100
 			}
 		}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" } # Change to shovel when model is in.
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
+	}
     state = {
     	name = "build_road"
     	animation = "build_road_post_moving_animation"
 		looping = no
-		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_build_road_pre"}}
 		next_state = "build_road_2"
 		chance = {
 			if_current_state = {
@@ -741,27 +727,26 @@ entity = {
 				"force_march" = 0
 			}
 		}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" } # Change to shovel when model is in.
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "shovel_01_entity" }  # Change to shovel when model is in.
+	}
     state = {
     	name = "combat_ready"
     	animation = "combat_ready_1"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "army_drill"
     	animation = "army_drill_1_animation"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = army_drill }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-		start_event = { node = THE_RIG:root entity = "arabian_drill_post_entity" state = attack }
-		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill2"}}
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = army_drill }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+		start_event = { node = THE_RIG:root entity = "persian_drill_post_entity" state = attack }
+		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill1"}}
+	}
     state = {
     	name = "cheer"
     	animation = "idle_1_base_animation"
     }
-	
 	
 	##############
 	#### Offensive combat
@@ -769,102 +754,70 @@ entity = {
     state = {
     	name = "offensive_successful"
     	animation = "weapon_1_offensive_successful"
-	#	animation_blend_time = 0.3
-		chance = 1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_successful }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_successful }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "offensive_dodge"
     	animation = "weapon_1_offensive_dodge"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_dodge }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "offensive_block"
     	animation = "weapon_1_offensive_block"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_block }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "offensive_counter"
     	animation = "weapon_1_offensive_counter"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
-	
-	### Alternative attacks (slash) ###
-    state = {
-    	name = "offensive_successful"
-    	animation = "weapon_1_offensive_successful"
-	#	animation_blend_time = 0.3
-		chance = 1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_successful_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
-    state = {
-    	name = "offensive_dodge"
-    	animation = "weapon_1_offensive_dodge"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_dodge_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
-    state = {
-    	name = "offensive_block"
-    	animation = "weapon_1_offensive_block"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_block_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
-    state = {
-    	name = "offensive_counter"
-    	animation = "weapon_1_offensive_counter"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_counter_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_counter }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
 	
     state = {
     	name = "offensive_sequence_1"
     	animation = "weapon_1_offensive_sequence_1"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_sequence_1 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "offensive_sequence_2"
     	animation = "weapon_1_offensive_sequence_2"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_sequence_2 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "offensive_sequence_3"
     	animation = "weapon_1_offensive_sequence_3"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-		event = { time = 4.18 node = THE_RIG:world_node_1 entity = "arabian_legion_spear_01_entity" attachment_id = "main_weapon" life = 2.88 }
-		event = { time = 7.05 node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" attachment_id = "main_weapon" life = 0.95 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+		event = { time = 4.23 node = THE_RIG:world_node_1 entity = "persian_levies_spear_01_entity" attachment_id = "main_weapon" life = 2.83 }
+		event = { time = 7.10 node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" attachment_id = "main_weapon" life = 0.9 }
 		event = { time = 7.95 remove_attachment = "main_weapon" }
-    }
+	}
     state = {
     	name = "offensive_sequence_4"
     	animation = "weapon_1_offensive_sequence_4"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_sequence_4 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "offensive_sequence_5"
     	animation = "weapon_1_offensive_sequence_5"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = offensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = offensive_sequence_5 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
 	
 	
 	
@@ -874,83 +827,78 @@ entity = {
     state = {
     	name = "defensive_hit"
     	animation = "weapon_1_defensive_hit"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_hit }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_hit }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "defensive_dodge"
     	animation = "weapon_1_defensive_dodge"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_dodge }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "defensive_block"
     	animation = "weapon_1_defensive_block"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_block }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
     state = {
     	name = "defensive_counter"
     	animation = "weapon_1_defensive_counter"
-	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+	#	animation_blend_time = 0.1
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_counter }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
     }
 	
     state = {
     	name = "defensive_sequence_1"
     	animation = "weapon_1_defensive_sequence_1"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_sequence_1 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "defensive_sequence_2"
     	animation = "weapon_1_defensive_sequence_2"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_sequence_2 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "defensive_sequence_3"
     	animation = "weapon_1_defensive_sequence_3"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_sequence_3 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "defensive_sequence_4"
     	animation = "weapon_1_defensive_sequence_4"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_sequence_4 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
     state = {
     	name = "defensive_sequence_5"
     	animation = "weapon_1_defensive_sequence_5"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_legion_spear_01_entity" state = defensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-    }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "persian_levies_spear_01_entity" state = defensive_sequence_5 }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "carthaginian_levies_shield_01_entity" }
+	}
 	
-    attach = { THE_RIG:Character1_Head = "arabian_legion_helmet_01_entity" }
+	attach = { name = "helmet" THE_RIG:Character1_Head = "persian_levies_helmet_01_entity" }
 }
 
 
 
 
-
-
-
-
-
-# Sword unit
+### LEGION HEAVY INFANTRY
 entity = {
-	name = "arabian_gfx_heavy_infantry"
-	pdxmesh = "arabian_infantry_01_mesh"
+	name = "arabian_legion_infantry"
+	pdxmesh = "persian_infantry_01_mesh"
 	
 	Scale = 0.1
 	
@@ -962,7 +910,7 @@ entity = {
 		chance = 5
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" }
     }
 	state = {
 		name = "idle"
@@ -971,26 +919,26 @@ entity = {
 		chance = 1
 		next_state = "idle"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "move"
     	animation = "moving_2_animation"
     	start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "force_march"
     	animation = "force_march_2_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" }
-		start_event = { node = THE_RIG:back_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:back_node_1 entity = "italian_shield_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
     }
     state = {
     	name = "retreat"
     	animation = "retreat_2_animation"
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
 		start_event = {sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_retreat"}}
     }
     state = {
@@ -999,9 +947,9 @@ entity = {
 		looping = no
 		next_state = "idle"
 		event = { time = 0.0 node = THE_RIG:Right_hand_node_1 entity = "torch_01_entity" attachment_id = "raiding_torch_1" entity_fade_speed = 1.0 life = 5 }
-		start_event = { node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 0.31 }
-		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" life = 4.29 }
-		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "arabian_shield_01_entity" attachment_id = "moving_shield_1" }
+		start_event = { node = THE_RIG:world_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" life = 0.31 }
+		event = { time = 0.26 node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" life = 4.29 }
+		event = { time = 4.5 node = THE_RIG:world_node_1 entity = "italian_shield_entity" attachment_id = "moving_shield_1" }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_raiding"}}
 		event = { time = 2.8 node = THE_RIG:root particle = "units/raiding_ground_fire_01_effect" keep_particle = yes trigger_once = no life = 1 }
 	}
@@ -1085,14 +1033,14 @@ entity = {
     	name = "combat_ready"
     	animation = "combat_ready_2"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "army_drill"
     	animation = "army_drill_2_animation"
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = army_drill }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
-		start_event = { node = THE_RIG:root entity = "arabian_drill_post_entity" state = attack }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
+		start_event = { node = THE_RIG:root entity = "persian_drill_post_entity" state = attack }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill2"}}
     }
     state = {
@@ -1110,28 +1058,28 @@ entity = {
 	#	animation_blend_time = 0.3
 		chance = 1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_successful }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_dodge"
     	animation = "weapon_2_offensive_dodge"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_block"
     	animation = "weapon_2_offensive_block"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_counter"
     	animation = "weapon_2_offensive_counter"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
 	### Alternative attacks (slash) ###
@@ -1141,28 +1089,28 @@ entity = {
 	#	animation_blend_time = 0.3
 		chance = 1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_successful_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_dodge"
     	animation = "weapon_2_alt_offensive_dodge"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_dodge_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_block"
     	animation = "weapon_2_alt_offensive_block"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_block_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_counter"
     	animation = "weapon_2_alt_offensive_counter"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_counter_alt }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
     state = {
@@ -1170,21 +1118,21 @@ entity = {
     	animation = "weapon_2_offensive_sequence_1"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_sequence_2"
     	animation = "weapon_2_offensive_sequence_2"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_sequence_3"
     	animation = "weapon_2_offensive_sequence_3"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
 		event = { time = 4.18 node = THE_RIG:world_node_1 entity = "arabian_sword_01_entity" attachment_id = "main_weapon" life = 2.88 }
 		event = { time = 7.05 node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" attachment_id = "main_weapon" life = 0.95 }
 		event = { time = 7.95 remove_attachment = "main_weapon" }
@@ -1194,14 +1142,14 @@ entity = {
     	animation = "weapon_2_offensive_sequence_4"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "offensive_sequence_5"
     	animation = "weapon_2_offensive_sequence_5"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = offensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
 	
@@ -1214,28 +1162,28 @@ entity = {
     	animation = "weapon_2_defensive_hit"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_hit }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_dodge"
     	animation = "weapon_2_defensive_dodge"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_dodge }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_block"
     	animation = "weapon_2_defensive_block"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_block }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_counter"
     	animation = "weapon_2_defensive_counter"
 	#	animation_blend_time = 0.3
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_counter }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
     state = {
@@ -1243,40 +1191,39 @@ entity = {
     	animation = "weapon_2_defensive_sequence_1"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_sequence_1 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_sequence_2"
     	animation = "weapon_2_defensive_sequence_2"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_sequence_2 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_sequence_3"
     	animation = "weapon_2_defensive_sequence_3"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_sequence_3 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_sequence_4"
     	animation = "weapon_2_defensive_sequence_4"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_sequence_4 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
     state = {
     	name = "defensive_sequence_5"
     	animation = "weapon_2_defensive_sequence_5"
 	#	animation_blend_time = 0.1
 		start_event = { node = THE_RIG:Right_hand_node_1 entity = "arabian_sword_01_entity" state = defensive_sequence_5 }
-		start_event = { node = THE_RIG:Left_hand_node_1 entity = "arabian_shield_01_entity" }
+		start_event = { node = THE_RIG:Left_hand_node_1 entity = "italian_shield_entity" }
     }
 	
-    attach = { THE_RIG:Character1_Head = "arabian_helmet_01_entity" }
+	attach = { name = "helmet" THE_RIG:Character1_Head = "ptolomeic_helmet_01_entity" }
 }
-
 
 ##############
 ### Clones ### ----------------------------------------------------------------
@@ -1284,52 +1231,52 @@ entity = {
 
 entity = {
 	name = "arabian_gfx_missile_archers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_missile_spearthrowers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_cavalry_camels"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_chariot_light"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_chariot_heavy"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_cavalry_horse_archers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_cavalry_light"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_elephant_african"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_elephant_forest"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 entity = {
 	name = "arabian_gfx_elephant_indian"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_legion_infantry"
 }
 
 
@@ -1342,7 +1289,7 @@ entity = {
 ### Archers ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_missile_archers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_missile_archers"
@@ -1352,7 +1299,7 @@ entity ={
 ### Scirmishers ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_missile_spearthrowers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_missile_spearthrowers"
@@ -1362,7 +1309,7 @@ entity ={
 ### Camels ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_cavalry_camels"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_cavalry_camels"
@@ -1372,7 +1319,7 @@ entity ={
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_chariot_light"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_chariot_light"
@@ -1381,7 +1328,7 @@ entity ={
 
 entity ={
 	name = "arabian_gfx_levy_chariot_heavy"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_chariot_heavy"
@@ -1391,7 +1338,7 @@ entity ={
 ### Engineer Cohort ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_engineer_cohort"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_engineer_cohort"
@@ -1401,7 +1348,7 @@ entity ={
 ### Horse Archers ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_cavalry_horse_archers"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_cavalry_horse_archers"
@@ -1411,7 +1358,7 @@ entity ={
 ### Light Cavalry ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_cavalry_light"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_cavalry_light"
@@ -1421,7 +1368,7 @@ entity ={
 ### Infantry ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_light_spearmen"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_light_spearmen"
@@ -1430,7 +1377,7 @@ entity ={
 
 entity ={
 	name = "arabian_gfx_levy_light_swordsmen"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_light_swordsmen"
@@ -1439,7 +1386,7 @@ entity ={
 
 entity ={
 	name = "arabian_gfx_levy_axemen_heavy"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_axemen_heavy"
@@ -1449,7 +1396,7 @@ entity ={
 ### Supply Train ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_supply_train"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_supply_train"
@@ -1459,7 +1406,7 @@ entity ={
 ### War Elephant ----------------------------------------------------------------
 entity ={
 	name = "arabian_gfx_levy_elephant_african"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_elephant_african"
@@ -1468,7 +1415,7 @@ entity ={
 
 entity ={
 	name = "arabian_gfx_levy_elephant_forest"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_elephant_forest"
@@ -1477,7 +1424,7 @@ entity ={
 
 entity ={
 	name = "arabian_gfx_levy_elephant_indian"
-	clone = "arabian_gfx_light_infantry"
+	clone = "arabian_gfx_levy_infantry"
 }
 entity ={
 	name = "arabian_gfx_legion_elephant_indian"

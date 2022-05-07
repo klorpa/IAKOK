@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "messapian_helmet_mesh"
+	file = "messapian_helmet.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 5.7 }
+		lod = { index = 2 percent = 3.5 }
+	}
+	
+	meshsettings = {
+		name = "messapian_helmet"
+		index = 0
+		texture_diffuse = "messapian_helmet_diffuse.dds"
+		texture_normal = "messapian_helmet_normal.dds"
+		texture_specular = "messapian_helmet_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "messapian_helmet_entity"
+	pdxmesh = "messapian_helmet_mesh"
+}

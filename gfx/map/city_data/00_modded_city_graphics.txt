@@ -1,0 +1,281 @@
+﻿# New Bronze Age, comissioned sets from Mod Coop shared resources
+#	added aegean, hittite (celtic), numidian and mesopotamian cities
+
+@buildings_per_pop_tier_0 = 0.5
+@buildings_per_pop_tier_1 = 2
+@buildings_per_pop_tier_2 = 2
+@buildings_per_pop_tier_3 = 2
+
+Aegean = {
+	graphical_culture = "aegean_gfx"
+	center_building_mesh = "mycenaean_palace_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_hellenic"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"mycenaean_01_01_mesh"
+			"mycenaean_01_02_mesh"
+			"mycenaean_01_03_mesh"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"mycenaean_02_01_mesh"
+			"mycenaean_02_02_mesh"
+			"mycenaean_02_03_mesh"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"mycenaean_03_01_mesh"
+			"mycenaean_03_02_mesh"
+			"mycenaean_03_03_mesh"
+			"mycenaean_03_04_mesh"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"mycenaean_04_01_mesh"
+			"mycenaean_04_02_mesh"
+			"mycenaean_04_03_mesh"
+			"mycenaean_04_04_mesh"
+		}
+	}
+}
+
+
+Luwian = {
+	graphical_culture = "luwian_gfx"
+	center_building_mesh = "hattusa_palace_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_persian"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_01_01_mesh"
+			"hattusa_01_02_mesh"
+			"hattusa_01_03_mesh"
+			"hattusa_01_04_mesh"
+			"hattusa_01_05_mesh"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"hattusa_02_01_mesh"
+			"hattusa_02_02_mesh"
+			"hattusa_02_03_mesh"
+#			"hattusa_temple_01_mesh"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_03_01_mesh"
+			"hattusa_03_02_mesh"
+			"hattusa_03_03_mesh"
+			"hattusa_03_04_mesh"
+			"hattusa_03_05_mesh"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_04_01_mesh"
+			"hattusa_04_02_mesh"
+			"hattusa_04_03_mesh"
+#			"hattusa_temple_02_mesh"
+		}
+	}
+}
+
+
+Egyptian = {
+	graphical_culture = "egyptian_gfx"
+	center_building_mesh = "african_center_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_african"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_01_01_mesh"
+			"african_01_02_mesh"
+			"african_01_03_mesh"
+			"african_01_04_mesh"
+#			"egyptian_archaic_01_01"
+#			"egyptian_archaic_01_02"
+#			"egyptian_archaic_01_03"
+#			"egyptian_archaic_01_04"
+#			"egyptian_archaic_01_05"
+#			"egyptian_archaic_01_06"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"african_02_01_mesh"
+			"african_02_02_mesh"
+			"african_02_03_mesh"
+			"african_02_04_mesh"
+			"african_02_05_mesh"
+			"african_02_06_mesh"
+#			"egyptian_archaic_02_01"
+#			"egyptian_archaic_02_02"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_03_01_mesh"
+			"african_03_02_mesh"
+			"african_03_03_mesh"
+			"african_03_04_mesh"
+			"african_03_05_mesh"
+			"african_03_06_mesh"
+#			"egyptian_archaic_03_01"
+#			"egyptian_archaic_03_02"
+#			"egyptian_archaic_03_03"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_04_01_mesh"
+			"african_04_02_mesh"
+			"african_04_03_mesh"
+			"african_04_04_mesh"
+			"african_04_05_mesh"
+			"african_04_06_mesh"
+			"african_04_07_mesh"
+			"african_04_08_mesh"
+#			"egyptian_archaic_04_01"
+#			"egyptian_archaic_04_02"
+#			"egyptian_archaic_temple_02"
+		}
+	}
+}
+
+Mesopotamian = {
+	graphical_culture = "mesopotamian_gfx"
+	center_building_mesh = "persian_center_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_persian"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"persian_01_01_mesh"
+			"persian_01_02_mesh"
+			"persian_01_03_mesh"
+			"persian_01_04_mesh"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"persian_02_01_mesh"
+			"persian_02_02_mesh"
+			"persian_02_03_mesh"
+			"persian_02_04_mesh"
+			"persian_02_05_mesh"
+			"persian_02_06_mesh"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"persian_03_01_mesh"
+			"persian_03_02_mesh"
+			"persian_03_03_mesh"
+			"persian_03_04_mesh"
+			"persian_03_05_mesh"
+			"persian_03_06_mesh"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"persian_04_01_mesh"
+			"persian_04_02_mesh"
+			"persian_04_03_mesh"
+			"persian_04_04_mesh"
+			"persian_04_05_mesh"
+			"persian_04_06_mesh"
+		}
+	}
+}

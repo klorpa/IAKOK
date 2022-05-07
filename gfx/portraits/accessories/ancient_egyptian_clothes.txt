@@ -1,0 +1,64 @@
+﻿## Ancient Egypt ##
+male_clothes_ancient_egypt_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_ancient_egypt_1_entity }
+	set_tags = "full_bust"
+}
+
+
+male_hair_ancient_egypt_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_ancient_egypt_1_entity" }
+}
+
+
+male_hair_ancient_egypt_1_color2 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_ancient_egypt_1_color2_entity" }
+}
+
+male_hair_ancient_egypt_1_color3 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_ancient_egypt_1_color3_entity" }
+}
+
+male_hair_ancient_egypt_1_color4 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_ancient_egypt_1_color4_entity" }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

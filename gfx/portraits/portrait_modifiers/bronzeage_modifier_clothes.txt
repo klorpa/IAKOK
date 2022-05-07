@@ -1,0 +1,109 @@
+﻿clothes = {
+#
+#	aegean_clothes_military_modifier = {
+#		dna_modifiers = {
+#			accessory = {
+#				mode = replace_template				
+#				gene = clothes
+#				template = aegean_armor_portrait_template
+#			}
+#			accessory = {
+#				mode = replace_template				
+#				gene = clothes_layer2
+#				template = no_top_layer
+#			}
+#		}
+#		weight = {
+#			base = 0	#if weight is >= 100, this one will be picked without ever doing the weighted random selection
+#			
+#			modifier = {
+#				add = 100 
+#				is_female = no
+#
+#				has_culture_group = aegean
+#				has_martial_office_trigger = yes
+#			}
+#		}
+#	}
+#
+#	aegean_clothes_soldier_modifier = {
+#		dna_modifiers = {
+#			accessory = {
+#				mode = replace_template				
+#				gene = clothes
+#				template = aegean_armor_portrait_template
+#			}
+#			accessory = {
+#				gene = clothes_layer2
+#				template = no_top_layer
+#			}
+#			accessory ={
+#				mode = replace_template
+#				gene = helmet_accessory
+#				template = aegean_helmet_template
+#			}
+#		}
+#		weight = {
+#			base = 0	#if weight is >= 100, this one will be picked without ever doing the weighted random selection
+#			
+#			modifier = {
+#				add = 100 
+#				is_female = no
+#
+#				has_culture_group = aegean
+#			
+#				OR = { 		
+#					is_general = yes
+#					is_admiral = yes
+#					is_mercenary = yes
+#				}
+#			}
+#		}
+#	}
+#}	
+####################################################################################################################
+
+	minoan_soldier_clothes_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = minoan_armor_portrait_template
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = no_top_layer
+			}				
+			accessory = {
+				mode = replace_template				
+				gene = hairstyles
+				template = minoan_soldier_hairstyles
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = helmet_accessory
+				template = minoan_helmet_template
+			}			
+		}
+		weight = {
+			base = 0	#if weight is >= 100, this one will be picked without ever doing the weighted random selection
+			
+			modifier = {
+				add = 100 
+				is_female = no				
+				
+				OR = { 	
+					has_culture_group = aegean					
+				}	
+				
+				OR = { 		
+					is_general = yes
+					is_admiral = yes
+					is_mercenary = yes
+				    has_martial_office_trigger = yes					
+				}
+			}
+		}
+	}
+}

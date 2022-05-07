@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "boartusk_helmet_portrait_mesh"
+	file = "boartusk_helmet_portrait.mesh"
+
+		meshsettings = {
+			name = "boartusk_helmet_portraitShape"
+			index = 0
+			texture_diffuse = "boartusk_helmet_portrait_diffuse.dds"
+			texture_normal = "boartusk_helmet_portrait_normal.dds"
+			texture_specular = "boartusk_helmet_portrait_properties.dds"
+			shader = "portrait_attachment"
+			shader_file = "gfx/FX/portrait.shader"
+		}
+}
+
+entity = {
+	name = "boartusk_helmet_portrait_entity"
+	pdxmesh = "boartusk_helmet_portrait_mesh"
+}

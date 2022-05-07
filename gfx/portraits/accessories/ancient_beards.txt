@@ -1,0 +1,13 @@
+﻿#####################################
+#									#
+# 			beards					#
+#									#
+#####################################
+
+mesopotamian_beard_1 = {
+	entity = { required_tags = "no_fat" entity = "mesopotamian_beard_1_entity" node = shared_pose_entity }	
+	entity = { required_tags = "fat1_max" entity = "mesopotamian_beard_1_fat1_entity" node = shared_pose_entity }	
+	entity = { required_tags = "fat1_normal" entity = "mesopotamian_beard_1_fat1_half_entity" node = shared_pose_entity }	
+	entity = { required_tags = "fat2_max" entity = "mesopotamian_beard_1_fat2_entity" node = shared_pose_entity }	
+	entity = { required_tags = "fat2_normal" entity = "mesopotamian_beard_1_fat2_half_entity" node = shared_pose_entity }		
+}

@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "gre_corinthian_helmet_mesh"
+	file = "gre_corinthian_helmet.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 2.5 }
+		lod = { index = 2 percent = 1 }
+	}
+
+	meshsettings = {
+		name = "gre_corinthian"
+		index = 0
+		texture_diffuse = "gre_corinthian_diffuse.dds"
+		texture_normal = "gre_corinthian_normal.dds"
+		texture_specular = "gre_corinthian_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "gre_corinthian_helmet_entity"
+	pdxmesh = "gre_corinthian_helmet_mesh"
+}

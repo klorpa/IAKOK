@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "aegean_armor_portrait_1_mesh"
+	file = "aegean_armor_portrait_1.mesh"
+
+		meshsettings = {
+			name = "aegean_armor_portrait_1Shape"
+			index = 0
+			texture_diffuse = "aegean_armor_portrait_1_diffuse.dds"
+			texture_normal = "aegean_armor_portrait_1_normal.dds"
+			texture_specular = "aegean_armor_portrait_1_properties.dds"
+			shader = "portrait_attachment"
+			shader_file = "gfx/FX/portrait.shader"
+		}
+}
+
+entity = {
+	name = "aegean_armor_portrait_1_entity"
+	pdxmesh = "aegean_armor_portrait_1_mesh"
+}

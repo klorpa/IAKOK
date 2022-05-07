@@ -1,0 +1,32 @@
+pdxmesh = {
+	name = "male_clothes_aegean_2_mesh"
+	file = "male_clothes_aegean_2.mesh"
+
+	meshsettings = {
+		name = "male_clothes_ethiopian_1Shape"
+		index = 0
+		texture_diffuse = "male_clothes_aegean_2_diffuse.dds"
+		texture_normal = "male_clothes_aegean_2_normal.dds"
+		texture_specular = "male_clothes_ancient_egypt_1_properties.dds"
+		shader = "portrait_attachment_alpha_blend"
+		shader_file = "gfx/FX/portrait.shader"
+	}
+}
+
+entity = {
+	name = "male_clothes_aegean_2_entity"
+	pdxmesh = "male_clothes_aegean_2_mesh"
+}
+
+entity = {
+	name = "male_clothes_aegean_2_v2_entity"
+	pdxmesh = "male_clothes_aegean_2_mesh"
+	meshsettings = {
+		name = "male_clothes_ethiopian_1Shape"
+		index = 0
+		texture_diffuse = "male_clothes_aegean_2v2_diffuse.dds"
+		texture_normal = "male_clothes_aegean_2_normal.dds"
+		texture_specular = "male_clothes_ancient_egypt_1_properties.dds"		
+	}
+
+}

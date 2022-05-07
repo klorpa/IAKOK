@@ -1,0 +1,14 @@
+﻿#####################################
+#									#
+# 			Helmets					#
+#									#
+#####################################
+
+boartusk_helmet_portrait = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "boartusk_helmet_portrait_entity" }
+}
+
+minoan_helmet_01_p = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "minoan_helmet_01_p_entity" }
+}
+

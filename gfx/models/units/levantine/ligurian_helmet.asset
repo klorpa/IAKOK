@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "ligurian_helmet_mesh"
+	file = "ligurian_helmet.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 5.7 }
+		lod = { index = 2 percent = 3.5 }
+	}
+
+	meshsettings = {
+		name = "ligurian_helmet"
+		index = 0
+		texture_diffuse = "ligurian_helmet_diffuse.dds"
+		texture_normal = "ligurian_helmet_normal.dds"
+		texture_specular = "ligurian_helmet_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "ligurian_helmet_entity"
+	pdxmesh = "ligurian_helmet_mesh"
+}

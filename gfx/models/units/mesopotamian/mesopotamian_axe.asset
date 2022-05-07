@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "mesopotamian_axe_mesh"
+	file = "mesopotamian_axe.mesh"
+
+	meshsettings = {
+		name = "mesopotamian_axeShape"
+		index = 0
+		texture_diffuse = "mesopotamian_weapons_diffuse.dds"
+		texture_normal = "mesopotamian_weapons_normal.dds"
+		texture_specular = "mesopotamian_weapons_properties.dds"
+		shader = "standard"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "mesopotamian_axe_entity"
+	clone = "ROM_sword_entity"
+	pdxmesh = "mesopotamian_axe_mesh"
+}

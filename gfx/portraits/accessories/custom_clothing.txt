@@ -1,0 +1,209 @@
+﻿aegean_armor_portrait_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "aegean_armor_portrait_1_entity" }
+}
+male_clothes_minoan_soldier_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_clothes_minoan_soldier_1_entity" }
+	set_tags = "full_bust"	
+}
+##Mesopotamia##
+###male
+male_clothes_mesopotamian_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_1_entity }
+	set_tags = "full_bust"
+}
+male_clothes_mesopotamian_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_2_entity }
+}
+male_clothes_mesopotamian_2_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_2_color2_entity }
+}
+
+male_clothes_mesopotamian_3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_3_entity }
+}
+male_clothes_mesopotamian_3_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_3_color2_entity }
+}
+male_clothes_mesopotamian_3_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_3_color3_entity }
+}
+male_clothes_mesopotamian_3_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_mesopotamian_3_color4_entity }
+}
+
+male_clothes_aegean_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_1_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_2_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_2v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_2_v2_entity }
+	set_tags = "full_bust"
+}
+
+male_clothes_aegean_3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_3_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_color2_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_3_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_color3_entity }
+	set_tags = "full_bust"
+}
+
+male_clothes_aegean_3v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_color1_ver2_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_3_color2v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_color2_ver2_entity }
+	set_tags = "full_bust"
+}
+male_clothes_aegean_3_color3v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_3_color3_ver2_entity }
+	set_tags = "full_bust"
+}
+
+
+male_clothes_aegean_4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_4_entity }
+	set_tags = "full_bust"
+}
+
+male_clothes_aegean_5 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_5_entity }
+	set_tags = "full_bust"
+}
+
+male_clothes_aegean_6 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_aegean_6_entity }
+	set_tags = "full_bust"
+}
+
+###Female
+
+female_clothes_mesopotamian_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_mesopotamian_1_entity }
+	set_tags = "full_bust"
+}
+
+female_clothes_mesopotamian_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_mesopotamian_2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_mesopotamian_2_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_mesopotamian_2_color2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_mesopotamian_2_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_mesopotamian_2_color3_entity }
+	set_tags = "full_bust"
+}
+female_clothes_mesopotamian_2_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_mesopotamian_2_color4_entity }
+	set_tags = "full_bust"
+}
+
+female_clothes_aegean_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color3_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color4_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color5 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color5_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color6 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color6_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color1V2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color2v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color2V2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color3v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color3V2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color4v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color4V2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color5v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color5V2_entity }
+	set_tags = "full_bust"
+}
+female_clothes_aegean_1_color6v2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_aegean_1_color6V2_entity }
+	set_tags = "full_bust"
+}
+##############################################
+########  Bronze age hairstyles ##############
+##############################################
+#####Male
+male_hair_mesopotamian_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_mesopotamian_1_entity" }
+}
+male_hair_mesopotamian_2 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_mesopotamian_2_entity" }
+}
+
+
+male_hair_aegean_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_aegean_1_entity" }
+}
+male_hair_aegean_1_V2 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_aegean_1_v2_entity" }
+}
+male_hair_aegean_1_V3 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_aegean_1_v3_entity" }
+}
+
+male_hair_aegean_1_diadems = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_aegean_1_diadems_entity" }
+}
+male_hair_aegean_2_diadems = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_aegean_2_diadems_entity" }
+}
+
+
+#####Female
+
+female_hair_aegean_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_aegean_1_entity" }
+}
+female_hair_aegean_2 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_aegean_2_entity" }
+}
+female_hair_aegean_2_v3 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_aegean_2_v3_entity" }
+}
+female_hair_aegean_3 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_aegean_3_entity" }
+}
+female_hair_aegean_1_diadems = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_aegean_1_diadems_entity" }
+}
+
+

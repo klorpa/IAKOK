@@ -3,6 +3,22 @@
  aestian:2 "Heretic"
  matrist_religion:0 "Heresy"
 
+ mountain_valley:0 "Mountain Valley"
+ mountain_valley_desc:0 "Land covered on two sides by mountains, giving a river valley rich in resources aswell as easily defendable."
+ deep_forest:0 "Deep Forest"
+ deep_forest_desc:0 "A deep ancient forest that has plenty of wild game and trees, but not much else and is not especially suitable for large settlements."
+ island_coast:0 "Island Coast"
+ island_coast_desc:0 "Island Coasts are not overly forested nor especially filled with hills."
+ desert_hills:0 "Desert Hills"
+ desert_hills_desc:0 ""
+ desert_valley:0 "Desert Valley"
+ desert_valley_desc:0 ""
+ oasis:0 "Oasis"
+ oasis_desc:0 ""
+ flood_plain:0 "Floodplain"
+ flood_plain_desc:0 ""
+ 
+ 
  #Start date
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game date counts from the death of Sargon the Great the first ever emperor in 2279 BCE.\n\n#TF Now any King who wants to call himself my equal wherever I went let him go. - Sargon the Great#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since death of Sargon."

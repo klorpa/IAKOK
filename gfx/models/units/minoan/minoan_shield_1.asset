@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "minoan_shield_1_mesh"
+	file = "minoan_shield_1.mesh"
+
+	meshsettings = {
+		name = "Mesh.008"
+		index = 0
+		texture_diffuse = "benjin_minoan_warrior_shield_diffuse.dds"
+		texture_normal = "benjin_minoan_warrior_shield_normal.dds"
+		texture_specular = "benjin_minoan_warrior_shield_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "minoan_shield_1_entity"
+	pdxmesh = "minoan_shield_1_mesh"
+	Scale = 0.8
+}
