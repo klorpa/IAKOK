@@ -77,7 +77,6 @@
 	}
 	
 	culture = {
-		shasu = {}
 		sabean = {}
 		maganese = {}
 	}

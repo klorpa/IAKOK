@@ -1,0 +1,73 @@
+﻿sumerian = {	
+	color = hsv { 0.32 0.73 0.96 }
+
+	primary = chariot_heavy
+	second = light_swordsmen
+	flank = cavalry_horse_archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	levy_template = levy_sonsofAshur
+
+	male_names = {
+		Alulim Alalngar En-men-lu-ana En-men-gal-ana Dumuzid En-sipad-zid-ana En-men-dur-ana Ubra-tutu Mesh-ki-ang-gasher Enmerkar Lugalbanda Dumuzid Dumuzi Gilgamesh Ur-Nungal 
+		Udul-klama La-ba_shum En-un-tarah-ana Mesh-he Melem-ana Lugal-kitun Mesh-Ane-pada Mesh-ki-ang-Nuna Elulu Balulu Hadanish En-shag-kush-ana Lugal-kinishe-dudu Lugal-ure
+		Agrgandea Nanni Mesh-ki-ang-Nanna Lugal-Ane-mundu Unzi Undalulu Urur Puzur-Nirah Ishu-Il Shu-suen Puzur-Suen Ur-Zababa Zumudar Usi-watar Eshtar-muti Ishme-Shamash
+		Shu-ilishu Nanniya Lugal-zage-si Ur-ningin Ur-gigir Kuda Puzur-ili Ur-Utu Lugal-melem En-hegal Lugal-sha-engur Ur-Nanshe Ur-nina Akurgal Eannatum Enannatum Entemena
+		Enentarzi Lugalanda Urukagina Lugal-ushumgal Puzer-Mama Ur-Utu Ur-Mama Lu-Baba Lugula Kaku Kakug Ur-Baba Gudea Ur-Ningirsu Pirigme Ugme Ur-gar Nam-mahani Utu-hengal
+		Ur-Namma Ur-Nammu Shulgi Amar-Suena Shu-Suen Ibbi-Suen
+	}
+	female_names = {
+		Ashusikildigir Enanatuma En-hedu-anna Ninbanda Puabi Shagshag Suhub-ad Shatu-Murrim Nin-Imma Amurritum Beletum Aea Gamelat En-Hedu-Anna Shiptu Habannatum Nammu
+		Nindukugga Mammetum Zimu Elutil Gemekala Urbau Lilith Ahunatum Yadidatum Ninbanda Anunit Gemeshega Sabit Ashusikildigir Ahatiwaqrat Lahamu Ninsar Belessunu
+	}
+	family = {
+		Ahmid.Ahmid.Ahmid.Ahmid
+		Galestus.Galestid.Galestid.Galestid
+		Kenamus.Kenamid.Kenamid.Kenamid
+		Naravid.Naravid.Naravid.Naravid
+		Penamus.Penamid.Penamid.Penamid
+		Senuid.Senuid.Senuid.Senuid
+		Setnid.Setnid.Setnid.Setnid
+		Arganid.Arganid.Arganid.Arganid
+		Psammid.Psammid.Psammid.Psammid
+		Philothid.Philothid.Philothid.Philothid
+		Timolid.Timolid.Timolid.Timolid
+		Zosid.Zosid.Zosid.Zosid
+		Phileid.Phileid.Phileid.Phileid
+		Nicodemid.Nicodemid.Nicodemid.Nicodemid
+		Nefarid.Nefarid.Nefarid.Nefarid
+		Bastid.Bastid.Bastid.Bastid
+		Xeneid.Xeneid.Xeneid.Xeneid
+		Naravid.Naravid.Naravid.Naravid
+		Ezanid.Ezanid.Ezanid.Ezanid
+		Ahmid.Ahmid.Ahmid.Ahmid
+		Alarus.Alara.Alarid.Alarid
+		Harsiotes.Harsiotes.Harsiotid.Harsiotid
+		Henus.Hena.Henid.Henid
+		Ibus.Iba.Ibid.Ibid
+		Khabbash.Khabbash.Khabbashid.Khabbashid	
+		Amasus.Amasa.Amasid.Amasid
+		Nectanebo.Nectanebo.Nectanebid.Nectanebid
+		Petubast.Petubast.Petubastes.Petubastid
+		Djedhid.Djedhid.Djedhid.Djedhid
+		Tachys.Tachya.Tachyes.Tachyid
+		Mago.Mago.Mago.Magid
+	}
+	culture = {
+		sumeric = {}
+		dilmunic = {}
+		maganic = {}
+	}
+	
+	barbarian_names = { 
+		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
+	}
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		10 = akkadian
+	}
+}
