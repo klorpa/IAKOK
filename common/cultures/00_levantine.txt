@@ -11,11 +11,11 @@
 
 	levy_template = levy_cpunic
 	male_names = {
-		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
 		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
-		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal
+		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal Paltibaal
 		Ummashtart Melqartshama Batnoam Urumilki Yehomilk Yadamilk Baaliaton Barekbaal Gerbaal Gerimilki Khiletzbaal Tabnit Yutpan Zimrida
-		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba
+		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba Sargon Abimilku Ba_alat-Remeg Abiba_al Hiram _Abd_ashtart Astartos Astharymos Phelles Ittoba_al Ba_aleser Mattan Pummay Eloulaios Ba_al Baltoros Merbalos Zimrida Luli Abdimilkuti Eshmun_azar Tabnit Ribaddi Ili-rapi Zakarba_al Ahiram Yehimlk Eliba_al Sipitba_al Ormilk Milkasaph Abdhammon Abibaal Abirami Adonibaal Ahinadab Ahirom Ahumm Azmelqart Baaliahon Baaliaton Barekbaal Batnoam Bodashtart Eshmounhilles Eshmouniaton Hannibal Itthobaal Melqart-shama_ Paltibaal Sikarbaal Ummashtart Urumilki Yada_milk Yehomilk Yaphurlim Iphurkura Iptur-Dagan Aba-Lim Hadda-ahu Malakili Ja_labu Arad-an Hunabum Minu-Kura Zikir-Damu Milki-Dagan Hadda _Abdu-Dagan Mahra-Damu Silli-Dagan Yantin-Haddu Ipfur-Kura Indd-Damu Yanud-Lim Arshi-aha Ma-ashta-shu _Ayyan-Sarri Iphur-Hadda Taphur-Hadda
 	}
 	female_names = {
 		Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar Adiya Tabua Yapa Ytab Suhaima Huldu Mashah Gamila Asherah Izavel Iezabel Elissa Muttunbaal
@@ -63,33 +63,6 @@
 		bequaan = {}
 		ugaritic = {}
 		hyxosite = {
-			male_names = {
-				Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
-				Wahibre Haaibre Bek Bebiankh Bebnum Bakenranef Bebiankh Bay Isru Baskakeren Babaef Baufra Buneb Baqet Isesi Djedkare Isesi Djoser Djehutyemhat Dedumose Djehuty
-				Didia Djehuiti Dju Nebwy Djer Den Djet Dedi Djaty Djedefhor Djedefre Djedi Duaenhor Duaenre Djau Djedkare Shemai Dagi Djedhor Djehutynahkht Djehutihotep Djedefptah
-				Djediufankh Hannu Hsekiu Hor Hapuseneb Hui Huya Hori Henuttawy Harsiese Hedjkheperre Setepenamun Hornakht Hepu Horemheb Hori Herihor Hewernef Horus Ba Hemaka 
-				Hotepsekhemwy Hsy-Ra Huni Hemiunu Horbaef Heqaib Harkhuf Hotepibre Heqanakht Hunefer Harkhebi Hor-Aha Haremakhet Harwa Hannu Iufni Intef Iuty Iymeru Ibau Ibiaw
-				Iput Inenek-Inti Inenek Inti Isesi-ankh Isesi Inkaef Isu Itisen Itu Iunmin Iunre Iynefer Imhotep Iry-Hor Iuwelot Intef Imyrwemeshaw Inaros Psamtik Ibiaw Menkheperre
-				Ini Menkheperre Nebet Khayu Khnumhotep Kaaper Khety Kheti Khui Kagemni Kaemqed Kaemsekhem Kakhent Kanefer Kawab Khafra Khentimeresh Khufu Khufukhaf Khaba Khasekhemwy
-				Khenthap Ka Khabaw Khaemweset Khyan Khendjer Userkare Khamwaset Khabekhnet Khaemtir Kheti Kashta Khawy Khay Khamudi Kamose Khabash Khuiqer Meni Mahu Mentuhotep
-				Nebhepetre Meketre Merikare Meru Mentuhotep Minkhaf Merit-Ptah Mentuhotepi Mesehti Muthis Mesen-ka Minmose Maya Merysekhmet Merneptah Masaharta Meryatum Merenptah
-				Merymose Meryre Nakhthoreb Nakhtnebef Nebnuni Nebre Neby Nuya Nebwawy Nikare Nykara Narmer Nedjem Nehesy Nekauba Necho Neferkare Nakhtpaaten Nectanebo Neferhotep
-				Nefaarud Osorkon Qa_a Qakare Qareh Qar Qen Qenna Udjahorresenet Unas Useramen Userhet Userkaf Userkare Usermontu Yanhamu Yuny Yuya Yuyu Wadjmose Wadjitefni Ibiau
-				Wakhare Wakhare Khety Webensenu Wegaf Wegaf Khutawyre Khutawyre Wehemka Weneg Weni Wentawet Wetka Wazad Wenennefer Teti Tjahapimu Tutu Tefibi Teta Tefnakht Tutkheperre
-				Shosqenq Tutkheperre Teos Thutmose Talakhamani Seqenenre Seqenenre-Tao Tao Tantamani Taharqa Raemka Raherka Rahotep Menpehtyre Usimare Heqamaatre Sekhepenre Akhenamun
-				Khepermare Ramose Raneb Rashepses Rehuerdjersen Rawer Rekhmire Renseneb Rudamun Setepenamun Meryamun Usermaatre Sabef Sabni Sabu Ibebi Thety Saure Salitis Sebkay
-				Segerseni Sehebre Sehetepre Perenmaat Sekhemib Sobekhotep Seneb Senebhenaf Sennedjem Sennefer Senneferi Senusret Seti Seth-Peribsen Seth Peribsen Setepenre Setau
-				Sesheshet Serfka Menmaatre Userkeperure Setepenre Setut Sewadjkare Hori Shabaka Neferkare Sharek Shebitku Shepenupet Shepseska Shery Sheshi Sheshi Maaibre Maaibre
-				Sneferukhaf Sobekemhat Sonbef Sobekneferu Sobeknakht Merkawre
-			}
-			female_names = {
-				Behenu Beketamun Baketwernel Betrest Bunefer Bintanath Duatentopet Duathathor-Henuttawy Duathathor Henuttawy Djetfatnebti Djeseretnebti Djefatsen Dakhamunzu Gautseshen 
-				Gilukhipa Hatshepsut Hatshepsut-Merytre Henuttaneb Henutmehyt Henutmire Henuttawy Henutwati Henut Taui Henut Taui Hetephernebti Hekenuhedjet Hemetre Henutsen Hetepheres 
-				Khamerernebty Khentkaus Khentetka Kapes Weret Khedebneithirinet Keminub Khensa Karomama Karomama Meritmut Meritmut Kiya Meresamun Meret-Isesi Meresankh Mereret Meritites
-				Merneith Maatkare Mutnedjmet Mutnofret Mentuhotep Maatkare Mutemhat Maatkare Meritamen Nebetnehat Nesitaudjatakhet Nakht Neith Nebet Nefertnebty Nubwenet Nefertkau
-				Nefertiabet Nimaethap Nofret Nakhtneith Neferu Qalhata Udjebten Tyti Twosret Tuya Tutu Tjuyu Tetisheri Reptynub Reputnebty Satiah Shepset-ipet Sitamun Sitdjehuti Sitre
-				Hedjetnebu Isesu Itet Inetkawes Iaret Isetemkheb Isetnofret Iset Ipu Kekheretnebti Khenut Khuit
-			}
 			family = {
 				Sneferu-Nabma_at.Sneferu-Nabma_at.Sneferu-Nabma_at.Sneferu-Nabma_at
 				Khety.Khety.Khety.Khety
