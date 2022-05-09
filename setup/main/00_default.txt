@@ -66,17 +66,7 @@ provinces = { #Any entry must contain a comment with city name.
 }
 
 road_network = {
-	1090 = 2517
-	2517 = 1128
-	1128 = 1127
-	1127 = 1130
-	1130 = 1132
-	1132 = 1134
-	1132 = 1146
-	1132 = 1136
-	1136 = 1137
-	1138 = 1137
-	1138 = 1136
+	
 }
 
 country = {
