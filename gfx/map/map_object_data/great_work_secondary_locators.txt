@@ -5,6 +5,5 @@
 	generated_content=no
 	layer="monument_layer"
 	instances={
-		
 	}
 }
