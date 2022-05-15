@@ -821,7 +821,8 @@
  TANI:0 "Tania"
  TANI_ADJ:0 "Tanian"
  #Modded Countries
- #Todo
+ NAA:0 "Kerma"
+ NAA_ADJ:0 "Kerman"
  #Modded Formables
  Achemenos_Name:0 "Achaemenid Empire"
  Medeos_Name:0 "Median Empire"

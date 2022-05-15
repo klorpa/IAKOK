@@ -76,7 +76,16 @@ country = {
 			government = tribal_kingdom
 		}
 		
-		
+		NAA = { #Kerma
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				1288 1248 2628 1491 1162 1304 2245 2249 1338 1282 117 1392 1326
+			}
+		}
 		
 	}
 }

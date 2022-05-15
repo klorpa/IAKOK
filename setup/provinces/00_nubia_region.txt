@@ -1,7 +1,7 @@
 ﻿13={ #Usesh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 117={ #Uta
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 1162={ #Mehtiu
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 1165={ #Mekhsu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -70,8 +70,8 @@
 
 1182={ #Meska
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -86,8 +86,8 @@
 
 1186={ #Naarik
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -102,8 +102,8 @@
 
 1197={ #Nakeka
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -118,8 +118,8 @@
 
 1198={ #Nub-heh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -134,8 +134,8 @@
 
 1235={ #Nepra
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -153,8 +153,8 @@
 
 1245={ #Nef-ur
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -172,8 +172,8 @@
 
 1248={ #Neferu
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
@@ -191,8 +191,8 @@
 
 1249={ #Heratu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -210,8 +210,8 @@
 
 1252={ #Nesbi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -229,8 +229,8 @@
 
 1255={ #Nekhekh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -245,8 +245,8 @@
 
 1271={ #Netcheru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -264,8 +264,8 @@
 
 1281={ #Amithu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=3
@@ -283,8 +283,8 @@
 
 1282={ #Cheset
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -299,8 +299,8 @@
 
 1288={ #Kerma
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=55
 	barbarian_power=0
@@ -321,8 +321,8 @@
 
 1299={ #Rekhit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -340,8 +340,8 @@
 
 1304={ #Renp-ta
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
@@ -359,8 +359,8 @@
 
 1307={ #Renpit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -375,8 +375,8 @@
 
 1310={ #Ermentu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -394,8 +394,8 @@
 
 1315={ #Rehebu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=4
@@ -413,8 +413,8 @@
 
 1318={ #Hewt Netr
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -432,8 +432,8 @@
 
 1326={ #Rertu-nefu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -451,8 +451,8 @@
 
 1327={ #Re-henent
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -470,8 +470,8 @@
 
 1336={ #Iken
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -489,8 +489,8 @@
 
 1338={ #Reqau
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -508,8 +508,8 @@
 
 1392={ #Chenem-Waset
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -524,8 +524,8 @@
 
 1458={ #Buhen
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -540,8 +540,8 @@
 
 1459={ #Teherau
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -556,8 +556,8 @@
 
 1465={ #Atert
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -572,8 +572,8 @@
 
 1472={ #Ashta
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -588,8 +588,8 @@
 
 1491={ #Asartiu
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=34
 	barbarian_power=0
@@ -607,8 +607,8 @@
 
 1519={ #Sehnen
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -623,8 +623,8 @@
 
 1521={ #Akhser
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -639,8 +639,8 @@
 
 1542={ #Anemsit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -655,8 +655,8 @@
 
 1555={ #Amt-tehen
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -671,8 +671,8 @@
 
 1580={ #Ahibit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -687,8 +687,8 @@
 
 1600={ #Ashemu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -703,8 +703,8 @@
 
 1602={ #Uhemu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -722,8 +722,8 @@
 
 1606={ #Ukheb
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -738,8 +738,8 @@
 
 1677={ #Kheset
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -754,8 +754,8 @@
 
 1683={ #Hept-ur
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -770,8 +770,8 @@
 
 2245={ #Tebu
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
@@ -789,8 +789,8 @@
 
 2249={ #Setetu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -805,8 +805,8 @@
 
 2255={ #Setupt
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -824,8 +824,8 @@
 
 2271={ #Bessu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -840,8 +840,8 @@
 
 2336={ #Urtut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -856,8 +856,8 @@
 
 2339={ #Ustesh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -872,8 +872,8 @@
 
 2343={ #Nekut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -888,8 +888,8 @@
 
 2383={ #Nebti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -898,8 +898,8 @@
 		amount=2
 	}
 	slaves={
-		culture="wvenedi"
-		religion="slavic_pantheon"
+		culture="lower_nubian"
+		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -909,8 +909,8 @@
 
 2384={ #Wabt
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
@@ -919,8 +919,8 @@
 		amount=3
 	}
 	slaves={
-		culture="wvenedi"
-		religion="slavic_pantheon"
+		culture="lower_nubian"
+		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -930,8 +930,8 @@
 
 2387={ #Seshit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -943,8 +943,8 @@
 		amount=3
 	}
 	slaves={
-		culture="wvenedi"
-		religion="slavic_pantheon"
+		culture="lower_nubian"
+		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -954,8 +954,8 @@
 
 2390={ #Netert
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -970,8 +970,8 @@
 
 2392={ #Hetemit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -986,8 +986,8 @@
 
 2395={ #Petchu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1005,8 +1005,8 @@
 
 2397={ #Nenit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1024,8 +1024,8 @@
 
 2398={ #Shefshefit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1040,8 +1040,8 @@
 
 2402={ #Abraskti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1059,8 +1059,8 @@
 
 2404={ #Aper-peh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1078,8 +1078,8 @@
 
 2407={ #Uput
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1094,8 +1094,8 @@
 
 2409={ #Amentiu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1113,8 +1113,8 @@
 
 2412={ #Pertcha
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1132,8 +1132,8 @@
 
 2414={ #Perrites
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1148,8 +1148,8 @@
 
 2417={ #Mesut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1164,8 +1164,8 @@
 
 2419={ #Netchem
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1183,8 +1183,8 @@
 
 2423={ #Hetut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1199,8 +1199,8 @@
 
 2426={ #Uhennu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1218,8 +1218,8 @@
 
 2428={ #Atur-ti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1237,8 +1237,8 @@
 
 2437={ #Ahait
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1256,8 +1256,8 @@
 
 2438={ #Khept
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1275,8 +1275,8 @@
 
 2439={ #Abahûdah
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1291,8 +1291,8 @@
 
 2440={ #Meha
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1307,8 +1307,8 @@
 
 2444={ #Tuat
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1326,8 +1326,8 @@
 
 2445={ #Netchses
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1345,8 +1345,8 @@
 
 2446={ #Khakhat
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1364,8 +1364,8 @@
 
 2448={ #Baksut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1383,8 +1383,8 @@
 
 2456={ #Bagasa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1402,8 +1402,8 @@
 
 2460={ #Senther
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1418,8 +1418,8 @@
 
 2461={ #Atekh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1437,8 +1437,8 @@
 
 2464={ #Pekhut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -1456,8 +1456,8 @@
 
 2468={ #Nefit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1475,8 +1475,8 @@
 
 2469={ #Hebut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1491,8 +1491,8 @@
 
 2520={ #Atur-res
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1510,8 +1510,8 @@
 
 2537={ #Atum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1526,8 +1526,8 @@
 
 2556={ #Neferut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1542,8 +1542,8 @@
 
 2561={ #Nubit
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1558,8 +1558,8 @@
 
 2628={ #Metut
 	terrain="flood_plain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
@@ -1577,8 +1577,8 @@
 
 3111={ #Perit
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=15
 	barbarian_power=0
@@ -1596,8 +1596,8 @@
 
 3122={ #Pertiu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1615,8 +1615,8 @@
 
 3131={ #Perkh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -1631,8 +1631,8 @@
 
 3205={ #Pestu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lower_nubian"
+	religion="ethiopian_pantheon"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0

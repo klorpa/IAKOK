@@ -1,0 +1,72 @@
+﻿# Receives data from /genes
+# Ethnicities are used in /cultures 
+
+
+gutian = {
+	template = "ethnities_template"
+
+	skin_color = {
+		10 = { 0.5 0.57 0.7 0.63 }
+	}
+	eye_color = {
+		#Green
+		5 = { 0.33 0.35 0.67 0.65 }
+		#Brown
+		100 = { 0.67 0.5 1.0 1.0 }				
+	}
+	hair_color = {
+		# Dark Brown
+		15 = { 0.15 0.8 0.45 0.9 }
+		# Auburn
+		#5 = { 0.8 0.5 1.0 0.8 }
+		# Red
+		#10 = { 0.95 0.0 1.0 0.4 }
+		# Black
+		80 = { 0.0 0.9 0.15 1.0 }
+		## # Gray
+		# 5 = { 0.0 0.3 0.15 0.5 }
+		## # White
+		# 5 = { 0.0 0.0 0.25 0.25 }										
+	}
+
+		
+	
+hairstyles = {
+    10 = { name = germanic_hairstyles          range = { 0.41 0.42 } }
+    10 = { name = germanic_hairstyles          range = { 0.74 0.75 } }
+    10 = { name = celtic_hairstyles          range = { 0.98 1.00 } }
+    10 = { name = bactrian_hairstyles          range = { 0.75 0.76 } }
+}
+
+eyebrows = {
+    10 = { name = caucasian_eyebrows        range = { 0.0 1.0 } }
+}
+
+beards = {
+    10 = { name = persian_beards          range = { 0.0 1.0 } }
+}
+
+clothes = {
+    10 = { name = iberian_clothes            range = { 0.44 0.45 } }
+    10 = { name = arabian_clothes            range = { 0.0 0.1 } }
+    10 = { name = celtic_clothes            range = { 0.65 0.66 } }
+    10 = { name = celtic_clothes            range = { 0.84 1.00 } }
+    #2 = { name = no_clothes            range = { 0.0 1.0 } }
+}
+
+clothes_layer2 = {
+    10 = { name = mauryan_top_layer            range = { 0.0 0.30 } } #Tiger skin
+    10 = { name = dravidian_top_layer            range = { 0.0 0.25 } } #Dravidian pelt
+    40 = { name = germanic_top_layer            range = { 0.0 1.00 } }
+}
+
+complexion = {
+    40 = { name = levantine_1            range = { 0.0 1.0 } }
+    10 = { name = roman_2            range = { 0.0 1.0 } }
+    10 = { name = roman_3            range = { 0.0 1.0 } }
+    10 = { name = roman_4            range = { 0.0 1.0 } }
+    10 = { name = roman_5            range = { 0.0 1.0 } }
+}
+
+}
+
