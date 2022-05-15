@@ -67,8 +67,8 @@
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = mesopotamian_gfx
+	graphical_culture = persian_gfx
 	ethnicities = {
-		10 = elamite
+		10 = persian
 	}
 }

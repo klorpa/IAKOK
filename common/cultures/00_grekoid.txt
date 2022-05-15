@@ -104,17 +104,23 @@
 		
 	}
 	culture = {
+		makedonic = {}
+		cypriotic = {}
+		doric = {}
+		attic = {}
+		ionic = {}
+		aeolic = {}
+		arcadic = {}
+		acheic = {}
+		laconic = {}
+		dannien = {}
 		mycenean = {}
-		pylosi = {}
-		menelaic = {}
-		athenic = {}
-		thebaidan = {}
-		iolcian = {}
-		elisian = {}
-		dorunic = {}
-		phocian = {}
-		euboic = {}
-		aetol = {}
+		#Latest change
+		wilusan = {}
+		pelasgian = {}
+		lelegian = {}
+		caphtorite = {}
+		cypro_minoic = {}
 	}
 	
 	barbarian_names = { 
@@ -130,7 +136,7 @@
 	
 	
 	
-	graphical_culture = aegean_gfx
+	graphical_culture = greek_gfx
 	ethnicities = {
 		10 = greek
 	}

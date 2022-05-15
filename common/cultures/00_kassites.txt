@@ -25,7 +25,6 @@
 	}
 	culture = {
 		kassite = {}
-		akkado_kassite = {}
 		lullubian = {}
 		parsuan = {}
 	}
@@ -34,8 +33,8 @@
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = mesopotamian_gfx
+	graphical_culture = arabian_gfx
 	ethnicities = {
-		10 = gutian
+		10 = persian
 	}
 }

@@ -1,5 +1,5 @@
 ﻿aramaic = {	
-	color = hsv { 0.16 0.74 0.96 }
+	color = hsv { 0.05 1.0 0.5 }
 	
 	primary = missile_spearthrowers
 	second = light_swordsmen
@@ -56,24 +56,27 @@
 	}
 	
 	culture = {
-		amorite = {}
-		ahlamic = {}
-		gilad = {}
-		ammon = {}
-		moab = {}
-		edom = {}
-		midianite = {}
-		shasu = {}
+		aramean = {}
+		hatti_aramean = {}
+		saramean = {}
 		sutean = {}
-		hannean = {}
+		ammonite = {}
+		moabite = {}
+		temannite = {}
+		chaldean = {}
+		ahlamic = {}
+		midianic = {}
+		edomite = {}
+		shasan = {}
+		amalekite = {}
 	}
 	
 	barbarian_names = { 
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = levantine_gfx
+	graphical_culture = carthaginian_gfx
 	ethnicities = {
-		10 = berber
+		10 = arabian
 	}
 }

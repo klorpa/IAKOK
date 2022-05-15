@@ -1,0 +1,44 @@
+﻿#greek_gfx = {}
+roman_gfx = {}
+carthaginian_gfx = {}
+egyptian_gfx = {}
+german_gfx = {}
+#persian_gfx = {}
+#celtic_gfx = {}
+scythian_gfx = {}
+iberian_gfx = {}
+north_indian_gfx = {}
+south_indian_gfx = {}
+arabian_gfx = {}
+#nubian_gfx = {}
+bactrian_gfx = {}
+barbarian_gfx = {}
+#numidian_gfx = {}
+anatolian_gfx = {}
+cypriot_gfx = {}
+luwian_gfx = {}
+hurrian_gfx = {}
+bryges_gfx = {}
+elamite_gfx = {}
+blank_gfx= {}
+
+# New Bronze Age in use
+aegean_gfx = {}
+	#aegean
+greek_gfx = {}
+	#hellenic (proto-)
+mesopotamian_gfx = {}
+	#sumerian
+persian_gfx = {}
+	#akkadian
+	#lullubi
+	#gutian
+levantine_gfx = {}
+	#levantine
+numidian_gfx= {}
+	#maganite
+	#berber
+nubian_gfx = {}
+	#nubian
+north_indian_gfx = {}
+	#harappan

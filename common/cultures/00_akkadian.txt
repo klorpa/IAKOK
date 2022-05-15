@@ -42,8 +42,8 @@
 		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
 	}
 	
-	graphical_culture = persian_gfx
+	graphical_culture = carthaginian_gfx
 	ethnicities = {
-		10 = akkadian
+		10 = persian
 	}
 }
