@@ -1,6 +1,6 @@
 ﻿13={ #Usesh
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
 	civilization_value=25
@@ -17,16 +17,23 @@
 117={ #Uta
 	terrain="plains"
 	culture="kerman"
-	religion="ethiopian_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=2
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -39,7 +46,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -70,7 +77,7 @@
 
 1182={ #Meska
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="stone"
 	civilization_value=25
@@ -86,7 +93,7 @@
 
 1186={ #Naarik
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -102,23 +109,30 @@
 
 1197={ #Nakeka
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="saian"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=2
+		religion="ethiopian_pantheon"
 	}
 }
 
 1198={ #Nub-heh
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
@@ -300,13 +314,13 @@
 1288={ #Kerma
 	terrain="flood_plain"
 	culture="kerman"
-	religion="ethiopian_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount=2
 	}
 	citizen={
 		amount=6
@@ -315,10 +329,11 @@
 		amount=9
 	}
 	slaves={
-		amount=4
+		amount=5
 	}
 	tribesmen={
 		amount=4
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -344,11 +359,14 @@
 1304={ #Renp-ta
 	terrain="flood_plain"
 	culture="kerman"
-	religion="ethiopian_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=34
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=7
 	}
@@ -356,7 +374,8 @@
 		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=4
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -378,20 +397,27 @@
 
 1310={ #Ermentu
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="saian"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 	tribesmen={
-		amount=1
+		amount=3
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -473,7 +499,7 @@
 
 1336={ #Iken
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
 	civilization_value=25
@@ -543,7 +569,7 @@
 
 1459={ #Teherau
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=25
@@ -575,7 +601,7 @@
 
 1472={ #Ashta
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
@@ -610,7 +636,7 @@
 
 1519={ #Sehnen
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
 	civilization_value=25
@@ -626,7 +652,7 @@
 
 1521={ #Akhser
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
 	civilization_value=25
@@ -658,7 +684,7 @@
 
 1555={ #Amt-tehen
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -674,7 +700,7 @@
 
 1580={ #Ahibit
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -690,7 +716,7 @@
 
 1600={ #Ashemu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=25
@@ -706,7 +732,7 @@
 
 1602={ #Uhemu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=25
@@ -725,17 +751,24 @@
 
 1606={ #Ukheb
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="saseban"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=4
+		amount=6
+	}
+	freemen={
+		amount=2
 	}
 	tribesmen={
-		amount=2
+		amount=3
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -808,7 +841,7 @@
 
 2255={ #Setupt
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
 	civilization_value=25
@@ -827,7 +860,7 @@
 
 2271={ #Bessu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
 	civilization_value=25
@@ -843,7 +876,7 @@
 
 2336={ #Urtut
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -859,23 +892,30 @@
 
 2339={ #Ustesh
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="saian"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=4
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=2
+		religion="ethiopian_pantheon"
 	}
 }
 
 2343={ #Nekut
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=25
@@ -1116,7 +1156,7 @@
 
 2412={ #Pertcha
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
@@ -1135,7 +1175,7 @@
 
 2414={ #Perrites
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="honey"
 	civilization_value=25
@@ -1151,7 +1191,7 @@
 
 2417={ #Mesut
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
 	civilization_value=25
@@ -1167,7 +1207,7 @@
 
 2419={ #Netchem
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=25
@@ -1186,7 +1226,7 @@
 
 2423={ #Hetut
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
 	civilization_value=25
@@ -1202,26 +1242,33 @@
 
 2426={ #Uhennu
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="semnan"
+	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=3
+		religion="ethiopian_pantheon"
 	}
 }
 
 2428={ #Atur-ti
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -1494,7 +1541,7 @@
 
 2520={ #Atur-res
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=25
@@ -1513,7 +1560,7 @@
 
 2537={ #Atum
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
 	civilization_value=25
@@ -1529,7 +1576,7 @@
 
 2556={ #Neferut
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
 	civilization_value=25
@@ -1545,17 +1592,24 @@
 
 2561={ #Nubit
 	terrain="plains"
-	culture="lower_nubian"
-	religion="ethiopian_pantheon"
+	culture="saseban"
+	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=2
+		religion="ethiopian_pantheon"
 	}
 }
 
@@ -1580,7 +1634,7 @@
 
 3111={ #Perit
 	terrain="desert_hills"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=15
@@ -1599,7 +1653,7 @@
 
 3122={ #Pertiu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
@@ -1618,7 +1672,7 @@
 
 3131={ #Perkh
 	terrain="plains"
-	culture="lower_nubian"
+	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=25
@@ -1634,7 +1688,7 @@
 
 3205={ #Pestu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
 	civilization_value=25

@@ -79,7 +79,7 @@ country = {
 		NAA = { #Kerma
 			government = despotic_monarchy
 			primary_culture = kerman
-			religion = ethiopian_pantheon
+			religion = kemetic_pantheon
 			capital = 1288
 			
 			own_control_core = 	{ 
@@ -87,36 +87,36 @@ country = {
 			}
 		}
 		
-		NAB = { #Additional
+		NAB = { #Ukheb
 			government = despotic_monarchy
-			primary_culture = lower_nubian
+			primary_culture = saseban
 			religion = ethiopian_pantheon
-			capital = 1288
+			capital = 1606
 			
 			own_control_core = 	{ 
-				
+				1606 1519 1600 1602 1580 1555 2561 13 1198 2556
 			}
 		}
 		
-		NAC = { #Additional
+		NAC = { #Sai
 			government = despotic_monarchy
-			primary_culture = lower_nubian
-			religion = ethiopian_pantheon
-			capital = 1288
+			primary_culture = saian
+			religion = kemetic_pantheon
+			capital = 1310
 			
 			own_control_core = 	{ 
-				
+				1310 2271 2537 1186 1182 1197 2419 2520 3122 3205 2339
 			}
 		}
 		
-		NAD = { #Additional
+		NAD = { #Semna
 			government = despotic_monarchy
-			primary_culture = lower_nubian
+			primary_culture = semnan
 			religion = ethiopian_pantheon
-			capital = 1288
+			capital = 2426
 			
 			own_control_core = 	{ 
-				
+				2426 1336 1459 1472 2423 1521 2414 2255 2412 2428 3111 2343 2336 2417 3131
 			}
 		}
 		
