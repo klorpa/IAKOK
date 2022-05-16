@@ -5,4 +5,19 @@ MER = "setup/countries/mercenaries.txt"
 
 #Used A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,T,V
 #New:
+
+#Nubia
 NAA = "setup/countries/modded/mNAA.txt"
+NAB = "setup/countries/modded/mNAB.txt"
+NAC = "setup/countries/modded/mNAC.txt"
+NAD = "setup/countries/modded/mNAD.txt"
+NAE = "setup/countries/modded/mNAE.txt"
+NAF = "setup/countries/modded/mNAF.txt"
+NAG = "setup/countries/modded/mNAG.txt"
+NAH = "setup/countries/modded/mNAh.txt"
+NAI = "setup/countries/modded/mNAI.txt"
+NAJ = "setup/countries/modded/mNAJ.txt"
+NAK = "setup/countries/modded/mNAK.txt"
+NAL = "setup/countries/modded/mNAL.txt"
+NAM = "setup/countries/modded/mNAM.txt"
+NAN = "setup/countries/modded/mNAN.txt"

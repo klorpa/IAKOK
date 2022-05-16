@@ -2,7 +2,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,7 +21,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -56,7 +56,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -78,7 +78,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -94,7 +94,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -110,7 +110,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -129,7 +129,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -161,7 +161,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -180,7 +180,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -199,7 +199,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -215,7 +215,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -237,7 +237,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -253,7 +253,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -272,7 +272,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -307,7 +307,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -326,7 +326,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -342,7 +342,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -358,7 +358,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -377,7 +377,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -393,7 +393,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -409,7 +409,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -425,7 +425,7 @@
 	terrain="oasis"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"

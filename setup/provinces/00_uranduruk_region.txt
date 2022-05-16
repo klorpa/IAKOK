@@ -2,7 +2,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -18,7 +18,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -37,7 +37,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -56,7 +56,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=68
 	barbarian_power=0
 	province_rank="city"
@@ -78,7 +78,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -120,7 +120,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -139,7 +139,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=64
 	barbarian_power=0
 	province_rank="city"
@@ -162,7 +162,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=64
 	barbarian_power=0
 	province_rank="city"
@@ -181,7 +181,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -213,7 +213,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -229,7 +229,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -245,7 +245,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -264,7 +264,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=47
 	barbarian_power=0
 	province_rank="settlement"
@@ -280,7 +280,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=68
 	barbarian_power=0
 	province_rank="city"
@@ -299,7 +299,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -315,7 +315,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -331,7 +331,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=64
 	barbarian_power=0
 	province_rank="city"
@@ -351,7 +351,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=72
 	barbarian_power=0
 	province_rank="city"
@@ -374,7 +374,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -393,7 +393,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -409,7 +409,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -428,7 +428,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -460,7 +460,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -476,7 +476,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -492,7 +492,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,7 +508,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -527,7 +527,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -543,7 +543,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -562,7 +562,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -578,7 +578,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -597,7 +597,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -616,7 +616,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -635,7 +635,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -654,7 +654,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -677,7 +677,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -696,7 +696,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -715,7 +715,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -734,7 +734,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=68
 	barbarian_power=0
 	province_rank="city"
@@ -756,7 +756,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -772,7 +772,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -795,7 +795,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -814,7 +814,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -833,7 +833,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -852,7 +852,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -871,7 +871,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -894,7 +894,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,7 +913,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,7 +932,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,7 +970,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,7 +989,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,7 +1008,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1027,7 +1027,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -1046,7 +1046,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1065,7 +1065,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1084,7 +1084,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -1103,7 +1103,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1122,7 +1122,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="settlement"
@@ -1141,7 +1141,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1157,7 +1157,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1173,7 +1173,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=68
 	barbarian_power=0
 	province_rank="city"
@@ -1196,7 +1196,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=43
 	barbarian_power=0
 	province_rank="settlement"
@@ -1215,7 +1215,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
@@ -1234,7 +1234,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=60
 	barbarian_power=0
 	province_rank="city"
@@ -1257,7 +1257,7 @@
 	terrain="flood_plain"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=68
 	barbarian_power=0
 	province_rank="city"
@@ -1280,7 +1280,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1296,7 +1296,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1315,7 +1315,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -1331,7 +1331,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1347,7 +1347,7 @@
 	terrain="marsh"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1363,7 +1363,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1379,7 +1379,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1395,7 +1395,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1411,7 +1411,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1427,7 +1427,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1446,7 +1446,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1459,7 +1459,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1472,7 +1472,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

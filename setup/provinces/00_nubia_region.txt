@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -16,9 +16,9 @@
 
 117={ #Uta
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -32,9 +32,9 @@
 
 1162={ #Mehtiu
 	terrain="desert_hills"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -53,7 +53,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -72,7 +72,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -88,7 +88,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -104,7 +104,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -120,7 +120,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -136,7 +136,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -155,7 +155,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -172,9 +172,9 @@
 
 1248={ #Neferu
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="ivory"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,7 +193,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -212,7 +212,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -231,7 +231,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -247,7 +247,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -266,7 +266,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=20
 	barbarian_power=3
 	province_rank="settlement"
@@ -283,9 +283,9 @@
 
 1282={ #Cheset
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,14 +299,17 @@
 
 1288={ #Kerma
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=1
+	}
 	citizen={
-		amount=8
+		amount=6
 	}
 	freemen={
 		amount=9
@@ -315,7 +318,7 @@
 		amount=4
 	}
 	tribesmen={
-		amount=2
+		amount=4
 	}
 }
 
@@ -323,7 +326,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,9 +343,9 @@
 
 1304={ #Renp-ta
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -361,7 +364,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -377,7 +380,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -396,7 +399,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=20
 	barbarian_power=4
 	province_rank="settlement"
@@ -415,7 +418,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -432,9 +435,9 @@
 
 1326={ #Rertu-nefu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -453,7 +456,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -472,7 +475,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -489,9 +492,9 @@
 
 1338={ #Reqau
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,9 +511,9 @@
 
 1392={ #Chenem-Waset
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -526,7 +529,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -542,7 +545,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -558,7 +561,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +577,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -588,9 +591,9 @@
 
 1491={ #Asartiu
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,7 +612,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -625,7 +628,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -641,7 +644,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -657,7 +660,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -673,7 +676,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -689,7 +692,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -705,7 +708,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -724,7 +727,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -740,7 +743,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +759,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -770,9 +773,9 @@
 
 2245={ #Tebu
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -789,9 +792,9 @@
 
 2249={ #Setetu
 	terrain="plains"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -807,7 +810,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -826,7 +829,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -842,7 +845,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -858,7 +861,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -874,7 +877,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -890,7 +893,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -911,7 +914,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,7 +935,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -956,7 +959,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -972,7 +975,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -988,7 +991,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1007,7 +1010,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1026,7 +1029,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1042,7 +1045,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1061,7 +1064,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="gems"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1080,7 +1083,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1096,7 +1099,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1115,7 +1118,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1134,7 +1137,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="honey"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1150,7 +1153,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1166,7 +1169,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1185,7 +1188,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1201,7 +1204,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1220,7 +1223,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1239,7 +1242,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1258,7 +1261,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1277,7 +1280,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1293,7 +1296,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1309,7 +1312,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1328,7 +1331,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1347,7 +1350,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="papyrus"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1366,7 +1369,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1385,7 +1388,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1404,7 +1407,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="reeds"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1420,7 +1423,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1439,7 +1442,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1458,7 +1461,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1477,7 +1480,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1493,7 +1496,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1512,7 +1515,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1528,7 +1531,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cloth"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1544,7 +1547,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1558,9 +1561,9 @@
 
 2628={ #Metut
 	terrain="flood_plain"
-	culture="lower_nubian"
+	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="grain"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
@@ -1579,7 +1582,7 @@
 	terrain="desert_hills"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -1598,7 +1601,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1617,7 +1620,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -1633,7 +1636,7 @@
 	terrain="plains"
 	culture="lower_nubian"
 	religion="ethiopian_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"

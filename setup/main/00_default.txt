@@ -78,12 +78,155 @@ country = {
 		
 		NAA = { #Kerma
 			government = despotic_monarchy
-			primary_culture = lower_nubian
+			primary_culture = kerman
 			religion = ethiopian_pantheon
 			capital = 1288
 			
 			own_control_core = 	{ 
 				1288 1248 2628 1491 1162 1304 2245 2249 1338 1282 117 1392 1326
+			}
+		}
+		
+		NAB = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAC = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAD = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAE = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAF = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAG = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAH = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAI = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAK = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAL = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		NAN = { #Additional
+			government = despotic_monarchy
+			primary_culture = lower_nubian
+			religion = ethiopian_pantheon
+			capital = 1288
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 		

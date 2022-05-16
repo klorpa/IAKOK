@@ -49,10 +49,11 @@
 
 	culture = {
 		lower_nubian = {}
-		upper_nubian = {}
-		meroitic_nubian = {}
-		south_nubian = {}
-		south_west_nubian = {}
+		kerman = {}
+		saian = {}
+		saseban = {}
+		semnan = {}
+		nehesan = {}
 		medjay = {}
 	}
 	

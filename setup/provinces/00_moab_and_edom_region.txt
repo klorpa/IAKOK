@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -18,7 +18,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -34,7 +34,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -50,7 +50,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -66,7 +66,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -82,7 +82,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -95,7 +95,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -111,7 +111,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -124,7 +124,7 @@
 	terrain="hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -140,7 +140,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="salt"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -156,7 +156,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -169,7 +169,7 @@
 	terrain="hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -185,7 +185,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -201,7 +201,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -214,7 +214,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +230,7 @@
 	terrain="farmland"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,7 +246,7 @@
 	terrain="hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="farmland"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -282,7 +282,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -298,7 +298,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -330,7 +330,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -346,7 +346,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -359,7 +359,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -375,7 +375,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -391,7 +391,7 @@
 	terrain="farmland"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=55
 	barbarian_power=0
 	province_rank="city"
@@ -410,7 +410,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="salt"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -426,7 +426,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -442,7 +442,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="bitumen"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -455,7 +455,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -468,7 +468,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -481,7 +481,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="bitumen"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -494,7 +494,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -510,7 +510,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -526,7 +526,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=3
 	province_rank="settlement"
@@ -542,7 +542,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -558,7 +558,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +587,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="farmland"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wine"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="bitumen"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=45
 	barbarian_power=0
 	province_rank="city"
@@ -674,7 +674,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -690,7 +690,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -706,7 +706,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
@@ -719,7 +719,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -735,7 +735,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="copper"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -751,7 +751,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -767,7 +767,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -783,7 +783,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="copper"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -802,7 +802,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,7 +818,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=50
 	barbarian_power=0
 	province_rank="city"
@@ -856,7 +856,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="copper"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -875,7 +875,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -891,7 +891,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -907,7 +907,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -923,7 +923,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -939,7 +939,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="stone"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -955,7 +955,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
@@ -971,7 +971,7 @@
 	terrain="plains"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -987,7 +987,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -1000,7 +1000,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1013,7 +1013,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1026,7 +1026,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1039,7 +1039,7 @@
 	terrain="desert_hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1052,7 +1052,7 @@
 	terrain="desert"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1065,7 +1065,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="copper"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1081,7 +1081,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1100,7 +1100,7 @@
 	terrain="desert_valley"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="wood"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
