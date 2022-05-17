@@ -821,7 +821,7 @@
  TANI:0 "Tania"
  TANI_ADJ:0 "Tanian"
  #Modded Countries
- #Nubia
+ #Nubia and Mejay
  NAA:0 "Kerma"
  NAA_ADJ:0 "Kerman"
  NAB:0 "Ukheb"
@@ -838,6 +838,21 @@
  NAG_ADJ:0 "Nertian"
  NAH:0 "Meded"
  NAH_ADJ:0 "Mededan"
+ #Libya
+ LAA:0 "Additional"
+ LAA_ADJ:0 "Additional"
+ LAB:0 "Additional"
+ LAB_ADJ:0 "Additional"
+ LAC:0 "Additional"
+ LAC_ADJ:0 "Additional"
+ LAD:0 "Additional"
+ LAD_ADJ:0 "Additional"
+ LAE:0 "Additional"
+ LAE_ADJ:0 "Additional"
+ LAF:0 "Additional"
+ LAF_ADJ:0 "Additional"
+ LAG:0 "Additional"
+ LAG_ADJ:0 "Additional"
  #Modded Formables
  Achemenos_Name:0 "Achaemenid Empire"
  Medeos_Name:0 "Median Empire"

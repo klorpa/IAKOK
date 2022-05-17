@@ -76,6 +76,8 @@ country = {
 			government = tribal_kingdom
 		}
 		
+		#Nubia and Meded tribes
+		
 		NAA = { #Kerma
 			government = despotic_monarchy
 			primary_culture = kerman
@@ -165,6 +167,86 @@ country = {
 			}
 		}
 		
+		#Libyan tribes
+		
+		LAA = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAB = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAC = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAD = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAE = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAF = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		LAG = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		#3rd Intermediate period
 	}
 }
 

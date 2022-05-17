@@ -6,7 +6,7 @@ MER = "setup/countries/mercenaries.txt"
 #Used A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,T,V
 #New:
 
-#Nubia
+#Nubia and Mejay
 NAA = "setup/countries/modded/mNAA.txt"
 NAB = "setup/countries/modded/mNAB.txt"
 NAC = "setup/countries/modded/mNAC.txt"
@@ -15,3 +15,13 @@ NAE = "setup/countries/modded/mNAE.txt"
 NAF = "setup/countries/modded/mNAF.txt"
 NAG = "setup/countries/modded/mNAG.txt"
 NAH = "setup/countries/modded/mNAh.txt"
+#Libya
+LAA = "setup/countries/modded/mLAA.txt"
+LAB = "setup/countries/modded/mLAB.txt"
+LAC = "setup/countries/modded/mLAC.txt"
+LAD = "setup/countries/modded/mLAD.txt"
+LAE = "setup/countries/modded/mLAE.txt"
+LAF = "setup/countries/modded/mLAF.txt"
+LAG = "setup/countries/modded/mLAG.txt"
+#3rd Intermediate Period
+EAA = "setup/countries/modded/mEAA.txt"
