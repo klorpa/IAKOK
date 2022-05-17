@@ -385,10 +385,8 @@
 	}
 
 	culture = {
-		upper_kemetic = {} #Upper Kemetic
-		middle_kemetic = {} #Middle Kemetic
-		lower_kemetic = {} #Lower Kemetic
-		desert_kemetic = {} #Deshretic
+		nubo_kemetic = {} #Kemeto-Kushite
+		deshreti = {} #Deshretic
 	}
 	
 	barbarian_names = { GARAMANTES NASSAMONES ASBYSTAE ADYRMACHIDAE GILLIGAMAE AUSCHISAE TROGLODYTAE PSYLLI LAGUATANI MESHWESH }

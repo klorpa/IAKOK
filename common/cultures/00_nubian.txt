@@ -48,12 +48,13 @@
 	}
 
 	culture = {
-		lower_nubian = {}
 		kerman = {}
 		saian = {}
 		saseban = {}
 		semnan = {}
 		nehesan = {}
+		haterti = {}
+		nertian = {}
 		medjay = {}
 	}
 	

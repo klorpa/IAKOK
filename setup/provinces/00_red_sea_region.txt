@@ -1298,8 +1298,8 @@
 
 4739={ #Usekh
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1311,21 +1311,21 @@
 
 4740={ #Bernike
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount=6
 	}
 }
 
 4741={ #Sekert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1337,8 +1337,8 @@
 
 4742={ #Uart
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

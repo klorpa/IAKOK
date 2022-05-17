@@ -1,11 +1,9 @@
 ﻿l_english:
  #Modded Cultures
- #Egyptians
+ #Egyptians-Zoomed
  kemetic:2 "Egyptian"
- upper_kemetic:0 "Upper Egyptian"
- middle_kemetic:0 "Middle Egyptian"
- lower_kemetic:0 "Lower Egyptian"
- desert_kemetic:0 "Deshretic"
+ nubo_kemetic:0 "Kemeto-Kushite"
+ deshreti:0 "Deshretic"
  kemetic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kemetic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Libyans
@@ -24,14 +22,15 @@
  ma:0 "Ma"
  libyan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  libyan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Nubians
+ #Nubians-Zoomed
  nubian:2 "Nubian"
- lower_nubian:0 "TMP"
  kerman:0 "Kerman"
  saian:0 "Saian"
  saseban:0 "Saseban"
  semnan:0 "Semnan"
  nehesan:0 "Nehesan"
+ haterti:0 "Hatertic"
+ nertian:0 "Nertian"
  medjay:0 "Meded"
  nubian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  nubian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
