@@ -169,14 +169,14 @@ country = {
 		
 		#Libyan tribes
 		
-		LAA = { #Additional
+		LAA = { #Adyrmachidae
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = libi
+			religion = libyan_pantheon
+			capital = 4805
 			
 			own_control_core = 	{ 
-				
+				4764 4805 4806 4807 4808
 			}
 		}
 		
@@ -247,6 +247,237 @@ country = {
 		}
 		
 		#3rd Intermediate period
+		
+		EAA = { #Kharga
+			government = despotic_monarchy
+			primary_culture = deshreti
+			religion = kemetic_pantheon
+			capital = 4800
+			
+			own_control_core = 	{ 
+				4762 4797 4798 4799 4800 4801 4802 4803
+			}
+		}
+		
+		EAB = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAC = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAD = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAE = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAF = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAG = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAH = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAI = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAJ = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAK = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAL = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAM = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAN = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAO = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAP = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAR = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAS = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAT = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAU = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		EAW = { #Additional
+			government = tribal_chiefdom
+			primary_culture = medjay
+			religion = ethiopian_pantheon
+			capital = 4740
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 	}
 }
 

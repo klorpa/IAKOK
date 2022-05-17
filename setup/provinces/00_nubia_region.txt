@@ -3,7 +3,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -19,7 +19,7 @@
 	culture="kerman"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -42,7 +42,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=19
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -61,7 +61,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -80,7 +80,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="stone"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -96,7 +96,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -112,7 +112,7 @@
 	culture="saian"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -135,7 +135,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -151,7 +151,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -170,7 +170,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -189,7 +189,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="ivory"
-	civilization_value=34
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -208,7 +208,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="honey"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -227,7 +227,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -246,7 +246,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -262,7 +262,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -281,7 +281,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=3
 	province_rank="settlement"
 	freemen={
@@ -300,7 +300,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -316,7 +316,7 @@
 	culture="kerman"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
-	civilization_value=55
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -342,7 +342,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -361,7 +361,7 @@
 	culture="kerman"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
-	civilization_value=34
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -384,7 +384,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -400,7 +400,7 @@
 	culture="saian"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -426,7 +426,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="papyrus"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
 	freemen={
@@ -445,7 +445,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -464,7 +464,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -483,7 +483,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -502,7 +502,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -521,7 +521,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -540,7 +540,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="honey"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -556,7 +556,7 @@
 	culture="nubo_kemetic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -583,7 +583,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -599,7 +599,7 @@
 	culture="nubo_kemetic"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -626,7 +626,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -642,7 +642,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="fruits"
-	civilization_value=34
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -661,7 +661,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -677,7 +677,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -693,7 +693,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -709,7 +709,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -725,7 +725,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -741,7 +741,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -757,7 +757,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -776,7 +776,7 @@
 	culture="saseban"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -799,7 +799,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -815,7 +815,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -831,7 +831,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
-	civilization_value=30
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -850,7 +850,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -866,7 +866,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -885,7 +885,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -901,7 +901,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -917,7 +917,7 @@
 	culture="saian"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -940,7 +940,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="papyrus"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -956,7 +956,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -977,7 +977,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=14
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -998,7 +998,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1022,7 +1022,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1038,7 +1038,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1054,7 +1054,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1073,7 +1073,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1092,7 +1092,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="papyrus"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1108,7 +1108,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1127,7 +1127,7 @@
 	culture="nertian"
 	religion="ethiopian_pantheon"
 	trade_goods="gems"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1146,7 +1146,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1162,7 +1162,7 @@
 	culture="haterti"
 	religion="ethiopian_pantheon"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1181,7 +1181,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1200,7 +1200,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="honey"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1216,7 +1216,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1232,7 +1232,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1251,7 +1251,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1267,7 +1267,7 @@
 	culture="semnan"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1293,7 +1293,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1312,7 +1312,7 @@
 	culture="nubo_kemetic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1339,7 +1339,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1358,7 +1358,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1374,7 +1374,7 @@
 	culture="nubo_kemetic"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1401,7 +1401,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1420,7 +1420,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1439,7 +1439,7 @@
 	culture="nubo_kemetic"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1466,7 +1466,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1485,7 +1485,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1504,7 +1504,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="reeds"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1520,7 +1520,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1539,7 +1539,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1558,7 +1558,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1577,7 +1577,7 @@
 	culture="nehesan"
 	religion="ethiopian_pantheon"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1593,7 +1593,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="wild_game"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1612,7 +1612,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="fur"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1628,7 +1628,7 @@
 	culture="saseban"
 	religion="ethiopian_pantheon"
 	trade_goods="cloth"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1644,7 +1644,7 @@
 	culture="saseban"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -1667,7 +1667,7 @@
 	culture="kerman"
 	religion="ethiopian_pantheon"
 	trade_goods="grain"
-	civilization_value=30
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1686,7 +1686,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=15
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1705,7 +1705,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="cattle"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1724,7 +1724,7 @@
 	culture="semnan"
 	religion="ethiopian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1740,7 +1740,7 @@
 	culture="saian"
 	religion="ethiopian_pantheon"
 	trade_goods="leather"
-	civilization_value=25
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={

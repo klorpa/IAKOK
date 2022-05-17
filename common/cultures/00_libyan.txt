@@ -38,11 +38,9 @@
 	}
 
 	culture = {
-		psylli = {}
 		gilgamaic = {}
 		abystaic = {}
 		machlyanic = {}
-		gyzantianic = {}
 		libi = {
 		male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
@@ -417,11 +415,6 @@
 	}
 		}
 		nessamones = {}
-		gaetuli = {}
-		mauri = {}
-		massylic = {}
-		massaesylic = {}
-		lotophage = {}
 		ma = {
 			male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries

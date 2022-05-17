@@ -3,7 +3,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="leather"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -19,7 +19,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="stone"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -35,7 +35,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -51,7 +51,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -67,7 +67,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -86,7 +86,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -105,7 +105,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -124,7 +124,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -143,7 +143,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -159,7 +159,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -178,7 +178,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=8
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -194,7 +194,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -213,7 +213,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -229,7 +229,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -251,7 +251,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -267,7 +267,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cloth"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -280,7 +280,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fruits"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -302,7 +302,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -315,7 +315,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -328,7 +328,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="salt"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -341,7 +341,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -357,7 +357,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -373,7 +373,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="earthware"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -392,7 +392,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -408,7 +408,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -424,7 +424,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
@@ -440,7 +440,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wild_game"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -456,7 +456,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="vegetables"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -472,7 +472,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -488,7 +488,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -504,7 +504,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="hemp"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -523,7 +523,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -539,7 +539,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -555,7 +555,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -571,7 +571,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -584,7 +584,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -600,7 +600,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="base_metals"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -619,7 +619,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -638,7 +638,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -654,7 +654,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -670,7 +670,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="salt"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -689,7 +689,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -705,7 +705,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="earthware"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -721,7 +721,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -737,7 +737,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -753,7 +753,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -769,7 +769,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="hemp"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -785,7 +785,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="honey"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -801,7 +801,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wild_game"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
@@ -817,7 +817,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="stone"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -830,7 +830,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="horses"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -849,7 +849,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -865,7 +865,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="earthware"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -881,7 +881,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="horses"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -903,7 +903,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wood"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -916,7 +916,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -932,7 +932,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -948,7 +948,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -964,7 +964,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="hemp"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -980,7 +980,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wild_game"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -993,7 +993,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="base_metals"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1009,7 +1009,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1028,7 +1028,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1044,7 +1044,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="vegetables"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1060,7 +1060,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=4
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -1073,7 +1073,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=8
+	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
 	freemen={
@@ -1089,7 +1089,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=20
+	civilization_value=0
 	barbarian_power=4
 	province_rank="city"
 	citizen={
@@ -1111,7 +1111,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=8
+	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
 	freemen={
@@ -1127,7 +1127,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=4
 	province_rank="settlement"
 	freemen={
@@ -1143,7 +1143,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fish"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1159,7 +1159,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1179,7 +1179,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="leather"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1195,7 +1195,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="olive"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1214,7 +1214,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1230,7 +1230,7 @@
 	culture="wvenedi"
 	religion="slavic_pantheon"
 	trade_goods="fur"
-	civilization_value=5
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={

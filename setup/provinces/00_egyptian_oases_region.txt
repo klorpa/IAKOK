@@ -3,7 +3,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -22,7 +22,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -41,7 +41,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -57,7 +57,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
-	civilization_value=50
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -79,7 +79,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -95,7 +95,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -111,7 +111,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -130,7 +130,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -146,7 +146,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -162,7 +162,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -181,7 +181,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -200,7 +200,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -213,14 +213,14 @@
 
 4800={ #Kenmet
 	terrain="oasis"
-	culture="libi"
-	religion="libyan_pantheon"
+	culture="deshreti"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
-	civilization_value=50
+	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount=2
 	}
 	freemen={
 		amount=5
@@ -229,7 +229,9 @@
 		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=4
+		culture="libi"
+		religion="libyan_pantheon"
 	}
 }
 
@@ -238,7 +240,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -254,7 +256,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -273,7 +275,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -289,7 +291,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -308,7 +310,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -327,7 +329,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -343,7 +345,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -359,7 +361,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -378,7 +380,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=14
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -394,7 +396,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -410,7 +412,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
-	civilization_value=29
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -426,7 +428,7 @@
 	culture="libi"
 	religion="libyan_pantheon"
 	trade_goods="dates"
-	civilization_value=14
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
