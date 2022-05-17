@@ -158,8 +158,8 @@
 
 4902={ #Shot-jemet
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -916,8 +916,8 @@
 
 4952={ #Inka
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -932,8 +932,8 @@
 
 4953={ #Ihla
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -948,8 +948,8 @@
 
 4954={ #Dakdime
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -964,8 +964,8 @@
 
 4955={ #Takattite
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

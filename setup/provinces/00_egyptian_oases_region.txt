@@ -59,18 +59,12 @@
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
-	freemen={
-		amount=6
-	}
+	province_rank="settlement"
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=2
+		amount=5
 	}
 }
 

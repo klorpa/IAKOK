@@ -394,6 +394,6 @@
 	graphical_culture = egyptian_gfx
 	
 	ethnicities = {
-		10 = north_african
+		10 = egyptian
 	}
 }

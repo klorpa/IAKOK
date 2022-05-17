@@ -180,14 +180,14 @@ country = {
 			}
 		}
 		
-		LAB = { #Additional
+		LAB = { #Nasamones
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = nessamones
+			religion = libyan_pantheon
+			capital = 4902
 			
 			own_control_core = 	{ 
-				
+				4902 4952 4953 4955 4954
 			}
 		}
 		
