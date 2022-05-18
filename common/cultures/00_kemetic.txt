@@ -385,6 +385,11 @@
 	}
 
 	culture = {
+		deltan = {}
+		memphite = {}
+		thebaidan = {}
+		henenite = {}
+		khmunite = {}
 		nubo_kemetic = {} #Kemeto-Kushite
 		deshreti = {} #Deshretic
 	}

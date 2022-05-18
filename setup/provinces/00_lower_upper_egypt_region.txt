@@ -1,6 +1,6 @@
 ﻿340={ #Basti
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 363={ #Beqtui
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 370={ #Peka
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 371={ #Peshennu
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 402={ #Herwer
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -95,7 +95,7 @@
 
 491={ #Fet-ab
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 540={ #Pequ
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 542={ #Mast
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 544={ #Maftet
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 558={ #Mahu
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 570={ #Te-jedt-red
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 594={ #Mehait
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 1092={ #Papo
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 1119={ #Tayu-djayet
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -269,7 +269,7 @@
 
 1131={ #Nebiui
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -288,7 +288,7 @@
 
 1151={ #Hut-nesut
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -307,7 +307,7 @@
 
 1154={ #Saka
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -330,7 +330,7 @@
 
 1160={ #Per-Imen-mat-khent
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -349,7 +349,7 @@
 
 1163={ #Hebenu
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 1168={ #Betesh
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -390,7 +390,7 @@
 
 1176={ #Mestha
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -409,7 +409,7 @@
 
 1363={ #Hunt
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -428,7 +428,7 @@
 
 1364={ #Hept-shet
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -447,7 +447,7 @@
 
 1371={ #Hemen
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -466,7 +466,7 @@
 
 1391={ #Sankh
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -485,7 +485,7 @@
 
 1399={ #Khmun
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -508,7 +508,7 @@
 
 1404={ #Suteniu
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -527,7 +527,7 @@
 
 1413={ #Setcha
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -546,7 +546,7 @@
 
 1609={ #Mehut
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -565,7 +565,7 @@
 
 1618={ #Per-Pesht
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -584,7 +584,7 @@
 
 1619={ #Perru
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -603,7 +603,7 @@
 
 1636={ #Akhetaten
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -622,7 +622,7 @@
 
 1663={ #Herrut
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -641,7 +641,7 @@
 
 1667={ #Qis
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -663,7 +663,7 @@
 
 1678={ #Res-her
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -682,7 +682,7 @@
 
 1836={ #Ra-heunt
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -701,7 +701,7 @@
 
 1842={ #Khaibitu
 	terrain="oasis"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -720,7 +720,7 @@
 
 2084={ #Neb Khut
 	terrain="oasis"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -739,7 +739,7 @@
 
 2282={ #Sophthis
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -758,7 +758,7 @@
 
 2286={ #Per-Usir
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -777,7 +777,7 @@
 
 2542={ #Per-Medjed
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -799,7 +799,7 @@
 
 2543={ #Ageru
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -818,7 +818,7 @@
 
 2544={ #Uabib
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -837,7 +837,7 @@
 
 2549={ #Sesheta
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 2571={ #Henen-nesut
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -879,7 +879,7 @@
 
 2573={ #Mer-wer
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -898,7 +898,7 @@
 
 2576={ #Agrit
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -917,7 +917,7 @@
 
 2578={ #Pehnemoun
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -936,7 +936,7 @@
 
 2594={ #Nekha
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -955,7 +955,7 @@
 
 2596={ #Huati
 	terrain="desert_hills"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -974,7 +974,7 @@
 
 2602={ #Urtchu
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -993,7 +993,7 @@
 
 2617={ #Neshen
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1012,7 +1012,7 @@
 
 2619={ #Shenut-m-Qemu
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -1031,7 +1031,7 @@
 
 4629={ #Narmouthis
 	terrain="oasis"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -1050,7 +1050,7 @@
 
 4653={ #Tet-ent-Ast
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1069,7 +1069,7 @@
 
 4654={ #Ankhtet
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1088,7 +1088,7 @@
 
 4655={ #Kaut
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1107,7 +1107,7 @@
 
 4656={ #Neteru
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1126,7 +1126,7 @@
 
 4657={ #Kauasha
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1145,7 +1145,7 @@
 
 4658={ #Thatha
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1164,7 +1164,7 @@
 
 4659={ #Pehui
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1183,7 +1183,7 @@
 
 4660={ #Sehtet
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1202,7 +1202,7 @@
 
 4661={ #Nesut
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1221,7 +1221,7 @@
 
 4662={ #Unpepet
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -1240,7 +1240,7 @@
 
 4663={ #Henkesti
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1259,7 +1259,7 @@
 
 4664={ #Shethu
 	terrain="plains"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1278,7 +1278,7 @@
 
 4665={ #Tesher
 	terrain="flood_plain"
-	culture="wvenedi"
+	culture="henenite"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
