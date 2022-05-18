@@ -1,7 +1,7 @@
 ﻿431={ #Messolonghi
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 4709={ #Aydy
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -33,7 +33,7 @@
 4710={ #Washta
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -46,7 +46,7 @@
 4711={ #Ahrelma
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -59,7 +59,7 @@
 4712={ #Aghilasse
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -72,7 +72,7 @@
 4715={ #Adlasse
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -88,7 +88,7 @@
 4716={ #Ifista
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -101,7 +101,7 @@
 4717={ #Jaje
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -114,7 +114,7 @@
 4718={ #Iwarkate
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -127,7 +127,7 @@
 4719={ #Tassajate
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -143,7 +143,7 @@
 4804={ #Katisa
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -178,7 +178,7 @@
 4903={ #Batata
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -194,7 +194,7 @@
 4904={ #Timsahe
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -213,7 +213,7 @@
 4905={ #Ikhasse
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -229,7 +229,7 @@
 4906={ #Tyazite
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -245,7 +245,7 @@
 4907={ #Doupe
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4908={ #Itbirane
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -277,7 +277,7 @@
 4909={ #Ifile
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -293,7 +293,7 @@
 4910={ #Zarafate
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -309,7 +309,7 @@
 4911={ #Yisse
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -325,7 +325,7 @@
 4912={ #Bitelma
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -341,7 +341,7 @@
 4913={ #Sabbate
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -357,7 +357,7 @@
 4914={ #Ponja
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -373,7 +373,7 @@
 4915={ #Tablate
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -389,7 +389,7 @@
 4916={ #Sahra
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -405,7 +405,7 @@
 4917={ #Ourare
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -418,7 +418,7 @@
 4918={ #Ktabe
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -431,7 +431,7 @@
 4919={ #Iapicine
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -444,7 +444,7 @@
 4920={ #Shajrat
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -460,7 +460,7 @@
 4921={ #Ismade
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -476,7 +476,7 @@
 4922={ #Tbisha
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
 	barbarian_power=0
@@ -492,7 +492,7 @@
 4923={ #Shta
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -511,7 +511,7 @@
 4924={ #Yallise
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -527,7 +527,7 @@
 4925={ #Argaze
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -546,7 +546,7 @@
 4926={ #Oustade
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -562,7 +562,7 @@
 4927={ #Adale
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -578,7 +578,7 @@
 4928={ #Amallale
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -597,7 +597,7 @@
 4929={ #Dazirar
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -613,7 +613,7 @@
 4930={ #Ikwa
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -632,7 +632,7 @@
 4931={ #Iwsaa
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -651,7 +651,7 @@
 4932={ #Douke
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -667,7 +667,7 @@
 4933={ #Doushbihe
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -680,7 +680,7 @@
 4934={ #Albarrani
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -696,7 +696,7 @@
 4935={ #Ighla
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -712,7 +712,7 @@
 4936={ #Dazdade
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -728,7 +728,7 @@
 4937={ #Irtabe
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -744,7 +744,7 @@
 4938={ #Aazraye
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -760,7 +760,7 @@
 4939={ #Imaklate
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -776,7 +776,7 @@
 4940={ #Ijaffe
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -792,7 +792,7 @@
 4941={ #Idlame
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -808,7 +808,7 @@
 4942={ #Oufrishe
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -824,7 +824,7 @@
 4943={ #Moulou
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -840,7 +840,7 @@
 4944={ #Afarane
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -853,7 +853,7 @@
 4945={ #Tifalfalte
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -869,7 +869,7 @@
 4946={ #Soukkare
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -885,7 +885,7 @@
 4947={ #Amansy
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -901,7 +901,7 @@
 4948={ #Ibawane
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0

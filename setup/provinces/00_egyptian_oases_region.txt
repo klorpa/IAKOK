@@ -1,6 +1,6 @@
 ﻿4762={ #Hebut
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 4763={ #Nut
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 4764={ #Feqat
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -54,7 +54,7 @@
 
 4765={ #Psôbthis
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -70,7 +70,7 @@
 
 4792={ #Qenbet
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -86,7 +86,7 @@
 
 4793={ #Par-Mewat
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -102,7 +102,7 @@
 
 4794={ #Whet-rasw
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -121,7 +121,7 @@
 
 4795={ #Seqai
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -137,7 +137,7 @@
 
 4796={ #Nubti
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -153,7 +153,7 @@
 
 4797={ #Akhsesef
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -172,7 +172,7 @@
 
 4798={ #Nabtu
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -191,7 +191,7 @@
 
 4799={ #Fekh
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -224,14 +224,14 @@
 	}
 	tribesmen={
 		amount=4
-		culture="libi"
+		culture="adyrmachidaic"
 		religion="libyan_pantheon"
 	}
 }
 
 4801={ #Maqet
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 4802={ #Aber
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -266,7 +266,7 @@
 
 4803={ #Sekhtu
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -282,7 +282,7 @@
 
 4805={ #Qernet
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -301,7 +301,7 @@
 
 4806={ #Te-jahew
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -320,7 +320,7 @@
 
 4807={ #Ateptu
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -336,7 +336,7 @@
 
 4808={ #Ahehi
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -352,7 +352,7 @@
 
 4809={ #Qerqer
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 4810={ #Nubau
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -387,7 +387,7 @@
 
 4811={ #Seshem
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -403,7 +403,7 @@
 
 4812={ #Nutiu
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -419,7 +419,7 @@
 
 4813={ #Maati
 	terrain="oasis"
-	culture="libi"
+	culture="adyrmachidaic"
 	religion="libyan_pantheon"
 	trade_goods="dates"
 	civilization_value=0

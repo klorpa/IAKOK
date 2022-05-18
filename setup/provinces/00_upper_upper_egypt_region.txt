@@ -1,7 +1,7 @@
 ﻿1144={ #Mehen
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 1201={ #Amenti
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -39,7 +39,7 @@
 1210={ #Nekheb
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -62,7 +62,7 @@
 1222={ #Gesy
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -81,7 +81,7 @@
 1224={ #Gebtu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -104,7 +104,7 @@
 1227={ #Kher-Aha
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -123,7 +123,7 @@
 1231={ #Khaut
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -142,7 +142,7 @@
 1232={ #Nubt
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -158,7 +158,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -170,7 +170,7 @@
 1233={ #Tchesert
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -189,7 +189,7 @@
 1253={ #Nesnes
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -208,7 +208,7 @@
 1272={ #Kher
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -218,7 +218,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -229,7 +229,7 @@
 1302={ #Iushenshen
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1309={ #Remrem
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -267,7 +267,7 @@
 1321={ #Sumenu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -286,7 +286,7 @@
 1325={ #Djerty
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
@@ -308,7 +308,7 @@
 1331={ #Waset
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
@@ -331,7 +331,7 @@
 1343={ #Khet
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -350,7 +350,7 @@
 1352={ #Herret
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -369,7 +369,7 @@
 1367={ #Hunen
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -388,7 +388,7 @@
 1381={ #Hen-neter
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -407,7 +407,7 @@
 1382={ #Saten
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -426,7 +426,7 @@
 1401={ #Madu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -445,7 +445,7 @@
 1631={ #Ent-sen
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -464,7 +464,7 @@
 1660={ #Resetu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -483,7 +483,7 @@
 1745={ #Sab-kui
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
 	barbarian_power=0
@@ -502,7 +502,7 @@
 1825={ #Baktu
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -521,7 +521,7 @@
 1895={ #Ketut
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -540,7 +540,7 @@
 1935={ #Her-enti
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -559,7 +559,7 @@
 1939={ #Hakheru
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -578,7 +578,7 @@
 1941={ #Nemmat
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -594,7 +594,7 @@
 1946={ #Ma-kheru
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -613,7 +613,7 @@
 1947={ #Perru
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -632,7 +632,7 @@
 1951={ #Per-Sabut
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -651,7 +651,7 @@
 1965={ #Apesh
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -664,7 +664,7 @@
 1968={ #Aftet
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -677,7 +677,7 @@
 1976={ #Asest
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
 	barbarian_power=0
@@ -696,7 +696,7 @@
 2256={ #Qenat
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -706,7 +706,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -717,7 +717,7 @@
 2257={ #Qemamu
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -727,7 +727,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -738,7 +738,7 @@
 2266={ #Tebtebti
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -748,7 +748,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -759,7 +759,7 @@
 2268={ #Swenett
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -769,7 +769,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -777,7 +777,7 @@
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 }
@@ -785,7 +785,7 @@
 2283={ #Bebet
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -804,7 +804,7 @@
 2290={ #Ta-Senet
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -823,7 +823,7 @@
 2291={ #Bebait
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -842,7 +842,7 @@
 2298={ #Per-Hathor
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -861,7 +861,7 @@
 2301={ #Nekhen
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -884,7 +884,7 @@
 2302={ #Iuny
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
@@ -906,7 +906,7 @@
 2305={ #Uaipu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
@@ -925,7 +925,7 @@
 2329={ #Henkhes
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -944,7 +944,7 @@
 2342={ #Mehun
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -957,7 +957,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -968,7 +968,7 @@
 2347={ #Khetem
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -978,7 +978,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -989,7 +989,7 @@
 2354={ #Apapit
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -1008,7 +1008,7 @@
 2357={ #Abu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1018,7 +1018,7 @@
 	}
 	citizen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1026,7 +1026,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=6
 	}
 	tribesmen={
@@ -1038,7 +1038,7 @@
 2358={ #Uabit
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -1048,12 +1048,12 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 }
@@ -1061,7 +1061,7 @@
 2360={ #Uashki
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1080,7 +1080,7 @@
 2363={ #Beneb
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1090,7 +1090,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1101,7 +1101,7 @@
 2371={ #Pekhar
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -1120,7 +1120,7 @@
 2372={ #Mantchit
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1139,7 +1139,7 @@
 2376={ #Behdet
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -1161,7 +1161,7 @@
 2478={ #Anseb
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1180,7 +1180,7 @@
 2479={ #Iunet
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1203,7 +1203,7 @@
 2485={ #Naqada
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -1222,7 +1222,7 @@
 2595={ #Nebesu
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1241,7 +1241,7 @@
 2599={ #Khenub
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1260,7 +1260,7 @@
 2605={ #Testut
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1279,7 +1279,7 @@
 2607={ #Batkek
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1298,7 +1298,7 @@
 2611={ #Beten
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1317,7 +1317,7 @@
 2625={ #Henatiu
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1336,7 +1336,7 @@
 2943={ #Ushauti
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1355,7 +1355,7 @@
 4680={ #Henket
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1374,7 +1374,7 @@
 4681={ #Nesert
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1393,7 +1393,7 @@
 4682={ #Setekhen
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -1412,7 +1412,7 @@
 4683={ #Temam
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1431,7 +1431,7 @@
 4684={ #Ubesu
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1450,7 +1450,7 @@
 4685={ #Setcha
 	terrain="flood_plain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1469,7 +1469,7 @@
 4686={ #Ubennu
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1485,7 +1485,7 @@
 4687={ #Tenat
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1504,7 +1504,7 @@
 4688={ #Sekhun
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="copper"
 	civilization_value=0
 	barbarian_power=0
@@ -1514,7 +1514,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1525,7 +1525,7 @@
 4689={ #Kep-her
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1538,7 +1538,7 @@
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 }
@@ -1546,7 +1546,7 @@
 4690={ #Neshep
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1559,7 +1559,7 @@
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=2
 	}
 }
@@ -1567,7 +1567,7 @@
 4691={ #Entiu
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1577,7 +1577,7 @@
 	}
 	slaves={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1588,7 +1588,7 @@
 4692={ #Ur-senu
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1598,7 +1598,7 @@
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 }
@@ -1606,7 +1606,7 @@
 4693={ #Qesen
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1616,7 +1616,7 @@
 	}
 	tribesmen={
 		culture="wvenedi"
-		religion="slavic_pantheon"
+		religion="kemetic_pantheon"
 		amount=1
 	}
 }
@@ -1624,7 +1624,7 @@
 4694={ #Teben
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1643,7 +1643,7 @@
 4695={ #Heru
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1662,7 +1662,7 @@
 4696={ #Urhetchati
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1681,7 +1681,7 @@
 4697={ #Umet
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1700,7 +1700,7 @@
 4698={ #Kenemti
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1719,7 +1719,7 @@
 4699={ #Pehuit
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1738,7 +1738,7 @@
 4700={ #Tebhet
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1757,7 +1757,7 @@
 4702={ #Kemkem
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1776,7 +1776,7 @@
 4703={ #Sekhtu
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1795,7 +1795,7 @@
 4704={ #Aputi
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1814,7 +1814,7 @@
 4705={ #Neshni
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1833,7 +1833,7 @@
 4707={ #Setut
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1852,7 +1852,7 @@
 4745={ #Entuten
 	terrain="desert_hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1871,7 +1871,7 @@
 4746={ #Qeras
 	terrain="desert"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="kemetic_pantheon"
 	trade_goods="copper"
 	civilization_value=0
 	barbarian_power=0

@@ -40,7 +40,8 @@
 	culture = {
 		gilgamaic = {}
 		abystaic = {}
-		machlyanic = {}
+		auschisaic = {}
+		adyrmachidaic = {}
 		libi = {
 		male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
