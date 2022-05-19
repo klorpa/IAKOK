@@ -191,14 +191,14 @@ country = {
 			}
 		}
 		
-		LAC = { #Additional
+		LAC = { #Gilligamae
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = gilgamaic
+			religion = libyan_pantheon
+			capital = 4712
 			
 			own_control_core = 	{ 
-				
+				4712 4711 4709 4716
 			}
 		}
 		
