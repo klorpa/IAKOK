@@ -769,7 +769,7 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_bastet
+	
 }
 
 4557={ #Setchit
@@ -931,15 +931,23 @@
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city_metropolis"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=10
+	}
 	freemen={
-		amount=7
+		amount=15
 	}
 	slaves={
-		amount=3
+		amount=13
 	}
 	tribesmen={
-		amount=1
+		amount=6
+		culture="ma"
+		religion="kemetic_pantheon"
 	}
 }
 

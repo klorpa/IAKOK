@@ -252,7 +252,7 @@
 	tribesmen={
 		amount=3
 	}
-	holy_site=omen_sobek
+	
 }
 
 1949={ #Aueris
@@ -405,7 +405,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_imhotep
+	
 }
 
 2220={ #Seheptet
@@ -453,20 +453,25 @@
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="city_metropolis"
+	nobles={
+		amount=4
+	}
 	citizen={
-		amount=11
+		amount=10
 	}
 	freemen={
-		amount=12
+		amount=20
 	}
 	slaves={
-		amount=6
+		amount=15
 	}
 	tribesmen={
-		amount=2
+		amount=6
+		culture="ma"
+		religion="kemetic_pantheon"
 	}
-	holy_site=omen_ptah
+	
 }
 
 2274={ #Girzah
@@ -812,7 +817,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_ra
+	
 }
 
 4576={ #Rehen

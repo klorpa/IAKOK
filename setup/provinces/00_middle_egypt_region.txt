@@ -306,7 +306,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_nemty
+	
 }
 
 1379={ #Henhen
@@ -541,7 +541,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_wepwawet
+	
 }
 
 1643={ #Per-Nemty
@@ -792,7 +792,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_osiris
+	
 }
 
 2309={ #Uarekht
@@ -853,7 +853,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_repyt
+	
 }
 
 2324={ #Kheri
@@ -933,7 +933,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_bat
+	
 }
 
 2377={ #Marqata
@@ -991,7 +991,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_anhur
+	
 }
 
 2609={ #Bahes

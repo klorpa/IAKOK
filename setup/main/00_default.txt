@@ -14,7 +14,36 @@ family={
 		#Current first free ID is 90.
 		#Roman Families on Start:
 		
-		
+		1={
+			key="Usermaatre-Setepenamun"
+			owner=EAJ
+			culture = lower_kemetic
+			prestige=300
+		}
+		2={
+			key="Shosqenq-Shu"
+			owner=EAI
+			culture = ma
+			prestige=300
+		}
+		3={
+			key="Usermaatre-Setepenamun"
+			owner=EAH
+			culture = lower_kemetic
+			prestige=300
+		}
+		4={
+			key="Shosqenq-Shu"
+			owner=EAK
+			culture = ma
+			prestige=300
+		}
+		5={
+			key="Hem-netjer-tep-en-Amun"
+			owner=EAG
+			culture = thebaidan
+			prestige=300
+		}
 	}
 }
 diplomacy = {
@@ -249,7 +278,7 @@ country = {
 		}
 		
 		EAB = { #Met-Irt
-			government = tribal_chiefdom
+			government = despotic_monarchy
 			primary_culture = met_irtan
 			religion = kemetic_pantheon
 			capital = 4701
@@ -259,103 +288,164 @@ country = {
 			}
 		}
 		
-		EAC = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAC = { #Swenett
+			government = despotic_monarchy
+			primary_culture = swenettic
+			religion = kemetic_pantheon
+			capital = 2268
 			
 			own_control_core = 	{ 
-				
+				2268 4691 2266 2257 4690 2357 2358 4693 4692 2347
+				1232 1272 4688 4687 2363 1968 4689 2342 1965 2256
 			}
 		}
 		
-		EAD = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAD = { #Behdet
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 2376
+			
+			poptype_rights = { 
+				{
+					culture = thebaidan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				1382 4686 1352 1343 2372 1951 1825 2305 2943 2371 2376
 			}
 		}
 		
-		EAE = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAE = { #Nekhen
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 2301
+			
+			poptype_rights = { 
+				{
+					culture = thebaidan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				2301 1895 1381 1745 1210 1976 1309 2283 1939 1946 2290
 			}
 		}
 		
-		EAF = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAF = { #Iuny
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 2302
+			
+			poptype_rights = { 
+				{
+					culture = thebaidan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				2302 2595 1144 2478 2611 1941 2298 1935 2291 1947
 			}
 		}
 		
-		EAG = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAG = { #Waset
+			government = theocratic_monarchy
+			primary_culture = thebaidan
+			religion = kemetic_pantheon
+			capital = 1331
 			
 			own_control_core = 	{ 
-				
+				1325 1660 1367 1631 1253 1331 4745 1401 1201 1321 2625
+				2485 1222 4684 4685 4683 1224 1302 2354 2599 2607
+				1227 4682 4681 4680 1231 2479 2360 2329 2605 4746 1233
 			}
+			
+			family = 5
 		}
 		
-		EAH = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAH = { #Khmun
+			government = despotic_monarchy
+			primary_culture = deltan
+			religion = kemetic_pantheon
+			capital = 1399
+			
+			poptype_rights = { 
+				{
+					culture = khmunite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				542 1399 1391 370 4664 4663 1619 1371 1618
+				340 1667 1663 1413 1636 4665 363 1404 1609
+				540 1364 544 1363 1678 402 1168 4662 1163 2549
 			}
+			
+			family = 1
 		}
 		
-		EAI = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
+		EAI = { #22nd dynasty
+			government = aristocratic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
 			capital = 4740
 			
-			own_control_core = 	{ 
-				
+			poptype_rights = { 
+				{
+					culture = henenite 
+					type = citizen
+				}
 			}
+			
+			own_control_core = 	{ 
+				2570 2277 2152 1848 2279 1830 2274 1841 1971 2280 1931 1949
+				2084 2286 2282 1836 1842 4629 2573 2596 2571 2578 2602
+			}
+			
+			family = 2
 		}
 		
-		EAJ = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAJ = { #21st dynasty
+			government = aristocratic_monarchy
+			primary_culture = deltan
+			religion = kemetic_pantheon
+			capital = 4565
 			
 			own_control_core = 	{ 
-				
+				4565 4568 4564 4567 4566 4570 4571 4563 4569
+				4556 4557 4559 4558 4560 4562 4561 4555 4554
+				4583 4584 4585 4637 4586 4634 4633 4636 1637 1640
+				4579 4580 4640 4639 4581 4578 4582 4638 4631 6892 6891
+				4574 4644 4575 4643 4642 4576 4577 4641 2962 6890
+				345 4647 272 4646 4645 264 2261 2211 2258 2133 4626 2127
+				245 4649 244 4650 562 4651 559 4652 4648 247
+				4654 570 491 1131 4655 4656 1092 1119 4653 558
+				4545 4546 4551 4552 4549 4547 4548 4550 4553
+				4635 4587 4588 4589 4590 4573 4572 4632
+				4544 4543 4542 4541
 			}
+			
+			family = 3
 		}
 		
-		EAK = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
+		EAK = { #Bubastis
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
 			capital = 4740
 			
 			own_control_core = 	{ 
 				
 			}
+			
+			family = 4
 		}
 		
 		EAL = { #Additional
@@ -652,6 +742,19 @@ country = {
 			
 			own_control_core = 	{ 
 				
+			}
+		}
+		
+		#Habiru and the Levantine Team
+		
+		JAA = { #Aziris
+			government = tribal_chiefdom
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				4719
 			}
 		}
 	}

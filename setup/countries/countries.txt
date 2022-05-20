@@ -61,3 +61,5 @@ EBK = "setup/countries/modded/mEBK.txt"
 EBL = "setup/countries/modded/mEBL.txt"
 EBM = "setup/countries/modded/mEBM.txt"
 EBN = "setup/countries/modded/mEBN.txt"
+#Habiru and the Levantine Team
+JAA = "setup/countries/modded/mJAA.txt"

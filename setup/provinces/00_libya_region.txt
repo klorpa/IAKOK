@@ -124,19 +124,27 @@
 	}
 }
 
-4719={ #Tassajate
+4719={ #Aziris
 	terrain="desert"
-	culture="abystaic"
-	religion="libyan_pantheon"
+	culture="azirian"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=6
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=2
+		culture="abystaic"
+		religion="libyan_pantheon"
 	}
 }
 

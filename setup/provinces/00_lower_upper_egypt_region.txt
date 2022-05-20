@@ -325,7 +325,7 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_anubis
+	
 }
 
 1160={ #Per-Imen-mat-khent
@@ -503,7 +503,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_thoth
+	
 }
 
 1404={ #Suteniu
@@ -874,7 +874,7 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_heryshaf
+	
 }
 
 2573={ #Mer-wer
