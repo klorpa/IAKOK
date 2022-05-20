@@ -19,10 +19,7 @@
 		
 		highlight = {
 			scope:province = {
-				OR = {
-					province_id = 626
-					province_id = 610
-				}
+				is_in_region = nubia_region
 			}
 		}
 		
@@ -36,8 +33,7 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 626
-			owns = 610
+			owns_region = nubia_region
 		}
 		
 		effect = {
@@ -62,24 +58,24 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 626
+							province_id = 1288
 						}
 					}
 				}
-				set_capital = 626
+				set_capital = 1288
 				hidden_effect = {
-					p:626.state = {
-						set_state_capital = 626
+					p:1288.state = {
+						set_state_capital = 1288
 					}
 				}
 			}
-			p:626 = {
+			p:1288 = {
 				if = {
 					limit = { has_city_status = no }
 					set_city_status = city
 				}
 			}
-			p:626 = {
+			p:1288 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

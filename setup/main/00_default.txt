@@ -420,9 +420,9 @@ country = {
 			
 			own_control_core = 	{ 
 				4565 4568 4564 4567 4566 4570 4571 4563 4569
-				4556 4557 4559 4558 4560 4562 4561 4555 4554
-				4583 4584 4585 4637 4586 4634 4633 4636 1637 1640
-				4579 4580 4640 4639 4581 4578 4582 4638 4631 6892 6891
+				4559 4558 4560 4562 4561 4554
+				4585 4586 4634 4633 4636 1637 1640
+				4579 4580 4640 4639 4581 4578 4631 6892 6891
 				4574 4644 4575 4643 4642 4576 4577 4641 2962 6890
 				345 4647 272 4646 4645 264 2261 2211 2258 2133 4626 2127
 				245 4649 244 4650 562 4651 559 4652 4648 247
@@ -439,316 +439,500 @@ country = {
 			government = despotic_monarchy
 			primary_culture = ma
 			religion = kemetic_pantheon
-			capital = 4740
+			capital = 4556
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4556 4557 4555 4537 4538 4539 4540
 			}
 			
 			family = 4
 		}
 		
-		EAL = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAL = { #Per-Sopdu
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4583
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4583 4582 4584 4638 4637
 			}
 		}
 		
-		EAM = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAM = { #Djedet
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4531
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4531 4530 4532 4533 4534 4535 4536
 			}
 		}
 		
-		EAN = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAN = { #Setennu
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4523
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4523 4524 4525 4526 4527 4528 4529
 			}
 		}
 		
-		EAO = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAO = { #Djedu
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4502
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4502 4501 4500 4499 4498 4503
+				4490 4492 4494 4491
 			}
 		}
 		
-		EAP = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAP = { #Semabehdet
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4511
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4511 4512 4513 4517 4518 4516 
 			}
 		}
 		
-		EAR = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAR = { #Tjebnutjer
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4506
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4506 4505 4504 4507 4508 4510
 			}
 		}
 		
-		EAS = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAS = { #Aurau
+			government = tribal_kingdom
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4514
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4514 4509 4515 4519 4520 4521 4522
 			}
 		}
 		
-		EAT = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAT = { #Senaat
+			government = tribal_kingdom
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4480
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4480 4483 4479 4478 4482 4481 4477 
 			}
 		}
 		
-		EAU = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAU = { #Khasut
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4486
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4486 4495 4496 4493 4485 4497 4484
 			}
 		}
 		
-		EAW = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAW = { #Saka
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1154
+			
+			poptype_rights = { 
+				{
+					culture = henenite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4658 4659 1154 1176 1160 4660 4661 4657 1151
 			}
 		}
 		
-		EAX = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAX = { #Per-Madjet
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 2542
+			
+			poptype_rights = { 
+				{
+					culture = henenite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				2594 2576 2619 2542 2617 594 2543 2544 371
 			}
 		}
 		
-		EAY = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAY = { #Khem
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 4624
+			
+			poptype_rights = { 
+				{
+					culture = memphite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4624 2220 2145 4625 4623 1187 
 			}
 		}
 		
-		EAZ = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EAZ = { #Zawty
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1629
+			
+			poptype_rights = { 
+				{
+					culture = khmunite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				1511 470 433 1629 459 1512 394 1464 343
 			}
 		}
 		
-		EBA = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBA = { #Per-Nemty
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1643
+			
+			poptype_rights = { 
+				{
+					culture = khmunite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				1643 4668 4669 4670 1654 1625 4667 1624 4666
 			}
 		}
 		
-		EBB = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBB = { #Shashotep
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1589
+			
+			poptype_rights = { 
+				{
+					culture = khmunite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				1581 242 1760 4671 1379 1588 1589 1777 1647
 			}
 		}
 		
-		EBC = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBC = { #Tjebu
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1374
+			
+			poptype_rights = { 
+				{
+					culture = khmunite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				1368 4673 1556 1762 1675 1886 1357 4672 1374 1532
 			}
 		}
 		
-		EBD = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBD = { #Ipu
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 1362
+			
+			poptype_rights = { 
+				{
+					culture = abdjan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				2309 1888 4675 1355 2093 1362 4674 2311 1894 2313
 			}
 		}
 		
-		EBE = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBE = { #Abdju
+			government = despotic_monarchy
+			primary_culture = abdjan
+			religion = kemetic_pantheon
+			capital = 2306
 			
 			own_control_core = 	{ 
-				
+				4676 1347 2306 2621 2622 2473 4677 1266 2477 1767 1346
 			}
 		}
 		
-		EBF = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBF = { #Seshesh
+			government = despotic_monarchy
+			primary_culture = ma
+			religion = kemetic_pantheon
+			capital = 2331
+			
+			poptype_rights = { 
+				{
+					culture = abdjan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				2331 2615 2609 2326 1259 4678 1267 2614 2328 4679 2324 2377
 			}
 		}
 		
-		EBG = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBG = { #Sais
+			government = despotic_monarchy
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4467
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4467 4489 4488 4487 4468 4469 4472 4597 4596 4599 4600
 			}
 		}
 		
-		EBH = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBH = { #Piemro
+			government = theocratic_monarchy
+			primary_culture = deltan
+			religion = kemetic_pantheon
+			capital = 4601
 			
 			own_control_core = 	{ 
-				
+				4601 4603 4602 4598
 			}
 		}
 		
-		EBI = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBI = { #Baket
+			government = tribal_kingdom
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4470
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4470 4471 4473 4474 4475 4476
 			}
 		}
 		
-		EBJ = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBJ = { #Neb-qet
+			government = tribal_kingdom
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4607
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4607 4606 4608 4605 4604 
 			}
 		}
 		
-		EBK = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBK = { #Ptheka
+			government = despotic_monarchy
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4592
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4592 4591 4593 4594 4595
+				4620 4621 4622 2657 2075
 			}
 		}
 		
-		EBL = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBL = { #Ta-ret
+			government = tribal_kingdom
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4619
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4619 2070 2058 2079 4618
 			}
 		}
 		
-		EBM = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBM = { #Yamu
+			government = despotic_monarchy
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4617
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4617 4616 2119 2116
 			}
 		}
 		
-		EBN = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+		EBN = { #Nekht
+			government = tribal_kingdom
+			primary_culture = libi
+			religion = kemetic_pantheon
+			capital = 4610
+			
+			poptype_rights = { 
+				{
+					culture = deltan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4610 4614 4609 4615 4612 4613 4611
 			}
 		}
 		
 		#Habiru and the Levantine Team
 		
 		JAA = { #Aziris
-			government = tribal_chiefdom
+			government = despotic_monarchy
 			primary_culture = azirian
 			religion = canaanitic_pantheon
 			capital = 4719

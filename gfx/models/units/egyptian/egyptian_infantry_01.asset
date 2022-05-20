@@ -826,52 +826,52 @@ entity = {
 
 entity = {
 	name = "egyptian_gfx_missile_archers"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_missile_spearthrowers"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_cavalry_camels"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_chariot_light"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_chariot_heavy"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_cavalry_horse_archers"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_cavalry_light"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_elephant_african"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_elephant_forest"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 entity = {
 	name = "egyptian_gfx_elephant_indian"
-	clone = "egyptian_gfx_heavy_legion_infantry"
+	clone = "egyptian_gfx_light_levy_infantry"
 }
 
 

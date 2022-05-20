@@ -73,8 +73,8 @@
 		SARAKENOI ITOURAIOI SCENITAE HEMESENOI ZABADAIOI AOUIDENOI CHALUTAIOI AGRAIOI EPIMARANITAE
 	}
 	
-	graphical_culture = carthaginian_gfx
+	graphical_culture = levantine_gfx
 	ethnicities = {
-		10 = levantine
+		10 = balevantine
 	}
 }

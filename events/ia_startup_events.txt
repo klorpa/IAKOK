@@ -106,11 +106,11 @@ ia_startup.2 = { #Egypt
     desc = ia_startup.2.desc
     picture = welcome_1
     
-    left_portrait = c:EAA.current_ruler
-	left_portrait = c:EAB.current_ruler
-	left_portrait = c:EAC.current_ruler
-	right_portrait = c:EAG.current_ruler
-	right_portrait = c:EAF.current_ruler
+    left_portrait = c:EAJ.current_ruler
+	left_portrait = c:EAH.current_ruler
+	left_portrait = c:EAG.current_ruler
+	right_portrait = c:EAI.current_ruler
+	right_portrait = c:EAK.current_ruler
 
     trigger = {
     	OR = {
@@ -123,18 +123,8 @@ ia_startup.2 = { #Egypt
     option = {    
         name = ia_startup.2.a
 		hidden_effect = {
-			#Pharoh claims		
-			c:EAC = { every_owned_province = { add_claim = c:EAA } }
-			c:EAB = { every_owned_province = { add_claim = c:EAA } }
-			c:EAG = { every_owned_province = { add_claim = c:EAA } }
-			#Son claims
-			c:EAA = { every_owned_province = { add_claim = c:EAC } }
-			c:EAB = { every_owned_province = { add_claim = c:EAC } }
-			c:EAG = { every_owned_province = { add_claim = c:EAC } }
-			#Priest claims
-			c:EAC = { every_owned_province = { add_claim = c:EAB } }
-			c:EAA = { every_owned_province = { add_claim = c:EAB } }
-			c:EAG = { every_owned_province = { add_claim = c:EAB } }
+			#Rebel claims		
+			c:EAJ = { every_owned_province = { add_claim = c:EAI } }
 		}
     }
 }

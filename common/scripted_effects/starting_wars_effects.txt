@@ -23,30 +23,38 @@
 }
 
 Osorkons_rebelion_conflict_effect = {
-	c:EAG = {
-		add_alliance = EAF
-		add_alliance = EAJ
-		add_alliance = EAI
-		add_alliance = EAE
+	c:EAI = {
 		add_alliance = EAK
+		add_alliance = EAL
 		add_alliance = EAM
-		add_alliance = LAY
+		add_alliance = EAN
+		add_alliance = EAO
+		add_alliance = EAY
+		add_alliance = EAP
+		add_alliance = EAU
+		add_alliance = EAR
+		add_alliance = EAW
+		add_alliance = EAX
 	}
-	c:EAA = {
+	c:EAJ = {
 		declare_war_with_wargoal = {
 			war_goal = diadochi_wargoal
-		    province = p:539
-			target = c:EAG
+		    province = p:2571
+			target = c:EAI
 		}
 	}
-	c:EAG = {
-		break_alliance = EAF
-		break_alliance = EAJ
-		break_alliance = EAI
-		break_alliance = EAE
+	c:EAI = {
 		break_alliance = EAK
+		break_alliance = EAL
 		break_alliance = EAM
-		break_alliance = LAY
+		break_alliance = EAN
+		break_alliance = EAO
+		break_alliance = EAY
+		break_alliance = EAP
+		break_alliance = EAU
+		break_alliance = EAR
+		break_alliance = EAW
+		break_alliance = EAX
 	}
 }
 

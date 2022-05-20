@@ -9,11 +9,11 @@
 		family_events.9 #Rise of Family in Republics
 		#Modded events
 		#Invasions
-		cymmerian_invasion.1
-		cymmerian_invasion.2
-		rise_of_massagetae.1
-		celtic_invasions.1
-		tibetan_invasions.1
+		#cymmerian_invasion.1
+		#cymmerian_invasion.2
+		#rise_of_massagetae.1
+		#celtic_invasions.1
+		#tibetan_invasions.1
 		#Equipment
 		equipment_events.1
 		equipment_events.2

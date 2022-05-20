@@ -822,10 +822,18 @@ entity ={
 	name = "numidian_gfx_levy_missile_archers"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_missile_archers"
+	clone = "numidian_gfx_light_infantry"
+}
 
 ### Scirmishers ----------------------------------------------------------------
 entity ={
 	name = "numidian_gfx_levy_missile_spearthrowers"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_missile_spearthrowers"
 	clone = "numidian_gfx_light_infantry"
 }
 
@@ -834,15 +842,27 @@ entity ={
 	name = "numidian_gfx_levy_cavalry_camels"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_cavalry_camels"
+	clone = "numidian_gfx_light_infantry"
+}
 
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "numidian_gfx_levy_chariot_light"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_chariot_light"
+	clone = "numidian_gfx_light_infantry"
+}
 
 entity ={
 	name = "numidian_gfx_levy_chariot_heavy"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_chariot_heavy"
 	clone = "numidian_gfx_light_infantry"
 }
 
@@ -851,11 +871,19 @@ entity ={
 	name = "numidian_gfx_levy_engineer_cohort"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_engineer_cohort"
+	clone = "numidian_gfx_light_infantry"
+}
 
 ### Horse Archers ----------------------------------------------------------------
 entity ={
 	name = "numidian_gfx_levy_cavalry_horse_archers"
 	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_levy_cavalry_horse_archers"
+	clone = "numidian_gfx_legion_infantry"
 }
 
 ### Light Cavalry ----------------------------------------------------------------
@@ -863,10 +891,18 @@ entity ={
 	name = "numidian_gfx_levy_cavalry_light"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_levy_cavalry_light"
+	clone = "numidian_gfx_legion_infantry"
+}
 
 ### Infantry ----------------------------------------------------------------
 entity ={
 	name = "numidian_gfx_levy_light_spearmen"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_light_spearmen"
 	clone = "numidian_gfx_light_infantry"
 }
 
@@ -874,9 +910,17 @@ entity ={
 	name = "numidian_gfx_levy_light_swordsmen"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_light_swordsmen"
+	clone = "numidian_gfx_light_infantry"
+}
 
 entity ={
 	name = "numidian_gfx_levy_axemen_heavy"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_axemen_heavy"
 	clone = "numidian_gfx_light_infantry"
 }
 
@@ -885,10 +929,18 @@ entity ={
 	name = "numidian_gfx_levy_supply_train"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_supply_train"
+	clone = "numidian_gfx_light_infantry"
+}
 
 ### War Elephant ----------------------------------------------------------------
 entity ={
 	name = "numidian_gfx_levy_elephant_african"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_elephant_african"
 	clone = "numidian_gfx_light_infantry"
 }
 
@@ -896,8 +948,16 @@ entity ={
 	name = "numidian_gfx_levy_elephant_forest"
 	clone = "numidian_gfx_light_infantry"
 }
+entity ={
+	name = "numidian_gfx_legion_elephant_forest"
+	clone = "numidian_gfx_light_infantry"
+}
 
 entity ={
 	name = "numidian_gfx_levy_elephant_indian"
+	clone = "numidian_gfx_light_infantry"
+}
+entity ={
+	name = "numidian_gfx_legion_elephant_indian"
 	clone = "numidian_gfx_light_infantry"
 }
