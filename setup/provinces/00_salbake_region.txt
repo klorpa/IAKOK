@@ -537,7 +537,7 @@
 	terrain="hills"
 	culture="wvenedi"
 	religion="slavic_pantheon"
-	trade_goods="copper"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

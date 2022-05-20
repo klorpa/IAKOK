@@ -388,6 +388,10 @@
 		deltan = {}
 		memphite = {}
 		thebaidan = {}
+		met_irtan = {}
+		mu_kedan = {}
+		swenettic = {}
+		abdjan = {}
 		henenite = {}
 		khmunite = {}
 		nubo_kemetic = {} #Kemeto-Kushite

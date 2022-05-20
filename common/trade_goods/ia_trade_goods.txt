@@ -1,19 +1,4 @@
 ﻿#Added ones
-copper = { 
-	category = 0
-
-	gold = 0.25
-	
-	province = {
-		local_freemen_happyness = happiness_small_svalue
-	}
-	country = {
-		global_freemen_output = 0.01
-		global_slaves_output = 0.01
-	} 
-	
-	color = hsv { 0.0 0.0 0.3 }
-}
 
 tin = { 
 	category = 0

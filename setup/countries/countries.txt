@@ -22,7 +22,6 @@ LAC = "setup/countries/modded/mLAC.txt"
 LAD = "setup/countries/modded/mLAD.txt"
 LAE = "setup/countries/modded/mLAE.txt"
 LAF = "setup/countries/modded/mLAF.txt"
-LAG = "setup/countries/modded/mLAG.txt"
 #3rd Intermediate Period
 EAA = "setup/countries/modded/mEAA.txt"
 EAB = "setup/countries/modded/mEAB.txt"

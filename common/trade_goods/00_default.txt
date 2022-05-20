@@ -47,7 +47,7 @@ iron = { #119 territories
 	color = hsv { 0.0 0.0 0.11 }
 }
 
-base_metals = { #? 
+base_metals = { #copper
 	category = 0
 
 	gold = 0.25

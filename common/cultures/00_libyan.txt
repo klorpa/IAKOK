@@ -42,6 +42,7 @@
 		abystaic = {}
 		auschisaic = {}
 		adyrmachidaic = {}
+		bacalan = {}
 		libi = {
 		male_names = {
 		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries

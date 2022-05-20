@@ -141,7 +141,7 @@
 
 1232={ #Nubt
 	terrain="flood_plain"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -207,7 +207,7 @@
 
 1272={ #Kher
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -406,7 +406,7 @@
 
 1382={ #Saten
 	terrain="flood_plain"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -631,7 +631,7 @@
 
 1951={ #Per-Sabut
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -650,7 +650,7 @@
 
 1965={ #Apesh
 	terrain="desert"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -663,7 +663,7 @@
 
 1968={ #Aftet
 	terrain="desert"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -695,7 +695,7 @@
 
 2256={ #Qenat
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -705,8 +705,6 @@
 		amount=6
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -716,7 +714,7 @@
 
 2257={ #Qemamu
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -726,8 +724,6 @@
 		amount=5
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -737,7 +733,7 @@
 
 2266={ #Tebtebti
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -747,8 +743,6 @@
 		amount=4
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -758,7 +752,7 @@
 
 2268={ #Swenett
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -768,17 +762,10 @@
 		amount=3
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
-		amount=1
+		amount=2
 	}
 }
 
@@ -943,7 +930,7 @@
 
 2342={ #Mehun
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -956,8 +943,6 @@
 		amount=1
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -967,7 +952,7 @@
 
 2347={ #Khetem
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -977,8 +962,6 @@
 		amount=5
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1007,7 +990,7 @@
 
 2357={ #Abu
 	terrain="flood_plain"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -1017,16 +1000,12 @@
 		amount=5
 	}
 	citizen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=2
 	}
 	freemen={
 		amount=4
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=6
 	}
 	tribesmen={
@@ -1037,7 +1016,7 @@
 
 2358={ #Uabit
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -1047,13 +1026,9 @@
 		amount=3
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=2
 	}
 	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 }
@@ -1079,7 +1054,7 @@
 
 2363={ #Beneb
 	terrain="plains"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1100,7 +1075,7 @@
 
 2371={ #Pekhar
 	terrain="flood_plain"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -1484,7 +1459,7 @@
 
 4687={ #Tenat
 	terrain="hills"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1503,9 +1478,9 @@
 
 4688={ #Sekhun
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
-	trade_goods="copper"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1513,8 +1488,6 @@
 		amount=3
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1524,7 +1497,7 @@
 
 4689={ #Kep-her
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1537,15 +1510,13 @@
 		amount=1
 	}
 	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=2
 	}
 }
 
 4690={ #Neshep
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1558,15 +1529,13 @@
 		amount=1
 	}
 	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=2
 	}
 }
 
 4691={ #Entiu
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1576,8 +1545,6 @@
 		amount=4
 	}
 	slaves={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1587,7 +1554,7 @@
 
 4692={ #Ur-senu
 	terrain="desert"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -1597,15 +1564,13 @@
 		amount=2
 	}
 	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 }
 
 4693={ #Qesen
 	terrain="desert"
-	culture="thebaidan"
+	culture="swenettic"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1615,15 +1580,13 @@
 		amount=2
 	}
 	tribesmen={
-		culture="thebaidan"
-		religion="kemetic_pantheon"
 		amount=1
 	}
 }
 
 4694={ #Teben
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1642,7 +1605,7 @@
 
 4695={ #Heru
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1661,7 +1624,7 @@
 
 4696={ #Urhetchati
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1680,7 +1643,7 @@
 
 4697={ #Umet
 	terrain="desert"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1699,7 +1662,7 @@
 
 4698={ #Kenemti
 	terrain="desert"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1718,7 +1681,7 @@
 
 4699={ #Pehuit
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1737,7 +1700,7 @@
 
 4700={ #Tebhet
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1756,7 +1719,7 @@
 
 4702={ #Kemkem
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1775,7 +1738,7 @@
 
 4703={ #Sekhtu
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -1794,7 +1757,7 @@
 
 4704={ #Aputi
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1813,7 +1776,7 @@
 
 4705={ #Neshni
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -1832,7 +1795,7 @@
 
 4707={ #Setut
 	terrain="desert_hills"
-	culture="thebaidan"
+	culture="met_irtan"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1872,7 +1835,7 @@
 	terrain="desert"
 	culture="thebaidan"
 	religion="kemetic_pantheon"
-	trade_goods="copper"
+	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -193,7 +193,7 @@
 
 4904={ #Timsahe
 	terrain="plains"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
@@ -212,7 +212,7 @@
 
 4905={ #Ikhasse
 	terrain="plains"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 4906={ #Tyazite
 	terrain="plains"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -244,7 +244,7 @@
 
 4907={ #Doupe
 	terrain="plains"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
@@ -260,7 +260,7 @@
 
 4908={ #Itbirane
 	terrain="plains"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -276,7 +276,7 @@
 
 4909={ #Ifile
 	terrain="plains"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="silphium"
 	civilization_value=0
@@ -292,7 +292,7 @@
 
 4910={ #Zarafate
 	terrain="plains"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -510,7 +510,7 @@
 
 4924={ #Yallise
 	terrain="hills"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -526,7 +526,7 @@
 
 4925={ #Argaze
 	terrain="forest"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -545,7 +545,7 @@
 
 4926={ #Oustade
 	terrain="hills"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -561,7 +561,7 @@
 
 4927={ #Adale
 	terrain="hills"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -577,7 +577,7 @@
 
 4928={ #Amallale
 	terrain="forest"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -596,7 +596,7 @@
 
 4929={ #Dazirar
 	terrain="hills"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -743,7 +743,7 @@
 
 4938={ #Aazraye
 	terrain="hills"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -759,7 +759,7 @@
 
 4939={ #Imaklate
 	terrain="plains"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -775,7 +775,7 @@
 
 4940={ #Ijaffe
 	terrain="plains"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 4941={ #Idlame
 	terrain="hills"
-	culture="auschisaic"
+	culture="abystaic"
 	religion="libyan_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -900,7 +900,7 @@
 
 4948={ #Ibawane
 	terrain="desert_hills"
-	culture="auschisaic"
+	culture="bacalan"
 	religion="libyan_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0

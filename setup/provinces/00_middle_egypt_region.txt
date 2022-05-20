@@ -114,7 +114,7 @@
 
 1259={ #Neshem
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 1266={ #Neturt
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 1267={ #Hetepu
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 1346={ #Hekeru
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 1347={ #Hert-ab
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 1355={ #Hatatu
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 1362={ #Ipu
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -660,7 +660,7 @@
 
 1767={ #Sehetep
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -717,7 +717,7 @@
 
 1888={ #Heri-ta
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -736,7 +736,7 @@
 
 1894={ #Seshmet
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -755,7 +755,7 @@
 
 2093={ #Retashaka
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -774,7 +774,7 @@
 
 2306={ #Abdju
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -797,7 +797,7 @@
 
 2309={ #Uarekht
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -816,7 +816,7 @@
 
 2311={ #Khenra
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -858,7 +858,7 @@
 
 2324={ #Kheri
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -877,7 +877,7 @@
 
 2326={ #Sait
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -896,7 +896,7 @@
 
 2328={ #Nequt
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -915,7 +915,7 @@
 
 2331={ #Seshesh
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -938,7 +938,7 @@
 
 2377={ #Marqata
 	terrain="hills"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -957,7 +957,7 @@
 
 2473={ #Hetemu
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -976,7 +976,7 @@
 
 2477={ #Tjenu
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
@@ -996,7 +996,7 @@
 
 2609={ #Bahes
 	terrain="hills"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1015,7 +1015,7 @@
 
 2614={ #Metun
 	terrain="hills"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -1034,7 +1034,7 @@
 
 2615={ #Neserit
 	terrain="hills"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -1053,7 +1053,7 @@
 
 2621={ #Henut
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -1072,7 +1072,7 @@
 
 2622={ #Hemt
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1243,7 +1243,7 @@
 
 4674={ #Netnet
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -1262,7 +1262,7 @@
 
 4675={ #Qetetbu
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -1281,7 +1281,7 @@
 
 4676={ #Mastiu
 	terrain="desert_hills"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -1300,7 +1300,7 @@
 
 4677={ #Tehen
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -1319,7 +1319,7 @@
 
 4678={ #Sekhai
 	terrain="flood_plain"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1338,7 +1338,7 @@
 
 4679={ #Ka-hetep
 	terrain="plains"
-	culture="khmunite"
+	culture="abdjan"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0

@@ -112,7 +112,7 @@ country = {
 		}
 		
 		NAD = { #Semna
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = semnan
 			religion = ethiopian_pantheon
 			capital = 2426
@@ -202,47 +202,36 @@ country = {
 			}
 		}
 		
-		LAD = { #Additional
+		LAD = { #Abystae
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = abystaic
+			religion = libyan_pantheon
+			capital = 4929
 			
 			own_control_core = 	{ 
-				
+				4929 4942 4943 4930
 			}
 		}
 		
-		LAE = { #Additional
+		LAE = { #Auschisae
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = auschisaic
+			religion = libyan_pantheon
+			capital = 4934
 			
 			own_control_core = 	{ 
-				
+				4934 4944 4945 4935
 			}
 		}
 		
-		LAF = { #Additional
+		LAF = { #Bacale
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = bacalan
+			religion = libyan_pantheon
+			capital = 4909
 			
 			own_control_core = 	{ 
-				
-			}
-		}
-		
-		LAG = { #Additional
-			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
-			
-			own_control_core = 	{ 
-				
+				4909 4910 4924 4925
 			}
 		}
 		
@@ -259,14 +248,14 @@ country = {
 			}
 		}
 		
-		EAB = { #Additional
+		EAB = { #Met-Irt
 			government = tribal_chiefdom
-			primary_culture = medjay
-			religion = ethiopian_pantheon
-			capital = 4740
+			primary_culture = met_irtan
+			religion = kemetic_pantheon
+			capital = 4701
 			
 			own_control_core = 	{ 
-				
+				4701 4713 4706 4732
 			}
 		}
 		

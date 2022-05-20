@@ -4610,8 +4610,8 @@
 
 4748={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4620,8 +4620,8 @@
 
 4750={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4630,8 +4630,8 @@
 
 4752={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4640,8 +4640,8 @@
 
 4754={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4650,8 +4650,8 @@
 
 4755={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4660,8 +4660,8 @@
 
 4756={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4670,8 +4670,8 @@
 
 4757={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mu_kedan"
+	religion="kemetic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4680,8 +4680,8 @@
 
 4758={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4690,8 +4690,8 @@
 
 4759={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4700,8 +4700,8 @@
 
 4760={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4710,8 +4710,8 @@
 
 4761={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4720,8 +4720,8 @@
 
 4766={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4730,8 +4730,8 @@
 
 4767={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4740,8 +4740,8 @@
 
 4768={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4750,8 +4750,8 @@
 
 4769={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4760,8 +4760,8 @@
 
 4770={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4770,8 +4770,8 @@
 
 4771={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4780,8 +4780,8 @@
 
 4772={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4790,8 +4790,8 @@
 
 4773={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4800,8 +4800,8 @@
 
 4774={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4810,8 +4810,8 @@
 
 4775={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4820,8 +4820,8 @@
 
 4776={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4830,8 +4830,8 @@
 
 4777={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4840,8 +4840,8 @@
 
 4778={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4850,8 +4850,8 @@
 
 4779={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4860,8 +4860,8 @@
 
 4780={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4870,8 +4870,8 @@
 
 4781={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4880,8 +4880,8 @@
 
 4782={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4890,8 +4890,8 @@
 
 4783={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4900,8 +4900,8 @@
 
 4784={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4910,8 +4910,8 @@
 
 4785={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4920,8 +4920,8 @@
 
 4786={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4930,8 +4930,8 @@
 
 4787={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4940,8 +4940,8 @@
 
 4788={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4950,8 +4950,8 @@
 
 4789={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4960,8 +4960,8 @@
 
 4790={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4970,8 +4970,8 @@
 
 4791={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="adyrmachidaic"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5880,8 +5880,8 @@
 
 4956={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5890,8 +5890,8 @@
 
 4957={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5900,8 +5900,8 @@
 
 4958={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5910,8 +5910,8 @@
 
 4959={ #Caravan Route
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="nessamones"
+	religion="libyan_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
