@@ -304,7 +304,7 @@ Napata_flag = {# Kush
 	color2 = "pitch_black"
 
 	colored_emblem = {
-		texture = "ce_manhit.dds"
+		texture = "ce_horus.dds"
 		color1 = rgb { 247 228 57 }
 	}
 }
