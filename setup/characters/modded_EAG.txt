@@ -1,6 +1,6 @@
 ﻿"EAG"={
 	country="EAG"
-	87={
+	2={
 		first_name="Mekheperre"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1221.1.1
@@ -17,12 +17,12 @@
 		#dna=""
 	}
 	
-	88={
+	3={
 		first_name="Nesbenebjet"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1255.1.1
 		death_date=1286.1.1
-		father="char:87"
+		father="char:2"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -35,11 +35,11 @@
 		#dna=""
 	}
 	
-	89={
+	4={
 		first_name="Pinedjem"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1265.1.1
-		father="char:87"
+		father="char:2"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -52,18 +52,18 @@
 		add_gold=500
 		add_popularity=80
 		c:EAG={
-			set_as_ruler=char:89
+			set_as_ruler=char:4
 		}
 		#dna=""
 	}
 	
-	90={
+	5={
 		first_name="Henuttawy"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1256.1.1
 		death_date=1286.1.1
 		female=yes
-		father="char:87"
+		father="char:2"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -76,7 +76,7 @@
 		#dna=""
 	}
 	
-	91={
+	6={
 		first_name="Takhentdjehuti"
 		birth_date=1257.1.1
 		death_date=1286.1.1
@@ -92,13 +92,13 @@
 		#dna=""
 	}
 	
-	92={
+	7={
 		first_name="Isetemkheb"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1275.1.1
 		female=yes
-		father="char:88"
-		mother="char:90"
+		father="char:3"
+		mother="char:5"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -113,13 +113,13 @@
 		#dna=""
 	}
 	
-	93={
+	8={
 		first_name="Neskhons"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1275.1.1
 		female=yes
-		father="char:88"
-		mother="char:91"
+		father="char:3"
+		mother="char:6"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -131,17 +131,17 @@
 		add_trait="21dynastys"
 		add_gold=500
 		add_popularity=80
-		marry_character=char:89
+		marry_character=char:4
 		#dna=""
 	}
 	
-	94={
+	9={
 		first_name="Isetemkheb"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1265.1.1
-		death_date=1290.1.1
+		death_date=125.1.1
 		female=yes
-		father="char:87"
+		father="char:2"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -154,12 +154,12 @@
 		#dna=""
 	}
 	
-	95={
+	10={
 		first_name="Psusennes"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1282.1.1
-		father="char:89"
-		mother="char:94"
+		father="char:4"
+		mother="char:9"
 		culture="thebaidan"
 		religion="kemetic_pantheon"
 		no_stats=yes
@@ -174,12 +174,12 @@
 		#dna=""
 	}
 	
-	96={
+	11={
 		first_name="Herweben"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1283.1.1
-		father="char:89"
-		mother="char:94"
+		father="char:4"
+		mother="char:9"
 		female=yes
 		culture="thebaidan"
 		religion="kemetic_pantheon"
@@ -195,12 +195,12 @@
 		#dna=""
 	}
 	
-	97={
+	12={
 		first_name="Henuttawy"
 		family = c:EAG.fam:Hem-netjer-tep-en-Amun
 		birth_date=1284.1.1
-		father="char:89"
-		mother="char:94"
+		father="char:4"
+		mother="char:9"
 		female=yes
 		culture="thebaidan"
 		religion="kemetic_pantheon"

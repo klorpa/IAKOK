@@ -1,10 +1,10 @@
 ﻿"EAK"={
 	country="EAK"
-	8={
+	18={
 		first_name="Nimlot"
 		family = c:EAK.fam:Shosqenq-Shu
-		father="char:5"
-		mother="char:6"
+		father="char:13"
+		mother="char:14"
 		birth_date=1250.1.1
 		culture="ma"
 		religion="kemetic_pantheon"
@@ -18,12 +18,12 @@
 		add_gold=500
 		add_popularity=100
 		c:EAK={
-			set_as_ruler=char:8
+			set_as_ruler=char:18
 		}
 		#dna=""
 	}
 	
-	10={
+	19={
 		first_name="Tanetsepeh"
 		female=yes
 		birth_date=1250.1.1
@@ -37,15 +37,15 @@
 		no_traits=yes
 		add_gold=500
 		add_popularity=100
-		marry_character=char:8
+		marry_character=char:18
 		#dna=""
 	}
 	
-	11={
+	20={
 		first_name="Shosqenq"
 		family = c:EAK.fam:Shosqenq-Shu
-		father="char:8"
-		mother="char:10"
+		father="char:18"
+		mother="char:19"
 		birth_date=1290.1.1
 		culture="ma"
 		religion="kemetic_pantheon"
