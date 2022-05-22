@@ -263,7 +263,8 @@
 		amount=6
 	}
 	tribesmen={
-		amount=1
+		amount=7
+		culture="ma"
 	}
 }
 
@@ -471,6 +472,7 @@
 	province_rank="city"
 	citizen={
 		amount=8
+		culture="ma"
 	}
 	freemen={
 		amount=8
@@ -479,7 +481,8 @@
 		amount=5
 	}
 	tribesmen={
-		amount=1
+		amount=5
+		culture="ma"
 	}
 }
 
@@ -539,7 +542,8 @@
 		amount=6
 	}
 	tribesmen={
-		amount=1
+		amount=5
+		culture="ma"
 	}
 	
 }
@@ -559,7 +563,8 @@
 		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=8
+		culture="ma"
 	}
 }
 
@@ -851,7 +856,8 @@
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=6
+		culture="ma"
 	}
 	
 }
@@ -922,7 +928,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount=4
 	}
 	freemen={
 		amount=7
@@ -931,7 +937,8 @@
 		amount=5
 	}
 	tribesmen={
-		amount=1
+		amount=6
+		culture="ma"
 	}
 	
 }

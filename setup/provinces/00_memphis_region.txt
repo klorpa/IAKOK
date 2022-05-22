@@ -257,7 +257,7 @@
 
 1949={ #Aueris
 	terrain="oasis"
-	culture="henenite"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -276,7 +276,7 @@
 
 1971={ #Asar Tem
 	terrain="oasis"
-	culture="henenite"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="dates"
 	civilization_value=0

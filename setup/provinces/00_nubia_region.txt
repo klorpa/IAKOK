@@ -963,8 +963,6 @@
 		amount=2
 	}
 	slaves={
-		culture="lower_nubian"
-		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -984,8 +982,6 @@
 		amount=3
 	}
 	slaves={
-		culture="lower_nubian"
-		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1008,8 +1004,6 @@
 		amount=3
 	}
 	slaves={
-		culture="lower_nubian"
-		religion="ethiopian_pantheon"
 		amount=3
 	}
 	tribesmen={

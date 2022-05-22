@@ -227,7 +227,7 @@
 
 4512={ #Senfekhfekh
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -243,7 +243,7 @@
 
 4513={ #Hapu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -275,7 +275,7 @@
 
 4517={ #Haaker
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -502,7 +502,7 @@
 
 4533={ #Sekhemu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -534,7 +534,7 @@
 
 4535={ #Shabu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
