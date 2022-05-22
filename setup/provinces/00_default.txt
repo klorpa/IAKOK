@@ -3350,8 +3350,8 @@
 
 2660={ #Sinai
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3370,8 +3370,8 @@
 
 2662={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3570,8 +3570,8 @@
 
 2682={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3590,8 +3590,8 @@
 
 2684={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3630,8 +3630,8 @@
 
 2688={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3640,8 +3640,8 @@
 
 2689={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3650,8 +3650,8 @@
 
 2690={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3660,8 +3660,8 @@
 
 2691={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3670,8 +3670,8 @@
 
 2692={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3680,8 +3680,8 @@
 
 2693={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3850,8 +3850,8 @@
 
 2710={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="judahic"
+	religion="shasan"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3860,8 +3860,8 @@
 
 2711={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3870,8 +3870,8 @@
 
 2712={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3920,8 +3920,8 @@
 
 2717={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4340,8 +4340,8 @@
 
 3795={ #Ilan
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4590,8 +4590,8 @@
 
 4627={ #Hement
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4980,8 +4980,8 @@
 
 4815={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5720,8 +5720,8 @@
 
 4889={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7780,8 +7780,8 @@
 
 5186={ #Arabian Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

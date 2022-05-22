@@ -57,7 +57,49 @@ provinces = { #Any entry must contain a comment with city name.
 
 	### BUILDINGS
 	
+	4565 = { #Tanis
+		port_building = 2
+	}
 	
+	2261 = { #Memphis
+		port_building = 2
+	}
+	
+	1331 = { #Thebes
+		port_building = 2
+	}
+	
+	2306 = { #Abydos
+		port_building = 2
+	}
+	
+	1399 = { #Khmun
+		port_building = 2
+	}
+	
+	4467 = { #Sais
+		port_building = 2
+	}
+	
+	4601 = { #Piemro
+		port_building = 2
+	}
+	
+	4556 = { #Bubastis
+		port_building = 2
+	}
+	
+	4395 = { #Elath
+		port_building = 1
+	}
+	
+	4701 = { #Met-irt
+		port_building = 1
+	}
+	
+	1637 = { #Manutut
+		port_building = 1
+	}
 	
 	#Lesser Mountain Passes #
 	#Used for mountain passes that have an owner.
@@ -70,14 +112,7 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	
 	
-	#Buildings
-	
-	
-	
 	#Special Places:
-	
-	
-	
 	
 	#Pyramids of Giza
 	2133 = {
@@ -841,13 +876,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2376
 			
-			poptype_rights = { 
-				{
-					culture = thebaidan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				1382 4686 1352 1343 2372 1951 1825 2305 2943 2371 2376
 			}
@@ -858,13 +886,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 2301
-			
-			poptype_rights = { 
-				{
-					culture = thebaidan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				2301 1895 1381 1745 1210 1976 1309 2283 1939 1946 2290
@@ -877,13 +898,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2302
 			
-			poptype_rights = { 
-				{
-					culture = thebaidan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				2302 2595 1144 2478 2611 1941 2298 1935 2291 1947
 			}
@@ -894,6 +908,18 @@ country = {
 			primary_culture = thebaidan
 			religion = kemetic_pantheon
 			capital = 1331
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
 				1325 1660 1367 1631 1253 1331 4745 1401 1201 1321 2625
@@ -909,6 +935,18 @@ country = {
 			primary_culture = deltan
 			religion = kemetic_pantheon
 			capital = 1399
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			poptype_rights = { 
 				{
@@ -932,12 +970,10 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4740
 			
-			poptype_rights = { 
-				{
-					culture = henenite 
-					type = citizen
-				}
-			}
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
 			
 			own_control_core = 	{ 
 				2570 2277 2152 1848 2279 1830 2274 1841 1971 2280 1931 1949
@@ -952,6 +988,25 @@ country = {
 			primary_culture = deltan
 			religion = kemetic_pantheon
 			capital = 4565
+			
+			succession_law=egyption_succession_law
+			succession=old_egyptian_succession
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			poptype_rights = { 
+				{
+					culture = memphite 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
 				4565 4568 4564 4567 4566 4570 4571 4563 4569
@@ -976,13 +1031,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4556
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4556 4557 4555 4537 4538 4539 4540
 			}
@@ -996,13 +1044,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4583
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4583 4582 4584 4638 4637
 			}
@@ -1013,13 +1054,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 4531
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4531 4530 4532 4533 4534 4535 4536
@@ -1032,13 +1066,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4523
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4523 4524 4525 4526 4527 4528 4529
 			}
@@ -1049,13 +1076,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 4502
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4502 4501 4500 4499 4498 4503
@@ -1069,13 +1089,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4511
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4511 4512 4513 4517 4518 4516 
 			}
@@ -1086,13 +1099,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 4506
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4506 4505 4504 4507 4508 4510
@@ -1105,13 +1111,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4514
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4514 4509 4515 4519 4520 4521 4522
 			}
@@ -1122,13 +1121,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 4480
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4480 4483 4479 4478 4482 4481 4477 
@@ -1141,13 +1133,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4486
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4486 4495 4496 4493 4485 4497 4484
 			}
@@ -1158,13 +1143,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1154
-			
-			poptype_rights = { 
-				{
-					culture = henenite 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4658 4659 1154 1176 1160 4660 4661 4657 1151
@@ -1177,13 +1155,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2542
 			
-			poptype_rights = { 
-				{
-					culture = henenite 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				2594 2576 2619 2542 2617 594 2543 2544 371
 			}
@@ -1194,13 +1165,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 4624
-			
-			poptype_rights = { 
-				{
-					culture = memphite 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4624 2220 2145 4625 4623 1187 
@@ -1213,13 +1177,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1629
 			
-			poptype_rights = { 
-				{
-					culture = khmunite 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				1511 470 433 1629 459 1512 394 1464 343
 			}
@@ -1230,13 +1187,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1643
-			
-			poptype_rights = { 
-				{
-					culture = khmunite 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				1643 4668 4669 4670 1654 1625 4667 1624 4666
@@ -1249,13 +1199,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1589
 			
-			poptype_rights = { 
-				{
-					culture = khmunite 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				1581 242 1760 4671 1379 1588 1589 1777 1647
 			}
@@ -1267,13 +1210,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 1374
 			
-			poptype_rights = { 
-				{
-					culture = khmunite 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				1368 4673 1556 1762 1675 1886 1357 4672 1374 1532
 			}
@@ -1284,13 +1220,6 @@ country = {
 			primary_culture = ma
 			religion = kemetic_pantheon
 			capital = 1362
-			
-			poptype_rights = { 
-				{
-					culture = abdjan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				2309 1888 4675 1355 2093 1362 4674 2311 1894 2313
@@ -1314,13 +1243,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 2331
 			
-			poptype_rights = { 
-				{
-					culture = abdjan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				2331 2615 2609 2326 1259 4678 1267 2614 2328 4679 2324 2377
 			}
@@ -1331,13 +1253,6 @@ country = {
 			primary_culture = libi
 			religion = kemetic_pantheon
 			capital = 4467
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4467 4489 4488 4487 4468 4469 4472 4597 4596 4599 4600
@@ -1361,13 +1276,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4470
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4470 4471 4473 4474 4475 4476
 			}
@@ -1379,13 +1287,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4607
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4607 4606 4608 4605 4604 
 			}
@@ -1396,13 +1297,6 @@ country = {
 			primary_culture = libi
 			religion = kemetic_pantheon
 			capital = 4592
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4592 4591 4593 4594 4595
@@ -1416,13 +1310,6 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4619
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4619 2070 2058 2079 4618
 			}
@@ -1433,13 +1320,6 @@ country = {
 			primary_culture = libi
 			religion = kemetic_pantheon
 			capital = 4617
-			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
 			
 			own_control_core = 	{ 
 				4617 4616 2119 2116
@@ -1452,19 +1332,12 @@ country = {
 			religion = kemetic_pantheon
 			capital = 4610
 			
-			poptype_rights = { 
-				{
-					culture = deltan 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				4610 4614 4609 4615 4612 4613 4611
 			}
 		}
 		
-		#Habiru and the Levantine Team
+		#Levant
 		
 		JAA = { #Aziris
 			government = despotic_monarchy
@@ -1474,6 +1347,347 @@ country = {
 			
 			own_control_core = 	{ 
 				4719
+			}
+		}
+		
+		JAB = { #Shasu Confederation
+			government = tribal_chiefdom
+			primary_culture = shasan
+			religion = judahic
+			capital = 1474
+			
+			own_control_core = 	{ 
+				1474 1553 1538 1547 1442 3799 3800 1672
+			}
+		}
+		
+		JAC = { #Midian
+			government = tribal_kingdom
+			primary_culture = midianic
+			religion = anunnaki_pantheon
+			capital = 4395
+			
+			own_control_core = 	{ 
+				4395 4396 4394 3957 3924 1387 1342
+			}
+		}
+		
+		JAD = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAE = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAF = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAG = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAH = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAI = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAK = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAL = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAN = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAO = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAP = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAR = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAS = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAT = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAU = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAW = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAX = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAY = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JAZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBA = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBB = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBC = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBD = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBE = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBF = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBG = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBH = { #Additional
+			government = despotic_monarchy
+			primary_culture = azirian
+			religion = canaanitic_pantheon
+			capital = 4719
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}

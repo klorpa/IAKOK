@@ -295,7 +295,7 @@
 
 2075={ #Meritti
 	terrain="plains"
-	culture="memphite"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -410,7 +410,7 @@
 
 2220={ #Seheptet
 	terrain="plains"
-	culture="memphite"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
@@ -571,7 +571,7 @@
 
 2657={ #Ushat
 	terrain="plains"
-	culture="memphite"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -917,23 +917,25 @@
 
 4624={ #Khem
 	terrain="flood_plain"
-	culture="memphite"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount=4
 	}
 	freemen={
-		amount=9
+		amount=6
+		culture="memphite"
 	}
 	slaves={
 		amount=6
+		culture="memphite"
 	}
 	tribesmen={
-		amount=1
+		amount=11
 	}
 }
 

@@ -48,8 +48,8 @@
 
 3957={ #Elifaz
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -816,8 +816,8 @@
 
 4394={ #Be'er Ora
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -832,8 +832,8 @@
 
 4395={ #Elath
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -854,8 +854,8 @@
 
 4396={ #Timna'
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1098,8 +1098,8 @@
 
 4446={ #Wadi Rum
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="midianic"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

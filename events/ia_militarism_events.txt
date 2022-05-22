@@ -27,6 +27,7 @@ militarism_events.1 = {
 			limit = {
 				OR = {
 					country_culture_group = libyan
+					country_culture_group = aramaic
 				}			
 			}
 			add_country_modifier = {
@@ -37,7 +38,8 @@ militarism_events.1 = {
 		else_if = {
 			limit = {
 				OR = {
-					country_culture_group = kemetic 
+					country_culture_group = kemetic
+					country_culture_group = levantine					
 				}			
 			}
 			add_country_modifier = {

@@ -307,23 +307,25 @@
 
 4523={ #Setennu
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=9
+		amount=4
 	}
 	freemen={
-		amount=9
+		amount=7
+		culture="deltan"
 	}
 	slaves={
 		amount=6
+		culture="deltan"
 	}
 	tribesmen={
-		amount=1
+		amount=12
 	}
 }
 
@@ -348,7 +350,7 @@
 
 4525={ #Menthu
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -732,7 +734,7 @@
 
 4555={ #Shepent
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -751,30 +753,32 @@
 
 4556={ #Per-Bast
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount=4
 	}
 	freemen={
-		amount=8
+		amount=6
+		culture="deltan"
 	}
 	slaves={
 		amount=4
+		culture="deltan"
 	}
 	tribesmen={
-		amount=2
+		amount=12
 	}
 	
 }
 
 4557={ #Setchit
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1205,29 +1209,31 @@
 
 4583={ #Per-Sopdu
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount=3
 	}
 	freemen={
-		amount=8
+		amount=6
+		culture="deltan"
 	}
 	slaves={
 		amount=6
+		culture="deltan"
 	}
 	tribesmen={
-		amount=2
+		amount=10
 	}
 }
 
 4584={ #Taiu
 	terrain="flood_plain"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0

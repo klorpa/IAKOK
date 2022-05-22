@@ -67,9 +67,9 @@ bloodlines_startup.3 = { #21 dynasty
 		every_character = {
 			limit = {
 				OR = {
-					has_same_family = char:3
+					has_same_family = char:0
+					has_same_family = char:1
 					has_same_family = char:4
-					has_same_family = char:95
 				}
 			}
 			add_trait = 21dynastys
@@ -99,8 +99,8 @@ bloodlines_startup.4 = { #22 dynasty
 		every_character = {
 			limit = {
 				OR = {
-					has_same_family = char:7
-					has_same_family = char:8
+					has_same_family = char:18
+					has_same_family = char:15
 				}
 			}
 			add_trait = 22dynastys

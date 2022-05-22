@@ -52,7 +52,7 @@
 
 1954={ #Usekhtu
 	terrain="plains"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -71,7 +71,7 @@
 
 2058={ #M'gatir
 	terrain="plains"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
@@ -109,7 +109,7 @@
 
 2079={ #Rekes
 	terrain="plains"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
@@ -160,7 +160,7 @@
 
 2119={ #Henbet
 	terrain="plains"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -192,23 +192,28 @@
 
 4467={ #Zau
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="papyrus"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=7
+		amount=4
 	}
 	freemen={
 		amount=8
+		culture="deltan"
 	}
 	slaves={
 		amount=6
+		culture="deltan"
 	}
 	tribesmen={
-		amount=2
+		amount=12
 	}
 	
 }
@@ -253,7 +258,7 @@
 
 4470={ #Baket
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -305,7 +310,7 @@
 
 4473={ #Hunefer
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -337,7 +342,7 @@
 
 4475={ #Shatet
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -353,7 +358,7 @@
 
 4476={ #Nehpu
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -369,7 +374,7 @@
 
 4477={ #Sapti
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -385,7 +390,7 @@
 
 4478={ #Hamu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -417,7 +422,7 @@
 
 4480={ #Senaat
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -880,7 +885,7 @@
 
 4514={ #Aurau
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -899,7 +904,7 @@
 
 4515={ #Shaua
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -947,7 +952,7 @@
 
 4521={ #Tetu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -963,7 +968,7 @@
 
 4522={ #Shamu
 	terrain="marsh"
-	culture="deltan"
+	culture="ma"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1005,16 +1010,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=9
+		amount=4
 	}
 	freemen={
-		amount=8
+		amount=6
 	}
 	slaves={
 		amount=6
 	}
 	tribesmen={
-		amount=1
+		amount=10
+		culture="libi"
 	}
 }
 
@@ -1077,7 +1083,7 @@
 
 4596={ #Sethen
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -1096,7 +1102,7 @@
 
 4597={ #Iu-neferu
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1229,7 +1235,7 @@
 
 4604={ #Pertu
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1245,7 +1251,7 @@
 
 4605={ #Senteh
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -1261,7 +1267,7 @@
 
 4606={ #Khito
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1277,7 +1283,7 @@
 
 4607={ #Neb-qet
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -1309,7 +1315,7 @@
 
 4609={ #Menouthis
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -1328,7 +1334,7 @@
 
 4610={ #Nekht
 	terrain="marsh"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="natron"
 	civilization_value=0
@@ -1347,7 +1353,7 @@
 
 4611={ #Raqote
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -1366,7 +1372,7 @@
 
 4612={ #Pikuat
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -1385,7 +1391,7 @@
 
 4613={ #Besku
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1423,7 +1429,7 @@
 
 4615={ #Keban
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1468,16 +1474,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount=4
 	}
 	freemen={
-		amount=10
+		amount=6
 	}
 	slaves={
 		amount=5
 	}
 	tribesmen={
-		amount=2
+		amount=10
+		culture="libi"
 	}
 }
 
@@ -1502,7 +1509,7 @@
 
 4619={ #Ta-ret
 	terrain="flood_plain"
-	culture="deltan"
+	culture="libi"
 	religion="kemetic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
