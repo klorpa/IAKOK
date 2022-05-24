@@ -42,7 +42,12 @@
  #Levantines-Zoomed
  levantine:2 "Levantine"
  azirian:0 "Azirian"
- israelic:0 "North-Jewish"
+ girzite:0 "Girzite"
+ jebusite:0 "Jebusite"
+ philistine:0 "Philistine"
+ avite:0 "Avite"
+ judahite:0 "Judah"
+ simeonid:0 "Simeon"
  levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Arameans

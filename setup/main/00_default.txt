@@ -441,13 +441,6 @@ country = {
 			monarchy_citizen_law = foreign_law_for_minorities
 			monarchy_military_reforms = work_for_the_best
 			
-			poptype_rights = { 
-				{
-					culture = henenite 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				2570 2277 2152 1848 2279 1830 2274 1841 1971 2280 1931 1949
 				2084 2286 2282 1836 1842 4629 2573 2596 2571 2578 2602
@@ -838,124 +831,137 @@ country = {
 			}
 		}
 		
-		JAD = { #Additional
+		JAD = { #Moab
 			government = despotic_monarchy
-			primary_culture = azirian
-			religion = canaanitic_pantheon
-			capital = 4719
+			primary_culture = moabite
+			religion = anunnaki_pantheon
+			capital = 4382
 			
 			own_control_core = 	{ 
-				
+				4382 4383 4381 4386 4174 4175 4173 4380 4156 4157 4158 4172 4159 4171 4385 4387
 			}
 		}
 		
-		JAE = { #Additional
+		JAE = { #Judah
 			government = despotic_monarchy
-			primary_culture = azirian
-			religion = canaanitic_pantheon
-			capital = 4719
+			primary_culture = judahite
+			religion = judahic
+			capital = 4284
+			
+			poptype_rights = { 
+				{
+					culture = simeonid 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4284 4285 4286 4278 4287 4282 4240 4281 4280 4239
+				4283 4288 4289 4294 4295 4296 4299 4306 4305 4314
+				4313 4317 4316 4321 4315 4320 4238 4279 4277 4276
+				4319 4318 4263 4274
 			}
 		}
 		
-		JAF = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
-			religion = canaanitic_pantheon
-			capital = 4719
+		JAF = { #Amalek 
+			government = tribal_federation
+			primary_culture = amalekite
+			religion = judahic
+			capital = 4405
 			
 			own_control_core = 	{ 
-				
+				4405 4404 4241 4406 4407 4408 4409 4440 
+				4400 4399 3969 3928 3575
 			}
 		}
 		
-		JAG = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
-			religion = canaanitic_pantheon
-			capital = 4719
+		JAG = { #Edom
+			government = tribal_federation
+			primary_culture = edomite
+			religion = anunnaki_pantheon
+			capital = 4384
 			
 			own_control_core = 	{ 
-				
+				4384 4402 4403 4401 4433 4388 4432 4389
+				4416 4390 4126 4391 4392 4393
 			}
 		}
 		
-		JAH = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
+		JAH = { #Girza
+			government = tribal_kingdom
+			primary_culture = girzite
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4312
 			
 			own_control_core = 	{ 
-				
+				4303 4311 4310 4307 4309 4312 4308
 			}
 		}
 		
-		JAI = { #Additional
+		JAI = { #Gaza
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = philistine
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4218
 			
 			own_control_core = 	{ 
-				
+				4218 4300 4219 4220 4291
 			}
 		}
 		
-		JAJ = { #Additional
+		JAJ = { #Asqalon
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = philistine
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4216
 			
 			own_control_core = 	{ 
-				
+				4216 4217 4215
 			}
 		}
 		
-		JAK = { #Additional
+		JAK = { #Asdod
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = philistine
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4214
 			
 			own_control_core = 	{ 
-				
+				4214 4213 4212
 			}
 		}
 		
-		JAL = { #Additional
+		JAL = { #Gat
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = philistine
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4275
 			
 			own_control_core = 	{ 
-				
+				4275 4270 4272 4271 4293 4297 4298 4302
+				4290 4292 4304 4301
 			}
 		}
 		
-		JAM = { #Additional
+		JAM = { #Eqron
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = philistine
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4273
 			
 			own_control_core = 	{ 
-				
+				4273 4269 4268 4267 4265 4264
 			}
 		}
 		
-		JAN = { #Additional
+		JAN = { #Jebus
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = jebusite
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4242
 			
 			own_control_core = 	{ 
-				
+				4242
 			}
 		}
 		

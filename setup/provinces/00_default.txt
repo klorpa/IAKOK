@@ -2210,8 +2210,8 @@
 
 1461={ #Uninhabitable Desert
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2220,8 +2220,8 @@
 
 1463={ #Uninhabitable Desert
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3380,8 +3380,8 @@
 
 2663={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3420,8 +3420,8 @@
 
 2667={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3440,8 +3440,8 @@
 
 2669={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3710,8 +3710,8 @@
 
 2696={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3720,8 +3720,8 @@
 
 2697={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3740,8 +3740,8 @@
 
 2699={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3760,8 +3760,8 @@
 
 2701={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3900,8 +3900,8 @@
 
 2715={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3910,8 +3910,8 @@
 
 2716={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4370,8 +4370,8 @@
 
 3920={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4380,8 +4380,8 @@
 
 3930={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4450,8 +4450,8 @@
 
 4176={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4550,8 +4550,8 @@
 
 4415={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="moabite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4560,8 +4560,8 @@
 
 4417={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4570,8 +4570,8 @@
 
 4418={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edomite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
