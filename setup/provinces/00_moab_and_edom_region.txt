@@ -296,8 +296,8 @@
 
 4164={ #Mêdabâ'
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -312,8 +312,8 @@
 
 4166={ #Yâhas
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -328,8 +328,8 @@
 
 4167={ #Rasas
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -344,8 +344,8 @@
 
 4168={ #Alia
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

@@ -1,0 +1,136 @@
+﻿"JAP"={
+	country="JAP"
+	47={
+		first_name="Nahash"
+		family = c:JAP.fam:Ammonite
+		birth_date=1220.1.1
+		culture="ammonite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=8
+		add_charisma=4
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		c:JAP={
+			set_as_ruler=char:47
+		}
+		#dna=""
+	}
+	
+	48={
+		first_name="Hanun"
+		family = c:JAP.fam:Ammonite
+		father="char:47"
+		mother="char:39"
+		birth_date=1243.1.1
+		culture="ammonite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=10
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+	
+	49={
+		first_name="Zeruiah"
+		family = c:JAP.fam:Ammonite
+		female=yes
+		father="char:47"
+		mother="char:39"
+		birth_date=1242.1.1
+		culture="ammonite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=10
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+	
+	50={
+		first_name="Ithra"
+		family = c:JAP.fam:Ammonite
+		birth_date=1242.1.1
+		culture="shasu"
+		religion="arabian_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=5
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		marry_character=char:60
+		#dna=""
+	}
+	
+	52={
+		first_name="Amasa"
+		family = c:JAP.fam:Ammonite
+		father="char:50"
+		mother="char:51"
+		birth_date=1275.1.1
+		culture="shasu"
+		religion="arabian_pantheon"
+		no_stats=yes
+		add_martial=10
+		add_charisma=4
+		add_finesse=5
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+	
+	51={
+		first_name="Abigail"
+		family = c:JAP.fam:Ammonite
+		female=yes
+		father="char:47"
+		mother="char:39"
+		birth_date=1243.1.1
+		culture="ammonite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=10
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+	
+	53={
+		first_name="Abishai"
+		family = c:JAP.fam:Ammonite
+		mother="char:49"
+		birth_date=1265.1.1
+		culture="ammonite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=10
+		add_charisma=4
+		add_finesse=5
+		add_zeal=5
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+}

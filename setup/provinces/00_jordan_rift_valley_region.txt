@@ -284,8 +284,8 @@
 
 4103={ #Bêyt-Se'ân
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="philistine"
+	religion="canaanitic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=3
@@ -294,13 +294,17 @@
 		amount=4
 	}
 	freemen={
-		amount=5
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=5
+		culture="menasseh"
+		religion="judahic"
 	}
 	tribesmen={
-		amount=1
+		amount=6
+		culture="menasseh"
+		religion="judahic"
 	}
 }
 
@@ -731,8 +735,8 @@
 
 4137={ #Graisa
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -801,8 +805,8 @@
 
 4143={ #Birah
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -817,8 +821,8 @@
 
 4144={ #Zarqa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -849,8 +853,8 @@
 
 4146={ #Hanou
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -865,8 +869,8 @@
 
 4147={ #Yogbahâh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -929,30 +933,33 @@
 
 4160={ #Rabbat-'Ammôn
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		amount=6
-	}
-	freemen={
-		amount=5
-	}
-	slaves={
+	nobles={
 		amount=1
 	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=7
+	}
 	tribesmen={
-		amount=2
+		amount=5
 	}
 }
 
 4161={ #Hesbôn
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -967,8 +974,8 @@
 
 4165={ #'Âbêl-Karâmîm
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -983,8 +990,8 @@
 
 4169={ #Susseifa
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -996,8 +1003,8 @@
 
 4170={ #Hallabat
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ammonite"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1089,20 +1096,24 @@
 		amount=4
 	}
 	freemen={
-		amount=5
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=4
+		culture="menasseh"
+		religion="judahic"
 	}
 	tribesmen={
-		amount=1
+		amount=2
+		culture="menasseh"
+		religion="judahic"
 	}
 }
 
 4194={ #Ta'nak
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tanachite"
+	religion="canaanitic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1111,13 +1122,17 @@
 		amount=4
 	}
 	freemen={
-		amount=3
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
+		culture="menasseh"
+		religion="judahic"
 	}
 	tribesmen={
 		amount=2
+		culture="menasseh"
+		religion="judahic"
 	}
 }
 
@@ -1257,8 +1272,8 @@
 
 4227={ #'Êyn-Gannîm'
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1273,17 +1288,25 @@
 
 4228={ #Yible'âm
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ibleamite"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=2
+		amount=3
+		culture="menasseh"
+		religion="judahic"
 	}
 }
 

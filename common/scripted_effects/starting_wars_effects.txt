@@ -1,24 +1,18 @@
 ﻿David_Ishbaal_conflict_effect = {
-	c:JAA = {
-		add_alliance = JAC
-		add_alliance = JAF
-		add_alliance = JAG
-		add_alliance = JAH
-		add_alliance = JAE
+	c:JAE = {
+		add_alliance = JAP
+		add_alliance = JAL
 	}
-	c:JAB = {
+	c:JAO = {
 		declare_war_with_wargoal = {
 			war_goal = diadochi_wargoal
-		    province = p:691
-			target = c:JAA
+		    province = p:4141
+			target = c:JAE
 		}
 	}
-	c:JAA = {
-		break_alliance = JAC
-		break_alliance = JAF
-		break_alliance = JAG
-		break_alliance = JAH
-		break_alliance = JAE
+	c:JAE = {
+		break_alliance = JAP
+		break_alliance = JAL
 	}
 }
 

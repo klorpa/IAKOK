@@ -57,9 +57,9 @@ bloodlines_startup.3 = { #21 dynasty
 	
 	trigger = {
 		OR = {
-			tag = EAA
-			tag = EAC
-			tag = EAB
+			tag = EAJ
+			tag = EAH
+			tag = EAG
 		}
 	}
 	
@@ -90,8 +90,8 @@ bloodlines_startup.4 = { #22 dynasty
 	
 	trigger = {
 		OR = {
-			tag = EAG
-			tag = EAF
+			tag = EAI
+			tag = EAK
 		}
 	}
 	
@@ -145,13 +145,13 @@ bloodlines_startup.6 = { #Gathite Bloodline
 	hidden = yes
 	
 	trigger = {
-		tag = JAC
+		tag = JAL
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:1
+				has_same_family = char:22
 			}
 			add_trait = gathite
 		
@@ -270,13 +270,13 @@ bloodlines_startup.11 = { #bloodline of Saul
 	hidden = yes
 	
 	trigger = {
-		tag = JAB
+		tag = JAO
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:27
+				has_same_family = char:28
 			}
 			add_trait = saulid
 		

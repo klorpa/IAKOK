@@ -128,8 +128,8 @@
 
 4209={ #Michal
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="socohi"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -141,8 +141,8 @@
 
 4210={ #Gerisa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="socohi"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -157,8 +157,8 @@
 
 4211={ #Gat-Rimmôn
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="apekhan"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -345,8 +345,8 @@
 
 4222={ #Gat-padalla
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="socohi"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -390,8 +390,8 @@
 
 4225={ #Sôkôh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="socohi"
+	religion="canaanitic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -636,14 +636,20 @@
 
 4250={ #'Âpêq
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="apekhan"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=2
+		amount=10
+	}
+	freemen={
+		amount=5
 	}
 	tribesmen={
 		amount=3
@@ -652,8 +658,8 @@
 
 4251={ #Yehud
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="apekhan"
+	religion="canaanitic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0

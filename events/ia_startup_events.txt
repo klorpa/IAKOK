@@ -72,6 +72,10 @@ ia_startup.3 = { #Kanaan and Phoenicia
 
     option = {    
         name = ia_startup.3.a
+		hidden_effect = {
+			#Rebel claims		
+			c:EAO = { every_owned_province = { add_claim = c:EAE } }
+		}
     }
 }
 
