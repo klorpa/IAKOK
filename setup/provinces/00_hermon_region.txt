@@ -530,8 +530,8 @@
 
 4052={ #'Astarôt
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -658,8 +658,8 @@
 
 4060={ #Zaizoun
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -677,8 +677,8 @@
 
 4061={ #Ramtha
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0

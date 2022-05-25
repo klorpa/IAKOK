@@ -6,7 +6,7 @@
 	c:JAO = {
 		declare_war_with_wargoal = {
 			war_goal = diadochi_wargoal
-		    province = p:4141
+		    province = p:4284
 			target = c:JAE
 		}
 	}

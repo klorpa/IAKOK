@@ -965,8 +965,8 @@
 
 3970={ #'Abêl-Bêyt-Ma'âkâh
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="danite"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -981,8 +981,8 @@
 
 3971={ #Dân
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="danite"
+	religion="judahic"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1001,8 +1001,8 @@
 
 3972={ #Yânôah
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="danite"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1033,8 +1033,8 @@
 
 3974={ #Yesud
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1049,24 +1049,24 @@
 
 3975={ #Hâzôr
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
-		amount=5
+		amount=3
 	}
 	freemen={
-		amount=6
+		amount=4
 	}
 }
 
 3976={ #Naptâlî
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1185,8 +1185,8 @@
 
 3986={ #Chaqra
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="danite"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1393,8 +1393,8 @@
 
 4179={ #Qedes
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="asher"
+	religion="judahic"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1415,8 +1415,8 @@
 
 4180={ #Ami'ad
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1431,8 +1431,8 @@
 
 4181={ #Meron
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="asher"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1495,8 +1495,8 @@
 
 4185={ #Rehôb
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="asher"
+	religion="judahic"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1514,8 +1514,8 @@
 
 4186={ #Karmi'el
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="asher"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1546,8 +1546,8 @@
 
 4189={ #Arraba
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="asher"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1562,8 +1562,8 @@
 
 4191={ #Hannâtôn
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zebulun"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1581,8 +1581,8 @@
 
 4192={ #Yoqne'âm
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -1594,8 +1594,8 @@
 
 4196={ #Zebûlun
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zebulun"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

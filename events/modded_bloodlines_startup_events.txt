@@ -1,18 +1,18 @@
 ﻿namespace = bloodlines_startup
 
-bloodlines_startup.1 = { #Judah
+bloodlines_startup.1 = { #Judah #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = JAA
+		tag = JAE
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:16
+				has_same_family = char:40
 			}
 			add_trait = davidids
 		
@@ -50,7 +50,7 @@ bloodlines_startup.2 = { #Persia
 
 }
 
-bloodlines_startup.3 = { #21 dynasty
+bloodlines_startup.3 = { #21 dynasty #Done
 
 	type = country_event
 	hidden = yes
@@ -83,7 +83,7 @@ bloodlines_startup.3 = { #21 dynasty
 
 }
 
-bloodlines_startup.4 = { #22 dynasty
+bloodlines_startup.4 = { #22 dynasty #Done
 
 	type = country_event
 	hidden = yes
@@ -139,7 +139,7 @@ bloodlines_startup.5 = { #El-Kurru clan
 
 }
 
-bloodlines_startup.6 = { #Gathite Bloodline
+bloodlines_startup.6 = { #Gathite Bloodline #Done
 
 	type = country_event
 	hidden = yes
@@ -264,7 +264,7 @@ bloodlines_startup.10 = { #bloodline of Tob-Rimmon
 
 }
 
-bloodlines_startup.11 = { #bloodline of Saul
+bloodlines_startup.11 = { #bloodline of Saul #Done
 
 	type = country_event
 	hidden = yes
@@ -276,7 +276,7 @@ bloodlines_startup.11 = { #bloodline of Saul
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:28
+				has_same_family = char:26
 			}
 			add_trait = saulid
 		

@@ -93,8 +93,8 @@
 
 4115={ #Swemeh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -122,8 +122,8 @@
 
 4151={ #Nab'ô
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -138,8 +138,8 @@
 
 4152={ #Qiryâtayim
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -154,8 +154,8 @@
 
 4153={ #Judayyida
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -167,8 +167,8 @@
 
 4154={ #'Âtârôt
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -183,8 +183,8 @@
 
 4155={ #'Ârô'êr
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -260,37 +260,41 @@
 
 4162={ #Dîbôn
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount=3
 	}
 	freemen={
 		amount=6
 	}
 	slaves={
-		amount=1
+		amount=2
+		culture="ammonite"
+		religion="anunnaki_pantheon"
 	}
 	 
 }
 
 4163={ #Mêypâ'at
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ruben"
+	religion="judahic"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=2
+		culture="ammonite"
+		religion="anunnaki_pantheon"
 	}
 }
 

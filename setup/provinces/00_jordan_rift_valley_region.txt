@@ -1,7 +1,7 @@
 ﻿4086={ #Qurussa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=3
@@ -16,8 +16,8 @@
 
 4087={ #Dinhâbâh
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=3
@@ -32,8 +32,8 @@
 
 4088={ #Irbid
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=3
@@ -48,8 +48,8 @@
 
 4089={ #Husun
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=3
@@ -64,8 +64,8 @@
 
 4090={ #Kitim
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=3
@@ -80,8 +80,8 @@
 
 4091={ #Metuna
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=3
@@ -96,8 +96,8 @@
 
 4092={ #Ras Munif
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=3
@@ -115,8 +115,8 @@
 
 4093={ #Bêyt-'Arbê'l
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=3
@@ -131,8 +131,8 @@
 
 4094={ #Samâ
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=3
@@ -153,8 +153,8 @@
 
 4095={ #Himmyah
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=3
@@ -169,8 +169,8 @@
 
 4096={ #Qâmôn
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=3
@@ -191,8 +191,8 @@
 
 4097={ #Lô-debâr
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=3
@@ -207,8 +207,8 @@
 
 4098={ #Waqqas
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=3
@@ -255,8 +255,8 @@
 
 4101={ #Bêyt-Semes
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=3
@@ -271,8 +271,8 @@
 
 4102={ #Yardena
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=3
@@ -310,8 +310,8 @@
 
 4104={ #Rakeb
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=3
@@ -326,8 +326,8 @@
 
 4105={ #Mehola
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=3
@@ -342,8 +342,8 @@
 
 4106={ #Ma'oz Haim
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=3
@@ -358,8 +358,8 @@
 
 4107={ #Shadmot
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -374,8 +374,8 @@
 
 4108={ #Hemdat
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -387,8 +387,8 @@
 
 4109={ #Zubaydat
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -403,8 +403,8 @@
 
 4111={ #Auja
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -419,8 +419,8 @@
 
 4112={ #Ha'arava
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -435,8 +435,8 @@
 
 4113={ #Hajla
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="benjamin"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -448,8 +448,8 @@
 
 4114={ #Jericho
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="benjamin"
+	religion="judahic"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -470,8 +470,8 @@
 
 4116={ #Bêyt-Hârân
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -486,8 +486,8 @@
 
 4117={ #Sittim
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -505,8 +505,8 @@
 
 4119={ #'Âdâm
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -518,8 +518,8 @@
 
 4120={ #Panû'êl
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -531,8 +531,8 @@
 
 4121={ #Sukkôt
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -553,8 +553,8 @@
 
 4122={ #'Âbêl-Mahôlâh
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -569,8 +569,8 @@
 
 4123={ #'Âmmatâ
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -585,8 +585,8 @@
 
 4124={ #Sâpôn
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -601,8 +601,8 @@
 
 4125={ #Burmâ
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -617,8 +617,8 @@
 
 4127={ #Taqwa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -633,8 +633,8 @@
 
 4128={ #Mispâh
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -649,8 +649,8 @@
 
 4132={ #'Edre'î
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -665,8 +665,8 @@
 
 4133={ #Yeno'am
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -681,8 +681,8 @@
 
 4134={ #Mafraq
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -697,8 +697,8 @@
 
 4135={ #Jerash
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -713,8 +713,8 @@
 
 4136={ #Gil'âd
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -751,8 +751,8 @@
 
 4140={ #Subayhi
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -767,8 +767,8 @@
 
 4141={ #Mahânayim
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -789,8 +789,8 @@
 
 4142={ #Mastaba
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -837,8 +837,8 @@
 
 4145={ #Allan
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -885,8 +885,8 @@
 
 4148={ #Ela'âlêh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -901,8 +901,8 @@
 
 4149={ #Ya'zêr
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -917,8 +917,8 @@
 
 4150={ #Bêyt-Nimrâh
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1019,8 +1019,8 @@
 
 4177={ #Kinnâret
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1038,8 +1038,8 @@
 
 4178={ #Gat-hêpêr
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1054,8 +1054,8 @@
 
 4188={ #Kadarim
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1070,8 +1070,8 @@
 
 4190={ #Rimmôn
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1086,8 +1086,8 @@
 
 4193={ #Megiddô
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="megiddan"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1138,8 +1138,8 @@
 
 4195={ #Nahâlôl
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1154,8 +1154,8 @@
 
 4197={ #Simrôn
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1170,8 +1170,8 @@
 
 4198={ #Yizra'el
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1192,8 +1192,8 @@
 
 4199={ #'Êyn-Dôr
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1208,8 +1208,8 @@
 
 4200={ #Sûnêm
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1224,8 +1224,8 @@
 
 4201={ #Ha Gilbo'a
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="issachar"
+	religion="judahic"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1240,8 +1240,8 @@
 
 4202={ #Rehôb
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1256,8 +1256,8 @@
 
 4203={ #Gan Ner
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1312,8 +1312,8 @@
 
 4231={ #Reshafim
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1328,8 +1328,8 @@
 
 4233={ #Têbês
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1344,8 +1344,8 @@
 
 4234={ #Sâratân
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1360,8 +1360,8 @@
 
 4235={ #Yitav
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1376,8 +1376,8 @@
 
 4236={ #Gilgâl
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1392,8 +1392,8 @@
 
 4327={ #Raqqat
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="naphtali"
+	religion="judahic"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0

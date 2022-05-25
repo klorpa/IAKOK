@@ -3410,8 +3410,8 @@
 
 2666={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3460,8 +3460,8 @@
 
 2671={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gad"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3470,8 +3470,8 @@
 
 2672={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3480,8 +3480,8 @@
 
 2673={ #Ajloun Forest
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="menasseh"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3850,8 +3850,8 @@
 
 2710={ #Mountain
 	terrain="impassable_terrain"
-	culture="judahic"
-	religion="shasan"
+	culture="shasan"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
