@@ -904,42 +904,42 @@ commander_loyalty_demand_picker = {
 	}
 }
 
-monthly_tarentum_war_pulse = {
-	trigger = {
-		exists = this
-		NOT = { tag = EPI }
-		country_culture_group = hellenic
-		capital_scope = { 
-			OR = {
-				is_in_area = neapolis_area
-				is_in_area = cannae_area
-				is_in_area = tarentum_area
-				is_in_area = heraclea_area
-				is_in_area = croton_area
-			}
-		}
-		any_countries_at_war_with = {
-			OR = {
-				tag = ROM
-				AND = {
-					capital_scope = {
-						OR = {
-							is_in_region = magna_graecia_region
-							is_in_region = central_italy_region
-							is_in_region = carthage_area
-						}
-					}
-					any_owned_province = { is_in_region = magna_graecia_region }
-					NOT = { country_culture_group = hellenic } 
-				}
-			}
-			save_temporary_scope_as = rome_temp_scope
-		}
-	}
-	effect = {
-		
-	}
-}
+#monthly_tarentum_war_pulse = {
+#	trigger = {
+#		exists = this
+#		NOT = { tag = EPI }
+#		country_culture_group = hellenic
+#		capital_scope = { 
+#			OR = {
+#				is_in_area = neapolis_area
+#				is_in_area = cannae_area
+#				is_in_area = tarentum_area
+#				is_in_area = heraclea_area
+#				is_in_area = croton_area
+#			}
+#		}
+#		any_countries_at_war_with = {
+#			OR = {
+#				tag = ROM
+#				AND = {
+#					capital_scope = {
+#						OR = {
+#							is_in_region = magna_graecia_region
+#							is_in_region = central_italy_region
+#							is_in_region = carthage_area
+#						}
+#					}
+#					any_owned_province = { is_in_region = magna_graecia_region }
+#					NOT = { country_culture_group = hellenic } 
+#				}
+#			}
+#			save_temporary_scope_as = rome_temp_scope
+#		}
+#	}
+#	effect = {
+#		
+#	}
+#}
 
 #monthly_syracuse_war_pulse = {
 #	trigger = {

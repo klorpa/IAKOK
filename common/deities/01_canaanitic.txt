@@ -26,8 +26,18 @@ deity_manat = {
 		#can_deify_trigger = yes
 		NOT = { 
 			OR = {
-				primary_culture = judean
-				primary_culture = israelic
+				primary_culture = judahite
+				primary_culture = simeonid
+				primary_culture = benjamin
+				primary_culture = ephraim
+				primary_culture = danite
+				primary_culture = gad
+				primary_culture = ruben
+				primary_culture = menasseh
+				primary_culture = issachar
+				primary_culture = zebulun
+				primary_culture = naphtali
+				primary_culture = asher
 			}
 		}
 	}
@@ -191,8 +201,18 @@ deity_mbaal = {
 		#can_deify_trigger = yes
 		NOT = { 
 			OR = {
-				primary_culture = judean
-				primary_culture = israelic
+				primary_culture = judahite
+				primary_culture = simeonid
+				primary_culture = benjamin
+				primary_culture = ephraim
+				primary_culture = danite
+				primary_culture = gad
+				primary_culture = ruben
+				primary_culture = menasseh
+				primary_culture = issachar
+				primary_culture = zebulun
+				primary_culture = naphtali
+				primary_culture = asher
 			}
 		}
 	}
@@ -260,7 +280,7 @@ deity_mshapash = {
 deity_mtanit = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = libo_punic
+		primary_culture = azirian
 		OR = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
@@ -287,7 +307,7 @@ deity_mtanit = {
 deity_mbaal_hammon = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = libo_punic
+		primary_culture = azirian
 		OR = {
 			common_deity_trigger = {
 				RELIGION = canaanitic_pantheon
@@ -349,7 +369,7 @@ deity_mbaal_qarnaim = {
 				holy_site_deity_check_trigger = yes
 			}
 		}
-		primary_culture = libo_punic
+		primary_culture = azirian
 	}
 	icon = deity_eloquence
 	passive_modifier = { agressive_expansion_monthly_change = deity_agressive_expansion_monthly_change_svalue }

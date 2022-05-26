@@ -95,6 +95,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 2
 	}
 	
+	2571 = { #Henen-nesut
+		port_building = 2
+	}
+	
 	1331 = { #Thebes
 		port_building = 2
 	}
@@ -480,7 +484,7 @@ country = {
 			government = aristocratic_monarchy
 			primary_culture = ma
 			religion = kemetic_pantheon
-			capital = 4740
+			capital = 2571
 			
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
