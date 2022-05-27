@@ -1,7 +1,7 @@
 ﻿1258={ #Maheb
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -14,7 +14,7 @@
 1423={ #Kenem
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -62,7 +62,7 @@
 2319={ #Khemt
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=4
@@ -75,7 +75,7 @@
 2320={ #Khensu
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -88,7 +88,7 @@
 2340={ #Mermer
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1392,7 +1392,7 @@
 4632={ #Remu
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

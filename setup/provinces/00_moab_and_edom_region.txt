@@ -1,7 +1,7 @@
 ﻿3575={ #Yahel
 	terrain="plains"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -17,7 +17,7 @@
 3928={ #Shitim
 	terrain="plains"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -33,7 +33,7 @@
 3949={ #Taba
 	terrain="desert_hills"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -49,7 +49,7 @@
 3957={ #Elifaz
 	terrain="plains"
 	culture="midianic"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -65,7 +65,7 @@
 3959={ #Samadar
 	terrain="desert_hills"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -81,7 +81,7 @@
 3969={ #Ramon
 	terrain="desert_hills"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -110,7 +110,7 @@
 4126={ #Azrû
 	terrain="desert"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -200,7 +200,7 @@
 4156={ #Mujib
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -213,7 +213,7 @@
 4157={ #Mughayer
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -229,7 +229,7 @@
 4158={ #Bâlû'
 	terrain="farmland"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -245,7 +245,7 @@
 4159={ #Qatraneh
 	terrain="hills"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -275,7 +275,7 @@
 	slaves={
 		amount=2
 		culture="ammonite"
-		religion="anunnaki_pantheon"
+		religion="canaanitic_pantheon"
 	}
 	 
 }
@@ -294,14 +294,14 @@
 	tribesmen={
 		amount=2
 		culture="ammonite"
-		religion="anunnaki_pantheon"
+		religion="canaanitic_pantheon"
 	}
 }
 
 4164={ #Mêdabâ'
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -317,7 +317,7 @@
 4166={ #Yâhas
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -333,7 +333,7 @@
 4167={ #Rasas
 	terrain="desert_hills"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -349,7 +349,7 @@
 4168={ #Alia
 	terrain="desert"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -362,7 +362,7 @@
 4171={ #Hijazi
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -378,7 +378,7 @@
 4172={ #Judayyda
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -394,7 +394,7 @@
 4173={ #Batîr
 	terrain="farmland"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -413,7 +413,7 @@
 4174={ #Qatranan
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -429,7 +429,7 @@
 4175={ #Adir
 	terrain="plains"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -493,7 +493,7 @@
 4241={ #Zohar
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -599,7 +599,7 @@
 4318={ #Kseifa
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -612,7 +612,7 @@
 4380={ #'Eglat
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -625,7 +625,7 @@
 4381={ #Mazrah
 	terrain="desert"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -638,7 +638,7 @@
 4382={ #Qîr-Hâreset
 	terrain="farmland"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -660,7 +660,7 @@
 4383={ #Gawr
 	terrain="desert_valley"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -673,7 +673,7 @@
 4384={ #Sô'ar
 	terrain="plains"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -695,7 +695,7 @@
 4385={ #Hôrônayim
 	terrain="plains"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -711,7 +711,7 @@
 4386={ #Nu'aimah
 	terrain="plains"
 	culture="moabite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -727,7 +727,7 @@
 4387={ #Hasa
 	terrain="desert"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -740,7 +740,7 @@
 4388={ #Husainya
 	terrain="plains"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -756,7 +756,7 @@
 4389={ #Mdayrej
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -772,7 +772,7 @@
 4390={ #Ma'an
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -788,7 +788,7 @@
 4391={ #Mraigha
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -804,7 +804,7 @@
 4392={ #Harif
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -823,7 +823,7 @@
 4393={ #Qawirah
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -839,7 +839,7 @@
 4394={ #Be'er Ora
 	terrain="desert_valley"
 	culture="midianic"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -855,7 +855,7 @@
 4395={ #Elath
 	terrain="plains"
 	culture="midianic"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -877,7 +877,7 @@
 4396={ #Timna'
 	terrain="desert_hills"
 	culture="midianic"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -896,7 +896,7 @@
 4397={ #Yotvata
 	terrain="plains"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -912,7 +912,7 @@
 4398={ #Grofit
 	terrain="desert_hills"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -928,7 +928,7 @@
 4399={ #Sapir
 	terrain="plains"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -944,7 +944,7 @@
 4400={ #Zofar
 	terrain="plains"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -960,7 +960,7 @@
 4401={ #Yahav
 	terrain="plains"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -976,7 +976,7 @@
 4402={ #Lûhît
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -992,7 +992,7 @@
 4403={ #'Iddan
 	terrain="plains"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1008,7 +1008,7 @@
 4404={ #Mamshît
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1021,7 +1021,7 @@
 4405={ #Tamar
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1040,7 +1040,7 @@
 4406={ #Yeroham
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1053,7 +1053,7 @@
 4407={ #Ese
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1066,7 +1066,7 @@
 4409={ #Ibi
 	terrain="desert_hills"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1079,7 +1079,7 @@
 4416={ #Al-Jafr
 	terrain="desert"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1092,7 +1092,7 @@
 4432={ #Shoubak
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1108,7 +1108,7 @@
 4433={ #Petra
 	terrain="desert_valley"
 	culture="edomite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -1130,7 +1130,7 @@
 4446={ #Wadi Rum
 	terrain="desert_valley"
 	culture="midianic"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

@@ -56,15 +56,18 @@
 	}
 	
 	culture = {
-		aramean = {}
-		hatti_aramean = {}
-		saramean = {}
-		sutean = {}
+		damascite = {}
+		rehobic = {}
+		geshurite = {}
+		maakachic = {}
+		hauranic = {}
+		sovakhite = {}
+		argobi = {}
+		bashani = {}
 		ammonite = {}
 		moabite = {}
 		temannite = {}
 		chaldean = {}
-		ahlamic = {}
 		midianic = {}
 		edomite = {}
 		shasan = {}

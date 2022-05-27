@@ -1,7 +1,7 @@
 ﻿1420={ #Nerbut
 	terrain="desert"
 	culture="shasan"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -797,8 +797,14 @@
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=5
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -1734,7 +1740,7 @@
 4408={ #Shivta
 	terrain="desert"
 	culture="amalekite"
-	religion="judahic"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

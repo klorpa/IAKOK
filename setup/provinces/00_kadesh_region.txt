@@ -1110,8 +1110,8 @@
 
 4015={ #Qurasiti
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1123,8 +1123,8 @@
 
 4017={ #Sednayah
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1139,8 +1139,8 @@
 
 4018={ #Ma'loula
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1155,8 +1155,8 @@
 
 4019={ #Yabrûdu
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1174,8 +1174,8 @@
 
 4020={ #Alward
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -1187,8 +1187,8 @@
 
 4021={ #An Nabk
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1203,8 +1203,8 @@
 
 4022={ #Qarah
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1216,8 +1216,8 @@
 
 4024={ #Hassia
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1232,8 +1232,8 @@
 
 4043={ #Qutayfah
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="damascite"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=4

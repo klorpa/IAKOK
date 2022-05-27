@@ -29,6 +29,17 @@ levy_lpunic = { #Cathaginian militia
 	elephant_african = 0.2
 }
 
+#Philistine
+
+levy_neominoan = { #Cathaginian militia
+	default = no
+
+	light_spearmen = 0.5
+	chariot_light = 0.3
+	missile_archers = 0.1
+	missile_spearthrowers = 0.1
+}
+
 #Arabian
 
 levy_kebabiya = { #Arab militia

@@ -223,8 +223,8 @@
 
 4099={ #Kazir
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="geshurite"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=3
@@ -239,8 +239,8 @@
 
 4100={ #Mevo Hama
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="geshurite"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=3
@@ -736,7 +736,7 @@
 4137={ #Graisa
 	terrain="desert_hills"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -806,7 +806,7 @@
 4143={ #Birah
 	terrain="hills"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -822,7 +822,7 @@
 4144={ #Zarqa
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -854,7 +854,7 @@
 4146={ #Hanou
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -870,7 +870,7 @@
 4147={ #Yogbahâh
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -934,7 +934,7 @@
 4160={ #Rabbat-'Ammôn
 	terrain="farmland"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -959,7 +959,7 @@
 4161={ #Hesbôn
 	terrain="farmland"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -975,7 +975,7 @@
 4165={ #'Âbêl-Karâmîm
 	terrain="plains"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -991,7 +991,7 @@
 4169={ #Susseifa
 	terrain="desert"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1004,7 +1004,7 @@
 4170={ #Hallabat
 	terrain="desert_hills"
 	culture="ammonite"
-	religion="anunnaki_pantheon"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

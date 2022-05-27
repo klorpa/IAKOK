@@ -1,15 +1,15 @@
-﻿levantine = {	
-	color = hsv { 0.75 0.9 0.73 }
+﻿minoic = {	
+	color = hsv { 0.53 1 0.84 }
 	
 	primary = missile_archers
 	second = light_spearmen
-	flank = chariot_heavy
+	flank = chariot_light
 	
 	primary_navy = tetrere
 	secondary_navy = hexere
 	flank_navy = liburnian
 
-	levy_template = levy_cpunic
+	levy_template = levy_neominoan
 	male_names = {
 		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
 		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
@@ -48,23 +48,15 @@
 		Ummashid.Ummashid.Ummashid.Ummashid
 	}
 	culture = {
-		azirian = {}
-		girzite = {}
-		jebusite = {}
-		ibleamite = {}
-		tanachite = {}
-		megiddan = {}
-		apekhan = {}
-		socohi = {}
-		avite = {}
+		philistine = {}
 	}
 	
 	barbarian_names = { 
 		SARAKENOI ITOURAIOI SCENITAE HEMESENOI ZABADAIOI AOUIDENOI CHALUTAIOI AGRAIOI EPIMARANITAE
 	}
 	
-	graphical_culture = levantine_gfx
+	graphical_culture = aegean_gfx
 	ethnicities = {
-		10 = balevantine
+		10 = aegean
 	}
 }

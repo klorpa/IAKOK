@@ -862,7 +862,7 @@ country = {
 		JAB = { #Shasu Confederation
 			government = tribal_chiefdom
 			primary_culture = shasan
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 1474
 			
 			own_control_core = 	{ 
@@ -873,7 +873,7 @@ country = {
 		JAC = { #Midian
 			government = tribal_kingdom
 			primary_culture = midianic
-			religion = anunnaki_pantheon
+			religion = canaanitic_pantheon
 			capital = 4395
 			
 			own_control_core = 	{ 
@@ -884,7 +884,7 @@ country = {
 		JAD = { #Moab
 			government = despotic_monarchy
 			primary_culture = moabite
-			religion = anunnaki_pantheon
+			religion = canaanitic_pantheon
 			capital = 4382
 			
 			own_control_core = 	{ 
@@ -918,11 +918,11 @@ country = {
 		JAF = { #Amalek 
 			government = tribal_federation
 			primary_culture = amalekite
-			religion = judahic
+			religion = canaanitic_pantheon
 			capital = 4405
 			
 			own_control_core = 	{ 
-				4405 4404 4241 4406 4407 4408 4409 4440 
+				4405 4404 4241 4406 4407 4408 4409 
 				4400 4399 3969 3928 3575
 			}
 		}
@@ -930,7 +930,7 @@ country = {
 		JAG = { #Edom
 			government = tribal_federation
 			primary_culture = edomite
-			religion = anunnaki_pantheon
+			religion = canaanitic_pantheon
 			capital = 4384
 			
 			own_control_core = 	{ 
@@ -1124,7 +1124,7 @@ country = {
 		JAP = { #Ammon
 			government = despotic_monarchy
 			primary_culture = ammonite
-			religion = anunnaki_pantheon
+			religion = canaanitic_pantheon
 			capital = 4160
 			
 			own_control_core = 	{ 
@@ -1200,69 +1200,78 @@ country = {
 			}
 		}
 		
-		JAY = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
+		JAY = { #Aram Bet-Rehob
+			government = tribal_kingdom
+			primary_culture = rehobic
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3913
 			
 			own_control_core = 	{ 
-				
+				3913 3907 3912 3985 3964 3965
 			}
 		}
 		
-		JAZ = { #Additional
+		JAZ = { #Geshur
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = geshurite
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3980
 			
 			own_control_core = 	{ 
-				
+				3980 4100 4099 3981 4053 3979 
 			}
 		}
 		
-		JBA = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
+		JBA = { #Aram Ma'akach
+			government = tribal_kingdom
+			primary_culture = maakachic
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3977
 			
 			own_control_core = 	{ 
-				
+				3977 3978 3973 4048 4047 4078 4054
 			}
 		}
 		
-		JBB = { #Additional
+		JBB = { #Aram-Damascus
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = damascite
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4030
+			
+			poptype_rights = { 
+				{
+					culture = bashani 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4030 4034 4033 4036 4037 4042 4032 4031 4025 4026 4027 4038 4035 4076 4322 4039 4075
+				4017 4018 4020 4019 4021 4022 4024 4043 4015 3946 3944 3942 3947 3945 4028 4029 4041
+				4040 4074 4055 4080 4079 4071 4072 4073 4057 4056 4045 4049 4050 4046 4051 4058 4059
 			}
 		}
 		
-		JBC = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
+		JBC = { #Basan
+			government = tribal_kingdom
+			primary_culture = bashani
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4062
 			
 			own_control_core = 	{ 
-				
+				4062 4131 4065 4063 4064 4077
 			}
 		}
 		
-		JBD = { #Additional
-			government = despotic_monarchy
-			primary_culture = azirian
+		JBD = { #Hauran
+			government = tribal_kingdom
+			primary_culture = hauranic
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4066
 			
 			own_control_core = 	{ 
-				
+				4066 4082 4081 4067 4069 4068 4083 4084 4070 4085
 			}
 		}
 		

@@ -569,8 +569,8 @@
 
 3907={ #Nabatieh
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -633,8 +633,8 @@
 
 3912={ #Yohmor
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -649,8 +649,8 @@
 
 3913={ #Qlayaa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -879,8 +879,8 @@
 
 3964={ #'Iyyôn
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -895,8 +895,8 @@
 
 3965={ #Hâsbaïya
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1017,8 +1017,8 @@
 
 3973={ #Odem
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maakachic"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1078,8 +1078,8 @@
 
 3977={ #Gonên
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maakachic"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1091,8 +1091,8 @@
 
 3978={ #Qatsrin
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maakachic"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1104,8 +1104,8 @@
 
 3979={ #Lesem
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="geshurite"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1169,8 +1169,8 @@
 
 3985={ #Markaba
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="rehobic"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
