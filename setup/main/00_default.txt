@@ -95,6 +95,42 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 3
 	}
 	
+	3523 = { #Rissuri
+		port_building = 2
+	}
+	
+	3540 = { #Suksi
+		port_building = 2
+	}
+	
+	3872 = { #Ardata
+		port_building = 2
+	}
+	
+	3553 = { #Arwad
+		port_building = 2
+	}
+	
+	3562 = { #Sumur
+		port_building = 2
+	}
+	
+	3867 = { #Irqata
+		port_building = 2
+	}
+	
+	3887 = { #Byblos
+		port_building = 2
+	}
+	
+	3893 = { #Berytos
+		port_building = 2
+	}
+	
+	3905 = { #Sidon
+		port_building = 2
+	}
+	
 	4206 = { #Dor
 		port_building = 2
 	}
@@ -969,10 +1005,10 @@ country = {
 			capital = 4218
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			poptype_rights = { 
@@ -980,13 +1016,6 @@ country = {
 					culture = avite 
 					type = citizen
 				}
-			}
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1001,18 +1030,11 @@ country = {
 			capital = 4216
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}	
 			
 			poptype_rights = { 
 				{
@@ -1033,10 +1055,10 @@ country = {
 			capital = 4214
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			poptype_rights = { 
@@ -1044,13 +1066,6 @@ country = {
 					culture = avite 
 					type = citizen
 				}
-			}
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1065,10 +1080,10 @@ country = {
 			capital = 4275
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			poptype_rights = { 
@@ -1076,13 +1091,6 @@ country = {
 					culture = avite 
 					type = citizen
 				}
-			}
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1100,10 +1108,10 @@ country = {
 			capital = 4273
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			poptype_rights = { 
@@ -1111,13 +1119,6 @@ country = {
 					culture = avite 
 					type = citizen
 				}
-			}
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1188,10 +1189,10 @@ country = {
 			capital = 4103
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -1392,6 +1393,311 @@ country = {
 			own_control_core = 	{ 
 				3953 3954 3955 3956 3963 3962 3966 3967 3961 3968 3960 3958 3951 3952 3950 3941 3939 3923 3922 3938 
 				3925 3926 3921 3927 3918 3929 3917 3932 3916
+			}
+		}
+		
+		JBI = { #Sidon
+			government = despotic_monarchy
+			primary_culture = sidonian
+			religion = canaanitic_pantheon
+			capital = 3905
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3905 3908 3910 3911 3906 3903 3902 3901
+			}
+		}
+		
+		JBJ = { #Berytos
+			government = despotic_monarchy
+			primary_culture = berutian
+			religion = canaanitic_pantheon
+			capital = 3893
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3893 3896 3900 3899 3898 3897 3895 3894 3892 3891 3890
+			}
+		}
+		
+		JBK = { #Byblos
+			government = despotic_monarchy
+			primary_culture = byblosi
+			religion = canaanitic_pantheon
+			capital = 3887
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3887 3889 3883 3888 3882 3884 3886 3877 3885 3876 3880 3881
+			}
+		}
+		
+		JBL = { #Irqata
+			government = despotic_monarchy
+			primary_culture = irqatan
+			religion = canaanitic_pantheon
+			capital = 3867
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3867 3869 3868 3865 3863 3862 3861 
+			}
+		}
+		
+		JBM = { #Sumur
+			government = despotic_monarchy
+			primary_culture = sumuri
+			religion = canaanitic_pantheon
+			capital = 3562
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3562 3563 3567 3571 3568 3572
+			}
+		}
+		
+		JBN = { #Arwad
+			government = despotic_monarchy
+			primary_culture = arwadi
+			religion = canaanitic_pantheon
+			capital = 3553
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3553 3561 3559 3556 3552 3555 3554 3550 3547
+			}
+		}
+		
+		JBO = { #Ardata
+			government = despotic_monarchy
+			primary_culture = ardati
+			religion = canaanitic_pantheon
+			capital = 3872
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3872 3875 3874 3879 3873 3871 3870
+			}
+		}
+		
+		JBP = { #Suksi
+			government = despotic_monarchy
+			primary_culture = suksi
+			religion = canaanitic_pantheon
+			capital = 3540
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3540 3544 3549 3543 3541 3539 3531 3528
+			}
+		}
+		
+		JBR = { #Rissuri
+			government = despotic_monarchy
+			primary_culture = rissuri
+			religion = canaanitic_pantheon
+			capital = 3523
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3523 3524 3522 3529 3521 3526 3525 3527
+			}
+		}
+		
+		JBS = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBT = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBU = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBW = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBX = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBY = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCA = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCB = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCC = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCD = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCE = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}

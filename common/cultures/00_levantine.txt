@@ -50,6 +50,14 @@
 	culture = {
 		tyric = {}
 		sidonian = {}
+		berutian = {}
+		byblosi = {}
+		irqatan = {}
+		sumuri = {}
+		arwadi = {}
+		ardati = {}
+		suksi = {}
+		rissuri = {}
 		azirian = {}
 		girzite = {}
 		jebusite = {}

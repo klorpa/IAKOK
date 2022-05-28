@@ -1,7 +1,7 @@
 ﻿3872={ #Ardata
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ardati"
+	religion="canaanitic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -19,8 +19,8 @@
 
 3873={ #Miziara
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ardati"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 3874={ #Kusbat
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ardati"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 3875={ #Ammiya
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ardati"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 3876={ #Sigata
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -83,8 +83,8 @@
 
 3877={ #Batruna
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -102,8 +102,8 @@
 
 3879={ #Cedar Forest
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ardati"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -118,8 +118,8 @@
 
 3880={ #Hadath
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -134,8 +134,8 @@
 
 3881={ #Harissa
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -150,8 +150,8 @@
 
 3882={ #Faouqa
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -166,8 +166,8 @@
 
 3883={ #Qartaba
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -182,8 +182,8 @@
 
 3884={ #Dawrat
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -198,8 +198,8 @@
 
 3885={ #Zan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -214,8 +214,8 @@
 
 3886={ #Mechmech
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -230,8 +230,8 @@
 
 3887={ #Byblos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -253,8 +253,8 @@
 
 3888={ #Annaya
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -272,8 +272,8 @@
 
 3889={ #Halat
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byblosi"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -291,8 +291,8 @@
 
 3890={ #Jounieh
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -310,8 +310,8 @@
 
 3891={ #Bikfaïya
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -326,8 +326,8 @@
 
 3892={ #Sannine
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -342,8 +342,8 @@
 
 3893={ #Berot
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -361,8 +361,8 @@
 
 3894={ #Antelias
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -380,8 +380,8 @@
 
 3895={ #Hammâna
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -396,8 +396,8 @@
 
 3896={ #Bchamoun
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -412,8 +412,8 @@
 
 3897={ #Ain Dara
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -428,8 +428,8 @@
 
 3898={ #Baaqline
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -444,8 +444,8 @@
 
 3899={ #Nîha
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -460,8 +460,8 @@
 
 3900={ #Hildua
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="berutian"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -482,8 +482,8 @@
 
 3901={ #Inimme
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -498,8 +498,8 @@
 
 3902={ #Besri
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -514,8 +514,8 @@
 
 3903={ #Gî'a
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -533,8 +533,8 @@
 
 3905={ #Sîdôn
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -553,8 +553,8 @@
 
 3906={ #Habboûch
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
@@ -585,8 +585,8 @@
 
 3908={ #Sariptu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -601,8 +601,8 @@
 
 3910={ #Ebba
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -617,8 +617,8 @@
 
 3911={ #Insar
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidonian"
+	religion="canaanitic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
