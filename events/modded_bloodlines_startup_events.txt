@@ -214,19 +214,19 @@ bloodlines_startup.8 = { #bloodline of Toi
 
 }
 
-bloodlines_startup.9 = { #bloodline of Hadadezer
+bloodlines_startup.9 = { #bloodline of Hadadezer #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = AAK
+		tag = JBH
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:50
+				has_same_family = char:63
 			}
 			add_trait = sovahid
 		
@@ -239,19 +239,19 @@ bloodlines_startup.9 = { #bloodline of Hadadezer
 
 }
 
-bloodlines_startup.10 = { #bloodline of Tob-Rimmon
+bloodlines_startup.10 = { #bloodline of Tob-Rimmon #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = AAA
+		tag = JBB
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:51
+				has_same_family = char:57
 			}
 			add_trait = damaskid
 		
@@ -289,19 +289,19 @@ bloodlines_startup.11 = { #bloodline of Saul #Done
 
 }
 
-bloodlines_startup.12 = { #bloodline of Tyre
+bloodlines_startup.12 = { #bloodline of Tyre #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = JAL
+		tag = JBG
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:53
+				has_same_family = char:61
 			}
 			add_trait = tyrian
 		
@@ -314,19 +314,19 @@ bloodlines_startup.12 = { #bloodline of Tyre
 
 }
 
-bloodlines_startup.13 = { #bloodline of Byblos
+bloodlines_startup.13 = { #bloodline of Byblos #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = JAP
+		tag = JBK
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:55
+				has_same_family = char:64
 			}
 			add_trait = byblid
 		

@@ -74,8 +74,39 @@ family={
 			culture = ammonite
 			prestige=300
 		}
+		11={
+			key="Bet-Damascus"
+			owner=JBB
+			culture = damascite
+			prestige=300
+		}
+		12={
+			key="Geshurite"
+			owner=JAZ
+			culture = geshurite
+			prestige=300
+		}
+		13={
+			key="Sidonian"
+			owner=JBG
+			culture = tyric
+			prestige=300
+		}
+		14={
+			key="Bet-Sovah"
+			owner=JBH
+			culture = sovakhite
+			prestige=300
+		}
+		15={
+			key="Ahiramid"
+			owner=JBK
+			culture = byblosi
+			prestige=300
+		}
 	}
 }
+
 diplomacy = {
 	
 }
@@ -1275,6 +1306,8 @@ country = {
 			own_control_core = 	{ 
 				3980 4100 4099 3981 4053 3979 
 			}
+			
+			family = 12
 		}
 		
 		JBA = { #Aram Ma'akach
@@ -1306,6 +1339,8 @@ country = {
 				4017 4018 4020 4019 4021 4022 4024 4043 4015 3946 3944 3942 3947 3945 4028 4029 4041
 				4040 4074 4055 4080 4079 4071 4072 4073 4057 4056 4045 4049 4050 4046 4051 4058 4059
 			}
+			
+			family = 11
 		}
 		
 		JBC = { #Basan
@@ -1382,6 +1417,8 @@ country = {
 			own_control_core = 	{ 
 				3982 3992 3994 3995 4184 4183 4182 3993 3989 3983 3984 3990 3987 3991 3988
 			}
+			
+			family = 13
 		}
 		
 		JBH = { #Aram-Sovah
@@ -1394,6 +1431,8 @@ country = {
 				3953 3954 3955 3956 3963 3962 3966 3967 3961 3968 3960 3958 3951 3952 3950 3941 3939 3923 3922 3938 
 				3925 3926 3921 3927 3918 3929 3917 3932 3916
 			}
+			
+			family = 14
 		}
 		
 		JBI = { #Sidon
@@ -1448,6 +1487,8 @@ country = {
 			own_control_core = 	{ 
 				3887 3889 3883 3888 3882 3884 3886 3877 3885 3876 3880 3881
 			}
+			
+			family = 15
 		}
 		
 		JBL = { #Irqata
