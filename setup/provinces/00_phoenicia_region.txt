@@ -665,8 +665,8 @@
 
 3941={ #Baalbek
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -681,8 +681,8 @@
 
 3950={ #Hasabu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -700,8 +700,8 @@
 
 3951={ #Chamsine
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -716,8 +716,8 @@
 
 3952={ #Terbol
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -732,24 +732,30 @@
 
 3953={ #Sôbâh
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
 3954={ #Tebah
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -764,8 +770,8 @@
 
 3955={ #Aana
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -780,8 +786,8 @@
 
 3956={ #Kherbet
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -796,8 +802,8 @@
 
 3958={ #Sazanâ
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -809,8 +815,8 @@
 
 3960={ #Kûn
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -825,8 +831,8 @@
 
 3961={ #Huzaza
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -847,8 +853,8 @@
 
 3962={ #Baaloul
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -863,8 +869,8 @@
 
 3963={ #Yohmor
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -911,8 +917,8 @@
 
 3966={ #Danabu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -927,8 +933,8 @@
 
 3967={ #Bakka
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -943,8 +949,8 @@
 
 3968={ #Kumidu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1120,28 +1126,31 @@
 
 3982={ #Tyre
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=5
+	province_rank="city_metropolis"
+	nobles={
+		amount=3
 	}
-	freemen={
+	citizen={
 		amount=6
 	}
+	freemen={
+		amount=14
+	}
 	slaves={
-		amount=1
+		amount=10
 	}
 	holy_site=omen_melqart
 }
 
 3983={ #Maarakeh
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1153,8 +1162,8 @@
 
 3984={ #Srifa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1201,8 +1210,8 @@
 
 3987={ #Tebnine
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1217,8 +1226,8 @@
 
 3988={ #Malkiya
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1233,8 +1242,8 @@
 
 3989={ #Jouaiyya
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1249,8 +1258,8 @@
 
 3990={ #Haris
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1265,8 +1274,8 @@
 
 3991={ #Bar'am
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1281,8 +1290,8 @@
 
 3992={ #Usû
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1294,8 +1303,8 @@
 
 3993={ #Qânâ
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1310,8 +1319,8 @@
 
 3994={ #Hammôn
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -1329,8 +1338,8 @@
 
 3995={ #Ba'ali-râ'si
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1345,8 +1354,8 @@
 
 3996={ #Akzîb
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_accan"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1361,8 +1370,8 @@
 
 3997={ #Akkô
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shardana"
+	religion="canaanitic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1377,8 +1386,8 @@
 
 3998={ #Kêisam
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_accan"
+	religion="canaanitic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -1447,8 +1456,8 @@
 
 4182={ #Netu'a
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1463,8 +1472,8 @@
 
 4183={ #Elon
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1479,8 +1488,8 @@
 
 4184={ #Mi'ilyâ
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tyric"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1530,8 +1539,8 @@
 
 4187={ #Kâbûl
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_accan"
+	religion="canaanitic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

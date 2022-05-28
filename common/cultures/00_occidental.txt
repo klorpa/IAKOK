@@ -51,9 +51,9 @@
 	
 	barbarian_names = { BERONES VESCETANI CERETES CONVENI SOTIATES ELUSATES VASATES BELATONES CERVINI LICININI TIBULATI EUTHICANI ACCONITI CARENSES CELSITANI CORACENSES }
 	
-	graphical_culture = iberian_gfx
+	graphical_culture = aegean_gfx
 	
 	ethnicities = {
-		10 = iberian
+		10 = aegean
 	}	
 }

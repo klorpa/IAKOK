@@ -48,9 +48,13 @@
 		Ummashid.Ummashid.Ummashid.Ummashid
 	}
 	culture = {
+		tyric = {}
+		sidonian = {}
 		azirian = {}
 		girzite = {}
 		jebusite = {}
+		lev_doric = {}
+		lev_accan = {}
 		ibleamite = {}
 		tanachite = {}
 		megiddan = {}

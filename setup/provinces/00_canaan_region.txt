@@ -13,8 +13,8 @@
 
 3999={ #Abu Hawam
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_accan"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -29,8 +29,8 @@
 
 4000={ #Shiqmona
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_doric"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -77,8 +77,8 @@
 
 4206={ #Dôr
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tejeker"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -96,8 +96,8 @@
 
 4207={ #Bat Shlomo
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_doric"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -112,8 +112,8 @@
 
 4208={ #Mevorakh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_doric"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -329,8 +329,8 @@
 
 4221={ #Mishmar
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lev_doric"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0

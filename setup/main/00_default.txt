@@ -87,6 +87,18 @@ provinces = { #Any entry must contain a comment with city name.
 
 	### BUILDINGS
 	
+	3997 = { #Acco
+		port_building = 1
+	}
+	
+	3982 = { #Tyre
+		port_building = 3
+	}
+	
+	4206 = { #Dor
+		port_building = 2
+	}
+	
 	4565 = { #Tanis
 		port_building = 2
 	}
@@ -956,6 +968,13 @@ country = {
 			religion = canaanitic_pantheon
 			capital = 4218
 			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
 			poptype_rights = { 
 				{
 					culture = avite 
@@ -988,6 +1007,13 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
 			poptype_rights = { 
 				{
 					culture = avite 
@@ -1005,6 +1031,13 @@ country = {
 			primary_culture = philistine
 			religion = canaanitic_pantheon
 			capital = 4214
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			poptype_rights = { 
 				{
@@ -1030,6 +1063,13 @@ country = {
 			primary_culture = philistine
 			religion = canaanitic_pantheon
 			capital = 4275
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			poptype_rights = { 
 				{
@@ -1058,6 +1098,13 @@ country = {
 			primary_culture = philistine
 			religion = canaanitic_pantheon
 			capital = 4273
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			poptype_rights = { 
 				{
@@ -1139,6 +1186,13 @@ country = {
 			primary_culture = philistine
 			religion = canaanitic_pantheon
 			capital = 4103
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
 				4103 
@@ -1275,47 +1329,69 @@ country = {
 			}
 		}
 		
-		JBE = { #Additional
+		JBE = { #Dor
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = tejeker
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 4206
+			
+			poptype_rights = { 
+				{
+					culture = lev_doric 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				4206 4208 4221 4207 4000
 			}
 		}
 		
-		JBF = { #Additional
+		JBF = { #Akko
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = shardana
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3997
+			
+			poptype_rights = { 
+				{
+					culture = lev_accan 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				
+				3997 3999 3998 3996 4187
 			}
 		}
 		
-		JBG = { #Additional
+		JBG = { #Tyre
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = tyric
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3982
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				3982 3992 3994 3995 4184 4183 4182 3993 3989 3983 3984 3990 3987 3991 3988
 			}
 		}
 		
-		JBH = { #Additional
+		JBH = { #Aram-Sovah
 			government = despotic_monarchy
-			primary_culture = azirian
+			primary_culture = sovakhite
 			religion = canaanitic_pantheon
-			capital = 4719
+			capital = 3953
 			
 			own_control_core = 	{ 
-				
+				3953 3954 3955 3956 3963 3962 3966 3967 3961 3968 3960 3958 3951 3952 3950 3941 3939 3923 3922 3938 
+				3925 3926 3921 3927 3918 3929 3917 3932 3916
 			}
 		}
 	}

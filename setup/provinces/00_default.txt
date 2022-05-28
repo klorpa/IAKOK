@@ -3510,8 +3510,8 @@
 
 2676={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4000,8 +4000,8 @@
 
 2725={ #Mount Lebanon
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5180,8 +5180,8 @@
 
 4835={ #Mount Lebanon
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5190,8 +5190,8 @@
 
 4836={ #Mount Lebanon
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5200,8 +5200,8 @@
 
 4837={ #Mount Lebanon
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sovakhite"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
