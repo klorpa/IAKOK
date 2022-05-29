@@ -58,8 +58,8 @@
 
 4329={ #Sa-fe-ni
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -71,8 +71,8 @@
 
 4330={ #Revivim
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -87,8 +87,8 @@
 
 4331={ #Segev
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -103,8 +103,8 @@
 
 4332={ #Marqasa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -122,8 +122,8 @@
 
 4333={ #Te-u-ni
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -138,8 +138,8 @@
 
 4334={ #Sua-mani
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -157,8 +157,8 @@
 
 4335={ #Inu-ab-i
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -173,8 +173,8 @@
 
 4336={ #An-ni
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -189,8 +189,8 @@
 
 4337={ #Niga-taye
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -205,8 +205,8 @@
 
 4338={ #Keri-mi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -224,8 +224,8 @@
 
 4339={ #Eradi-tae
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -243,8 +243,8 @@
 
 4340={ #Apsi-ra
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -259,8 +259,8 @@
 
 4341={ #Ase-siyi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -310,8 +310,8 @@
 
 4344={ #Shu-kudu
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -326,8 +326,8 @@
 
 4345={ #Bulbulhum
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -345,8 +345,8 @@
 
 4346={ #Ul-xas
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -609,8 +609,8 @@
 
 4361={ #Mani-alla
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -625,28 +625,31 @@
 
 4362={ #Karkamisa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="city_metropolis"
+	nobles={
+		amount=3
+	}
 	citizen={
 		amount=6
 	}
 	freemen={
-		amount=7
+		amount=15
 	}
 	slaves={
-		amount=2
+		amount=10
 	}
-	holy_site=omen_kubaba
+	
 }
 
 4363={ #Undu-tti
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -661,8 +664,8 @@
 
 4364={ #Te-u-kki
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -699,8 +702,8 @@
 
 4366={ #Tal-a-tti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -715,8 +718,8 @@
 
 4367={ #Te-u-tali
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkamisan"
+	religion="luwic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0

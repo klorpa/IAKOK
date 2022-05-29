@@ -122,6 +122,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	3503 = { #Bonseri
+		port_building = 1
+	}
+	
 	3982 = { #Tyre
 		port_building = 3
 	}
@@ -1818,11 +1822,11 @@ country = {
 			}
 		}
 		
-		HAD = { #Karkamisa
+		HAD = { #Karkemish
 			government = despotic_monarchy
 			primary_culture = karkamisan
 			religion = luwic_pantheon
-			capital = 3953
+			capital = 4362
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1832,18 +1836,26 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				
+				4362 4363 4361 4366 4367 4364
 			}
 		}
 		
-		HAE = { #Additional
+		HAE = { #Gurgum
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = gurgumite
+			religion = luwic_pantheon
+			capital = 4332
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				4332 4330 4331 4329 4333 4335 4334 4336 4337 4345 4346 4339 4338
+				4340 4341 3445 3444 3462 4344 3484 3485
 			}
 		}
 		

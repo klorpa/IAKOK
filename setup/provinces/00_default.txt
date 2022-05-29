@@ -4050,8 +4050,8 @@
 
 2730={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_lukhutic"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4060,8 +4060,8 @@
 
 2731={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_lukhutic"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4150,8 +4150,8 @@
 
 2740={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

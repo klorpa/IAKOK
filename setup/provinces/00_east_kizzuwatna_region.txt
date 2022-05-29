@@ -384,8 +384,8 @@
 
 3444={ #Kiga
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -397,8 +397,8 @@
 
 3445={ #Sua-llu
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -604,8 +604,8 @@
 
 3462={ #Sawali
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -930,8 +930,8 @@
 
 3484={ #Pahara
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -946,8 +946,8 @@
 
 3485={ #Asxe
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gurgumite"
+	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
