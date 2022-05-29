@@ -1,7 +1,7 @@
 ﻿3609={ #Malid
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -13,8 +13,8 @@
 
 3612={ #Baszkuj
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -26,8 +26,8 @@
 
 3613={ #Miskan
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -39,8 +39,8 @@
 
 3614={ #Rifat
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -135,8 +135,8 @@
 
 3632={ #Hazazu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -192,8 +192,8 @@
 
 3635={ #Anadan
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

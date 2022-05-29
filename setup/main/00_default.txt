@@ -1599,14 +1599,14 @@ country = {
 			}
 		}
 		
-		JBS = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
+		JBS = { #Tadmor
+			government = tribal_kingdom
+			primary_culture = tadmori
 			religion = canaanitic_pantheon
-			capital = 3953
+			capital = 4008
 			
 			own_control_core = 	{ 
-				
+				4008 4016 4011 4009 4007 4010 4006
 			}
 		}
 		
@@ -1732,6 +1732,265 @@ country = {
 		}
 		
 		JCF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		#Neo Hittite states
+		HAA = { #Hamath
+			government = despotic_monarchy
+			primary_culture = philistine
+			religion = luwic_pantheon
+			capital = 3688
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			poptype_rights = { 
+				{
+					culture = hamathite 
+					type = citizen
+				}
+			}
+			
+			own_control_core = 	{ 
+				3688 3915 3700 3698 3933 3934 3845 3717 3716 3715 3714 3713 3834 3833 3711 3683 3696 3699 3694 3685 3712 3710 3687
+				3708 3709 3707 3680 3697 3705 3706 3693 3692 3690 3689 3703 3623 3514 3686 3536 3537 3533 3530 3520 3535 3519 3517
+				3512 3678 4328 3935 3846 3844 3841 3842 3840 3839 3835 3936 3847 3848 3849 3850 3695 3832 3682 3681 3851 3838 3837
+				3831 3836
+			}
+		}
+		
+		HAB = { #Lakhuti
+			government = despotic_monarchy
+			primary_culture = aram_lukhutic
+			religion = luwic_pantheon
+			capital = 3674
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			poptype_rights = { 
+				{
+					culture = lukhutic 
+					type = citizen
+				}
+			}
+			
+			own_control_core = 	{ 
+				3674 3701 3669 3670 3664 3671 3801 3809 3811 3810 3812 3820 3829 3802
+				3672 3673 3679 3677 3806 3826 3827 3828 3819 3676 3818 3807 3808 3803
+				3675 3805 3804 3668 3663 3666 3667 3684
+			}
+		}
+		
+		HAC = { #Patin
+			government = despotic_monarchy
+			primary_culture = patinite
+			religion = luwic_pantheon
+			capital = 3509
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3509 3621 3511 3507 3508 3506 3504 3518 3503 3502 3501 3500 3499 
+				3497 3495 3579 3580 3582 3581 3596 3598 3578 3573 3577 3603 3602
+				3604 3574 3620 3619 3601 3617 3618 3616 3605 3606 3615 3607 3614
+				3608 3613 3609 3612 3635 3632
+			}
+		}
+		
+		HAD = { #Karkamisa
+			government = despotic_monarchy
+			primary_culture = karkamisan
+			religion = luwic_pantheon
+			capital = 3953
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAE = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAG = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAH = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAI = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAK = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAL = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAN = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAO = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAP = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAR = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAS = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAT = { #Additional
 			government = despotic_monarchy
 			primary_culture = sovakhite
 			religion = canaanitic_pantheon

@@ -1,7 +1,7 @@
 ﻿3517={ #Chettia
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 3518={ #Hamri
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -29,8 +29,8 @@
 
 3519={ #Kesab
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hamathite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 3520={ #Rabia
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -97,7 +97,7 @@
 	}
 }
 
-3523={ #Latakia
+3523={ #Rissuri
 	terrain="farmland"
 	culture="rissuri"
 	religion="canaanitic_pantheon"
@@ -224,8 +224,8 @@
 
 3530={ #Terjano
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -256,8 +256,8 @@
 
 3533={ #Aramo
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -272,8 +272,8 @@
 
 3535={ #Kinsabba
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -288,8 +288,8 @@
 
 3537={ #Dorien
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

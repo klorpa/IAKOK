@@ -140,8 +140,8 @@
 
 3495={ #Le-pal-i
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -156,8 +156,8 @@
 
 3497={ #Pal-ôs-tta
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -172,8 +172,8 @@
 
 3499={ #Drar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -191,8 +191,8 @@
 
 3500={ #Naema
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -207,8 +207,8 @@
 
 3501={ #Mimoun
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -226,8 +226,8 @@
 
 3502={ #Tekbal
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -245,8 +245,8 @@
 
 3503={ #Benseri
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -267,8 +267,8 @@
 
 3504={ #Moksi
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -283,8 +283,8 @@
 
 3506={ #Meroe
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -302,8 +302,8 @@
 
 3507={ #Sefiun
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -321,8 +321,8 @@
 
 3508={ #Oran
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -335,29 +335,32 @@
 	}
 }
 
-3509={ #Alalakh
+3509={ #Kinalua
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
 		amount=5
 	}
 	freemen={
-		amount=6
+		amount=12
 	}
 	slaves={
-		amount=2
+		amount=7
 	}
 }
 
 3511={ #Barga
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -375,8 +378,8 @@
 
 3512={ #Zawf
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -391,8 +394,8 @@
 
 3514={ #Arzigana
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hamathite"
+	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -413,8 +416,8 @@
 
 3536={ #Suhurre
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hamathite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -435,8 +438,8 @@
 
 3573={ #Hirmil
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -451,8 +454,8 @@
 
 3574={ #Makbara
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -467,8 +470,8 @@
 
 3577={ #Teenah
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -483,8 +486,8 @@
 
 3578={ #Ihtaimlat
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -502,8 +505,8 @@
 
 3579={ #Kuweires
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -518,8 +521,8 @@
 
 3580={ #Abedil
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -537,8 +540,8 @@
 
 3581={ #Ikinkalis
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -559,8 +562,8 @@
 
 3582={ #Hazaza
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -747,8 +750,8 @@
 
 3596={ #Akhtarin
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -763,8 +766,8 @@
 
 3598={ #Dabiq
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -779,8 +782,8 @@
 
 3601={ #Sawran
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -801,8 +804,8 @@
 
 3602={ #Marea
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -823,8 +826,8 @@
 
 3603={ #Tilalyan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -839,8 +842,8 @@
 
 3604={ #Kiffin
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -855,8 +858,8 @@
 
 3605={ #Aqîbah
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -871,8 +874,8 @@
 
 3606={ #Jalbul
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -887,8 +890,8 @@
 
 3607={ #Qatmah
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -903,8 +906,8 @@
 
 3608={ #I'zâz
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -916,8 +919,8 @@
 
 3615={ #Qatuma
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -932,8 +935,8 @@
 
 3616={ #Pittina
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -951,8 +954,8 @@
 
 3617={ #Ibbïn
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -967,8 +970,8 @@
 
 3618={ #Sorhane
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -983,8 +986,8 @@
 
 3619={ #Kalota
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -999,8 +1002,8 @@
 
 3620={ #Mu'arrasat
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1015,8 +1018,8 @@
 
 3621={ #Darkush
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="patinite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1031,8 +1034,8 @@
 
 3623={ #Bârishâ
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1079,14 +1082,14 @@
 
 3684={ #Taldou
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_lukhutic"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -1095,8 +1098,8 @@
 
 3686={ #Qarqôr
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1111,8 +1114,8 @@
 
 3703={ #Qastoun
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_hamatite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

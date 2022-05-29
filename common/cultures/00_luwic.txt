@@ -101,16 +101,8 @@
 		Mago.Mago.Mago.Magid	
 	}
 	culture = {
-		luwii = {}
-		sideti = {}
-		pisidic = {}
-		lukkanic = {}
-		caric = {}
-		kzzuwi = {}
-		lydii = {levy_template = levy_hattian}
-		happalic = {}
 		tejeker = {}
-		hatti = {
+		hamathite = {
 			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
@@ -127,7 +119,7 @@
 				
 			}
 		}
-		syro_hatti = {
+		lukhutic = {
 			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
@@ -144,7 +136,7 @@
 				
 			}
 		}
-		lowland_hatti = {
+		arpadic = {
 			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
@@ -161,7 +153,7 @@
 				
 			}
 		}
-		kaska = {
+		patinite = {
 			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
@@ -178,7 +170,91 @@
 				
 			}
 		}
-		paphlagonic = {}
+		samalite = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		musuwaric = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		gurgumite = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		kummukhite = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
+		karkamisan = {
+			levy_template = levy_hattian
+			male_names = {
+				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
+				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
+				Gunzinanu Tarhunazi Muwatalli Mugallu Lalli Kundaspu Hapatila Ariyahina Hamiyata Muwizi Larama Tarhulara Taita Manana Halparuntiya
+				Labarna Surri Tutammu 
+			}
+			female_names = {
+				Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa Taita
+			} 
+			family = {
+				
+				Piyassilid Sahurunuwanid Mazakarhuhanid Tudhaliyanid Suppiluliumid Hattusilid Hamiyatanid Muwizid Manananid Labarnanid
+				
+			}
+		}
 	}
 	
 	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }
