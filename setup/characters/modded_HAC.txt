@@ -1,0 +1,40 @@
+﻿"HAC"={
+	country="HAC"
+	70={
+		first_name="Manana"
+		family = c:HAC.fam:Mananid
+		birth_date=1245.1.1
+		culture="patinite"
+		religion="luwic_pantheon"
+		no_stats=yes
+		add_martial=6
+		add_charisma=4
+		add_finesse=10
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		c:HAC={
+			set_as_ruler=char:70
+		}
+		#dna=""
+	}
+	
+	71={
+		first_name="Supiluliuma"
+		family = c:HAC.fam:Mananid
+		father="char:70"
+		birth_date=1265.1.1
+		culture="patinite"
+		religion="luwic_pantheon"
+		no_stats=yes
+		add_martial=10
+		add_charisma=4
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=100
+		#dna=""
+	}
+}

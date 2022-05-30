@@ -164,19 +164,19 @@ bloodlines_startup.6 = { #Gathite Bloodline #Done
 
 }
 
-bloodlines_startup.7 = { #Royal Bloodline of Hattusa
+bloodlines_startup.7 = { #Royal Bloodline of Hattusa #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = HAC
+		tag = HAD
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:41
+				has_same_family = char:69
 			}
 			add_trait = rhatti
 		
@@ -189,19 +189,19 @@ bloodlines_startup.7 = { #Royal Bloodline of Hattusa
 
 }
 
-bloodlines_startup.8 = { #bloodline of Toi
+bloodlines_startup.8 = { #bloodline of Toi #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = AAB
+		tag = HAA
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:49
+				has_same_family = char:73
 			}
 			add_trait = taitids
 		

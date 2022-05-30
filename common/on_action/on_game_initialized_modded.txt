@@ -29,8 +29,8 @@ on_game_initialized = {
 		bloodlines_startup.4  #22 dynasty
 		#bloodlines_startup.5  #Kushite dynasty
 		bloodlines_startup.6  #Gathite bloodline
-		#bloodlines_startup.7  #Tudhaliya bloodline
-		#bloodlines_startup.8  #Toi bloodline
+		bloodlines_startup.7  #Tudhaliya bloodline
+		bloodlines_startup.8  #Toi bloodline
 		bloodlines_startup.9  #Hadad-ezer bloodline
 		bloodlines_startup.10 #Tob-Rimmon bloodline
 		bloodlines_startup.11 #Saul bloodline

@@ -104,6 +104,30 @@ family={
 			culture = byblosi
 			prestige=300
 		}
+		16={
+			key="Kurkumid"
+			owner=HAE
+			culture = gurgumite
+			prestige=300
+		}
+		17={
+			key="Tudhalianid"
+			owner=HAE
+			culture = karkamisan
+			prestige=300
+		}
+		18={
+			key="Mannanid"
+			owner=HAC
+			culture = patinite
+			prestige=300
+		}
+		19={
+			key="Hapatilid"
+			owner=HAI
+			culture = musuwaric
+			prestige=300
+		}
 	}
 }
 
@@ -1807,6 +1831,8 @@ country = {
 				3604 3574 3620 3619 3601 3617 3618 3616 3605 3606 3615 3607 3614
 				3608 3613 3609 3612 3635 3632
 			}
+			
+			family = 18
 		}
 		
 		HAD = { #Karkemish
@@ -1825,6 +1851,8 @@ country = {
 			own_control_core = 	{ 
 				4362 4363 4361 4366 4367 4364
 			}
+			
+			family = 17
 		}
 		
 		HAE = { #Gurgum
@@ -1844,6 +1872,8 @@ country = {
 				4332 4330 4331 4329 4333 4335 4334 4336 4337 4345 4346 4339 4338
 				4340 4341 3445 3444 3462 4344 3484 3485
 			}
+			
+			family = 16
 		}
 		
 		HAF = { #Arpad
@@ -1908,6 +1938,8 @@ country = {
 				4371 4365 4369 4370 4374 4376 4368 4431 4359
 				4360 4443 4442 3636 3611 4423 4351 4352
 			}
+			
+			family = 19
 		}
 		
 		HAJ = { #Shugab
@@ -1961,7 +1993,7 @@ country = {
 		HAM = { #Hijawa
 			government = despotic_monarchy
 			primary_culture = dannien
-			religion = canaanitic_pantheon
+			religion = grecoid_pantheon
 			capital = 3953
 			
 			own_control_core = 	{ 
