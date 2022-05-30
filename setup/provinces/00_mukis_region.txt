@@ -505,7 +505,7 @@
 
 3579={ #Kuweires
 	terrain="hills"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -521,7 +521,7 @@
 
 3580={ #Abedil
 	terrain="hills"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -562,7 +562,7 @@
 
 3582={ #Hazaza
 	terrain="forest"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -578,8 +578,8 @@
 
 3583={ #Arima
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -594,8 +594,8 @@
 
 3584={ #Bza'a
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -610,8 +610,8 @@
 
 3585={ #Qabasin
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -629,8 +629,8 @@
 
 3586={ #Al-Ra'i
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -645,8 +645,8 @@
 
 3588={ #Zayzafin
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -661,8 +661,8 @@
 
 3589={ #Zalwar
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -680,8 +680,8 @@
 
 3590={ #Shamarin
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -696,8 +696,8 @@
 
 3592={ #Rojava
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -712,8 +712,8 @@
 
 3593={ #Mregel
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -731,8 +731,8 @@
 
 3594={ #Ziadiyah
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -750,7 +750,7 @@
 
 3596={ #Akhtarin
 	terrain="farmland"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 3598={ #Dabiq
 	terrain="farmland"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -890,7 +890,7 @@
 
 3607={ #Qatmah
 	terrain="plains"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -906,7 +906,7 @@
 
 3608={ #I'zâz
 	terrain="desert_valley"
-	culture="patinite"
+	culture="aram_samalite"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1050,8 +1050,8 @@
 
 3624={ #Nubl
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_arpadic"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1066,8 +1066,8 @@
 
 3628={ #Ratyan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_arpadic"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1130,8 +1130,8 @@
 
 3719={ #Elkorum
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1143,8 +1143,8 @@
 
 3720={ #Eltiten
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

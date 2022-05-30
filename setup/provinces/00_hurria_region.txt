@@ -1,7 +1,7 @@
 ﻿3551={ #Nagû
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 3591={ #Kafra
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 3610={ #Herbel
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -45,8 +45,8 @@
 
 3611={ #Ahras
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -272,8 +272,8 @@
 
 4342={ #Sam'alla
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -291,8 +291,8 @@
 
 4343={ #Irde-nui
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -364,8 +364,8 @@
 
 4347={ #Pal-migi
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -380,8 +380,8 @@
 
 4348={ #Isena-siye
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -396,8 +396,8 @@
 
 4349={ #Tari-xari
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -412,8 +412,8 @@
 
 4350={ #Pab-suye
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -428,8 +428,8 @@
 
 4351={ #Punyi-ti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -444,8 +444,8 @@
 
 4352={ #Tisa-ur-mi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -460,8 +460,8 @@
 
 4353={ #Nuyi-payi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -476,8 +476,8 @@
 
 4354={ #Ur-puxxi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -495,8 +495,8 @@
 
 4355={ #Tae-nariya
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -511,8 +511,8 @@
 
 4356={ #Urshu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -533,8 +533,8 @@
 
 4357={ #Erbi-tti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -552,8 +552,8 @@
 
 4358={ #Urumu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -571,8 +571,8 @@
 
 4359={ #Sa-alla
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -587,8 +587,8 @@
 
 4360={ #Tûba
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -683,8 +683,8 @@
 
 4365={ #Sini-tal-mi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -734,8 +734,8 @@
 
 4368={ #Ase-payi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -750,8 +750,8 @@
 
 4369={ #Uri-nui
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -766,8 +766,8 @@
 
 4370={ #Si-a-tti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -785,8 +785,8 @@
 
 4371={ #Hassuwa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -807,8 +807,8 @@
 
 4373={ #Siya-nui
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -823,8 +823,8 @@
 
 4374={ #Fur-a-tti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -839,8 +839,8 @@
 
 4375={ #Naxx-ar
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -855,8 +855,8 @@
 
 4376={ #Xill-nui
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -871,8 +871,8 @@
 
 4377={ #Pab-ni-yi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -887,8 +887,8 @@
 
 4378={ #Ursu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -906,8 +906,8 @@
 
 4379={ #Ese-siwe
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -922,8 +922,8 @@
 
 4419={ #Xas-ar
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -938,8 +938,8 @@
 
 4420={ #Aw-tiye
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -954,8 +954,8 @@
 
 4421={ #Xill-kudu
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -970,8 +970,8 @@
 
 4422={ #Asta-et-i
 	terrain="desert_hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -986,8 +986,8 @@
 
 4423={ #Pab-ni-ri
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -999,8 +999,8 @@
 
 4424={ #Undu-xili
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1012,8 +1012,8 @@
 
 4425={ #Kus-usi
 	terrain="desert_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1025,8 +1025,8 @@
 
 4426={ #Shu-time
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1041,8 +1041,8 @@
 
 4427={ #Siwe-xili
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1057,8 +1057,8 @@
 
 4428={ #Bandi-tti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1073,8 +1073,8 @@
 
 4429={ #Sukziya
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1089,8 +1089,8 @@
 
 4431={ #Sini-siye
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1151,19 +1151,25 @@
 	}
 }
 
-4442={ #Mâ-uffa
+4442={ #Mussuwari
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=7
+	}
 	slaves={
-		amount=1
+		amount=5
 	}
 	tribesmen={
 		amount=2
@@ -1172,8 +1178,8 @@
 
 4443={ #Kudu-nui
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -1188,8 +1194,8 @@
 
 4444={ #Siyi-tti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -1204,8 +1210,8 @@
 
 4445={ #Apsi-nui
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

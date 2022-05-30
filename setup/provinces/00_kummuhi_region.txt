@@ -194,8 +194,8 @@
 
 2509={ #Annu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -468,8 +468,8 @@
 
 3558={ #Kistan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -484,8 +484,8 @@
 
 3560={ #Kulmudara
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -500,8 +500,8 @@
 
 3564={ #Pushqu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -519,8 +519,8 @@
 
 3565={ #Mêliu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -535,8 +535,8 @@
 
 3566={ #Mâmê
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -551,8 +551,8 @@
 
 3569={ #Kummuhi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -573,8 +573,8 @@
 
 3570={ #Mushpalu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -589,8 +589,8 @@
 
 3864={ #Masla'tu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -787,8 +787,8 @@
 
 6670={ #Shûshu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -803,8 +803,8 @@
 
 6671={ #Ullu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -819,8 +819,8 @@
 
 6672={ #Ziqpu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -835,8 +835,8 @@
 
 6673={ #Shakkullu
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kummukhite"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

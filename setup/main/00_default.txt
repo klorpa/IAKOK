@@ -1614,14 +1614,15 @@ country = {
 			}
 		}
 		
-		JBT = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
+		JBT = { #Bet-Haqim
+			government = tribal_kingdom
+			primary_culture = haqimite
 			religion = canaanitic_pantheon
-			capital = 3953
+			capital = 3856
 			
 			own_control_core = 	{ 
-				
+				3856 3859 3858 3855 3937 3860 3825 3824 3822 
+				3821 3823 3830 3852 3854 3853 3857
 			}
 		}
 		
@@ -1780,20 +1781,6 @@ country = {
 			religion = luwic_pantheon
 			capital = 3674
 			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			poptype_rights = { 
-				{
-					culture = lukhutic 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				3674 3701 3669 3670 3664 3671 3801 3809 3811 3810 3812 3820 3829 3802
 				3672 3673 3679 3677 3806 3826 3827 3828 3819 3676 3818 3807 3808 3803
@@ -1859,86 +1846,121 @@ country = {
 			}
 		}
 		
-		HAF = { #Additional
+		HAF = { #Arpad
 			government = despotic_monarchy
-			primary_culture = sovakhite
+			primary_culture = aram_arpadic
+			religion = luwic_pantheon
+			capital = 3633
+			
+			own_control_core = 	{ 
+				3633 3770 3781 3782 3786 3788 3791 3787 3792 3790 3631 3628 
+				3659 3658 3649 3657 3765 3783 3785 3784 3665 3789 3640 3655 
+				3653 3763 3760 3648 3652 3650 4001 3768 3767 3769 3740 3758
+				3651 3629 3630 3627 3626 3643 3642 3646 3644 3645 3647 3641
+				3654 4002 3662 3661 3660 3625 3624
+			}
+		}
+		
+		HAG = { #Samal
+			government = despotic_monarchy
+			primary_culture = aram_samalite
+			religion = luwic_pantheon
+			capital = 4342
+			
+			own_control_core = 	{ 
+				3589 3590 3593 3586 3585 3594 3583 3584 3588 3592 3486 3719 3720
+				4342 3591 4343 4424 4425 3610
+			}
+		}
+		
+		HAH = { #Bit-adini
+			government = despotic_monarchy
+			primary_culture = bit_adinic
+			religion = luwic_pantheon
+			capital = 3725
+			
+			own_control_core = 	{ 
+				3722 3752 3756 3753 3751 3723 3747 3724 3745 3725
+				3728 3746 3748 3727 3726 6658 2272 3002 596
+				3744 3749 3743 3754 3750 3764 3761 3762 3759 3766
+				3730 3729 3731 3737 3736 3738 3739 3741 3742
+				3775 3732 3733 3774 3773 3734 3772 3735 3771
+				6661 474 1579 1942 588 6656 6664 6657 3637 3634
+				1744 446 2080 437 6659 3755 3757 3721 3656 3639 3638
+			}
+		}
+		
+		HAI = { #Musuwari
+			government = despotic_monarchy
+			primary_culture = musuwaric
+			religion = luwic_pantheon
+			capital = 4442
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				4379 4377 4378 4419 4375 4420 4422 4421 4373
+				4371 4365 4369 4370 4374 4376 4368 4431 4359
+				4360 4443 4442 3636 3611 4423 4351 4352
+			}
+		}
+		
+		HAJ = { #Shugab
+			government = despotic_monarchy
+			primary_culture = shugabite
+			religion = luwic_pantheon
+			capital = 4356
+			
+			own_control_core = 	{ 
+				4356 4355 4353 4357 4358 4444 4445 3564 3565 2509
+			}
+		}
+		
+		HAK = { #Kummukh
+			government = despotic_monarchy
+			primary_culture = kummukhite
+			religion = luwic_pantheon
+			capital = 3569
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				3558 3864 6670 3570 6671 3569 6672 6673 3566 3560
+				4429 3551 4428 4427 4426 4354 4348 4347 4349 4350
+			}
+		}
+		
+		HAL = { #Ishunda
+			government = despotic_monarchy
+			primary_culture = azitawatan
 			religion = canaanitic_pantheon
 			capital = 3953
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
 			
 			own_control_core = 	{ 
 				
 			}
 		}
 		
-		HAG = { #Additional
+		HAM = { #Hijawa
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAH = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAI = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAJ = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAK = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAL = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HAM = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
+			primary_culture = dannien
 			religion = canaanitic_pantheon
 			capital = 3953
 			

@@ -718,8 +718,8 @@
 
 3855={ #Dabaa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -734,8 +734,8 @@
 
 3856={ #Fairuzah
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -750,8 +750,8 @@
 
 3858={ #Qizhel
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -766,8 +766,8 @@
 
 3859={ #Hnaider
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -782,8 +782,8 @@
 
 3860={ #Arbeen
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1063,8 +1063,8 @@
 
 3937={ #Sadad
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="haqimite"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
