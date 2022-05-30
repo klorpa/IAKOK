@@ -2066,6 +2066,420 @@ country = {
 				
 			}
 		}
+		#Grecoids
+		GAA = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAB = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAC = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAD = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAE = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAG = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAH = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAI = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAK = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAL = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		#Chad Akkadians
+		AAA = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAB = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAC = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAD = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAE = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAG = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAH = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAI = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAK = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAL = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAN = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAO = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAP = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAR = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAS = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAT = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAU = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAW = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAY = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		AAZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABA = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABB = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABC = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABD = { #Additional
+			government = despotic_monarchy
+			primary_culture = sovakhite
+			religion = canaanitic_pantheon
+			capital = 3953
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 	}
 }
 
