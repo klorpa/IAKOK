@@ -1085,7 +1085,7 @@ deity_mhekate = {
 deity_mdiktynna = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mdiktynna = {
@@ -1111,7 +1111,7 @@ deity_mdiktynna = {
 deity_meleuthya = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_meleuthya = {
@@ -1137,7 +1137,7 @@ deity_meleuthya = {
 deity_mvelchanos = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mvelchanos = {
@@ -1163,7 +1163,7 @@ deity_mvelchanos = {
 deity_mrieia = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mrieia = {
@@ -1191,7 +1191,8 @@ deity_mrieia = {
 deity_mariadne = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mariadne = {
@@ -1217,7 +1218,7 @@ deity_mariadne = {
 deity_mamaya = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mamaya = {
@@ -1243,7 +1244,7 @@ deity_mamaya = {
 deity_mkarmanor = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		primary_culture = laconic
+		#primary_culture = laconic
 		OR = {
 			common_deity_trigger = { RELIGION = grecoid_pantheon }
 			deity:omen_mkarmanor = {

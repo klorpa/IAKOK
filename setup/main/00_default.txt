@@ -117,7 +117,7 @@ family={
 			prestige=300
 		}
 		18={
-			key="Mannanid"
+			key="Mananid"
 			owner=HAC
 			culture = patinite
 			prestige=300
@@ -126,6 +126,12 @@ family={
 			key="Hapatilid"
 			owner=HAI
 			culture = musuwaric
+			prestige=300
+		}
+		20={
+			key="Taitid"
+			owner=HAA
+			culture = philistine
 			prestige=300
 		}
 	}
@@ -146,6 +152,26 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	3136 = { #Salamis
+		port_building = 1
+	}
+	
+	3447 = { #Hijawa
+		port_building = 1
+	}
+	
+	3346 = { #Hijawa
+		port_building = 1
+	}
+	
+	3170 = { #Paphos
+		port_building = 1
+	}
+	
+	3118 = { #Lapithos
+		port_building = 1
+	}
+	
 	3503 = { #Bonseri
 		port_building = 1
 	}
@@ -155,6 +181,10 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	
 	3523 = { #Rissuri
+		port_building = 2
+	}
+	
+	3148 = { #Kition
 		port_building = 2
 	}
 	
@@ -1804,6 +1834,8 @@ country = {
 				3512 3678 4328 3935 3846 3844 3841 3842 3840 3839 3835 3936 3847 3848 3849 3850 3695 3832 3682 3681 3851 3838 3837
 				3831 3836
 			}
+			
+			family = 20
 		}
 		
 		HAB = { #Lakhuti
@@ -1996,7 +2028,7 @@ country = {
 			own_control_core = 	{ 
 				3466 3480 3457 3465 3460 3458 3459 3461 3442 3443
 				3427 4447 3433 3432 3426 3436 3437 3438 3439 3440 3441
-				3481 3463 3396 3395 3394 3393
+				3481 3463 
 			}
 		}
 		

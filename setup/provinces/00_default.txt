@@ -3730,8 +3730,8 @@
 
 2698={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3770,8 +3770,8 @@
 
 2702={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3780,8 +3780,8 @@
 
 2703={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3790,8 +3790,8 @@
 
 2704={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3800,8 +3800,8 @@
 
 2705={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3810,8 +3810,8 @@
 
 2706={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3820,8 +3820,8 @@
 
 2707={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3830,8 +3830,8 @@
 
 2708={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3840,8 +3840,8 @@
 
 2709={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

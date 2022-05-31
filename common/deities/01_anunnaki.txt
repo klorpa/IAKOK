@@ -52,8 +52,18 @@ deity_mshamash = {
 		#can_deify_trigger = yes
 		NOT = { 
 			OR = {
-				primary_culture = judean
-				primary_culture = israelic
+				primary_culture = judahite
+				primary_culture = simeonid
+				primary_culture = benjamin
+				primary_culture = ephraim
+				primary_culture = danite
+				primary_culture = gad
+				primary_culture = ruben
+				primary_culture = menasseh
+				primary_culture = issachar
+				primary_culture = zebulun
+				primary_culture = naphtali
+				primary_culture = asher
 			}
 		}
 	}
@@ -139,8 +149,18 @@ deity_mishtar = {
 		#can_deify_trigger = yes
 		NOT = { 
 			OR = {
-				primary_culture = judean
-				primary_culture = israelic
+				primary_culture = judahite
+				primary_culture = simeonid
+				primary_culture = benjamin
+				primary_culture = ephraim
+				primary_culture = danite
+				primary_culture = gad
+				primary_culture = ruben
+				primary_culture = menasseh
+				primary_culture = issachar
+				primary_culture = zebulun
+				primary_culture = naphtali
+				primary_culture = asher
 			}
 		}
 	}

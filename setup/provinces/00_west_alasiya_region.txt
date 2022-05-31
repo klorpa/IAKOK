@@ -1,6 +1,6 @@
 ﻿3101={ #Morphou
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="soloian"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -70,7 +70,7 @@
 
 3105={ #Lazanias
 	terrain="mountain"
-	culture="eteocypriot"
+	culture="tamassosian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -96,7 +96,7 @@
 
 3107={ #Arediou
 	terrain="forest"
-	culture="eteocypriot"
+	culture="tamassosian"
 	religion="grecoid_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
@@ -188,7 +188,7 @@
 
 3114={ #Irini
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="lapithosian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -260,12 +260,18 @@
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=6
+	}
 	freemen={
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -338,7 +344,7 @@
 
 3163={ #Sotira
 	terrain="hills"
-	culture="eteocypriot"
+	culture="kourionian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -354,7 +360,7 @@
 
 3164={ #Alassa
 	terrain="mountain_valley"
-	culture="eteocypriot"
+	culture="kourionian"
 	religion="grecoid_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
@@ -370,7 +376,7 @@
 
 3165={ #Anogyra
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="kourionian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -408,7 +414,7 @@
 
 3167={ #Mandria
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="paphosic"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -478,7 +484,7 @@
 
 3171={ #Lakkous
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="paphosic"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -510,7 +516,7 @@
 
 3173={ #Lemona
 	terrain="hills"
-	culture="eteocypriot"
+	culture="paphosic"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -526,7 +532,7 @@
 
 3174={ #Skalia
 	terrain="forest"
-	culture="eteocypriot"
+	culture="paphosic"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -545,7 +551,7 @@
 
 3175={ #Kissonerga
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="marionic"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -561,7 +567,7 @@
 
 3176={ #Drouseia
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="marionic"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -615,7 +621,7 @@
 
 3179={ #Yialia
 	terrain="hills"
-	culture="eteocypriot"
+	culture="marionic"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -660,7 +666,7 @@
 
 3184={ #Vouni
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="soloian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -704,7 +710,7 @@
 
 3187={ #Elia
 	terrain="plains"
-	culture="eteocypriot"
+	culture="soloian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -720,7 +726,7 @@
 
 3188={ #Nikitari
 	terrain="forest"
-	culture="eteocypriot"
+	culture="soloian"
 	religion="grecoid_pantheon"
 	trade_goods="cedar"
 	civilization_value=0
@@ -762,7 +768,7 @@
 
 3202={ #Amorosa
 	terrain="farmland"
-	culture="eteocypriot"
+	culture="marionic"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
