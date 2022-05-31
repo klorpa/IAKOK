@@ -42,6 +42,7 @@
  #Levantines-Zoomed
  levantine:2 "Canaanite"
  tyric:0 "Tyrian"
+ kitionian:0 "Kitionian"
  sidonian:0 "Sidonian"
  berutian:0 "Berytian"
  byblosi:0 "Byblosi"
@@ -82,8 +83,8 @@
  synaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Arameans-Zoomed
  aramaic:2 "Ahlamu"
- aram_hamatite:0 "Aramo-Hamathite"
- aram_lukhutic:0 "Aramo-Lukhutic"
+ aram_hamatite:0 "Hamathite"
+ aram_lukhutic:0 "Lukhutic"
  aram_arpadic:0 "Jahanese"
  aram_samalite:0 "Yaudic"
  aram_musuwaric:0 "Musri"
@@ -181,8 +182,8 @@
  caucasic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Luwian-Zoomed
  luwian:2 "Luwian"
- hamathite:0 "Hamathite"
- lukhutic:0 "Lukhutic"
+ hamathite:0 "Amathic"
+ lukhutic:0 "Khatarikan"
  azitawatan:0 "azitawatan"
  arpadic:0 "Arpadic"
  patinite:0 "Patinite"

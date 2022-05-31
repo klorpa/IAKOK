@@ -49,6 +49,7 @@
 	}
 	culture = {
 		tyric = {}
+		kitionian = {}
 		sidonian = {}
 		berutian = {}
 		byblosi = {}

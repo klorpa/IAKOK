@@ -86,8 +86,8 @@
 		THANOUITAE KATANITAE SALAMIOI MELANGITAE KINAIDOKOLPITAE ASATENOI CHORANITAE CADAEI TALUDAEI
 	}
 	
-	graphical_culture = arabian_gfx
+	graphical_culture = levantine_gfx
 	ethnicities = {
-		10 = arabian
+		10 = berber
 	}
 }
