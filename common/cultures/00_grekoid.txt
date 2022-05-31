@@ -104,23 +104,17 @@
 		
 	}
 	culture = {
-		makedonic = {}
-		cypriotic = {}
-		doric = {}
-		attic = {}
-		ionic = {}
-		aeolic = {}
-		arcadic = {}
-		acheic = {}
-		laconic = {}
 		dannien = {}
-		mycenean = {}
-		#Latest change
-		wilusan = {}
-		pelasgian = {}
-		lelegian = {}
-		caphtorite = {}
-		cypro_minoic = {}
+		paphosic = {}
+		marionic = {}
+		soloian = {}
+		tamassosian = {}
+		idalionic = {}
+		ladraic = {}
+		lapithosian = {}
+		chytroic = {}
+		salamian = {}
+		kourionian = {}
 	}
 	
 	barbarian_names = { 

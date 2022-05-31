@@ -1,5 +1,5 @@
 ﻿minoic = {	
-	color = hsv { 0.53 1 0.84 }
+	color = hsv { 0.69 0.83 0.54 }
 	
 	primary = missile_archers
 	second = light_spearmen
@@ -49,6 +49,7 @@
 	}
 	culture = {
 		philistine = {}
+		eteocypriot = {}
 	}
 	
 	barbarian_names = { 

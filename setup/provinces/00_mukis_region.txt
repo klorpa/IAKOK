@@ -1,7 +1,7 @@
 ﻿3475={ #Ur-mi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -19,8 +19,8 @@
 
 3487={ #Tarsuwa-ni
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 3488={ #Palite
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 3489={ #Keri-sini
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 3490={ #Is-abba-wa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -86,8 +86,8 @@
 
 3491={ #Urussa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -105,8 +105,8 @@
 
 3493={ #Aw-imani
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -124,8 +124,8 @@
 
 3494={ #Mâ-e-tta
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0

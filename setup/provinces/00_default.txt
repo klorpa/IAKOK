@@ -4130,8 +4130,8 @@
 
 2738={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4140,8 +4140,8 @@
 
 2739={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
