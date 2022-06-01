@@ -2408,11 +2408,10 @@ country = {
 				1351 5335 1375 2572 5337 5336 5313 5307 5314 5306
 				5434 5433 5435 5432 5302 5410 5422 5431 5424 
 				6732 5667 5668 6731 5675 5674 5427 5443 5501 5445
-				5461 5457 5463 5458 5456 5459 5460 5462 5610
-				5323 2287 5322 5320 5331
+				5461 5457 5463 5458 5456 5459 5460 5462 5610 2287 5331
 				5231 2558 2564 5319 5317 5232 5318 2567 6738 5321
 				5332 5333 5334 5328 5329 5330 5199 5316 5315 5233 
-				5702 3337 5326 1795 1353 3296 5325 1641 1313 5324 2264
+				5702 3337 5326 1795 1353 5325 1641 1313 5324 2264
 				445 420 5243 5244 5255 5249 5245 1865 5242 5223 5267
 				5228 5227 5226 5213 5212 5214 5215 5217 5218 5216 5219
 				6735 5235 6734 6737 2442 2435 5234 5236 2367 5230 6739
@@ -2420,54 +2419,62 @@ country = {
 				5671 6740 5670 5680 5679 6461 6462 6729 6719 5677 6730 5669
 			}
 		}
-		AAD = { #Additional
+		AAD = { #Laqu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = laqan
+			religion = anunnaki_pantheon
+			capital = 614
 			
 			own_control_core = 	{ 
-				
+				442 2633 6663 434 412 481 575 6662 572 631
+				614 3600 552 4003 2499 419 3258 2493 5701 374
+				375 6666 605 550 549 386 3086 6665 3083 3599 577
+				3718 2642 602 3296
 			}
 		}
-		AAE = { #Additional
+		AAE = { #Sirqu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = sirqan
+			religion = anunnaki_pantheon
+			capital = 5704
 			
 			own_control_core = 	{ 
-				
+				5704 5705 5726 5703 5700 5706 6668 1356 5725 2351 626 5327
 			}
 		}
-		AAF = { #Additional
+		AAF = { #Khindanu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = khindanic
+			religion = anunnaki_pantheon
+			capital = 5709
 			
 			own_control_core = 	{ 
-				
+				5924 5707 5708 6669 5730 5729 6667 5709 235 5728 5727 611
+				5712 5733 5731 5732 1541 5710 5711 5734 2938 5735 5713
 			}
 		}
-		AAG = { #Additional
+		AAG = { #Shuhi
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = shuhan
+			religion = anunnaki_pantheon
+			capital = 5714
 			
 			own_control_core = 	{ 
-				
+				5714 5736 5737 5738 5925 1626 5715 5739 1856 5713
+				5717 5740 1860 5741 5742 1852 5716 5719 5743
+				5721 5936 5937 5720 6200 5722 5999 5939 5718 5723
 			}
 		}
-		AAH = { #Additional
+		AAH = { #Bit-Khalupi
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = khalupan
+			religion = anunnaki_pantheon
+			capital = 5320
 			
 			own_control_core = 	{ 
-				
+				5320 5322 5323 4372 1225 1173 3255 3293 3273 
+				598 3282 330 3275 3532 567 579 581 2475 3498
+				2475 3464 3435 3448 3046 3080 3401 3417
 			}
 		}
 		AAI = { #Additional

@@ -38,7 +38,7 @@ PIR = {
 
 #Modded Emblems
 
-ABP = {
+AAC = {
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
 	color2 = "roman_gold"
@@ -71,7 +71,7 @@ ADP = {
 	}
 }
 
-JAA = {
+JAE = {
 	pattern = "pattern_solid.tga"
 	color1 = "judea_blue"
 	color2 = "ck2_white"
@@ -89,7 +89,7 @@ JAA = {
 	}
 }
 
-JAB = {
+JAO = {
 	pattern = "pattern_solid.tga"
 	color1 = "phrygia_red"
 	color2 = "ck2_white"
@@ -142,7 +142,7 @@ HAT = {
 	}
 }
 
-ABR = {
+AAA = {
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
 	color2 = "roman_gold"
@@ -501,7 +501,7 @@ SAA = {
 	}
 }
 
-ACK  = {
+AAB  = {
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
 	color2 = "offwhite"

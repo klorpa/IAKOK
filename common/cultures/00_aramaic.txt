@@ -146,6 +146,11 @@
 		shugabite = {}
 		damascite = {}
 		tadmori = {}
+		laqan = {}
+		sirqan = {}
+		khindanic = {}
+		shuhan = {}
+		khalupan = {}
 		rehobic = {}
 		geshurite = {}
 		maakachic = {}

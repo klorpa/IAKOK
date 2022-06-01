@@ -108,6 +108,11 @@
  shasan:0 "Shasian"
  amalekite:0 "Amalekite"
  edomite:0 "Edomite"
+ laqan:0 "Laquan"
+ sirqan:0 "Sirqan"
+ khindanic:0 "Khindanic"
+ shuhan:0 "Shuhan"
+ khalupan:0 "Khalupan"
  aramaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Arabian
