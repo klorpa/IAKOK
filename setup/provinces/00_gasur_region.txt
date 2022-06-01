@@ -1,7 +1,7 @@
 ﻿5302={ #Middutu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 5410={ #Suqaqu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 5422={ #Akiltu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -48,8 +48,8 @@
 
 5424={ #Eleppu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -64,8 +64,8 @@
 
 5427={ #Tamsiltu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -118,8 +118,8 @@
 
 5431={ #Zabbilu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -134,8 +134,8 @@
 
 5432={ #Sursurtu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -150,8 +150,8 @@
 
 5433={ #Sinnu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -166,8 +166,8 @@
 
 5434={ #Sataru
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -182,8 +182,8 @@
 
 5435={ #Rappu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0

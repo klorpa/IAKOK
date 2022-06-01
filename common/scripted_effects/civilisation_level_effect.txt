@@ -23,7 +23,32 @@
 					has_owner = yes
 					trigger_if = {
 						limit = { has_owner = yes }
-						owner = { tag = A39 } 
+						owner = { 
+							OR = {
+								primary_culture = tyric
+								primary_culture = kitionian
+								primary_culture = sidonian
+								primary_culture = berutian
+								primary_culture = byblosi
+								primary_culture = irqatan
+								primary_culture = sumuri
+								primary_culture = arwadi
+								primary_culture = ardati
+								primary_culture = suksi
+								primary_culture = rissuri
+								primary_culture = azirian
+							}								
+						} 
+					}
+				}
+				add_civilization_value = 5
+			}
+			if = {
+				limit = { 
+					has_owner = yes
+					trigger_if = {
+						limit = { has_owner = yes }
+						owner = { primary_culture = ashurite } 
 					}
 				}
 				add_civilization_value = 10

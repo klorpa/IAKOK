@@ -232,8 +232,8 @@
 
 1313={ #Mashqium
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -251,8 +251,8 @@
 
 1353={ #Kippu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -280,8 +280,8 @@
 
 1641={ #Padan
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -296,8 +296,8 @@
 
 1795={ #Birûtu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -309,8 +309,8 @@
 
 2264={ #Ru'tu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -443,8 +443,8 @@
 
 3296={ #Kalappu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -456,8 +456,8 @@
 
 3337={ #Sa-Harani
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -529,8 +529,8 @@
 
 5324={ #Asatum
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -548,8 +548,8 @@
 
 5325={ #Aluzinnu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -567,8 +567,8 @@
 
 5326={ #Nasruptu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -637,8 +637,8 @@
 
 5702={ #Usala
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0

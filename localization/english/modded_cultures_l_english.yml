@@ -112,8 +112,8 @@
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Arabian
  arabian:2 "Arabian"
- shasu:0 "North Arabian"
- sabean:0 "South Arabian"
+ dilmunite:0 "Dilmunite"
+ arab:0 "Arab"
  maganese:0 "Maganese" #Arab kingdoms or akkadian city states?
  arabian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  arabian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -142,7 +142,6 @@
  akkadian:2 "Akkadian"
  agade:0 "Babylonian"
  ashurite:0 "Assyrian"
- dilmunite:0 "Dilmunite"
  akkadian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  akkadian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heirs of the Mittani
@@ -159,10 +158,11 @@
  parsuan:0 "Parsuan"
  kassites_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kassites_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Elamites
+ #Elamites-Zoomed
  elamitic:2 "Elamite"
  susanian:0 "Susan"
  awanic:0 "Awanic"
+ huhnuri:0 "Huhnuri"
  anshanian:0 "Anshanese"
  ellipian:0 "Ellipian"
  elamitic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

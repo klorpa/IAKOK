@@ -1,7 +1,7 @@
 ﻿6146={ #Alik
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -19,8 +19,8 @@
 
 6147={ #Ilati
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 6148={ #Larak
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -57,8 +57,8 @@
 
 6149={ #Situ
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -73,8 +73,8 @@
 
 6150={ #Hurasham
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -89,8 +89,8 @@
 
 6152={ #Gushkin
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -105,8 +105,8 @@
 
 6153={ #Damiq
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -121,8 +121,8 @@
 
 6154={ #Se'im
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -137,8 +137,8 @@
 
 6155={ #Rabum
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -153,8 +153,8 @@
 
 6163={ #Lutila
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -172,8 +172,8 @@
 
 6164={ #Nisme
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -182,7 +182,7 @@
 		amount=3
 	}
 	freemen={
-		culture="wvenedi"
+		culture="agade"
 		amount=3
 	}
 	tribesmen={
@@ -192,8 +192,8 @@
 
 6165={ #Libbu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -208,8 +208,8 @@
 
 6166={ #Kuan
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -227,8 +227,8 @@
 
 6167={ #Kabitu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -243,8 +243,8 @@
 
 6168={ #Aplum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -262,8 +262,8 @@
 
 6169={ #Resussun
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -278,8 +278,8 @@
 
 6170={ #Nagiru
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -297,8 +297,8 @@
 
 6171={ #Mashku
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -313,8 +313,8 @@
 
 6172={ #Agaru
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -329,8 +329,8 @@
 
 6173={ #Baraggal
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -345,8 +345,8 @@
 
 6174={ #Esharra
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -361,8 +361,8 @@
 
 6175={ #Dadmesun
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -377,8 +377,8 @@
 
 6177={ #Kaspu
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -393,8 +393,8 @@
 
 6189={ #Nusku
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -409,8 +409,8 @@
 
 6261={ #Appu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -425,8 +425,8 @@
 
 6279={ #Siamlu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -441,8 +441,8 @@
 
 6300={ #Kalu
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -457,8 +457,8 @@
 
 6303={ #Rikistu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -476,8 +476,8 @@
 
 6304={ #Kanu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -492,8 +492,8 @@
 
 6305={ #Pagru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -508,8 +508,8 @@
 
 6306={ #Manu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -524,8 +524,8 @@
 
 6307={ #Alaktu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -543,8 +543,8 @@
 
 6308={ #Nigissu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -559,8 +559,8 @@
 
 6309={ #Kiindar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -578,8 +578,8 @@
 
 6310={ #Deru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -601,8 +601,8 @@
 
 6311={ #Agu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -617,8 +617,8 @@
 
 6312={ #Duga
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -636,8 +636,8 @@
 
 6313={ #Assinnu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -655,8 +655,8 @@
 
 6314={ #Parasu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -674,8 +674,8 @@
 
 6323={ #Kissum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -690,8 +690,8 @@
 
 6324={ #Etutu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -706,8 +706,8 @@
 
 6325={ #Asbu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -722,8 +722,8 @@
 
 6326={ #Suluppu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -738,8 +738,8 @@
 
 6327={ #Dumusal
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -754,8 +754,8 @@
 
 6328={ #Ud
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -770,8 +770,8 @@
 
 6329={ #Mitu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -789,8 +789,8 @@
 
 6330={ #Mitutu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -805,8 +805,8 @@
 
 6331={ #Parasu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -821,8 +821,8 @@
 
 6332={ #Purussum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -837,8 +837,8 @@
 
 6333={ #Ebebu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -853,8 +853,8 @@
 
 6334={ #Damqati
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -869,8 +869,8 @@
 
 6335={ #Dabdu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -885,8 +885,8 @@
 
 6336={ #Amaru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -901,8 +901,8 @@
 
 6337={ #Dalkhu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -920,8 +920,8 @@
 
 6338={ #Dur-Nabu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -942,8 +942,8 @@
 
 6339={ #Munaggiru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -958,8 +958,8 @@
 
 6340={ #Nasahu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -974,8 +974,8 @@
 
 6341={ #Abatu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -990,8 +990,8 @@
 
 6342={ #Napalu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1006,8 +1006,8 @@
 
 6425={ #Rakabu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1022,8 +1022,8 @@
 
 6426={ #Iddugga
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1041,8 +1041,8 @@
 
 6427={ #Insabatu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -1057,8 +1057,8 @@
 
 6430={ #Bil
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1073,8 +1073,8 @@
 
 6433={ #Yarahhu
 	terrain="marsh"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1089,8 +1089,8 @@
 
 6440={ #Tamtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1105,8 +1105,8 @@
 
 6441={ #Aabba
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1121,8 +1121,8 @@
 
 6442={ #Kunukkum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1140,8 +1140,8 @@
 
 6443={ #Kunuk
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1156,8 +1156,8 @@
 
 6444={ #Kussum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1175,8 +1175,8 @@
 
 6653={ #Namalu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1194,8 +1194,8 @@
 
 6654={ #Arbu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1210,8 +1210,8 @@
 
 6681={ #Ulitu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1226,8 +1226,8 @@
 
 6682={ #Zamru
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

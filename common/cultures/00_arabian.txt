@@ -77,8 +77,8 @@
 	}
 	
 	culture = {
-		shasu = {}
-		sabean = {}
+		dilmunite = {}
+		arab = {}
 		maganese = {}
 	}
 	

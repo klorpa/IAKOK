@@ -290,8 +290,8 @@
 
 5443={ #Limishu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -322,8 +322,8 @@
 
 5445={ #Ishtartu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -362,8 +362,8 @@
 
 5456={ #Baramu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -388,14 +388,14 @@
 
 5457={ #Assanu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
+		religion="anunnaki_pantheon"
 		amount=2
 	}
 	freemen={
@@ -405,21 +405,20 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
+		religion="anunnaki_pantheon"
 		amount=1
 	}
 }
 
 5458={ #Ardabu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -429,21 +428,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5459={ #Anaku
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -453,15 +450,14 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5460={ #Alluttu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -476,8 +472,8 @@
 
 5461={ #Qabra
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -503,8 +499,8 @@
 
 5462={ #Akalutu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -519,8 +515,8 @@
 
 5463={ #Abarakkatu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1118,8 +1114,8 @@
 
 5501={ #Burumu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1238,8 +1234,8 @@
 
 5610={ #Habâlu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ashurite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0

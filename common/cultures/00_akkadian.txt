@@ -35,7 +35,6 @@
 	culture = {
 		agade = {levy_template = levy_sonsofMarduk} #Akkadian
 		ashurite = {}	#Assyrian
-		dilmunite = {levy_template = levy_sonsofdilmun}	#Dilmunite
 	}
 	
 	barbarian_names = { 
