@@ -36,8 +36,8 @@ on_game_initialized = {
 		bloodlines_startup.11 #Saul bloodline
 		bloodlines_startup.12 #Tyre bloodline
 		bloodlines_startup.13 #Byblos bloodline
-		#bloodlines_startup.14 #Adasi bloodline
-		#bloodlines_startup.15 #Elam bloodline
+		bloodlines_startup.14 #Adasi bloodline
+		bloodlines_startup.15 #Elam bloodline
 		#bloodlines_startup.16 #Gordion bloodline
 		#bloodlines_startup.17 #Heracles bloodline
 		#bloodlines_startup.18 #Founders of Magadha

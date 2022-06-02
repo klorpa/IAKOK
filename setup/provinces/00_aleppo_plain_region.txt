@@ -1151,8 +1151,8 @@
 
 4434={ #Reham
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="immerinite"
+	religion="anunnaki_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -1167,8 +1167,8 @@
 
 4435={ #Jabria
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="immerinite"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1183,8 +1183,8 @@
 
 4436={ #Basîru
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="surugan"
+	religion="anunnaki_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1202,8 +1202,8 @@
 
 4437={ #Surun
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="surugan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1218,8 +1218,8 @@
 
 4438={ #Natkina
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="surugan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0

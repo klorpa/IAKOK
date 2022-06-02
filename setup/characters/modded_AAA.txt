@@ -1,0 +1,58 @@
+﻿"AAA"={
+	country="AAA"
+	76={
+		first_name="Eulmash-shakin-shumi"
+		family = c:AAA.fam:Bit-Bazi
+		birth_date=1220.1.1
+		culture="kassite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=12
+		add_charisma=4
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=40
+		c:AAA={
+			set_as_ruler=char:76
+		}
+		#dna=""
+	}
+	
+	77={
+		first_name="Ninurta-kudurri-usur"
+		family = c:AAA.fam:Bit-Bazi
+		father="char:76"
+		birth_date=1270.1.1
+		culture="kassite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=12
+		add_charisma=4
+		add_finesse=4
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=40
+		#dna=""
+	}
+	
+	78={
+		first_name="Shirikti-shuqamuna"
+		family = c:AAA.fam:Bit-Bazi
+		father="char:76"
+		birth_date=1271.1.1
+		culture="kassite"
+		religion="anunnaki_pantheon"
+		no_stats=yes
+		add_martial=12
+		add_charisma=4
+		add_finesse=4
+		add_zeal=6
+		no_traits=yes
+		add_gold=500
+		add_popularity=40
+		#dna=""
+	}
+}

@@ -339,19 +339,19 @@ bloodlines_startup.13 = { #bloodline of Byblos #Done
 
 }
 
-bloodlines_startup.14 = { #bloodline of Adasi
+bloodlines_startup.14 = { #bloodline of Adasi #Done
 
 	type = country_event
 	hidden = yes
 	
 	trigger = {
-		tag = ABP
+		tag = AAC
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:38
+				has_same_family = char:74
 			}
 			add_trait = badaside
 		
@@ -370,13 +370,15 @@ bloodlines_startup.15 = { #bloodline of Elam
 	hidden = yes
 	
 	trigger = {
-		tag = ADZ
+		OR = {
+			tag = AAB
+		}
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:37
+				has_same_family = char:79
 			}
 			add_trait = ofelam
 		

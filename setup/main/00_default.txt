@@ -134,6 +134,24 @@ family={
 			culture = philistine
 			prestige=300
 		}
+		21={
+			key="Adaside"
+			owner=AAC
+			culture = ashurite
+			prestige=300
+		}
+		22={
+			key="Bit-bazi"
+			owner=AAC
+			culture = kassite
+			prestige=300
+		}
+		23={
+			key="Shutrukid"
+			owner=AAB
+			culture = susanian
+			prestige=300
+		}
 	}
 }
 
@@ -2336,6 +2354,8 @@ country = {
 				5954 5955 6416 6141 6417 5956 5957  6418 6142 6143 6419 6655
 				6083 6108 6109 6704 6703 6702 6107 6081 6082 6080
 			}
+			
+			family = 22
 		}
 		AAB = { #Elam
 			government = aristocratic_monarchy
@@ -2378,6 +2398,8 @@ country = {
 				6605 6539 6540 6541 6543 6545 6544 6548 6546 6549 6547
 				6535 6604 6532 6528 6533 6536 6542 6537 6606 6538 6534
 			}
+			
+			family = 23
 		}
 		AAC = { #Assyria
 			government = aristocratic_monarchy
@@ -2421,6 +2443,8 @@ country = {
 				5271 5265 5266 5256 6728 6727
 				5671 6740 5670 5680 5679 6461 6462 6729 6719 5677 6730 5669
 			}
+			
+			family = 21
 		}
 		AAD = { #Laqu
 			government = despotic_monarchy
@@ -2554,7 +2578,7 @@ country = {
 		}
 		AAO = { #Mamblu
 			government = despotic_monarchy
-			primary_culture = sovakhite
+			primary_culture = mamblan
 			religion = anunnaki_pantheon
 			capital = 3455
 			
@@ -2574,24 +2598,24 @@ country = {
 				6686 6095 6690 6691 5944 5397 5943 6404 6723 6096 6683
 			}
 		}
-		AAR = { #Additional
+		AAR = { #Raqamatu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = temmanite
+			religion = anunnaki_pantheon
+			capital = 5882
 			
 			own_control_core = 	{ 
-				
+				4118 5882 4969 4970 5923 5780
 			}
 		}
-		AAS = { #Additional
+		AAS = { #Garni Kannu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = temmanite
+			religion = anunnaki_pantheon
+			capital = 5922
 			
 			own_control_core = 	{ 
-				
+				5922 5779 5935 5778 5921 5920 5784 5783 5785
 			}
 		}
 		AAT = { #Additional
