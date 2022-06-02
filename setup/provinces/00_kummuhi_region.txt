@@ -315,8 +315,8 @@
 
 3142={ #Urkutu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -366,8 +366,8 @@
 
 3162={ #Parrisu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -605,8 +605,8 @@
 
 3866={ #Nêrubu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

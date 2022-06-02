@@ -29,8 +29,8 @@
 
 412={ #Natâlu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -48,8 +48,8 @@
 
 434={ #Huppudu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -83,8 +83,8 @@
 
 442={ #Diglu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -156,8 +156,8 @@
 
 481={ #Bu'û
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -175,8 +175,8 @@
 
 572={ #Kusâpu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -194,8 +194,8 @@
 
 575={ #Ensu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -261,8 +261,8 @@
 
 602={ #Pasru
 	terrain="desert_hills"
-	culture="tadmori"
-	religion="canaanitic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -277,8 +277,8 @@
 
 631={ #Arû
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -551,8 +551,8 @@
 
 2633={ #Shîbu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -583,8 +583,8 @@
 
 2642={ #Ekkêmu
 	terrain="desert_hills"
-	culture="tadmori"
-	religion="canaanitic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -666,8 +666,8 @@
 
 3046={ #Sharâqu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -685,8 +685,8 @@
 
 3080={ #Tuppi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=3
@@ -720,8 +720,8 @@
 
 3448={ #Hûqu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -755,8 +755,8 @@
 
 3718={ #Kimsu
 	terrain="desert_hills"
-	culture="tadmori"
-	religion="canaanitic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1273,8 +1273,8 @@
 
 6662={ #Hallâ
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -1289,8 +1289,8 @@
 
 6663={ #Bulê
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="laqan"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0

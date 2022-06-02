@@ -422,8 +422,8 @@
 
 2475={ #Ahlamatti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -792,8 +792,8 @@
 
 3401={ #Mâsu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -830,8 +830,8 @@
 
 3417={ #Tûblu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -849,8 +849,8 @@
 
 3435={ #Ulinnu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -903,8 +903,8 @@
 
 3464={ #Raqqu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

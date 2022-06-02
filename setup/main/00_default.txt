@@ -1977,6 +1977,7 @@ country = {
 				4379 4377 4378 4419 4375 4420 4422 4421 4373
 				4371 4365 4369 4370 4374 4376 4368 4431 4359
 				4360 4443 4442 3636 3611 4423 4351 4352
+				3866 3162 4441 4440 3142 4439
 			}
 			
 			family = 19
@@ -2383,6 +2384,8 @@ country = {
 			primary_culture = ashurite
 			religion = anunnaki_pantheon
 			capital = 5303
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2450,7 +2453,7 @@ country = {
 			
 			own_control_core = 	{ 
 				5924 5707 5708 6669 5730 5729 6667 5709 235 5728 5727 611
-				5712 5733 5731 5732 1541 5710 5711 5734 2938 5735 5713
+				5712 5733 5731 5732 1541 5710 5711 5734 2938 5735
 			}
 		}
 		AAG = { #Shuhi
@@ -2473,88 +2476,102 @@ country = {
 			
 			own_control_core = 	{ 
 				5320 5322 5323 4372 1225 1173 3255 3293 3273 
-				598 3282 330 3275 3532 567 579 581 2475 3498
+				598 3282 330 3275 3532 567 579 581 3498
 				2475 3464 3435 3448 3046 3080 3401 3417
 			}
 		}
-		AAI = { #Additional
+		AAI = { #Nisibin
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = temmanite
+			religion = anunnaki_pantheon
+			capital = 6203
 			
 			own_control_core = 	{ 
-				
+				5209 6203 5200 5206 5208 5210 5909 5207 5211 5203
+				4998 4997 4999 5196 5197 5201 5202 5204 5205
+				5194 5193 5192 4995 142 5195 5198 4992 4994 6733 5191
+				4987 4979 4986 4985 4990 2552 4984 4993 4991 4980 4974 4978
+				6206 4983 16 4996 4989 4982 4976 1655 4988 4981 4975
+				4968 4972 4966 4971 4965 4977 4964
 			}
 		}
-		AAJ = { #Additional
+		AAJ = { #Immerinu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = immerinite
+			religion = anunnaki_pantheon
+			capital = 3778
 			
 			own_control_core = 	{ 
-				
+				1576 2999 3005 1486 1564 2539 2217 3200 1536 1324 2288
+				3780 3776 3778 3777 3779 4434 4435 
 			}
 		}
-		AAK = { #Additional
+		AAK = { #Surug
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = surugan
+			religion = anunnaki_pantheon
+			capital = 3141
 			
 			own_control_core = 	{ 
-				
+				3183 3189 3116 3185 1525 3180 182
+				4436 4437 4438 3155 3141 3158 
 			}
 		}
-		AAL = { #Additional
+		AAL = { #Til-abni
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = abnite
+			religion = anunnaki_pantheon
+			capital = 2949
 			
 			own_control_core = 	{ 
-				
+				1543 152 160 3919 3914 3492 2949 3470 
 			}
 		}
-		AAM = { #Additional
+		AAM = { #Kharran
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = kharrani
+			religion = anunnaki_pantheon
+			capital = 455
 			
 			own_control_core = 	{ 
-				
+				455 458 1680 14 1855 1988 3545 2514 2639 2071 2632 31
+				3 134 3595 139 1156 2500 2659 2307 3218 2135 1435 347
+				3332 1430 237 3018 1515 3017 3302 1604 3256
 			}
 		}
-		AAN = { #Additional
+		AAN = { #Bit-Bahiani
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = bahianic
+			religion = anunnaki_pantheon
+			capital = 2512
 			
 			own_control_core = 	{ 
-				
+				184 165 413 3284 2510 3266 566 3247 230 260 3510
+				2512 4963 3538 1568 4962 4961 3534 4973
+				1900 3597 3516 3456 3410 3691 1676 3587 275 322 3264 3272 
+				335 1567 5252 3317 3221 3211 
 			}
 		}
-		AAO = { #Additional
+		AAO = { #Mamblu
 			government = despotic_monarchy
 			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			religion = anunnaki_pantheon
+			capital = 3455
 			
 			own_control_core = 	{ 
-				
+				3455 3496 2598 2610 3948 1116 502 
+				1071 3557 3909 3548 3049 2948
 			}
 		}
-		AAP = { #Additional
+		AAP = { #Rapiqu
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = rapiqan
+			religion = anunnaki_pantheon
+			capital = 6094
 			
 			own_control_core = 	{ 
-				
+				6684 6687 5724 6688 6685 5940 5941 1921 6094 6689 5942 6722
+				6686 6095 6690 6691 5944 5397 5943 6404 6723 6096 6683
 			}
 		}
 		AAR = { #Additional

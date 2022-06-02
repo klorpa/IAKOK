@@ -683,7 +683,7 @@
 
 4365={ #Sini-tal-mi
 	terrain="plains"
-	culture="musuwaric"
+	culture="karkamisan"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -750,7 +750,7 @@
 
 4369={ #Uri-nui
 	terrain="plains"
-	culture="musuwaric"
+	culture="karkamisan"
 	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
@@ -766,7 +766,7 @@
 
 4370={ #Si-a-tti
 	terrain="hills"
-	culture="musuwaric"
+	culture="aram_musuwaric"
 	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1089,7 +1089,7 @@
 
 4431={ #Sini-siye
 	terrain="plains"
-	culture="musuwaric"
+	culture="aram_musuwaric"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1108,8 +1108,8 @@
 
 4439={ #Mazuwati
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1121,8 +1121,8 @@
 
 4440={ #Marîna
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1137,8 +1137,8 @@
 
 4441={ #Pal-itti
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="musuwaric"
+	religion="luwic_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0

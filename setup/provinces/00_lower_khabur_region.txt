@@ -108,8 +108,8 @@
 
 330={ #Sûsabinnu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -178,8 +178,8 @@
 
 567={ #Mutqû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -194,8 +194,8 @@
 
 579={ #Diru'u
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -210,8 +210,8 @@
 
 581={ #Uhinnu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -226,8 +226,8 @@
 
 598={ #Pappîru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -242,8 +242,8 @@
 
 1173={ #Latihu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -261,8 +261,8 @@
 
 1225={ #Ittû
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
 	barbarian_power=0
@@ -521,8 +521,8 @@
 
 3273={ #Naptêtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -537,8 +537,8 @@
 
 3275={ #Puhhu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -556,8 +556,8 @@
 
 3282={ #Nasraptu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -591,8 +591,8 @@
 
 3293={ #Bitiltu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=5
@@ -604,8 +604,8 @@
 
 3498={ #Shupâlû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -642,8 +642,8 @@
 
 3532={ #Haddu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -664,8 +664,8 @@
 
 4372={ #Qattanun
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khalupan"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -891,22 +891,28 @@
 	}
 }
 
-5320={ #Sikiri
+5320={ #Suru
 	terrain="farmland"
-	culture="ashurite"
+	culture="khalupan"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
 		amount=5
 	}
+	freemen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=5
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -931,7 +937,7 @@
 
 5322={ #Qadine
 	terrain="farmland"
-	culture="ashurite"
+	culture="khalupan"
 	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -950,7 +956,7 @@
 
 5323={ #Dur-Katlimmu
 	terrain="farmland"
-	culture="ashurite"
+	culture="khalupan"
 	religion="anunnaki_pantheon"
 	trade_goods="ivory"
 	civilization_value=0
