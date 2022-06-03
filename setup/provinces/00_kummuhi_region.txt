@@ -732,14 +732,14 @@
 
 5872={ #Tigû
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=3
 	}
 	tribesmen={
 		amount=2

@@ -390,8 +390,8 @@
 
 2156={ #Nayyabtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -642,8 +642,8 @@
 
 3208={ #Parriktu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -706,8 +706,8 @@
 
 3251={ #Lipittu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -922,8 +922,8 @@
 
 3505={ #Tâmtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1034,8 +1034,8 @@
 
 3702={ #Kuppû
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1053,8 +1053,8 @@
 
 3904={ #Qallu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1101,8 +1101,8 @@
 
 5253={ #Eratum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1117,8 +1117,8 @@
 
 5933={ #Belu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

@@ -1,7 +1,7 @@
 ﻿153={ #Mummirtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 1517={ #Pardêsu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 3513={ #Nakîru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -54,8 +54,8 @@
 
 3542={ #Kaqqar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -73,8 +73,8 @@
 
 3576={ #Nâru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -92,8 +92,8 @@
 
 3622={ #Mardîtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -111,8 +111,8 @@
 
 3878={ #Kaprabi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -130,8 +130,8 @@
 
 3943={ #Ziqni
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -162,8 +162,8 @@
 
 5844={ #Hîshtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -178,8 +178,8 @@
 
 5848={ #Magulû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -274,8 +274,8 @@
 
 5854={ #Berkabtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -412,8 +412,8 @@
 
 5866={ #Sulummê
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -444,8 +444,8 @@
 
 5868={ #Zârutu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -604,8 +604,8 @@
 
 5926={ #Istu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

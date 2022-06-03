@@ -16,8 +16,8 @@
 
 5791={ #Amidu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -38,8 +38,8 @@
 
 5792={ #Hashâdu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -884,8 +884,8 @@
 
 5845={ #Tabâ'u
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -916,8 +916,8 @@
 
 5928={ #Nekelmu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

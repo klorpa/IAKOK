@@ -2710,6 +2710,286 @@ country = {
 				6879 6878 6877 6876 6880 6875
 			}
 		}
+		ABE = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABF = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABG = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABG = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABI = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABK = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABL = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABM = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABN = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABO = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABP = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABR = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABS = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABT = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABU = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABW = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABY = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ABZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACA = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACB = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACC = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACD = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACE = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACF = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACG = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACH = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACI = { #Additional
+			government = despotic_monarchy
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 	}
 }
 

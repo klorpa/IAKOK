@@ -421,8 +421,8 @@
 
 5790={ #Adru
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -453,8 +453,8 @@
 
 5846={ #Rikbu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -884,8 +884,8 @@
 
 5927={ #Ullanumma
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

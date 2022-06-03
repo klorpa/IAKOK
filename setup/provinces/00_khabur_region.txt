@@ -149,8 +149,8 @@
 
 3704={ #Lubkêti
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -165,8 +165,8 @@
 
 3940={ #Tapâlu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -184,8 +184,8 @@
 
 4960={ #Mashâdu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -305,8 +305,8 @@
 
 4967={ #Kasûm
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="yahiran"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
