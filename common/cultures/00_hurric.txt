@@ -72,9 +72,7 @@
 		Ummashid.Ummashid.Ummashid.Ummashid
 	}
 	culture = {
-		mittanic = {}
-		bianilic = {}
-		manneanic = {}
+		shubrian = {}
 	}
 	
 	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }

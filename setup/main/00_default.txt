@@ -152,6 +152,12 @@ family={
 			culture = susanian
 			prestige=300
 		}
+		24={
+			key="Elamite"
+			owner=ABE
+			culture = susanian
+			prestige=300
+		}
 	}
 }
 
@@ -2302,10 +2308,10 @@ country = {
 			capital = 6208
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			poptype_rights = { 
@@ -2335,13 +2341,13 @@ country = {
 				6182 5975 5993 6124 6125 5997 5994 6123 5974 5986 5987 5973
 				6122 5998 6121 6714 6715 5996 5995 6120 6713 6712 6118 6119 6711 
 				6183 5977 5979 6023 6151 5988 5989 5976 5991 6024
-				6022 6021 6018 6176 6117 6116 6710 6709 6708 6115 6025
+				#6022 6021 6018 6176 6117 6116 6710 6709 6708 6115 6025
 				5968 6185 5969 5984 5970 6432 5938 5971 5972 5978 5985 5992
 				6017 6012 6016 6014 6019 6020 6013 6179 6015 6114
 				6046 6047 6045 6048 6050 6049 6064 6063 6061 6062 6004 6193
 				6071 6073 6077 6076 6078 6079 6075 6074 6072 6070 6069
 				6103 6699 6698 6104 6700 6105 6106 6701 
-				6087 6085 6084 6086 6088 6090 6089 6091 6093 6092
+				#6087 6085 6084 6086 6088 6090 6089 6091 6093 6092
 				6694 6100 6695 6101 6697 6102 6099 6098 6696
 				6057 6054 6051 6056 6052 6053 6058 5948 5949
 				6059 6060 6055 5947 5946 6097 6693 6692 5945
@@ -2349,7 +2355,7 @@ country = {
 				6030 6029 6111 6112 6705 6706 6110 6028 6113 6027 6026 6707
 				6006 6005 6007 6008 6009 6003 6204 6010 6011
 				6041 6039 6038 6037 6035 6034 6033 6036 6040 6031 6032
-				6000 6042 6043 6001 6002 6068 6067 6044 6065 6066
+				#6000 6042 6043 6001 6002 6068 6067 6044 6065 6066
 				5961 5960 5962 5959 5958 6421 6422 6423 6420 6144 6145 6424
 				5954 5955 6416 6141 6417 5956 5957  6418 6142 6143 6419 6655
 				6083 6108 6109 6704 6703 6702 6107 6081 6082 6080
@@ -2410,10 +2416,10 @@ country = {
 			monarchy_military_reforms = work_for_the_best
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -2710,15 +2716,29 @@ country = {
 				6879 6878 6877 6876 6880 6875
 			}
 		}
-		ABE = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABE = { #Babylon
+			government = aristocratic_monarchy
+			primary_culture = agade
+			religion = anunnaki_pantheon
+			capital = 6087
+			
+			monarchy_citizen_law = foreign_law_for_minorities
+			monarchy_military_reforms = work_for_the_best
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				6087 6085 6084 6086 6088 6090 6089 6091 6093 6092
+				6000 6042 6043 6001 6002 6068 6067 6044 6065 6066
+				6022 6021 6018 6176 6117 6116 6710 6709 6708 6115 6025
 			}
+			
+			family = 24
 		}
 		ABF = { #Additional
 			government = despotic_monarchy

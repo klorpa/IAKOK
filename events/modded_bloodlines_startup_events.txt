@@ -372,13 +372,17 @@ bloodlines_startup.15 = { #bloodline of Elam
 	trigger = {
 		OR = {
 			tag = AAB
+			tag = ABE
 		}
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:79
+				OR = {
+					has_same_family = char:79
+					has_same_family = char:80
+				}
 			}
 			add_trait = ofelam
 		
