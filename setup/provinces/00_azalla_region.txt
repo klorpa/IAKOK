@@ -217,8 +217,8 @@
 
 5778={ #Nupâru
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -236,8 +236,8 @@
 
 5779={ #Nassu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -252,8 +252,8 @@
 
 5780={ #Muzzerû
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -303,8 +303,8 @@
 
 5783={ #Ir'emum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -319,8 +319,8 @@
 
 5784={ #Barzanistun
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -335,8 +335,8 @@
 
 5785={ #Kimiltu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -483,15 +483,21 @@
 	}
 }
 
-5882={ #Ishtarûta
+5882={ #Gidara
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=7
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={
@@ -808,8 +814,8 @@
 
 5920={ #Sakanu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -824,8 +830,8 @@
 
 5921={ #Gasan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -840,17 +846,20 @@
 
 5922={ #Arhis
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=7
+	}
 	slaves={
-		amount=1
+		amount=4
 	}
 	tribesmen={
 		amount=2
@@ -859,8 +868,8 @@
 
 5923={ #Suharruru
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -910,8 +919,8 @@
 
 5935={ #Maqatu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0

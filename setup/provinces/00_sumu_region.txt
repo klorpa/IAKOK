@@ -146,8 +146,8 @@
 
 4118={ #Nepîtum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

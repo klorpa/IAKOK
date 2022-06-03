@@ -1,7 +1,7 @@
 ﻿10={ #Huliam
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 27={ #Shaltu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 52={ #Pashi
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 67={ #Shilati
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 119={ #Elamkû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -86,8 +86,8 @@
 
 145={ #Hutnû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -102,8 +102,8 @@
 
 179={ #Ahâtûtu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -115,8 +115,8 @@
 
 193={ #Zirkuh
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -131,8 +131,8 @@
 
 213={ #Hashadu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -147,18 +147,13 @@
 
 473={ #Dashpu
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="wvenedi"
-		amount=2
-	}
-	citizen={
-		culture="wvenedi"
 		amount=2
 	}
 	freemen={
@@ -174,8 +169,8 @@
 
 511={ #Riqqû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -190,18 +185,16 @@
 
 1453={ #Nîru
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="wvenedi"
 		amount=2
 	}
 	citizen={
-		culture="wvenedi"
 		amount=2
 	}
 	freemen={
@@ -217,8 +210,8 @@
 
 1545={ #Mîru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -233,8 +226,8 @@
 
 1563={ #Shummannu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -249,8 +242,8 @@
 
 1653={ #Tell Abraq
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -271,8 +264,8 @@
 
 1730={ #Adîrish
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -290,8 +283,8 @@
 
 1799={ #Umm an-Nar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -312,8 +305,8 @@
 
 1804={ #Sirri
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -328,8 +321,8 @@
 
 1807={ #Ubbubu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -347,8 +340,8 @@
 
 1809={ #Arakata
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=0
@@ -363,18 +356,16 @@
 
 1826={ #Shakâru
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="wvenedi"
 		amount=2
 	}
 	citizen={
-		culture="wvenedi"
 		amount=2
 	}
 	freemen={
@@ -390,8 +381,8 @@
 
 1839={ #Sha'qâti
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -406,8 +397,8 @@
 
 1851={ #Napîshu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -425,8 +416,8 @@
 
 1995={ #Failaka
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -448,8 +439,8 @@
 
 2074={ #Forur
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=3
@@ -464,8 +455,8 @@
 
 2076={ #Moussa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=3
@@ -480,8 +471,8 @@
 
 2082={ #Huzzû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=3
@@ -496,8 +487,8 @@
 
 2091={ #Nu'ayr
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=3
@@ -512,8 +503,8 @@
 
 2092={ #Purîdu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=3
@@ -528,8 +519,8 @@
 
 2111={ #Qablu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -544,8 +535,8 @@
 
 2139={ #Pêrtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -560,8 +551,8 @@
 
 2141={ #Das
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=0
@@ -576,8 +567,8 @@
 
 2159={ #Labiânu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -592,8 +583,8 @@
 
 2191={ #Shaptu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -608,8 +599,8 @@
 
 2204={ #Delma
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -624,8 +615,8 @@
 
 2410={ #Pûqu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -637,8 +628,8 @@
 
 2425={ #Pêmu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -650,8 +641,8 @@
 
 2429={ #Pappât
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -666,8 +657,8 @@
 
 2490={ #Targumu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -679,8 +670,8 @@
 
 2637={ #Yas
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -695,27 +686,17 @@
 
 5666={ #Dilmun
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="wvenedi"
 		amount=3
 	}
-	nobles={
-		culture="wvenedi"
-		amount=1
-	}
 	citizen={
-		culture="wvenedi"
 		amount=6
-	}
-	citizen={
-		culture="wvenedi"
-		amount=3
 	}
 	citizen={
 		amount=6
@@ -729,13 +710,12 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_meskilak
 }
 
 6716={ #Qitrubu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -750,8 +730,8 @@
 
 6717={ #Labasu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="agade"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -766,8 +746,8 @@
 
 6831={ #Hashûr
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -782,8 +762,8 @@
 
 6832={ #Harbutu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -798,8 +778,8 @@
 
 6833={ #Kullu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -814,8 +794,8 @@
 
 6834={ #Nashpaku
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -830,8 +810,8 @@
 
 6835={ #Kurillu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -846,8 +826,8 @@
 
 6836={ #Kalkaltu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -862,8 +842,8 @@
 
 6837={ #Gissish
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -878,8 +858,8 @@
 
 6838={ #Dalû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -894,8 +874,8 @@
 
 6839={ #Aqqullu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -910,8 +890,8 @@
 
 6840={ #Nassishu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="dye"
 	civilization_value=0
 	barbarian_power=0
@@ -926,8 +906,8 @@
 
 6841={ #Sikkatânu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -942,8 +922,8 @@
 
 6842={ #Mishlâ
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -958,8 +938,8 @@
 
 6843={ #Manât
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -974,8 +954,8 @@
 
 6844={ #Ita
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -990,8 +970,8 @@
 
 6845={ #Para'u
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1006,8 +986,8 @@
 
 6846={ #Nakmartu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1022,8 +1002,8 @@
 
 6847={ #Summunu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1038,8 +1018,8 @@
 
 6848={ #Misissa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1054,8 +1034,8 @@
 
 6849={ #Igibû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1070,8 +1050,8 @@
 
 6850={ #Errê
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1086,8 +1066,8 @@
 
 6851={ #Sarâtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1102,8 +1082,8 @@
 
 6852={ #Shuplu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1118,8 +1098,8 @@
 
 6853={ #Uldu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1134,8 +1114,8 @@
 
 6854={ #Zâzu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1150,8 +1130,8 @@
 
 6855={ #Rahû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1166,8 +1146,8 @@
 
 6856={ #Muttarrittum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1182,8 +1162,8 @@
 
 6858={ #Tarut
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -1204,8 +1184,8 @@
 
 6859={ #Naiabtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1220,8 +1200,8 @@
 
 6861={ #Halâbu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -1239,8 +1219,8 @@
 
 6862={ #Bâmtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1258,8 +1238,8 @@
 
 6863={ #Nasku
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1274,8 +1254,8 @@
 
 6864={ #Bashmu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1290,8 +1270,8 @@
 
 6865={ #Serru
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1303,8 +1283,8 @@
 
 6866={ #Qubirtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1322,8 +1302,8 @@
 
 6867={ #Hulmâhu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1338,8 +1318,8 @@
 
 6868={ #Shammanu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1351,8 +1331,8 @@
 
 6869={ #Urnu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1364,8 +1344,8 @@
 
 6870={ #Pashâlu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1380,8 +1360,8 @@
 
 6871={ #Kussimtu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1393,8 +1373,8 @@
 
 6872={ #Alittu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1406,8 +1386,8 @@
 
 6873={ #Parâshu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1419,8 +1399,8 @@
 
 6874={ #Nûnu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1432,8 +1412,8 @@
 
 6875={ #Enqêtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1448,8 +1428,8 @@
 
 6876={ #Ersuppu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
@@ -1464,8 +1444,8 @@
 
 6877={ #Nûni
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1480,8 +1460,8 @@
 
 6878={ #Al-Ain
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -1499,8 +1479,8 @@
 
 6879={ #Hili
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -1521,8 +1501,8 @@
 
 6880={ #Sillatu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="maganese"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1537,8 +1517,8 @@
 
 6881={ #Isqillatu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1550,8 +1530,8 @@
 
 6882={ #Saiâdu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
@@ -1563,8 +1543,8 @@
 
 6883={ #Yalu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1579,8 +1559,8 @@
 
 6884={ #Uridimmu
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1595,8 +1575,8 @@
 
 6885={ #Urmahu
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1611,8 +1591,8 @@
 
 6886={ #Ya'alu
 	terrain="oasis"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -1627,8 +1607,8 @@
 
 6887={ #Gerru
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1640,8 +1620,8 @@
 
 6888={ #Arnabtu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -1653,8 +1633,8 @@
 
 6889={ #Harriru
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dilmunite"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

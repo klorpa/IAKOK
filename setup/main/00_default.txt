@@ -2618,94 +2618,96 @@ country = {
 				5922 5779 5935 5778 5921 5920 5784 5783 5785
 			}
 		}
-		AAT = { #Additional
+		AAT = { #Bit-Yahiri
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = yahiran
+			religion = anunnaki_pantheon
+			capital = 3878
 			
 			own_control_core = 	{ 
-				
+				5868 3904 3878 5933 5253 2156 3702 3943 3251 3505
+				3622 3208 153 3940 3542 1517 3576 3513 3704 4960 
+				5866 5854 4967 5872
 			}
 		}
-		AAU = { #Additional
+		AAU = { #Bit-Zamani
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = zamanite
+			religion = anunnaki_pantheon
+			capital = 5791
 			
 			own_control_core = 	{ 
-				
+				5791 5790 5927 5846 5928 5792 5845 5926 5848 5844 
 			}
 		}
-		AAW = { #Additional
+		AAW = { #Dilmun
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = dilmunite
+			religion = anunnaki_pantheon
+			capital = 5666
 			
 			own_control_core = 	{ 
-				
+				5666 1826 473 1453
 			}
 		}
-		AAY = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+		AAY = { #Uridimmu
+			government = tribal_chiefdom
+			primary_culture = arab
+			religion = arabian_pantheon
+			capital = 6884
 			
 			own_control_core = 	{ 
-				
+				6884 6886 6885
 			}
 		}
-		AAZ = { #Additional
+		AAZ = { #Tarut
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = dilmunite
+			religion = anunnaki_pantheon
+			capital = 6858
 			
 			own_control_core = 	{ 
-				
+				6858 10
 			}
 		}
-		ABA = { #Additional
+		ABA = { #Failaka
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = dilmunite
+			religion = anunnaki_pantheon
+			capital = 1995
 			
 			own_control_core = 	{ 
-				
+				1995
 			}
 		}
-		ABB = { #Additional
+		ABB = { #Tell Abraq
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 1653
 			
 			own_control_core = 	{ 
-				
+				1653 6855 6856
 			}
 		}
-		ABC = { #Additional
+		ABC = { #Umm an-Nar
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 1799
 			
 			own_control_core = 	{ 
-				
+				1799 6848 6850
 			}
 		}
-		ABD = { #Additional
+		ABD = { #Qade
 			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+			primary_culture = maganese
+			religion = arabian_pantheon
+			capital = 6879
 			
 			own_control_core = 	{ 
-				
+				6879 6878 6877 6876 6880 6875
 			}
 		}
 	}

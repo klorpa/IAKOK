@@ -148,6 +148,8 @@
 		tadmori = {}
 		bahianic = {}
 		mamblan = {}
+		yahiran = {}
+		zamanite = {}
 		rapiqan = {}
 		laqan = {}
 		sirqan = {}

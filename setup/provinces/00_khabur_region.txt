@@ -346,8 +346,8 @@
 
 4969={ #Mâ'u
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -365,8 +365,8 @@
 
 4970={ #Kuzbu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
