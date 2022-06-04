@@ -66,8 +66,8 @@
 	}
 	barbarian_names = { SITONES FENNI VENEDAE NAVARI VELTAE }
 	
-	graphical_culture = german_gfx
+	graphical_culture = aegean_gfx
 	ethnicities = {
-		10 = germanic
+		10 = aegean
 	}
 }

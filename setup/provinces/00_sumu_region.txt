@@ -90,22 +90,25 @@
 	}
 }
 
-3622={ #Mardîtu
+3622={ #Hassaka
 	terrain="plains"
 	culture="yahiran"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 

@@ -149,6 +149,7 @@
 		bahianic = {}
 		mamblan = {}
 		yahiran = {}
+		yakinite = {}
 		zamanite = {}
 		rapiqan = {}
 		laqan = {}

@@ -5,7 +5,7 @@
 	}
 	c:JAO = {
 		declare_war_with_wargoal = {
-			war_goal = diadochi_wargoal
+			war_goal = event_conquest_wargoal
 		    province = p:4284
 			target = c:JAE
 		}
@@ -32,7 +32,7 @@ Osorkons_rebelion_conflict_effect = {
 	}
 	c:EAJ = {
 		declare_war_with_wargoal = {
-			war_goal = diadochi_wargoal
+			war_goal = event_conquest_wargoal
 		    province = p:2571
 			target = c:EAI
 		}
@@ -60,7 +60,7 @@ Distatnt_descendent_of_elam_conflict_effect = {
 	}
 	c:ABR = {
 		declare_war_with_wargoal = {
-			war_goal = diadochi_wargoal
+			war_goal = event_conquest_wargoal
 		    province = p:918
 			target = c:ADZ
 		}

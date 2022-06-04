@@ -221,7 +221,7 @@ deity_mtsovinar = { # ECONOMY
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			primary_culture = bianilic
+			#primary_culture = bianilic
 			common_deity_trigger = { RELIGION = armenic_pantheon }
 			deity:omen_mtsovinar = {
 				holy_site_deity_check_trigger = yes

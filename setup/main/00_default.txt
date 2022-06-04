@@ -141,8 +141,8 @@ family={
 			prestige=300
 		}
 		22={
-			key="Bit-bazi"
-			owner=AAC
+			key="Bit-Bazi"
+			owner=AAA
 			culture = kassite
 			prestige=300
 		}
@@ -2628,7 +2628,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = yahiran
 			religion = anunnaki_pantheon
-			capital = 3878
+			capital = 3622
 			
 			own_control_core = 	{ 
 				5868 3904 3878 5933 5253 2156 3702 3943 3251 3505
@@ -2740,10 +2740,10 @@ country = {
 			
 			family = 24
 		}
-		ABF = { #Additional
+		ABF = { #Bit-Yakin
 			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
+			primary_culture = yakinite
+			religion = anunnaki_pantheon
 			capital = 6879
 			
 			own_control_core = 	{ 
