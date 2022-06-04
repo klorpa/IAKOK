@@ -195,7 +195,7 @@
 
 5972={ #Kua
 	terrain="marsh"
-	culture="agade"
+	culture="shilanian"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -211,7 +211,7 @@
 
 5973={ #Haaki
 	terrain="marsh"
-	culture="agade"
+	culture="shilanian"
 	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -227,7 +227,7 @@
 
 5974={ #Kissik
 	terrain="marsh"
-	culture="agade"
+	culture="shilanian"
 	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -297,7 +297,7 @@
 
 5978={ #Akalum
 	terrain="marsh"
-	culture="agade"
+	culture="shilanian"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -426,7 +426,7 @@
 
 5985={ #Emuqa
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -442,7 +442,7 @@
 
 5986={ #Belet
 	terrain="marsh"
-	culture="agade"
+	culture="shilanian"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -458,7 +458,7 @@
 
 5987={ #Saquutu
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -474,7 +474,7 @@
 
 5988={ #Darisam
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -490,7 +490,7 @@
 
 5989={ #Badgaldingir
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -506,7 +506,7 @@
 
 5990={ #Alhalsu
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -525,7 +525,7 @@
 
 5991={ #Durani
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -541,7 +541,7 @@
 
 5992={ #Imtahas
 	terrain="marsh"
-	culture="agade"
+	culture="dakurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -1120,7 +1120,7 @@
 
 6123={ #Tabannusi
 	terrain="flood_plain"
-	culture="agade"
+	culture="amukanese"
 	religion="anunnaki_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -1139,7 +1139,7 @@
 
 6124={ #Qamu
 	terrain="marsh"
-	culture="agade"
+	culture="amukanese"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1155,7 +1155,7 @@
 
 6125={ #Sayyamum
 	terrain="marsh"
-	culture="agade"
+	culture="amukanese"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0

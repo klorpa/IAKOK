@@ -957,7 +957,7 @@
 
 6098={ #Zumru
 	terrain="flood_plain"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -973,7 +973,7 @@
 
 6099={ #Duranki
 	terrain="plains"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -989,7 +989,7 @@
 
 6100={ #Akk
 	terrain="flood_plain"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -1005,7 +1005,7 @@
 
 6101={ #Esentu
 	terrain="flood_plain"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1021,7 +1021,7 @@
 
 6102={ #Mummu
 	terrain="flood_plain"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1307,7 +1307,7 @@
 
 6694={ #Karballatu
 	terrain="flood_plain"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -1323,7 +1323,7 @@
 
 6695={ #Anur
 	terrain="plains"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1339,7 +1339,7 @@
 
 6696={ #Enu
 	terrain="plains"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1355,7 +1355,7 @@
 
 6697={ #Usemi
 	terrain="plains"
-	culture="agade"
+	culture="ruan"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0

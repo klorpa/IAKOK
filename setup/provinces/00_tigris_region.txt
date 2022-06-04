@@ -73,7 +73,7 @@
 
 6150={ #Hurasham
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -89,7 +89,7 @@
 
 6152={ #Gushkin
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -105,7 +105,7 @@
 
 6153={ #Damiq
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -121,7 +121,7 @@
 
 6154={ #Se'im
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -137,7 +137,7 @@
 
 6155={ #Rabum
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -329,7 +329,7 @@
 
 6173={ #Baraggal
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -345,7 +345,7 @@
 
 6174={ #Esharra
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -361,7 +361,7 @@
 
 6175={ #Dadmesun
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -377,7 +377,7 @@
 
 6177={ #Kaspu
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -393,7 +393,7 @@
 
 6189={ #Nusku
 	terrain="marsh"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
@@ -674,7 +674,7 @@
 
 6323={ #Kissum
 	terrain="hills"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -690,7 +690,7 @@
 
 6324={ #Etutu
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -706,7 +706,7 @@
 
 6325={ #Asbu
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -738,7 +738,7 @@
 
 6327={ #Dumusal
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -754,7 +754,7 @@
 
 6328={ #Ud
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -770,7 +770,7 @@
 
 6329={ #Mitu
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -789,7 +789,7 @@
 
 6330={ #Mitutu
 	terrain="plains"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -821,7 +821,7 @@
 
 6332={ #Purussum
 	terrain="hills"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1073,7 +1073,7 @@
 
 6433={ #Yarahhu
 	terrain="marsh"
-	culture="agade"
+	culture="hashmaric"
 	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -1210,7 +1210,7 @@
 
 6681={ #Ulitu
 	terrain="hills"
-	culture="agade"
+	culture="puqudian"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0

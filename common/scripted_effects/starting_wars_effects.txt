@@ -53,21 +53,33 @@ Osorkons_rebelion_conflict_effect = {
 }
 
 Distatnt_descendent_of_elam_conflict_effect = {
-	c:ADZ = {
-		add_alliance = ABH
+	c:ABE = {
 		add_alliance = ABJ
+		add_alliance = ABI
+		add_alliance = ABG
+		add_alliance = ABH
+		add_alliance = ABM
 		add_alliance = ABL
+		add_alliance = ABN
+		add_alliance = ABO
+		add_alliance = ABF
 	}
-	c:ABR = {
+	c:AAA = {
 		declare_war_with_wargoal = {
 			war_goal = event_conquest_wargoal
 		    province = p:918
-			target = c:ADZ
+			target = c:ABE
 		}
 	}
-	c:ADZ = {
-		add_alliance = ABH
-		add_alliance = ABJ
-		add_alliance = ABL
+	c:ABE = {
+		break_alliance = ABJ
+		break_alliance = ABI
+		break_alliance = ABG
+		break_alliance = ABH
+		break_alliance = ABM
+		break_alliance = ABL
+		break_alliance = ABN
+		break_alliance = ABO
+		break_alliance = ABF
 	}
 }

@@ -2314,48 +2314,34 @@ country = {
 				religious_tech= { level=1 progress=0  }
 			}
 			
-			poptype_rights = { 
-				{
-					culture = agade 
-					type = citizen
-				}
-			}
-			
 			own_control_core = 	{ 
 				6126 6650 5755 5757 5756 6652 6243 6242 6156 6500 5754 6157
 				6134 6135 6410 6409 6407 6133 6408 6406 6132 6411 6136
 				6129 6130 6725 6128 5899 5898 6651 6724 6131 6405
 				5753 5699 5698 5697 6247 6237 6233 5696 6127 5695
-				5694 5693 6232 6235 6231 6234 6236 6228 6230
 				6245 6241 6246 6238 6239 6244 6240 6229 6226 6225 6224
 				6258 6259 6255 6254 6208 6211 6213 6212 6227 6260
 				6158 6159 6160 6161 6162 6210 6209 6207 6256 6257
-				6153 6154 6177 6175 6174 6173 6150 6433 6152 6155
 				6653 6146 6147 6426 6148 6149 6427 6430 6425 6654
 				6168 6169 6170 6171 6172 6342 6341 6314 6340 6326 6300
 				6163 6444 6443 6164 6442 6165 6166 6309 6441 6308 6167
-				6681 6332 6323 6329 6327 6330 6324 6325 6189 6328
 				6338 6339 6337 6336 6335 6682 6333 6331 6279 6261
 				6310 6304 6305 6303 6334 6311 6306 6312 6307 6440 6313
-				5965 5966 6429 5964 5981 5982 6431 5980 5990 5967 5983 5963 6428
-				6182 5975 5993 6124 6125 5997 5994 6123 5974 5986 5987 5973
+				5965 5966 6429 5964 5981 5982 6431 5980 5967 5983 5963 6428
+				6182 5975 5993 5997 5994
 				6122 5998 6121 6714 6715 5996 5995 6120 6713 6712 6118 6119 6711 
-				6183 5977 5979 6023 6151 5988 5989 5976 5991 6024
-				#6022 6021 6018 6176 6117 6116 6710 6709 6708 6115 6025
-				5968 6185 5969 5984 5970 6432 5938 5971 5972 5978 5985 5992
+				6183 5977 5979 6023 6151 5976 6024
+				5968 6185 5969 5984 5970 6432 5938 5971
 				6017 6012 6016 6014 6019 6020 6013 6179 6015 6114
 				6046 6047 6045 6048 6050 6049 6064 6063 6061 6062 6004 6193
 				6071 6073 6077 6076 6078 6079 6075 6074 6072 6070 6069
 				6103 6699 6698 6104 6700 6105 6106 6701 
-				#6087 6085 6084 6086 6088 6090 6089 6091 6093 6092
-				6694 6100 6695 6101 6697 6102 6099 6098 6696
 				6057 6054 6051 6056 6052 6053 6058 5948 5949
 				6059 6060 6055 5947 5946 6097 6693 6692 5945
 				6137 6412 5950 5951 5952 6413 6138 6414 6139 5953 6415 6140
 				6030 6029 6111 6112 6705 6706 6110 6028 6113 6027 6026 6707
 				6006 6005 6007 6008 6009 6003 6204 6010 6011
 				6041 6039 6038 6037 6035 6034 6033 6036 6040 6031 6032
-				#6000 6042 6043 6001 6002 6068 6067 6044 6065 6066
 				5961 5960 5962 5959 5958 6421 6422 6423 6420 6144 6145 6424
 				5954 5955 6416 6141 6417 5956 5957  6418 6142 6143 6419 6655
 				6083 6108 6109 6704 6703 6702 6107 6081 6082 6080
@@ -2390,8 +2376,7 @@ country = {
 				6507 6506 6508 6509 6510 6511 6513 6512 6469 6514
 				6301 6302 6371 6502 6372 6503 6504 6382 6383 6505
 				6359 6358 6370 6369 6360 6368 6366 6367 6361 6354
-				6396 6395 6400 6398 6397 6364 6363 6365 6362 6352 6353
-				6316 6315 6317 6318 6187 6350 6351 6186 6184 6181 6180 6178 
+				6396 6395 6400 6398 6397 6364 6363 6365 6362 6352 6353 
 				6345 6320 6319 6321 6355 6347 6346 6349 6348 6356 6357
 				6617 6479 6483 6480 6481 6482 6475 6618 6478 6485 6484 6486
 				6492 6488 6489 6491 6490 6520 6615 6487 6521 6525 6522
@@ -2403,6 +2388,7 @@ country = {
 				6552 6550 6619 6551 6554 6609 6608 6553 6556 6620 6607 6555
 				6605 6539 6540 6541 6543 6545 6544 6548 6546 6549 6547
 				6535 6604 6532 6528 6533 6536 6542 6537 6606 6538 6534
+				6293 6294 6295 6297 6298 6299 6188 6343 6344 6322
 			}
 			
 			family = 23
@@ -2741,149 +2727,151 @@ country = {
 			family = 24
 		}
 		ABF = { #Bit-Yakin
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = yakinite
 			religion = anunnaki_pantheon
-			capital = 6879
+			capital = 6316
 			
 			own_control_core = 	{ 
-				
+				6316 6315 6317 6318 6187 6350 6351 6186 6184 6181 6180 6178 
 			}
 		}
-		ABG = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABG = { #Gambulu
+			government = tribal_kingdom
+			primary_culture = gambulu
+			religion = anunnaki_pantheon
+			capital = 6436
 			
 			own_control_core = 	{ 
-				
+				6436 6437 6439 6438 6434 6435
 			}
 		}
-		ABG = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABH = { #Puqudu
+			government = tribal_kingdom
+			primary_culture = puqudian
+			religion = anunnaki_pantheon
+			capital = 6329
 			
 			own_control_core = 	{ 
-				
+				6681 6332 6323 6329 6327 6330 6324 6325 6189 6328
 			}
 		}
-		ABI = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABI = { #Litau
+			government = tribal_kingdom
+			primary_culture = litaian
+			religion = anunnaki_pantheon
+			capital = 6231
 			
 			own_control_core = 	{ 
-				
+				5694 5693 6232 6235 6231 6234 6236 6228 6230
 			}
 		}
-		ABJ = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABJ = { #Rua
+			government = tribal_kingdom
+			primary_culture = ruan
+			religion = anunnaki_pantheon
+			capital = 6694
 			
 			own_control_core = 	{ 
-				
+				6694 6100 6695 6101 6697 6102 6099 6098 6696
 			}
 		}
-		ABK = { #Additional
+		ABK = { #Namar
 			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+			primary_culture = namaric
+			religion = kassite_pantheon
+			capital = 6217
 			
 			own_control_core = 	{ 
-				
+				6217 6250 6223 6222 6216 6251 6263 6265 6264 6262 6249 6219
+				6296 6252 6253 6215 6214
 			}
 		}
-		ABL = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABL = { #Bit-Dakuru
+			government = tribal_kingdom
+			primary_culture = dakurite
+			religion = anunnaki_pantheon
+			capital = 5991
 			
 			own_control_core = 	{ 
-				
+				5991 5987 5985 5992 5990 5989 5988
 			}
 		}
-		ABM = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABM = { #Bit-Amukkani
+			government = tribal_kingdom
+			primary_culture = amukanese
+			religion = anunnaki_pantheon
+			capital = 6124
 			
 			own_control_core = 	{ 
-				
+				6124 6123 6125 6716 6717
 			}
 		}
-		ABN = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABN = { #Bit-Shilani
+			government = tribal_kingdom
+			primary_culture = shilanian
+			religion = anunnaki_pantheon
+			capital = 5973
 			
 			own_control_core = 	{ 
-				
+				5973 5986 5974 5978 5972
 			}
 		}
-		ABO = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABO = { #Bit-Hashmar
+			government = tribal_kingdom
+			primary_culture = hashmaric
+			religion = anunnaki_pantheon
+			capital = 6174
 			
 			own_control_core = 	{ 
-				
+				6153 6154 6177 6175 6174 6173 6150 6433 6152 6155
 			}
 		}
-		ABP = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABP = { #Utu
+			government = tribal_kingdom
+			primary_culture = utunian
+			religion = anunnaki_pantheon
+			capital = 5746
 			
 			own_control_core = 	{ 
-				
+				5748 5747 6726 5689 5749 6718 5896 5897
+				5746 6649 5672 5673
 			}
 		}
-		ABR = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABR = { #Hiranu
+			government = tribal_kingdom
+			primary_culture = hiranic
+			religion = anunnaki_pantheon
+			capital = 5648
 			
 			own_control_core = 	{ 
-				
+				5648 5681 5752 5744 5687 5751 6463 5745
 			}
 		}
-		ABS = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABS = { #Rabilu
+			government = tribal_kingdom
+			primary_culture = rabilan
+			religion = anunnaki_pantheon
+			capital = 5686
 			
 			own_control_core = 	{ 
-				
+				5685 5684 6460 5686 5555 5556 5688 5554 6459 5682 5683
 			}
 		}
-		ABT = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
-			capital = 6879
+		ABT = { #Rede
+			government = tribal_kingdom
+			primary_culture = redan
+			religion = anunnaki_pantheon
+			capital = 5676
 			
 			own_control_core = 	{ 
-				
+				5676 6455 6456 6458 6457 5678
 			}
 		}
-		ABU = { #Additional
-			government = despotic_monarchy
-			primary_culture = maganese
-			religion = arabian_pantheon
+		ABU = { #Karma
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
 			capital = 6879
 			
 			own_control_core = 	{ 
@@ -2893,7 +2881,7 @@ country = {
 		ABW = { #Additional
 			government = despotic_monarchy
 			primary_culture = maganese
-			religion = arabian_pantheon
+			religion = anunnaki_pantheon
 			capital = 6879
 			
 			own_control_core = 	{ 

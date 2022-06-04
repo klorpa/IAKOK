@@ -1,7 +1,7 @@
 ﻿6178={ #Bitum
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -19,8 +19,8 @@
 
 6180={ #Ehus
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 6181={ #Sharur
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -51,8 +51,8 @@
 
 6184={ #Karra
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 6186={ #Hamta
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -83,8 +83,8 @@
 
 6187={ #Emedu
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
@@ -131,8 +131,8 @@
 
 6315={ #Kaspam
 	terrain="marsh"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -147,8 +147,8 @@
 
 6316={ #Dur-Yakin
 	terrain="plains"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -169,8 +169,8 @@
 
 6317={ #Ezeru
 	terrain="plains"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -185,8 +185,8 @@
 
 6318={ #Niksum
 	terrain="plains"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -338,8 +338,8 @@
 
 6350={ #Lagab
 	terrain="plains"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -354,8 +354,8 @@
 
 6351={ #Nagu
 	terrain="plains"
-	culture="susanian"
-	religion="elamite_pantheon"
+	culture="yakinite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

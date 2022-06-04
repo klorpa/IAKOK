@@ -49,7 +49,7 @@ AAC = {
 	}
 }
 
-ADZ = {
+ABE = {
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
 	color2 = "roman_gold"

@@ -714,7 +714,7 @@
 
 6716={ #Qitrubu
 	terrain="plains"
-	culture="agade"
+	culture="amukanese"
 	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -730,7 +730,7 @@
 
 6717={ #Labasu
 	terrain="plains"
-	culture="agade"
+	culture="amukanese"
 	religion="anunnaki_pantheon"
 	trade_goods="fish"
 	civilization_value=0

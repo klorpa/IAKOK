@@ -25,8 +25,7 @@
 	}
 	culture = {
 		kassite = {}
-		lullubian = {}
-		parsuan = {}
+		namaric = {}
 	}
 	
 	barbarian_names = { 

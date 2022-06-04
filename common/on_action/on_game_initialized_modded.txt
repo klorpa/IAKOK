@@ -84,7 +84,7 @@ on_game_initialized = {
 			#}
 			David_Ishbaal_conflict_effect = yes
 			Osorkons_rebelion_conflict_effect = yes
-			#Distatnt_descendent_of_elam_conflict_effect = yes
+			Distatnt_descendent_of_elam_conflict_effect = yes
 		}
 	}
 }
