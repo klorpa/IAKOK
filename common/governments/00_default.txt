@@ -11,6 +11,7 @@ aristocratic_republic = { #military party
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 35
@@ -35,6 +36,7 @@ theocratic_republic = { #religious party
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 35
@@ -56,6 +58,7 @@ oligarchic_republic = { #civic party
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 40
@@ -79,6 +82,7 @@ democratic_republic = { #populist/stepping stone party
 	}
 	base = {
 		country_civilization_value = 15
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 25
@@ -102,6 +106,7 @@ plutocratic_republic = { #mercantile party
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 35
@@ -127,6 +132,7 @@ athenian_republic = { # Mission Reward
 	}
 	base = {
 		country_civilization_value = 25
+		naval_unit_attrition = -1
 	}
 	
 	minimum_electable_age = 25
@@ -151,6 +157,7 @@ dictatorship = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	ruler_consort_benefits = yes
@@ -173,6 +180,7 @@ despotic_monarchy = { #stepping stone/starting type
 	}
 	base = {
 		country_civilization_value = 15
+		naval_unit_attrition = -1
 	}
 	
 	election_delay = 0
@@ -197,6 +205,7 @@ aristocratic_monarchy = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	election_delay = 0
 	
@@ -219,6 +228,7 @@ stratocratic_monarchy = {
 	base = {
 		country_civilization_value = 20
 		global_freemen_city_desired_pop_ratio = 0.1
+		naval_unit_attrition = -1
 	}
 	
 	election_delay = 0
@@ -239,6 +249,7 @@ theocratic_monarchy = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	use_regnal_numbers = yes
@@ -258,6 +269,7 @@ plutocratic_monarchy = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 	
 	use_regnal_numbers = yes
@@ -282,6 +294,7 @@ imperium = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 
 	use_regnal_numbers = yes
@@ -309,6 +322,7 @@ imperial_cult = {
 	}
 	base = {
 		country_civilization_value = 20
+		naval_unit_attrition = -1
 	}
 
 	use_regnal_numbers = yes
@@ -338,6 +352,7 @@ tribal_chiefdom = {
 		global_tribesmen_happyness = happiness_large_svalue
 		levy_size_multiplier = 0.1
 		land_morale_modifier = -0.2
+		naval_unit_attrition = -1
 	}
 
 	election_delay = 0
@@ -359,6 +374,7 @@ tribal_kingdom = {
 		country_civilization_value = 5
 		levy_size_multiplier = 0.1
 		land_morale_modifier = -0.2
+		naval_unit_attrition = -1
 	}
 
 	election_delay = 0
@@ -384,6 +400,7 @@ tribal_federation = {
 		country_civilization_value = 10
 		levy_size_multiplier = 0.05
 		land_morale_modifier = -0.05
+		naval_unit_attrition = -1
 	}
 
 	election_delay = 0

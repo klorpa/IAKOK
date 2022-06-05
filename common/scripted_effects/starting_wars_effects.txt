@@ -67,7 +67,7 @@ Distatnt_descendent_of_elam_conflict_effect = {
 	c:AAA = {
 		declare_war_with_wargoal = {
 			war_goal = event_conquest_wargoal
-		    province = p:918
+		    province = p:6087
 			target = c:ABE
 		}
 	}
