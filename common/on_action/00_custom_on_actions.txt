@@ -7,6 +7,12 @@
 	}
 }
 
+on_province_occupied = {
+	events = {
+		crashfix.1
+	}
+}
+
 passover_supported_characters_pulse = 
 {
 	trigger = {
