@@ -700,7 +700,7 @@
 
 3740={ #Mahrusah
 	terrain="plains"
-	culture="aram_arpadic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -710,7 +710,7 @@
 		amount=2
 	}
 	tribesmen={
-		amount=3
+		amount=5
 	}
 }
 
@@ -1096,7 +1096,7 @@
 
 3767={ #Zoran
 	terrain="desert"
-	culture="aram_arpadic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1125,7 +1125,7 @@
 
 3769={ #Adanim
 	terrain="desert"
-	culture="aram_arpadic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="salt"
 	civilization_value=0

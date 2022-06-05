@@ -56,8 +56,8 @@
 		SARAKENOI ITOURAIOI SCENITAE HEMESENOI ZABADAIOI AOUIDENOI CHALUTAIOI AGRAIOI EPIMARANITAE
 	}
 	
-	graphical_culture = aegean_gfx
+	graphical_culture = greek_gfx
 	ethnicities = {
-		10 = aegean
+		10 = greek
 	}
 }

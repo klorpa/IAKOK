@@ -924,7 +924,7 @@
 
 3738={ #Laqbah
 	terrain="plains"
-	culture="bit_adinic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -940,7 +940,7 @@
 
 3739={ #Anbura
 	terrain="plains"
-	culture="bit_adinic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -956,7 +956,7 @@
 
 3741={ #Asilah
 	terrain="plains"
-	culture="bit_adinic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -988,7 +988,7 @@
 
 3771={ #Safarin
 	terrain="desert"
-	culture="bit_adinic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0

@@ -48,8 +48,8 @@
 
 5557={ #Rû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -64,8 +64,8 @@
 
 5558={ #Mesukku
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -80,8 +80,8 @@
 
 5559={ #Surdû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -96,8 +96,8 @@
 
 5560={ #Kubshânu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -520,8 +520,8 @@
 
 5690={ #Til-sa-Abtani
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -536,8 +536,8 @@
 
 5691={ #Emqu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -552,8 +552,8 @@
 
 5692={ #Pallahum
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -676,8 +676,8 @@
 
 5750={ #Inimma
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -730,8 +730,8 @@
 
 5892={ #Shukû
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -746,8 +746,8 @@
 
 5893={ #Zîqtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -762,8 +762,8 @@
 
 5894={ #Kalakku
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -778,8 +778,8 @@
 
 5895={ #Ruggubu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karman"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

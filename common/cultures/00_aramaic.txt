@@ -152,6 +152,8 @@
 		rabilan = {}
 		redan = {}
 		karman = {}
+		assan = {}
+		kalakite = {}
 		yahiran = {}
 		yakinite = {}
 		gambulu = {}

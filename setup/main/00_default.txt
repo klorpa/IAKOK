@@ -1947,9 +1947,9 @@ country = {
 			capital = 3633
 			
 			own_control_core = 	{ 
-				3633 3770 3781 3782 3786 3788 3791 3787 3792 3790 3631 3628 
+				3633 3782 3786 3788 3791 3787 3792 3790 3631 3628 
 				3659 3658 3649 3657 3765 3783 3785 3784 3665 3789 3640 3655 
-				3653 3763 3760 3648 3652 3650 4001 3768 3767 3769 3740 3758
+				3653 3763 3760 3648 3652 3650 4001 3768 3758
 				3651 3629 3630 3627 3626 3643 3642 3646 3644 3645 3647 3641
 				3654 4002 3662 3661 3660 3625 3624
 			}
@@ -1977,8 +1977,8 @@ country = {
 				3722 3752 3756 3753 3751 3723 3747 3724 3745 3725
 				3728 3746 3748 3727 3726 6658 2272 3002 596
 				3744 3749 3743 3754 3750 3764 3761 3762 3759 3766
-				3730 3729 3731 3737 3736 3738 3739 3741 3742
-				3775 3732 3733 3774 3773 3734 3772 3735 3771
+				3730 3729 3731 3737 3736 3742
+				3775 3732 3733 3774 3773 3734 3772 3735
 				6661 474 1579 1942 588 6656 6664 6657 3637 3634
 				1744 446 2080 437 6659 3755 3757 3721 3656 3639 3638
 			}
@@ -2095,14 +2095,14 @@ country = {
 			}
 		}
 		
-		HAO = { #Additional
-			government = despotic_monarchy
-			primary_culture = sovakhite
-			religion = canaanitic_pantheon
-			capital = 3953
+		HAO = { #Kalak
+			government = tribal_kingdom
+			primary_culture = kalakite
+			religion = luwic_pantheon
+			capital = 3740
 			
 			own_control_core = 	{ 
-				
+				3740 3770 3781 3769 3767 3771 3739 3738 3741
 			}
 		}
 		
@@ -2662,14 +2662,14 @@ country = {
 				6858 10
 			}
 		}
-		ABA = { #Failaka
-			government = despotic_monarchy
-			primary_culture = dilmunite
+		ABA = { #Assa
+			government = tribal_kingdom
+			primary_culture = assan
 			religion = anunnaki_pantheon
-			capital = 1995
+			capital = 1597
 			
 			own_control_core = 	{ 
-				1995
+				277 138 133 2629 2507 3931 1597
 			}
 		}
 		ABB = { #Tell Abraq
@@ -2872,16 +2872,16 @@ country = {
 			government = tribal_kingdom
 			primary_culture = karman
 			religion = anunnaki_pantheon
-			capital = 6879
+			capital = 5892
 			
 			own_control_core = 	{ 
-				
+				5750 5558 5557 5559 5560 5892 5894 5893 5895 5692 5691 5690
 			}
 		}
 		ABW = { #Additional
 			government = despotic_monarchy
 			primary_culture = maganese
-			religion = anunnaki_pantheon
+			religion = arabian_pantheon
 			capital = 6879
 			
 			own_control_core = 	{ 

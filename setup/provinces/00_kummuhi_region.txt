@@ -1,7 +1,7 @@
 ﻿133={ #Mugirru
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 138={ #Shêru
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -70,8 +70,8 @@
 
 277={ #Harmu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -159,8 +159,8 @@
 
 1597={ #Shigûshu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -178,8 +178,8 @@
 
 2507={ #Tupsharrûtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -210,8 +210,8 @@
 
 2629={ #Nepûm
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -681,8 +681,8 @@
 
 3931={ #Ubâru
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="assan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0

@@ -8,13 +8,13 @@ akitu_festival.1 = {
 	
 	trigger = {
 		NOT = { has_global_variable = akitu_banned }
-		owns = 918
-		owns = 919
+		owns = 6087
+		owns = 6084
 	}
 	
 	option = {
 		name = akitu_festival.1.a
-		p:918 = {
+		p:6087 = {
         	add_province_modifier = {
         		name = joining_mardukites
         		duration = 365
@@ -44,7 +44,7 @@ akitu_festival.1 = {
 				primary_culture = agade
 			}
 		}
-		p:918 = {
+		p:6087 = {
         	add_province_modifier = {
         		name = angering_mardukites
         		duration = 365
@@ -64,8 +64,8 @@ akitu_festival.2 = {
 	
 	trigger = {
 		has_global_variable = akitu_banned
-		owns = 918
-		owns = 919
+		owns = 6087
+		owns = 6084
 	}
 	
 	option = {

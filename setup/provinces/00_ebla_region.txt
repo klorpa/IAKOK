@@ -523,7 +523,7 @@
 
 3770={ #Malal
 	terrain="desert"
-	culture="aram_arpadic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -536,7 +536,7 @@
 
 3781={ #Ghusun
 	terrain="desert"
-	culture="aram_arpadic"
+	culture="kalakite"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
