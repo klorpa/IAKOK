@@ -44,10 +44,10 @@ event_conquest_wargoal = {
 	}
 	
 	attacker = {
-		conquer_cost = -0.85
+		conquer_cost = -0.95
 	}
 	defender = {
-		conquer_cost = -0.85
+		conquer_cost = -0.95
 	}
 	ticking_war_score = 1
 

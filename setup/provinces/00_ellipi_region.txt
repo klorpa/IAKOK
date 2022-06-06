@@ -224,8 +224,8 @@
 
 6199={ #Dayyanum
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -586,8 +586,8 @@
 
 6266={ #Maqlu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -602,8 +602,8 @@
 
 6267={ #Iazu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -653,8 +653,8 @@
 
 6270={ #Petu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -669,8 +669,8 @@
 
 6271={ #Kirum
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -685,8 +685,8 @@
 
 6272={ #Dudittu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -701,8 +701,8 @@
 
 6273={ #Zanu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -717,8 +717,8 @@
 
 6274={ #Nabalkutu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -731,10 +731,10 @@
 	}
 }
 
-6275={ #Qirbit
+6275={ #Marubishti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -755,8 +755,8 @@
 
 6276={ #Ileqqe
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -771,8 +771,8 @@
 
 6277={ #Ekallim
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -787,8 +787,8 @@
 
 6278={ #Arnum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -803,8 +803,8 @@
 
 6280={ #Teema
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0
@@ -819,8 +819,8 @@
 
 6281={ #Gitmalu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -835,8 +835,8 @@
 
 6282={ #Iazu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -851,8 +851,8 @@
 
 6283={ #Sahu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -912,8 +912,8 @@
 
 6287={ #Shammu
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods="marble"
 	civilization_value=0
 	barbarian_power=0

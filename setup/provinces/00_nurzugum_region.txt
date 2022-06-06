@@ -54,8 +54,8 @@
 
 5220={ #Dumamu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -134,8 +134,8 @@
 
 5229={ #Masiktu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -609,8 +609,8 @@
 
 5758={ #Lumnu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -625,8 +625,8 @@
 
 5759={ #Niziqtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -641,8 +641,8 @@
 
 5760={ #Pardish
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -657,8 +657,8 @@
 
 5761={ #Pirittu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -673,8 +673,8 @@
 
 5762={ #Shabbu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -689,8 +689,8 @@
 
 5763={ #Rûbtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -705,8 +705,8 @@
 
 5764={ #Res-Subnar
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -724,8 +724,8 @@
 
 5765={ #Tasmertu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0

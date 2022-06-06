@@ -162,7 +162,12 @@ family={
 }
 
 diplomacy = {
-	
+	#Philistines defensive alliance, democracy or this?
+	#dependency = { first = JAL second = JAM subject_type = feudatory }
+	#dependency = { first = JAL second = JAK subject_type = feudatory }
+	#dependency = { first = JAL second = JAL subject_type = feudatory }
+	#dependency = { first = JAL second = JAI subject_type = feudatory }
+	#dependency = { first = JAL second = JAR subject_type = tributary }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -2702,6 +2707,127 @@ country = {
 			
 			own_control_core = 	{ 
 				5750 5558 5557 5559 5560 5892 5894 5893 5895 5692 5691 5690
+			}
+		}
+		ABW = { #Ahaanu
+			government = tribal_kingdom
+			primary_culture = ahaanu
+			religion = anunnaki_pantheon
+			capital = 5761
+			
+			own_control_core = 	{ 
+				5764 5765 5763 5761 5760 5229 5220 5759 5758 5762
+			}
+		}
+		ABY = { #Ellipi
+			government = despotic_monarchy
+			primary_culture = ellipian
+			religion = elamite_pantheon
+			capital = 6275
+			
+			own_control_core = 	{ 
+				6275 6274 6276 6280 6277 6272 6278 6273 6267 
+				6271 6270 6266 6287 6283 6282 6281 6199
+			}
+		}
+		ABZ = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACA = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACB = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACC = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACD = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACE = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACF = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACG = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACH = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACI = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = anunnaki_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}
