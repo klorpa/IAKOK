@@ -163,11 +163,11 @@ family={
 
 diplomacy = {
 	#Philistines defensive alliance, democracy or this?
-	#dependency = { first = JAL second = JAM subject_type = feudatory }
-	#dependency = { first = JAL second = JAK subject_type = feudatory }
-	#dependency = { first = JAL second = JAL subject_type = feudatory }
-	#dependency = { first = JAL second = JAI subject_type = feudatory }
-	#dependency = { first = JAL second = JAR subject_type = tributary }
+	dependency = { first = JAL second = JAM subject_type = feudatory }
+	dependency = { first = JAL second = JAK subject_type = feudatory }
+	dependency = { first = JAL second = JAJ subject_type = feudatory }
+	dependency = { first = JAL second = JAI subject_type = feudatory }
+	dependency = { first = JAL second = JAR subject_type = feudatory }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -179,6 +179,46 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	3997 = { #Acco
 		port_building = 1
+	}
+	
+	6161 = { #Malgium
+		port_building = 1
+	}
+	
+	6374 = { #Susa
+		port_building = 1
+	}
+	
+	5967 = { #Girsu
+		port_building = 1
+	}
+	
+	5981 = { #Umma
+		port_building = 1
+	}
+	
+	6022 = { #Uruk
+		port_building = 1
+	}
+	
+	6087 = { #Babylon
+		port_building = 1
+	}
+	
+	6000 = { #Nippur
+		port_building = 1
+	}
+	
+	5666 = { #Dilmun
+		port_building = 2
+	}
+	
+	1799 = { #Umm an-Nar
+		port_building = 2
+	}
+	
+	1653 = { #Tell Abraq
+		port_building = 2
 	}
 	
 	3136 = { #Salamis
@@ -2730,14 +2770,14 @@ country = {
 				6271 6270 6266 6287 6283 6282 6281 6199
 			}
 		}
-		ABZ = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
+		ABZ = { #Bit-Istar
+			government = despotic_monarchy
+			primary_culture = istarite
 			religion = anunnaki_pantheon
-			capital = 5892
+			capital = 6192
 			
 			own_control_core = 	{ 
-				
+				6192 6202 6191
 			}
 		}
 		ACA = { #Additional

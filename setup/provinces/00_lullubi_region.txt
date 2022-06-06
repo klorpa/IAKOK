@@ -1463,8 +1463,8 @@
 
 6191={ #Nibi
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="istarite"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1479,13 +1479,19 @@
 
 6192={ #Sataru
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="istarite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=4
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={
@@ -1514,8 +1520,8 @@
 
 6202={ #Sarrum
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="istarite"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0

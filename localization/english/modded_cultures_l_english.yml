@@ -173,6 +173,7 @@
  akkadian:2 "Akkadian"
  agade:0 "Babylonian"
  ashurite:0 "Assyrian"
+ istarite:0 "Istarite"
  akkadian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  akkadian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heirs of the Mittani

@@ -133,25 +133,24 @@
 	slaves={
 		amount=4
 	}
-	holy_site=omen_tishpak
 }
 
 5754={ #Tutub
 	terrain="farmland"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=5
+		amount=7
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -289,19 +288,25 @@
 	}
 }
 
-6128={ #Nahu
+6128={ #Dur-Kurigalzu
 	terrain="flood_plain"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=6
+		amount=8
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 	tribesmen={
 		amount=1
@@ -465,20 +470,20 @@
 
 6156={ #Nasaru
 	terrain="flood_plain"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=6
+		amount=7
 	}
 	slaves={
-		amount=3
-	}
-	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -689,7 +694,7 @@
 
 6211={ #Lamadu
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -705,7 +710,7 @@
 
 6212={ #Ezebu
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -721,7 +726,7 @@
 
 6213={ #Naparqudu
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1044,7 +1049,7 @@
 
 6242={ #Zabar
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -1060,7 +1065,7 @@
 
 6243={ #Qereb
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1140,7 +1145,7 @@
 
 6254={ #Qerebu
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -1156,7 +1161,7 @@
 
 6255={ #Diniktum
 	terrain="plains"
-	culture="agade"
+	culture="kassite"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

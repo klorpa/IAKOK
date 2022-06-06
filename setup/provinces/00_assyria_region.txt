@@ -138,14 +138,20 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=3
+	}
 	citizen={
 		amount=7
 	}
 	freemen={
-		amount=7
+		amount=12
 	}
 	slaves={
-		amount=3
+		amount=6
+	}
+	tribesmen={
+		amount=1
 	}
 }
 
@@ -374,14 +380,17 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=5
+	}
 	citizen={
-		amount=7
+		amount=12
 	}
 	freemen={
-		amount=7
+		amount=16
 	}
 	slaves={
-		amount=3
+		amount=10
 	}
 	tribesmen={
 		amount=1
@@ -893,12 +902,15 @@
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=5
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=7
 	}
 	tribesmen={
 		amount=1
@@ -953,15 +965,21 @@
 	}
 }
 
-5417={ #Palgu
+5417={ #Kakmum
 	terrain="plains"
 	culture="ashurite"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=8
+	}
+	slaves={
 		amount=4
 	}
 	tribesmen={

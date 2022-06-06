@@ -734,14 +734,17 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=3
+	}
 	citizen={
 		amount=12
 	}
 	freemen={
-		amount=8
+		amount=15
 	}
 	slaves={
-		amount=4
+		amount=6
 	}
 	holy_site=omen_inshushinak
 }
