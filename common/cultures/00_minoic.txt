@@ -50,6 +50,7 @@
 	culture = {
 		philistine = {}
 		eteocypriot = {}
+		kynourian = {}
 	}
 	
 	barbarian_names = { 

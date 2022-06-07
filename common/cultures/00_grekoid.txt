@@ -115,6 +115,19 @@
 		chytroic = {}
 		salamian = {}
 		kourionian = {}
+		laconian = {}
+		salaminian = {}
+		asposian = {}
+		tainaronian = {}
+		tegean = {}
+		mycenean = {}
+		argive = {}
+		skiritian = {}
+		boiaian = {}
+		geronthraian = {}
+		amycleian = {}
+		helot = {}
+		gyrthionian = {}
 	}
 	
 	barbarian_names = { 

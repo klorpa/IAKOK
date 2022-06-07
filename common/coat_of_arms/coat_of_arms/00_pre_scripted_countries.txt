@@ -164,7 +164,7 @@ GCF = {
 	}
 }
 
-GAA = {
+GAM = {
 	pattern = "pattern_solid.tga"
 	color1 = "spartan_brown"
 	color2 = "spartan_rust"

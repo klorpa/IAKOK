@@ -4,6 +4,7 @@ is_agressive_culture_aimod = {
 	trigger = {
 		OR = {
 			primary_culture = ashurite
+			primary_culture = laconian
 			country_culture_group = nubian
 		}
 		manpower > 4
@@ -18,6 +19,7 @@ is_lacking_levies_pseudo_trigger = {
 		military_experience < 85
 		OR = {
 			primary_culture = ashurite
+			primary_culture = laconian
 			country_culture_group = nubian
 		}
 	}

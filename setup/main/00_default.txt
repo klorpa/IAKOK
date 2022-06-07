@@ -181,6 +181,14 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	24 = { #Helos
+		port_building = 1
+	}
+	
+	216 = { #Argos
+		port_building = 1
+	}
+	
 	6161 = { #Malgium
 		port_building = 1
 	}
@@ -2172,157 +2180,157 @@ country = {
 			}
 		}
 		
-		GAM = { #Additional
+		GAM = { #Sparta
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = laconian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 4
 			
 			own_control_core = 	{ 
-				
+				4 5
 			}
 		}
 		
-		GAN = { #Additional
+		GAN = { #Amyclees
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = amycleian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1
 			
 			own_control_core = 	{ 
-				
+				1 8
 			}
 		}
 		
-		GAO = { #Additional
+		GAO = { #Helos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = helot
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 24
 			
 			own_control_core = 	{ 
-				
+				24
 			}
 		}
 		
-		GAP = { #Additional
+		GAP = { #Gythion
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = gyrthionian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 11
 			
 			own_control_core = 	{ 
-				
+				11
 			}
 		}
 		
-		GAR = { #Additional
+		GAR = { #Geronthrai
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = geronthraian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 18
 			
 			own_control_core = 	{ 
-				
+				18 1183 2
 			}
 		}
 		
-		GAS = { #Additional
+		GAS = { #Boiai
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = boiaian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 120
 			
 			own_control_core = 	{ 
-				
+				120 118 121
 			}
 		}
 		
-		GAT = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GAT = { #Skiritis
+			government = tribal_kingdom
+			primary_culture = skiritian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 6
 			
 			own_control_core = 	{ 
-				
+				6 5550 132
 			}
 		}
 		
-		GAW = { #Additional
+		GAW = { #Argos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = argive
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 216
 			
 			own_control_core = 	{ 
-				
+				216 212 215 206 210 208 207 209 204 214
 			}
 		}
 		
-		GAY = { #Additional
+		GAY = { #Mycene
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = mycenean
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 211
 			
 			own_control_core = 	{ 
-				
+				211 217
 			}
 		}
 		
-		GAZ = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GAZ = { #Kynouria
+			government = tribal_kingdom
+			primary_culture = kynourian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 219
 			
 			own_control_core = 	{ 
-				
+				219 2505 2504 131 129 130
 			}
 		}
 		
-		GBA = { #Additional
+		GBA = { #Tegea
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = tegean
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 137
 			
 			own_control_core = 	{ 
-				
+				137 140 136 2506
 			}
 		}
 		
-		GBB = { #Additional
+		GBB = { #Tainaron
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = tainaronian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 17
 			
 			own_control_core = 	{ 
-				
+				17 19 22 12
 			}
 		}
 		
-		GBC = { #Additional
+		GBC = { #Asopos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = asposian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 113
 			
 			own_control_core = 	{ 
-				
+				113 15 115 114
 			}
 		}
 		
-		GBD = { #Additional
+		GBD = { #Salamis
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = salaminian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 249
 			
 			own_control_core = 	{ 
-				
+				249 248
 			}
 		}
 		
