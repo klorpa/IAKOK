@@ -2171,6 +2171,281 @@ country = {
 				3118 3115 3114 3113 3117 3119
 			}
 		}
+		
+		GAM = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAN = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAO = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAP = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAR = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAS = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAT = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAW = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAY = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GAZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBA = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBB = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBC = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBD = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBE = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBF = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBG = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBH = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBI = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBK = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBL = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBM = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBN = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBO = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 		#Chad Akkadians
 		AAA = { #Karduniash
 			government = aristocratic_monarchy
