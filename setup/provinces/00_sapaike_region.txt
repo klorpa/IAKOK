@@ -677,8 +677,8 @@
 
 2149={ #Koinyra
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -693,8 +693,8 @@
 
 2150={ #Alyke
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -709,8 +709,8 @@
 
 2151={ #Limenaria
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -942,8 +942,8 @@
 
 2201={ #Thasos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thasosian"
+	religion="canaanitic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0

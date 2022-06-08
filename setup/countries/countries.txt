@@ -112,10 +112,6 @@ JBY = "setup/countries/modded/mJBY.txt"
 JBZ = "setup/countries/modded/mJBZ.txt"
 JCA = "setup/countries/modded/mJCA.txt"
 JCB = "setup/countries/modded/mJCB.txt"
-JCC = "setup/countries/modded/mJCC.txt"
-JCD = "setup/countries/modded/mJCD.txt"
-JCE = "setup/countries/modded/mJCE.txt"
-JCF = "setup/countries/modded/mJCF.txt"
 
 #Neo Hittite states
 HAA = "setup/countries/modded/mHAA.txt"

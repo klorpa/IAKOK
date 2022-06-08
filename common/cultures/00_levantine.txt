@@ -70,6 +70,13 @@
 		apekhan = {}
 		socohi = {}
 		avite = {}
+		kytheran = {}
+		theran = {}
+		iosian = {}
+		sirosian = {}
+		thasosian = {}
+		abydosic = {}
+		erythraian = {}
 	}
 	
 	barbarian_names = { 

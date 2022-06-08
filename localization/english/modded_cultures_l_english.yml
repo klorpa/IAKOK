@@ -63,6 +63,13 @@
  megiddan:0 "Megiddan"
  apekhan:0 "Apekhan"
  socohi:0 "Socohi"
+ kytheran:0 "Kytheran"
+ theran:0 "Theran"
+ iosian:0 "Iosian"
+ sirosian:0 "Sirosian"
+ thasosian:0 "Thasosian"
+ abydosic:0 "Abydosic"
+ erythraian:0 "Erythraian"
  levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  levantine_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Jews-Zoomed

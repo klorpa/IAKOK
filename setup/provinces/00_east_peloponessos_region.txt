@@ -451,8 +451,8 @@
 
 122={ #Skandeia
 	terrain="forest"
-	culture="wvenedi"
-	religion="grecoid_pantheon"
+	culture="kytheran"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -467,8 +467,8 @@
 
 123={ #Kastri
 	terrain="plains"
-	culture="wvenedi"
-	religion="grecoid_pantheon"
+	culture="kytheran"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -483,8 +483,8 @@
 
 124={ #Kythera
 	terrain="farmland"
-	culture="wvenedi"
-	religion="grecoid_pantheon"
+	culture="kytheran"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0

@@ -102,15 +102,12 @@
 
 1261={ #Dazluza
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="abydosic"
+	religion="canaanitic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		amount=3
-	}
 	freemen={
 		amount=4
 	}
@@ -119,14 +116,17 @@
 	}
 }
 
-1264={ #Perkote
+1264={ #Abydos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="abydosic"
+	religion="canaanitic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=4
 	}

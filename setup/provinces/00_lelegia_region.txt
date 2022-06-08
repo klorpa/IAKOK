@@ -169,8 +169,8 @@
 
 1242={ #Phenikos
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="erythraian"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -185,17 +185,14 @@
 
 1243={ #Boutheia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="erythraian"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=3
 	}
 	slaves={
 		amount=1
@@ -207,8 +204,8 @@
 
 1250={ #Zeytineli
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="erythraian"
+	religion="canaanitic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -352,16 +349,22 @@
 	}
 }
 
-1275={ #Laxo
+1275={ #Erythrai
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="erythraian"
+	religion="canaanitic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=5
+	}
+	freemen={
+		amount=3
 	}
 	tribesmen={
 		amount=3

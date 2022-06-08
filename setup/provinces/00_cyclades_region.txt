@@ -230,8 +230,8 @@
 
 1014={ #Siros
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sirosian"
+	religion="canaanitic_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -249,8 +249,8 @@
 
 1015={ #Pagos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sirosian"
+	religion="canaanitic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -576,8 +576,8 @@
 
 1033={ #Ios
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="iosian"
+	religion="canaanitic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -595,8 +595,8 @@
 
 1034={ #Magganari
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="iosian"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=4
@@ -611,8 +611,8 @@
 
 1035={ #Thirasia
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="theran"
+	religion="canaanitic_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=4
@@ -630,8 +630,8 @@
 
 1036={ #Akrotiri
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="theran"
+	religion="canaanitic_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=4
@@ -649,8 +649,8 @@
 
 1037={ #Thera
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="theran"
+	religion="canaanitic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=4

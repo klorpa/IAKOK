@@ -181,6 +181,34 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1243 = { #Boutheia
+		port_building = 2
+	}
+	
+	2201 = { #Thasos
+		port_building = 2
+	}
+	
+	1264 = { #Abydos
+		port_building = 2
+	}
+	
+	1014 = { #Siros
+		port_building = 2
+	}
+	
+	1033 = { #Ios
+		port_building = 2
+	}
+	
+	1036 = { #Akrotiri
+		port_building = 2
+	}
+	
+	124 = { #Kythera
+		port_building = 2
+	}
+	
 	24 = { #Helos
 		port_building = 1
 	}
@@ -1768,122 +1796,129 @@ country = {
 			}
 		}
 		
-		JBU = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JBU = { #Kythera
+			government = despotic_monarchy
+			primary_culture = kytheran
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 124
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				124 122 123
 			}
 		}
 		
-		JBW = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JBW = { #Thera
+			government = despotic_monarchy
+			primary_culture = theran
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 1036
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				1036 1035 1037
 			}
 		}
 		
-		JBX = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JBX = { #Ios
+			government = despotic_monarchy
+			primary_culture = iosian
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 1033
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				1033 1034
 			}
 		}
 		
-		JBY = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JBY = { #Siros
+			government = despotic_monarchy
+			primary_culture = sirosian
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 1014
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				1014 1015
 			}
 		}
 		
-		JBZ = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JBZ = { #Thasos
+			government = despotic_monarchy
+			primary_culture = thasosian
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 2201
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				2201 2149 2150 2151
 			}
 		}
 		
-		JCA = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JCA = { #Abydos
+			government = despotic_monarchy
+			primary_culture = abydosic
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 1264
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
 			
 			own_control_core = 	{ 
-				
+				1261 1264
 			}
 		}
 		
-		JCB = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
+		JCB = { #Erythrai
+			government = despotic_monarchy
+			primary_culture = erythraian
 			religion = canaanitic_pantheon
-			capital = 3856
+			capital = 1275
 			
-			own_control_core = 	{ 
-				
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
 			}
-		}
-		
-		JCC = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
-			religion = canaanitic_pantheon
-			capital = 3856
 			
 			own_control_core = 	{ 
-				
-			}
-		}
-		
-		JCD = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
-			religion = canaanitic_pantheon
-			capital = 3856
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		JCE = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
-			religion = canaanitic_pantheon
-			capital = 3856
-			
-			own_control_core = 	{ 
-				
-			}
-		}
-		JCF = { #Additional
-			government = tribal_kingdom
-			primary_culture = haqimite
-			religion = canaanitic_pantheon
-			capital = 3856
-			
-			own_control_core = 	{ 
-				
+				1275 1250 1243 1242
 			}
 		}
 		
