@@ -185,6 +185,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	257 = { #Athens
+		port_building = 1
+	}
+	
 	216 = { #Argos
 		port_building = 1
 	}
@@ -1764,6 +1768,124 @@ country = {
 			}
 		}
 		
+		JBU = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBW = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBX = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBY = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JBZ = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCA = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCB = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCC = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		JCD = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		JCE = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		JCF = { #Additional
+			government = tribal_kingdom
+			primary_culture = haqimite
+			religion = canaanitic_pantheon
+			capital = 3856
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 		
 		#Neo Hittite states
 		HAA = { #Hamath
@@ -2253,14 +2375,14 @@ country = {
 			}
 		}
 		
-		GAT = { #Skiritis
-			government = tribal_kingdom
-			primary_culture = skiritian
+		GAT = { #Zarax
+			government = despotic_monarchy
+			primary_culture = zaraxian
 			religion = grecoid_pantheon
-			capital = 6
+			capital = 126
 			
 			own_control_core = 	{ 
-				
+				126 125 112
 			}
 		}
 		
@@ -2341,102 +2463,102 @@ country = {
 			}
 		}
 		
-		GBE = { #Additional
+		GBE = { #Prasiai
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = parsiaian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 128
 			
 			own_control_core = 	{ 
-				
+				128 127 111
 			}
 		}
 		
-		GBF = { #Additional
+		GBF = { #Troizen
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = troizenian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 227
 			
 			own_control_core = 	{ 
-				
+				227 229 225 226
 			}
 		}
 		
-		GBG = { #Additional
+		GBG = { #Messenia
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = messenian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 50
 			
 			own_control_core = 	{ 
-				
+				50 48 53 47 49 161 51
 			}
 		}
 		
-		GBH = { #Additional
+		GBH = { #Pylos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = pylosian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 108
 			
 			own_control_core = 	{ 
-				
+				108 60 61 63 64 62
 			}
 		}
 		
-		GBI = { #Additional
+		GBI = { #Asine
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = asinean
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 55
 			
 			own_control_core = 	{ 
-				
+				55 56 54 641
 			}
 		}
 		
-		GBJ = { #Additional
+		GBJ = { #Athens
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = athenic
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 257
 			
 			own_control_core = 	{ 
-				
+				257 256
 			}
 		}
 		
-		GBK = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GBK = { #Elis
+			government = tribal_kingdom
+			primary_culture = elean
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 174
 			
 			own_control_core = 	{ 
-				
+				174 175 176 177 178 181 172 173 171
 			}
 		}
 		
-		GBL = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GBL = { #Epeia
+			government = tribal_kingdom
+			primary_culture = epeian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 169
 			
 			own_control_core = 	{ 
-				
+				169 1217 20 166
 			}
 		}
 		
-		GBM = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GBM = { #Minya
+			government = tribal_kingdom
+			primary_culture = minyan
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 167
 			
 			own_control_core = 	{ 
-				
+				167 170 168 187
 			}
 		}
 		
@@ -2567,6 +2689,12 @@ country = {
 				civic_tech={ level=3 progress=0 }
 				oratory_tech={ level=3 progress=0 }
 				religious_tech= { level=3 progress=0  }
+			}
+			
+			pantheon = {
+			
+			{ deity = 10027 }
+			
 			}
 			
 			own_control_core = 	{ 
@@ -2873,10 +3001,16 @@ country = {
 			monarchy_military_reforms = work_for_the_best
 			
 			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			pantheon = {
+			
+			{ deity = 10027 }
+			
 			}
 			
 			own_control_core = 	{ 
@@ -3065,6 +3199,13 @@ country = {
 			primary_culture = istarite
 			religion = anunnaki_pantheon
 			capital = 6192
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
 			
 			own_control_core = 	{ 
 				6192 6202 6191

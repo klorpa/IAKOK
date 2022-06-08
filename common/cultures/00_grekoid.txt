@@ -128,6 +128,16 @@
 		amycleian = {}
 		helot = {}
 		gyrthionian = {}
+		zaraxian = {}
+		parsiaian = {}
+		troizenian = {}
+		messenian = {}
+		pylosian = {}
+		asinean = {}
+		athenic = {}
+		sicyonian = {}
+		epeian = {}
+		elean = {}
 	}
 	
 	barbarian_names = { 

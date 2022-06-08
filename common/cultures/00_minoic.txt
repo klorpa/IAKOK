@@ -51,6 +51,7 @@
 		philistine = {}
 		eteocypriot = {}
 		kynourian = {}
+		minyan = {}
 	}
 	
 	barbarian_names = { 

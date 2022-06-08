@@ -305,7 +305,7 @@
 
 256={ #Pireas
 	terrain="farmland"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -321,7 +321,7 @@
 
 257={ #Athenai
 	terrain="farmland"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0

@@ -173,12 +173,18 @@
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
 	tribesmen={
-		amount=2
+		amount=1
 	}
 }
 
@@ -209,17 +215,11 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	citizen={
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -311,7 +311,7 @@
 
 111={ #Kremasti
 	terrain="hills"
-	culture="wvenedi"
+	culture="parsiaian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -327,7 +327,7 @@
 
 112={ #Richea
 	terrain="hills"
-	culture="wvenedi"
+	culture="zaraxian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -505,17 +505,14 @@
 
 125={ #Epidauros Limera
 	terrain="farmland"
-	culture="wvenedi"
+	culture="zaraxian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=3
 	}
 	slaves={
 		amount=2
@@ -527,13 +524,19 @@
 
 126={ #Zarax
 	terrain="plains"
-	culture="wvenedi"
+	culture="zaraxian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -543,7 +546,7 @@
 
 127={ #Kypantha
 	terrain="hills"
-	culture="wvenedi"
+	culture="parsiaian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -559,13 +562,19 @@
 
 128={ #Prasiae
 	terrain="hills"
-	culture="wvenedi"
+	culture="parsiaian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -865,7 +874,7 @@
 
 204={ #Pasion
 	terrain="hills"
-	culture="argive"
+	culture="sicyonian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -945,7 +954,7 @@
 
 209={ #Sykyon
 	terrain="farmland"
-	culture="argive"
+	culture="sicyonian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -1236,7 +1245,7 @@
 
 225={ #Metochi
 	terrain="hills"
-	culture="wvenedi"
+	culture="troizenian"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -1252,7 +1261,7 @@
 
 226={ #Vlichos
 	terrain="plains"
-	culture="wvenedi"
+	culture="troizenian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1268,7 +1277,7 @@
 
 227={ #Troizena
 	terrain="forest"
-	culture="wvenedi"
+	culture="troizenian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1303,7 +1312,7 @@
 
 229={ #Methana
 	terrain="plains"
-	culture="wvenedi"
+	culture="troizenian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0

@@ -132,6 +132,7 @@ ashurite_heritage = {
 	
 	trigger = {
 		primary_culture = ashurite
+		primary_culture = istarite
 	}
 }
 
