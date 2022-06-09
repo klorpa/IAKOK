@@ -427,11 +427,11 @@ bloodlines_startup.17 = { #bloodline of Heracles
 	
 	trigger = {
 		OR = {
-			tag = HCM
-			tag = GAA
-			tag = GBG
-			tag = TBY
-			tag = GBH
+			tag = GAM
+			tag = GAW
+			tag = GBN
+			tag = GBO
+			tag = HAP
 		}
 	}
 	
@@ -439,11 +439,12 @@ bloodlines_startup.17 = { #bloodline of Heracles
 		every_character = {
 			limit = {
 				OR = {
-					has_same_family = char:75
-					has_same_family = char:77
 					has_same_family = char:81
-					has_same_family = char:83
-					has_same_family = char:85
+					has_same_family = char:82
+					has_same_family = char:86
+					has_same_family = char:89
+					has_same_family = char:91
+					has_same_family = char:93
 				}
 			}
 			add_trait = heraclid

@@ -138,6 +138,8 @@
 		sicyonian = {}
 		epeian = {}
 		elean = {}
+		korinthian = {}
+		makedon = {}
 	}
 	
 	barbarian_names = { 

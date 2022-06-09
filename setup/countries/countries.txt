@@ -129,6 +129,7 @@ HAL = "setup/countries/modded/mHAL.txt"
 HAM = "setup/countries/modded/mHAM.txt"
 HAN = "setup/countries/modded/mHAN.txt"
 HAO = "setup/countries/modded/mHAO.txt"
+HAP = "setup/countries/modded/mHAP.txt"
 
 #Grecoids
 GAA = "setup/countries/modded/mGAA.txt"
@@ -168,6 +169,14 @@ GBL = "setup/countries/modded/mGBL.txt"
 GBM = "setup/countries/modded/mGBM.txt"
 GBN = "setup/countries/modded/mGBN.txt"
 GBO = "setup/countries/modded/mGBO.txt"
+GBP = "setup/countries/modded/mGBP.txt"
+GBR = "setup/countries/modded/mGBR.txt"
+GBS = "setup/countries/modded/mGBS.txt"
+GBT = "setup/countries/modded/mGBT.txt"
+GBU = "setup/countries/modded/mGBU.txt"
+GBW = "setup/countries/modded/mGBW.txt"
+GBY = "setup/countries/modded/mGBY.txt"
+GBZ = "setup/countries/modded/mGBZ.txt"
 
 #Chad Akkadians
 AAA = "setup/countries/modded/mAAA.txt"

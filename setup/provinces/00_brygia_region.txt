@@ -1,7 +1,7 @@
 ﻿1534={ #Onsitromo
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 1811={ #Aloros
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -83,8 +83,8 @@
 
 1812={ #Dovras
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -118,8 +118,8 @@
 
 1814={ #Kali
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -134,8 +134,8 @@
 
 1815={ #Rizari
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -150,8 +150,8 @@
 
 1816={ #Naousa
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -166,8 +166,8 @@
 
 1817={ #Europos
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -180,15 +180,21 @@
 	}
 }
 
-1818={ #Apsalos
+1818={ #Edessa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -265,8 +271,8 @@
 
 1823={ #Agras
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -601,8 +607,8 @@
 
 1975={ #Ostrado
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -649,8 +655,8 @@
 
 1982={ #Aridaia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0

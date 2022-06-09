@@ -1,6 +1,6 @@
 ﻿233={ #Agionori
 	terrain="hills"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -16,15 +16,12 @@
 
 234={ #Korfos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=2
 	}
@@ -38,7 +35,7 @@
 
 236={ #Athikia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -57,7 +54,7 @@
 
 238={ #Lekhaio
 	terrain="farmland"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -73,7 +70,7 @@
 
 239={ #Korinthos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -92,7 +89,7 @@
 
 240={ #Ismthmia
 	terrain="hills"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -111,7 +108,7 @@
 
 241={ #Therme
 	terrain="hills"
-	culture="wvenedi"
+	culture="korinthian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0

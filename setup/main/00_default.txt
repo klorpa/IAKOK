@@ -158,6 +158,42 @@ family={
 			culture = susanian
 			prestige=300
 		}
+		25={
+			key="Agiad"
+			owner=GAM
+			culture = laconian
+			prestige=300
+		}
+		26={
+			key="Proclid"
+			owner=GAM
+			culture = laconian
+			prestige=300
+		}
+		27={
+			key="Thersid"
+			owner=GBJ
+			culture = athenic
+			prestige=300
+		}
+		28={
+			key="Heraclidae"
+			owner=GAW
+			culture = argive
+			prestige=300
+		}
+		29={
+			key="Bacchiadae"
+			owner=GBN
+			culture = korinthian
+			prestige=300
+		}
+		30={
+			key="Argead"
+			owner=GBO
+			culture = makedon
+			prestige=300
+		}
 	}
 }
 
@@ -167,7 +203,6 @@ diplomacy = {
 	dependency = { first = JAL second = JAK subject_type = feudatory }
 	dependency = { first = JAL second = JAJ subject_type = feudatory }
 	dependency = { first = JAL second = JAI subject_type = feudatory }
-	dependency = { first = JAL second = JAR subject_type = feudatory }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -1224,7 +1259,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				4218 4300 4219 4220 4291
+				4218
 			}
 		}
 		
@@ -1249,7 +1284,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				4216 4217 4215
+				4216
 			}
 		}
 		
@@ -1274,7 +1309,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				4214 4213 4212
+				4214
 			}
 		}
 		
@@ -1301,6 +1336,10 @@ country = {
 			own_control_core = 	{ 
 				4275 4270 4272 4271 4293 4297 4298 4302
 				4290 4292 4304 4301
+				4213 4212
+				4269 4268 4267 4265 4264
+				4217 4215
+				4300 4219 4220 4291
 			}
 			
 			family = 6
@@ -1327,7 +1366,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				4273 4269 4268 4267 4265 4264
+				4273 
 			}
 		}
 		
@@ -2196,6 +2235,18 @@ country = {
 				3740 3770 3781 3769 3767 3771 3739 3738 3741
 			}
 		}
+		
+		HAP = { #Hyde
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				2263 2262 2267 2536 2284 2276 2569 2574 2538
+				2265 2275 2278
+			}
+		}
 		#Grecoids
 		GAA = { #Salamis
 			government = despotic_monarchy
@@ -2338,7 +2389,7 @@ country = {
 		}
 		
 		GAM = { #Sparta
-			government = despotic_monarchy
+			government = stratocratic_monarchy
 			primary_culture = laconian
 			religion = grecoid_pantheon
 			capital = 4
@@ -2353,6 +2404,8 @@ country = {
 			own_control_core = 	{ 
 				4 5 6 5550 132
 			}
+			family = 25
+			family = 26
 		}
 		
 		GAN = { #Amyclees
@@ -2430,6 +2483,7 @@ country = {
 			own_control_core = 	{ 
 				216 212 215 206 210 208 207 209 204 214
 			}
+			family = 28
 		}
 		
 		GAY = { #Mycene
@@ -2521,7 +2575,7 @@ country = {
 		}
 		
 		GBG = { #Messenia
-			government = despotic_monarchy
+			government = stratocratic_monarchy
 			primary_culture = messenian
 			religion = grecoid_pantheon
 			capital = 50
@@ -2554,7 +2608,7 @@ country = {
 		}
 		
 		GBJ = { #Athens
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = athenic
 			religion = grecoid_pantheon
 			capital = 257
@@ -2562,6 +2616,7 @@ country = {
 			own_control_core = 	{ 
 				257 256
 			}
+			family = 27
 		}
 		
 		GBK = { #Elis
@@ -2597,7 +2652,31 @@ country = {
 			}
 		}
 		
-		GBN = { #Additional
+		GBN = { #Korinth
+			government = despotic_monarchy
+			primary_culture = korinthian
+			religion = grecoid_pantheon
+			capital = 239
+			
+			own_control_core = 	{ 
+				239 238 236 233 234 240 241
+			}
+			family = 29
+		}
+		
+		GBO = { #Macedon
+			government = despotic_monarchy
+			primary_culture = makedon
+			religion = grecoid_pantheon
+			capital = 1818
+			
+			own_control_core = 	{ 
+				1818 1982 1817 1814 1823 1815 1812 1534 1811 1975 1816
+			}
+			family = 30
+		}
+		
+		GBP = { #Additional
 			government = despotic_monarchy
 			primary_culture = lapithosian
 			religion = grecoid_pantheon
@@ -2608,7 +2687,7 @@ country = {
 			}
 		}
 		
-		GBO = { #Additional
+		GBR = { #Additional
 			government = despotic_monarchy
 			primary_culture = lapithosian
 			religion = grecoid_pantheon
@@ -2618,6 +2697,73 @@ country = {
 				
 			}
 		}
+		
+		GBS = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBT = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBU = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBW = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBY = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GBZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = lapithosian
+			religion = grecoid_pantheon
+			capital = 3118
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
 		#Chad Akkadians
 		AAA = { #Karduniash
 			government = aristocratic_monarchy

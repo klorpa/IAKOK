@@ -191,6 +191,8 @@
  gyrthionian:0 "Gyrthionian"
  epeian:0 "Epeian"
  elean:0 "Elean"
+ korinthian:0 "Korinthian"
+ makedon:0 "Macedonian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture
@@ -256,6 +258,7 @@
  kummukhite:0 "Kummukhite"
  karkamisan:0 "Karkamisan"
  tejeker:0 "Tejeker"
+ sfardan:0 "Sfardan"
  luwian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  luwian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Western Iranian

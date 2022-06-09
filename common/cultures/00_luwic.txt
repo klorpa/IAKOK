@@ -222,6 +222,7 @@
 			}
 		}
 		kizzuwi = {}
+		sfardan = {}
 		khillikite = {
 			levy_template = levy_hattian
 			male_names = {

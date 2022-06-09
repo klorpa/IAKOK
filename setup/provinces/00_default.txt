@@ -3930,8 +3930,8 @@
 
 2718={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5000,8 +5000,8 @@
 
 4817={ #Syrian Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7620,8 +7620,8 @@
 
 5170={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7630,8 +7630,8 @@
 
 5171={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7740,8 +7740,8 @@
 
 5182={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7780,8 +7780,8 @@
 
 5186={ #Arabian Desert
 	terrain="impassable_terrain"
-	culture="midianic"
-	religion="canaanitic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7790,8 +7790,8 @@
 
 5187={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7800,8 +7800,8 @@
 
 5188={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7810,8 +7810,8 @@
 
 5189={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
