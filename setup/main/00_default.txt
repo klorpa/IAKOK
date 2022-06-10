@@ -3466,7 +3466,7 @@ country = {
 			capital = 5929
 			
 			own_control_core = 	{ 
-				5929 5789 5788 6448 5782 5787
+				5929 5789 5788 6448 5782
 			}
 		}
 		ACG = { #Kashiari
@@ -3490,7 +3490,137 @@ country = {
 				5902 5904 5843 5914 5906 5905
 			}
 		}
-		ACI = { #Additional
+		ACI = { #Derria
+			government = tribal_kingdom
+			primary_culture = derrian
+			religion = hurrian_pantheon
+			capital = 5801
+			
+			own_control_core = 	{ 
+				5800 5805 5807 5803 5801 5802 5804 5799 5806
+			}
+		}
+		ACK = { #Ullubia
+			government = tribal_kingdom
+			primary_culture = ullubic
+			religion = hurrian_pantheon
+			capital = 5816
+			
+			own_control_core = 	{ 
+				5813 5815 5814 5810 5811 5812 5809 5808 5816
+			}
+		}
+		ACL = { #Kuryi
+			government = tribal_kingdom
+			primary_culture = kuryian
+			religion = hurrian_pantheon
+			capital = 5838
+			
+			own_control_core = 	{ 
+				5838 5836 5842 5837 5840 5839 5841 5835 6860
+			}
+		}
+		ACM = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACN = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACO = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACP = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACR = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACS = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACT = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACU = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACW = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACY = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ACZ = { #Additional
 			government = tribal_kingdom
 			primary_culture = karman
 			religion = hurrian_pantheon

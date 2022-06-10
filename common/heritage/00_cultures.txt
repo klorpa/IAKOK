@@ -131,8 +131,10 @@ ashurite_heritage = {
 	}
 	
 	trigger = {
-		primary_culture = ashurite
-		primary_culture = istarite
+		OR = {
+			primary_culture = ashurite
+			primary_culture = istarite
+		}
 	}
 }
 

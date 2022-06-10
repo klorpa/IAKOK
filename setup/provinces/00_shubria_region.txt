@@ -54,7 +54,7 @@
 
 5793={ #Kamâlu
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -73,7 +73,7 @@
 
 5794={ #Niqittu
 	terrain="forest"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -89,7 +89,7 @@
 
 5795={ #Nissatish
 	terrain="forest"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -105,7 +105,7 @@
 
 5796={ #Tappûti
 	terrain="forest"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -121,7 +121,7 @@
 
 5797={ #Mâmîtu
 	terrain="farmland"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -140,7 +140,7 @@
 
 5798={ #Gimillu
 	terrain="plains"
-	culture="wvenedi"
+	culture="nirdunese"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -156,7 +156,7 @@
 
 5799={ #Kênûtu
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -172,7 +172,7 @@
 
 5800={ #Shuknushu
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -188,7 +188,7 @@
 
 5801={ #Wamâ'um
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -204,7 +204,7 @@
 
 5802={ #Tumâmîtu
 	terrain="farmland"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -223,7 +223,7 @@
 
 5803={ #Gammurti
 	terrain="plains"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -239,7 +239,7 @@
 
 5804={ #Riddu
 	terrain="plains"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -255,7 +255,7 @@
 
 5805={ #Sullumu
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -271,7 +271,7 @@
 
 5806={ #Addaru
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -287,7 +287,7 @@
 
 5807={ #Darû
 	terrain="forest"
-	culture="wvenedi"
+	culture="derrian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -303,7 +303,7 @@
 
 5808={ #Shiâri
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -319,7 +319,7 @@
 
 5809={ #Hamussa
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -335,7 +335,7 @@
 
 5810={ #Edânu
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -351,7 +351,7 @@
 
 5811={ #Hallût
 	terrain="plains"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 5812={ #Darûtash
 	terrain="forest"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -383,7 +383,7 @@
 
 5813={ #Qilissa
 	terrain="forest"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -399,7 +399,7 @@
 
 5814={ #Dash'um
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -415,7 +415,7 @@
 
 5815={ #Harpûtu
 	terrain="hills"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -434,7 +434,7 @@
 
 5816={ #Kaiânu
 	terrain="plains"
-	culture="wvenedi"
+	culture="ullubic"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -753,7 +753,7 @@
 
 5835={ #Harpish
 	terrain="forest"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -769,7 +769,7 @@
 
 5836={ #Anîn
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -785,7 +785,7 @@
 
 5837={ #Dârutu
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -801,7 +801,7 @@
 
 5838={ #Kulimmeri
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -820,7 +820,7 @@
 
 5839={ #Hantûssu
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -836,7 +836,7 @@
 
 5840={ #Inumishu
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -852,7 +852,7 @@
 
 5841={ #Ingâ
 	terrain="forest"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -868,7 +868,7 @@
 
 5842={ #Kuslîmu
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -932,7 +932,7 @@
 
 6860={ #Ittimma
 	terrain="hills"
-	culture="wvenedi"
+	culture="kuryian"
 	religion="hurrian_pantheon"
 	trade_goods="fur"
 	civilization_value=0

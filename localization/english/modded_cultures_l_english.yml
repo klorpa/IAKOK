@@ -226,7 +226,10 @@
  nirdunese:0 "Nirdunese"
  nirbian:0 "Nirbian"
  kashiaran:0 "Kashiaran"
- qurkhan:0 "qurkhan"
+ qurkhan:0 "Qurkhan"
+ derrian:0 "Derrian"
+ ullubic:0 "Ullubic"
+ kuryian:0 "Kuryian"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kassites and related tribes
