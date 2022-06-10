@@ -216,6 +216,18 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1090 = { #Knossos
+		port_building = 1
+	}
+	
+	1137 = { #Dawa
+		port_building = 1
+	}
+	
+	1088 = { #Kydonia
+		port_building = 1
+	}
+	
 	1243 = { #Boutheia
 		port_building = 2
 	}
@@ -2128,9 +2140,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				4379 4377 4378 4419 4375 4420 4422 4421 4373
-				4371 4365 4369 4370 4374 4376 4368 4431 4359
-				4360 4443 4442 3636 3611 4423 4351 4352
+				4360 4443 4442
 				3866 3162 4441 4440 3142 4439
 			}
 			
@@ -2676,91 +2686,91 @@ country = {
 			family = 30
 		}
 		
-		GBP = { #Additional
+		GBP = { #Knossos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = knossian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1090
 			
 			own_control_core = 	{ 
-				
+				1090 2517 2518 1091 1129 1128 1094 1093
 			}
 		}
 		
-		GBR = { #Additional
-			government = despotic_monarchy
-			primary_culture = lapithosian
+		GBR = { #Kydonia
+			government = tribal_kingdom
+			primary_culture = kydonian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1088
 			
 			own_control_core = 	{ 
-				
+				1088 1566 1552 1072 480 1565
 			}
 		}
 		
-		GBS = { #Additional
+		GBS = { #Gortyn
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = gortynian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1134
 			
 			own_control_core = 	{ 
-				
+				1134 1133 2521 1132 1135 1136
 			}
 		}
 		
-		GBT = { #Additional
+		GBT = { #Phaistos
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = phaistian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1138
 			
 			own_control_core = 	{ 
-				
+				1139 1138 1137
 			}
 		}
 		
-		GBU = { #Additional
+		GBU = { #Lato
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = latonian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1103
 			
 			own_control_core = 	{ 
-				
+				1103 1102 1100
 			}
 		}
 		
-		GBW = { #Additional
+		GBW = { #Dreros
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = drerosi
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1101
 			
 			own_control_core = 	{ 
-				
+				1101 1099
 			}
 		}
 		
-		GBY = { #Additional
+		GBY = { #Eleutherna
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = eleuthernan
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 1083
 			
 			own_control_core = 	{ 
-				
+				1083 2519 1081 1082
 			}
 		}
 		
-		GBZ = { #Additional
+		GBZ = { #Tiryns
 			government = despotic_monarchy
-			primary_culture = lapithosian
+			primary_culture = tirynian
 			religion = grecoid_pantheon
-			capital = 3118
+			capital = 218
 			
 			own_control_core = 	{ 
-				
+				218 232 220
 			}
 		}
 		
@@ -3100,6 +3110,10 @@ country = {
 			
 			own_control_core = 	{ 
 				5791 5790 5927 5846 5928 5792 5845 5926 5848 5844 
+				5883 5884 5847 5879 5878 5869 5875 5877 5876 5870 
+				5880 5863 5932 5853 5860 5864 5867 5865 5852 5850 
+				4110 5873 5874 2974 350 5881 5871 5934
+				5858 5857 5861 5862 5851 5931 5930 5885 5849
 			}
 		}
 		AAW = { #Dilmun
@@ -3392,90 +3406,94 @@ country = {
 				6192 6202 6191
 			}
 		}
-		ACA = { #Additional
+		ACA = { #Musri
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = aram_musuwaric
+			religion = luwic_pantheon
+			capital = 4378
 			
 			own_control_core = 	{ 
-				
+				4379 4377 4378 4419 4375 4420 4422 4421 4373
+				4371 4365 4369 4370 4374 4376 4368 4431 4359
+				3636 3611 4423 4351 4352
 			}
 		}
-		ACB = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+		ACB = { #Shubria
+			government = despotic_monarchy
+			primary_culture = shubrian
+			religion = hurrian_pantheon
+			capital = 5820
 			
 			own_control_core = 	{ 
-				
+				5820 5825 5824 5823 5819 5818 5817 5821 5822 5856
 			}
 		}
-		ACC = { #Additional
+		ACC = { #Alzu
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = alzan
+			religion = hurrian_pantheon
+			capital = 5828
 			
 			own_control_core = 	{ 
-				
+				26 5834 5833 5828 5832 5829 5827 5830 5831 5826
 			}
 		}
-		ACD = { #Additional
+		ACD = { #Kadmukhi
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = kadmukhan
+			religion = hurrian_pantheon
+			capital = 5772
 			
 			own_control_core = 	{ 
-				
+				5903 5767 5768 5916 5770 5915 5766 5769 5917
+				5912 5910 5911 5773 5774 5781 5913 5771 5772 6446
 			}
 		}
-		ACE = { #Additional
+		ACE = { #Nirdun
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = nirdunese
+			religion = hurrian_pantheon
+			capital = 5794
 			
 			own_control_core = 	{ 
-				
+				5798 5794 5793 5795 5796 5797
 			}
 		}
-		ACF = { #Additional
+		ACF = { #Nirbi
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = nirbian
+			religion = hurrian_pantheon
+			capital = 5929
 			
 			own_control_core = 	{ 
-				
+				5929 5789 5788 6448 5782 5787
 			}
 		}
-		ACG = { #Additional
+		ACG = { #Kashiari
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = kashiaran
+			religion = hurrian_pantheon
+			capital = 5918
 			
 			own_control_core = 	{ 
-				
+				5918 5775 5776 155 5919 5777
 			}
 		}
-		ACH = { #Additional
+		ACJ = { #Qurkhi
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = anunnaki_pantheon
-			capital = 5892
+			primary_culture = qurkhan
+			religion = hurrian_pantheon
+			capital = 5787
 			
 			own_control_core = 	{ 
-				
+				5787 6447 5786 5900 5901 
+				5902 5904 5843 5914 5906 5905
 			}
 		}
 		ACI = { #Additional
 			government = tribal_kingdom
 			primary_culture = karman
-			religion = anunnaki_pantheon
+			religion = hurrian_pantheon
 			capital = 5892
 			
 			own_control_core = 	{ 

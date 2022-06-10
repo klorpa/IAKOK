@@ -89,8 +89,8 @@
 
 350={ #Abarnium
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -270,8 +270,8 @@
 
 2974={ #Âmerânu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -697,8 +697,8 @@
 
 4110={ #Tupullû
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -716,8 +716,8 @@
 
 5871={ #Mashkânutu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -748,8 +748,8 @@
 
 5873={ #Ningûtu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -764,8 +764,8 @@
 
 5874={ #Buluggu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -780,8 +780,8 @@
 
 5881={ #Ebbûbu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0

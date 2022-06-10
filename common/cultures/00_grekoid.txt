@@ -140,6 +140,14 @@
 		elean = {}
 		korinthian = {}
 		makedon = {}
+		knossian = {}
+		kydonian = {}
+		gortynian = {}
+		phaistian = {}
+		latonian = {}
+		drerosi = {}
+		eleuthernan = {}
+		tirynian = {}
 	}
 	
 	barbarian_names = { 

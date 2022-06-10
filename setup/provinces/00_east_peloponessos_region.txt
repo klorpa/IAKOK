@@ -1109,7 +1109,7 @@
 
 218={ #Tiryns
 	terrain="farmland"
-	culture="wvenedi"
+	culture="tirynian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -1150,7 +1150,7 @@
 
 220={ #Drepanon
 	terrain="hills"
-	culture="wvenedi"
+	culture="tirynian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1344,7 +1344,7 @@
 
 232={ #Arakhnaion
 	terrain="hills"
-	culture="wvenedi"
+	culture="tirynian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

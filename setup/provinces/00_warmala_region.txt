@@ -1019,7 +1019,7 @@
 
 2569={ #Anati
 	terrain="hills"
-	culture="wvenedi"
+	culture="sfardan"
 	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

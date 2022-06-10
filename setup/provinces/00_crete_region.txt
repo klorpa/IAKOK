@@ -1,7 +1,7 @@
 ﻿21={ #Gialos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 57={ #Lissos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -36,7 +36,7 @@
 336={ #Polyrinia
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -52,7 +52,7 @@
 379={ #Diktynnaion
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -71,7 +71,7 @@
 424={ #Elyros
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -87,7 +87,7 @@
 440={ #Maleme
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -105,8 +105,8 @@
 
 480={ #Polikhna
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -122,7 +122,7 @@
 509={ #Tarra
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -144,7 +144,7 @@
 569={ #Kissamos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -166,7 +166,7 @@
 571={ #Doulo
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -184,8 +184,8 @@
 
 1072={ #Minoa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -204,7 +204,7 @@
 1073={ #Aptera
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -223,7 +223,7 @@
 1074={ #Amphimala
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -242,7 +242,7 @@
 1075={ #Dramia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -258,7 +258,7 @@
 1076={ #Lappa
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -277,7 +277,7 @@
 1077={ #Gerani
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -296,7 +296,7 @@
 1078={ #Lamon
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -312,7 +312,7 @@
 1079={ #Armenoi
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -331,7 +331,7 @@
 1080={ #Rithymna
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -349,8 +349,8 @@
 
 1081={ #Phalanna
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eleuthernan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -368,8 +368,8 @@
 
 1082={ #Pantomatroin
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eleuthernan"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -384,8 +384,8 @@
 
 1083={ #Eleutherna
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eleuthernan"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -407,7 +407,7 @@
 1084={ #Panormos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -423,7 +423,7 @@
 1085={ #Apollonia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -442,7 +442,7 @@
 1086={ #Astale
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -461,7 +461,7 @@
 1087={ #Axos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -479,17 +479,17 @@
 
 1088={ #Kudoni
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount=2
 	}
-	freemen={
-		amount=5
+	tribesmen={
+		amount=6
 	}
 	slaves={
 		amount=2
@@ -499,7 +499,7 @@
 1089={ #Tylissos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -520,8 +520,8 @@
 
 1090={ #Knossos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -543,8 +543,8 @@
 
 1091={ #Raukos
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -562,8 +562,8 @@
 
 1093={ #Nirou Khani
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -581,8 +581,8 @@
 
 1094={ #Oaxos
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -601,7 +601,7 @@
 1095={ #Lyktos
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -620,7 +620,7 @@
 1096={ #Khersonasos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -636,7 +636,7 @@
 1097={ #Kera
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -655,7 +655,7 @@
 1098={ #Marmaketo
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -670,15 +670,12 @@
 
 1099={ #Malia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="drerosi"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=6
-	}
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}
@@ -689,8 +686,8 @@
 
 1100={ #Selles
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="latonian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -703,19 +700,22 @@
 	}
 }
 
-1101={ #Nofalias
+1101={ #Dreros
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="drerosi"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -724,8 +724,8 @@
 
 1102={ #Olous
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="latonian"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -740,17 +740,20 @@
 
 1103={ #Kamara
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="latonian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -760,7 +763,7 @@
 1105={ #Gournia
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -779,7 +782,7 @@
 1106={ #Mochlos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -795,7 +798,7 @@
 1107={ #Vasiliki
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -811,7 +814,7 @@
 1108={ #Oleros
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -830,7 +833,7 @@
 1109={ #Ferma
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -846,7 +849,7 @@
 1110={ #Mouliana
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -862,7 +865,7 @@
 1111={ #Kamaizi
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -878,7 +881,7 @@
 1112={ #Etis
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -897,7 +900,7 @@
 1113={ #Aori
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -913,7 +916,7 @@
 1114={ #Praisos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -935,7 +938,7 @@
 1115={ #Lithines
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -954,7 +957,7 @@
 1117={ #Ampelos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -973,7 +976,7 @@
 1118={ #Zakros
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -995,7 +998,7 @@
 1120={ #Palekastro
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1011,7 +1014,7 @@
 1121={ #Itanos
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1030,7 +1033,7 @@
 1122={ #Myrtos
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1049,7 +1052,7 @@
 1123={ #Arvi
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1065,7 +1068,7 @@
 1124={ #Keratokampos
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1084,7 +1087,7 @@
 1125={ #Inatos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1106,7 +1109,7 @@
 1126={ #Afrati
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1125,7 +1128,7 @@
 1127={ #Priansos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="spices"
 	civilization_value=0
 	barbarian_power=0
@@ -1146,8 +1149,8 @@
 
 1128={ #Partira
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1165,8 +1168,8 @@
 
 1129={ #Arkalokhori
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1185,7 +1188,7 @@
 1130={ #Rytiassos
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1203,8 +1206,8 @@
 
 1132={ #Koumasa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1222,8 +1225,8 @@
 
 1133={ #Lykastos
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1241,8 +1244,8 @@
 
 1134={ #Gortyna
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
@@ -1263,8 +1266,8 @@
 
 1135={ #Zaros
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1279,8 +1282,8 @@
 
 1136={ #Aviliobris
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1298,17 +1301,14 @@
 
 1137={ #Dawa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="phaistian"
+	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=7
-	}
+	province_rank="settlement"
 	freemen={
-		amount=6
+		amount=3
 	}
 	slaves={
 		amount=2
@@ -1320,20 +1320,20 @@
 
 1138={ #Phaistos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="phaistian"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount=1
 	}
 	freemen={
-		amount=5
+		amount=4
 	}
 	slaves={
-		amount=3
+		amount=2
 	}
 	tribesmen={
 		amount=1
@@ -1343,8 +1343,8 @@
 
 1139={ #Sata
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="phaistian"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1363,7 +1363,7 @@
 1140={ #Apodhoulou
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1379,7 +1379,7 @@
 1141={ #Soulia
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1398,7 +1398,7 @@
 1143={ #Keraia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1414,7 +1414,7 @@
 1145={ #Korion
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1430,7 +1430,7 @@
 1146={ #Lebene
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1449,7 +1449,7 @@
 1531={ #Apam
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1464,8 +1464,8 @@
 
 1552={ #Edroruti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1480,8 +1480,8 @@
 
 1565={ #Okot
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1496,8 +1496,8 @@
 
 1566={ #Proso
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kydonian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1516,7 +1516,7 @@
 2516={ #Kaudos
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1531,8 +1531,8 @@
 
 2517={ #Eltynia
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1551,8 +1551,8 @@
 
 2518={ #Gazi
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knossian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1570,8 +1570,8 @@
 
 2519={ #Kaudos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eleuthernan"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1589,8 +1589,8 @@
 
 2521={ #Charaki
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gortynian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1609,7 +1609,7 @@
 2583={ #Kommos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

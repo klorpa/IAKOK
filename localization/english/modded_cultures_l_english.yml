@@ -193,6 +193,14 @@
  elean:0 "Elean"
  korinthian:0 "Korinthian"
  makedon:0 "Macedonian"
+ knossian:0 "Knossian"
+ kydonian:0 "Kydonian"
+ gortynian:0 "Gortynian"
+ phaistian:0 "Phaistian"
+ latonian:0 "Latonian"
+ drerosi:0 "Drerosi"
+ eleuthernan:0 "Eleuthernan"
+ tirynian:0 "Tirynian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture
@@ -213,6 +221,12 @@
  #Heirs of the Mittani
  hurric:2 "Hurric"
  shubrian:0 "Shubrian"
+ alzan:0 "Alzan"
+ kadmukhan:0 "Kadmukhan"
+ nirdunese:0 "Nirdunese"
+ nirbian:0 "Nirbian"
+ kashiaran:0 "Kashiaran"
+ qurkhan:0 "qurkhan"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kassites and related tribes
