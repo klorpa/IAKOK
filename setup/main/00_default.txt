@@ -3378,9 +3378,9 @@ country = {
 				5764 5765 5763 5761 5760 5229 5220 5759 5758 5762
 			}
 		}
-		ABY = { #Ellipi
+		ABY = { #Bit-Hamban
 			government = despotic_monarchy
-			primary_culture = ellipian
+			primary_culture = hambanese
 			religion = elamite_pantheon
 			capital = 6275
 			

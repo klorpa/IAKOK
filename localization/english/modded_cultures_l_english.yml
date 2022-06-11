@@ -236,6 +236,7 @@
  kassites:2 "Kassite"
  kassite:0 "Akkado-Kassite"
  namaric:0 "Namaric"
+ hambanese:0 "Hambanese"
  kassites_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kassites_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Elamites-Zoomed
