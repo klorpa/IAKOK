@@ -199,10 +199,10 @@ family={
 
 diplomacy = {
 	#Philistines defensive alliance, democracy or this?
-	dependency = { first = JAL second = JAM subject_type = feudatory }
-	dependency = { first = JAL second = JAK subject_type = feudatory }
-	dependency = { first = JAL second = JAJ subject_type = feudatory }
-	dependency = { first = JAL second = JAI subject_type = feudatory }
+	dependency = { first = JAL second = JAM subject_type = tributary }
+	dependency = { first = JAL second = JAK subject_type = tributary }
+	dependency = { first = JAL second = JAJ subject_type = tributary }
+	dependency = { first = JAL second = JAI subject_type = tributary }
 }
 
 provinces = { #Any entry must contain a comment with city name.
@@ -3271,16 +3271,13 @@ country = {
 			government = despotic_monarchy
 			primary_culture = namaric
 			religion = kassite_pantheon
-			capital = 6217
+			capital = 5543
 			
 			own_control_core = 	{ 
-				6217 6250 6223 6222 6216 6251 6263 6265 6264 6262 6249 6219
-				6296 6252 6253 6215 6214
-				1993 5662 5663 5605 5664 5661 5653 5600 5604 6221 6220 6218
-				6248 6195 6269 6268 6198 6196 6194
 				5594 5592 5590 5591 5595 5601 5603 5602 5599 5606 5607
 				5566 5589 5587 5593 5586 5596 5597 5598 5580 5579 5581
 				5567 5568 5569 5571 5576 5577 5578 5543 5545 5541 5542 5544
+				1993 5662 5663 5605 5664 5661 5653 5600 5604 6221 6220 6218
 			}
 		}
 		ABL = { #Bit-Dakuru
@@ -3393,6 +3390,9 @@ country = {
 			own_control_core = 	{ 
 				6275 6274 6276 6280 6277 6272 6278 6273 6267 
 				6271 6270 6266 6287 6283 6282 6281 6199
+				6217 6250 6223 6222 6216 6251 6263 6265 6264 6262 6249 6219
+				6248 6195 6269 6268 6198 6196 6194
+				6296 6252 6253 6215 6214
 			}
 		}
 		ABZ = { #Bit-Istar
@@ -3605,24 +3605,24 @@ country = {
 				6645 6592 6594 
 			}
 		}
-		ACU = { #Additional
+		ACU = { #Arashtua
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+			primary_culture = arashtuan
+			religion = kassite_pantheon
+			capital = 5539
 			
 			own_control_core = 	{ 
-				
+				5531 5537 5534 5536 5535 5532 5549 5548 5539 5540 5546 5547
 			}
 		}
-		ACW = { #Additional
+		ACW = { #Ameka
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+			primary_culture = amekan
+			religion = kassite_pantheon
+			capital = 5497
 			
 			own_control_core = 	{ 
-				
+				5496 5498 5497 5495 5493 5500 5499 5538 5492 5494 5490 6452
 			}
 		}
 		ACY = { #Additional

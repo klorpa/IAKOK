@@ -160,7 +160,7 @@
 
 6194={ #Kima
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -176,7 +176,7 @@
 
 6195={ #Batlu
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -192,7 +192,7 @@
 
 6196={ #Parzillu
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -208,7 +208,7 @@
 
 6198={ #Hadis
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -240,7 +240,7 @@
 
 6214={ #Napistum
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -256,7 +256,7 @@
 
 6215={ #Gishtil
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -272,7 +272,7 @@
 
 6216={ #Summu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -291,7 +291,7 @@
 
 6217={ #Dur-Papsukkal
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -332,7 +332,7 @@
 
 6219={ #Nura
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -383,7 +383,7 @@
 
 6222={ #Saptu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 6223={ #Baltu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -418,7 +418,7 @@
 
 6248={ #Sahatu
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -437,7 +437,7 @@
 
 6249={ #Shadu
 	terrain="hills"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -453,7 +453,7 @@
 
 6250={ #Hursanu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -469,7 +469,7 @@
 
 6251={ #Imkurgar
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -488,7 +488,7 @@
 
 6252={ #Nertum
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -504,7 +504,7 @@
 
 6253={ #Shumsu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -520,7 +520,7 @@
 
 6262={ #Mamitu
 	terrain="hills"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -536,7 +536,7 @@
 
 6263={ #Tamu
 	terrain="plains"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -552,7 +552,7 @@
 
 6264={ #Zakaru
 	terrain="hills"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -568,7 +568,7 @@
 
 6265={ #Tiamatu
 	terrain="hills"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -616,7 +616,7 @@
 
 6268={ #Rabi
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -635,7 +635,7 @@
 
 6269={ #Istensag
 	terrain="mountain_valley"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1066,7 +1066,7 @@
 
 6296={ #Umisu
 	terrain="desert"
-	culture="namaric"
+	culture="hambanese"
 	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

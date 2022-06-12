@@ -1,13 +1,12 @@
 ﻿5490={ #Karrishtum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -17,21 +16,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5492={ #Shulmi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -41,21 +38,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5493={ #Hutennu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -65,21 +60,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5494={ #Laglagu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -89,21 +82,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5495={ #Ibilu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -113,21 +104,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5496={ #Humut
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -137,15 +126,14 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5497={ #Kakmum
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -154,7 +142,6 @@
 		amount=4
 	}
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -164,21 +151,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5498={ #Gazalu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -188,21 +173,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5499={ #Erishu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -212,21 +195,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5500={ #Dabibu
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -236,21 +217,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5538={ #Itati
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -260,7 +239,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
@@ -1540,14 +1518,13 @@
 
 6452={ #Ekishnugal
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1557,7 +1534,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }

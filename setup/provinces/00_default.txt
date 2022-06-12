@@ -7910,8 +7910,8 @@
 
 6857={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arab"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

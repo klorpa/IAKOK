@@ -243,6 +243,8 @@
  parsuan:0 "Parsuan"
  barran:0 "Barran"
  harhari:0 "Harhari"
+ arashtuan:0 "Arashtuan"
+ amekan:0 "Amekan"
  kassites_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kassites_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Elamites-Zoomed

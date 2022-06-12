@@ -32,6 +32,8 @@
 		parsuan = {}
 		barran = {}
 		harhari = {}
+		arashtuan = {}
+		amekan = {}
 	}
 	
 	barbarian_names = { 
