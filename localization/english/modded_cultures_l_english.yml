@@ -211,11 +211,12 @@
  minyan:0 "Minyan"
  minoic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  minoic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Children of Ashur and Marduk
+ #Children of Ashur and Marduk - Zoomed
  akkadian:2 "Akkadian"
  agade:0 "Babylonian"
  ashurite:0 "Assyrian"
  istarite:0 "Istarite"
+ arraphan:0 "Arraphan"
  akkadian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  akkadian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heirs of the Mittani
@@ -232,11 +233,16 @@
  kuryian:0 "Kuryian"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Kassites and related tribes
+ #Kassites and related tribes - Zoomed
  kassites:2 "Kassite"
  kassite:0 "Akkado-Kassite"
  namaric:0 "Namaric"
  hambanese:0 "Hambanese"
+ halmanite:0 "Halmanite"
+ gannanatan:0 "Gannanatan"
+ parsuan:0 "Parsuan"
+ barran:0 "Barran"
+ harhari:0 "Harhari"
  kassites_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kassites_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Elamites-Zoomed

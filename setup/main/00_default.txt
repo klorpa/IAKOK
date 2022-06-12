@@ -2863,6 +2863,7 @@ country = {
 				6605 6539 6540 6541 6543 6545 6544 6548 6546 6549 6547
 				6535 6604 6532 6528 6533 6536 6542 6537 6606 6538 6534
 				6293 6294 6295 6297 6298 6299 6188 6343 6344 6322
+				6292 6291 6290 6289 6288
 			}
 			
 			family = 23
@@ -3275,6 +3276,11 @@ country = {
 			own_control_core = 	{ 
 				6217 6250 6223 6222 6216 6251 6263 6265 6264 6262 6249 6219
 				6296 6252 6253 6215 6214
+				1993 5662 5663 5605 5664 5661 5653 5600 5604 6221 6220 6218
+				6248 6195 6269 6268 6198 6196 6194
+				5594 5592 5590 5591 5595 5601 5603 5602 5599 5606 5607
+				5566 5589 5587 5593 5586 5596 5597 5598 5580 5579 5581
+				5567 5568 5569 5571 5576 5577 5578 5543 5545 5541 5542 5544
 			}
 		}
 		ABL = { #Bit-Dakuru
@@ -3379,7 +3385,7 @@ country = {
 			}
 		}
 		ABY = { #Bit-Hamban
-			government = despotic_monarchy
+			government = tribal_federation
 			primary_culture = hambanese
 			religion = elamite_pantheon
 			capital = 6275
@@ -3520,74 +3526,83 @@ country = {
 				5838 5836 5842 5837 5840 5839 5841 5835 6860
 			}
 		}
-		ACM = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+		ACM = { #Ellipi
+			government = despotic_monarchy
+			primary_culture = ellipian
+			religion = elamite_pantheon
+			capital = 6640
 			
 			own_control_core = 	{ 
-				
+				6634 6633 6599 6637 6635 6636 6632 6639 6631 6640 6630 6638
+				6628 6627 6629 6626 6642 6625 6624 6596 6595 6286 6285 6284
 			}
 		}
-		ACN = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
+		ACN = { #Arrapha
+			government = despotic_monarchy
+			primary_culture = arraphan
+			religion = anunnaki_pantheon
 			capital = 5892
 			
 			own_control_core = 	{ 
-				
+				5478 5510 5439 5441 5511 5476 5529 5477 5474 5475 5530 5533
+				5450 5515 5505 6450 5509 5517 5518 6449 5514 5516 5519
+				5429 5430 5436 5437 5503 5438 5504 5506 5508 5507 5665
+				5453 5442 5440 5444 5470 5472 5473 5471
+				5513 6451 5521 5522 5525 5528 5512 5520 5523 5527 5526
+				5553 5524 5552 5551 5561 5562 5563 5588 5652 5564 5565
+			} 
+		}
+		ACO = { #Halman
+			government = despotic_monarchy
+			primary_culture = halmanite
+			religion = kassite_pantheon
+			capital = 5658
+			
+			own_control_core = 	{ 
+				5658 5659 6190 5657
 			}
 		}
-		ACO = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+		ACP = { #Gannanati 
+			government = tribal_federation
+			primary_culture = gannanatan
+			religion = kassite_pantheon
+			capital = 5656
 			
 			own_control_core = 	{ 
-				
+				5656 5655 5654 6205 5651 5660 5582 5585 5583
 			}
 		}
-		ACP = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+		ACR = { #Parsua
+			government = tribal_federation
+			primary_culture = parsuan
+			religion = kassite_pantheon
+			capital = 6201
 			
 			own_control_core = 	{ 
-				
+				5638 5637 5639 5640 5650 5649 6201 5647 5646 5645 5644 5643 5641 5642
+				5573 5575 5574 5584 5608 5572 5570 
 			}
 		}
-		ACR = { #Additional
+		ACS = { #Bit-Barru
 			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+			primary_culture = barran
+			religion = kassite_pantheon
+			capital = 6597
 			
 			own_control_core = 	{ 
-				
+				6598 6597 6622 6590 6593 6623
 			}
 		}
-		ACS = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
+		ACT = { #Harhar
+			government = tribal_federation
+			primary_culture = harhari
+			religion = kassite_pantheon
+			capital = 6582
 			
 			own_control_core = 	{ 
-				
-			}
-		}
-		ACT = { #Additional
-			government = tribal_kingdom
-			primary_culture = karman
-			religion = hurrian_pantheon
-			capital = 5892
-			
-			own_control_core = 	{ 
-				
+				6573 6197 6587 6643 6644 6585 6588 6589 6591 6586 6574
+				6575 6582 6581 6576 6578 6583 6641 6584 6579 6577 6580
+				6645 6592 6594 
 			}
 		}
 		ACU = { #Additional

@@ -36,6 +36,7 @@
 		agade = {levy_template = levy_sonsofMarduk} #Akkadian
 		ashurite = {}	#Assyrian
 		istarite = {levy_template = levy_sonsofMarduk}
+		arraphan = {levy_template = levy_sonsofMarduk}
 	}
 	
 	barbarian_names = { 

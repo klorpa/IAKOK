@@ -220,8 +220,8 @@
 
 5439={ #Nishatu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -236,8 +236,8 @@
 
 5440={ #Namirtu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -252,8 +252,8 @@
 
 5441={ #Musallu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -268,8 +268,8 @@
 
 5442={ #Siksabbum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -306,8 +306,8 @@
 
 5444={ #Kupartu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -338,14 +338,13 @@
 
 5453={ #Sare
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -355,7 +354,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
@@ -614,8 +612,8 @@
 
 5470={ #Tahtiptu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -634,14 +632,13 @@
 
 5471={ #Shussar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -651,21 +648,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5472={ #Tullulu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -675,15 +670,14 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5473={ #Tabish
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -692,7 +686,6 @@
 		amount=1
 	}
 	freemen={
-		religion="slavic_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -702,14 +695,13 @@
 
 5474={ #Ubaru
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -719,21 +711,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5475={ #Ushmittu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -743,21 +733,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5476={ #Wabrum
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -767,21 +755,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5477={ #Zimbanu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -791,15 +777,14 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5478={ #Arrapha
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
@@ -808,17 +793,12 @@
 		amount=7
 	}
 	freemen={
-		religion="slavic_pantheon"
-		amount=4
-	}
-	freemen={
-		amount=3
+		amount=8
 	}
 	slaves={
-		amount=3
+		amount=5
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 }
@@ -1130,8 +1110,8 @@
 
 5510={ #Kunshu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1146,8 +1126,8 @@
 
 5511={ #Lubushu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -1162,14 +1142,13 @@
 
 5529={ #Qarrishu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1179,21 +1158,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5530={ #Pilanish
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1203,21 +1180,19 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }
 
 5533={ #Nidutu
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="slavic_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1227,7 +1202,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="slavic_pantheon"
 		amount=1
 	}
 }

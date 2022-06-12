@@ -27,6 +27,11 @@
 		kassite = {}
 		namaric = {}
 		hambanese = {}
+		halmanite = {}
+		gannanatan = {}
+		parsuan = {}
+		barran = {}
+		harhari = {}
 	}
 	
 	barbarian_names = { 
