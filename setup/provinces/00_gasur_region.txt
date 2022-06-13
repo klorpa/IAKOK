@@ -80,7 +80,7 @@
 
 5429={ #Turshan
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -102,7 +102,7 @@
 
 5430={ #Urkatu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -198,7 +198,7 @@
 
 5436={ #Quliptu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -214,7 +214,7 @@
 
 5437={ #Pisnaqu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -233,7 +233,7 @@
 
 5438={ #Pahzu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -249,7 +249,7 @@
 
 5450={ #Gasur
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -271,7 +271,7 @@
 
 5503={ #Ramaki
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -290,7 +290,7 @@
 
 5504={ #Naptini
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -306,7 +306,7 @@
 
 5505={ #Eb'ala
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -322,7 +322,7 @@
 
 5506={ #Arutu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -338,7 +338,7 @@
 
 5507={ #Kiam
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 5508={ #Katinnu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -370,7 +370,7 @@
 
 5509={ #Hu'uru
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -386,7 +386,7 @@
 
 5512={ #Lubda
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -408,7 +408,7 @@
 
 5513={ #Madutu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -424,7 +424,7 @@
 
 5514={ #Mashandu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -440,7 +440,7 @@
 
 5515={ #Meranu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
@@ -456,7 +456,7 @@
 
 5516={ #Napahu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="bitumen"
 	civilization_value=0
@@ -472,7 +472,7 @@
 
 5517={ #Nampasu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -488,7 +488,7 @@
 
 5518={ #Pusumtu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -504,7 +504,7 @@
 
 5519={ #Qashdu
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="dates"
 	civilization_value=0
@@ -520,7 +520,7 @@
 
 5520={ #Rabisu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -536,7 +536,7 @@
 
 5521={ #Tamti
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -552,7 +552,7 @@
 
 5522={ #Sakrikkum
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -568,7 +568,7 @@
 
 5523={ #Shinashan
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -584,7 +584,7 @@
 
 5524={ #Taranu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -600,7 +600,7 @@
 
 5525={ #Uradu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -616,7 +616,7 @@
 
 5526={ #Wakalu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -632,7 +632,7 @@
 
 5527={ #Zabalu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -648,7 +648,7 @@
 
 5528={ #Raspu
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -933,7 +933,7 @@
 
 5551={ #Irgilu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -949,7 +949,7 @@
 
 5552={ #Shurudhum
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -971,7 +971,7 @@
 
 5553={ #Zizânu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -987,7 +987,7 @@
 
 5561={ #Arêbu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -1003,7 +1003,7 @@
 
 5562={ #Dubdubbu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1019,7 +1019,7 @@
 
 5563={ #Abru
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1035,7 +1035,7 @@
 
 5564={ #Herêbu
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -1051,7 +1051,7 @@
 
 5565={ #Kumû
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1067,7 +1067,7 @@
 
 5588={ #Qabru
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -1083,7 +1083,7 @@
 
 5652={ #Karahar
 	terrain="plains"
-	culture="arraphan"
+	culture="shurudhumi"
 	religion="anunnaki_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1099,7 +1099,7 @@
 
 5665={ #Kibrîtu
 	terrain="plains"
-	culture="arraphan"
+	culture="tursanese"
 	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1115,7 +1115,7 @@
 
 6449={ #Sanababa
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1131,7 +1131,7 @@
 
 6450={ #Nuru
 	terrain="plains"
-	culture="arraphan"
+	culture="nuran"
 	religion="anunnaki_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1147,7 +1147,7 @@
 
 6451={ #Zeru
 	terrain="plains"
-	culture="arraphan"
+	culture="lubdan"
 	religion="anunnaki_pantheon"
 	trade_goods="cloth"
 	civilization_value=0

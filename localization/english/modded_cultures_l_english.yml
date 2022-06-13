@@ -236,6 +236,10 @@
  zutlumite:0 "Zutlumite"
  hiptunite:0 "Hiptunite"
  arraphan:0 "Arraphan"
+ tursanese:0 "Tursanese"
+ nuran:0 "Nuran"
+ lubdan:0 "Lubdan"
+ shurudhumi:0 "Shurudhumi"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kassites and related tribes - Zoomed
@@ -293,6 +297,8 @@
  karkamisan:0 "Karkamisan"
  tejeker:0 "Tejeker"
  sfardan:0 "Sfardan"
+ tarhuntassan:0 "Tarhuntassan"
+ sidetan:0 "Sidetan"
  luwian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  luwian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Western Iranian

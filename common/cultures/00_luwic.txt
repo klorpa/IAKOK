@@ -102,6 +102,8 @@
 	}
 	culture = {
 		tejeker = {}
+		tarhuntassan = {}
+		sidetan = {}
 		hamathite = {
 			levy_template = levy_hattian
 			male_names = {
