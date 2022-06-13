@@ -3572,15 +3572,14 @@ country = {
 				5656 5655 5654 6205 5651 5660 5582 5585 5583
 			}
 		}
-		ACR = { #Parsua
+		ACR = { #Kinihamanu
 			government = tribal_federation
 			primary_culture = parsuan
 			religion = kassite_pantheon
-			capital = 6201
+			capital = 5638
 			
 			own_control_core = 	{ 
-				5638 5637 5639 5640 5650 5649 6201 5647 5646 5645 5644 5643 5641 5642
-				5573 5575 5574 5584 5608 5572 5570 
+				5638 5637 5639 5640
 			}
 		}
 		ACS = { #Bit-Barru
@@ -3625,7 +3624,107 @@ country = {
 				5496 5498 5497 5495 5493 5500 5499 5538 5492 5494 5490 6452
 			}
 		}
-		ACY = { #Additional
+		ACY = { #Dagara
+			government = tribal_kingdom
+			primary_culture = dagaran
+			religion = kassite_pantheon
+			capital = 5627
+			
+			own_control_core = 	{ 
+				5627 6736 5626 5625 5624 5623 5622 5628 5630 5629
+			}
+		}
+		ACZ = { #Shalahamanu
+			government = tribal_kingdom
+			primary_culture = parsuan
+			religion = kassite_pantheon
+			capital = 5573
+			
+			own_control_core = 	{ 
+				5573 5584 5608 5575 5574 5572 5570
+			}
+		}
+		ADA = { #Pushtu
+			government = tribal_kingdom
+			primary_culture = parsuan
+			religion = kassite_pantheon
+			capital = 6201
+			
+			own_control_core = 	{ 
+				6201 5649 5650 5641 5642 5647 5643 5644 5645 5646
+			}
+		}
+		ADB = { #Ahazum
+			government = tribal_kingdom
+			primary_culture = ahazan
+			religion = kassite_pantheon
+			capital = 5480
+			
+			own_control_core = 	{ 
+				5469 5483 5468 5480 5482 5481 5479 5612 5467 5486 5487 5488 5611 5466 5465
+			}
+		}
+		ADC = { #Arragdi
+			government = tribal_kingdom
+			primary_culture = arragdan
+			religion = kassite_pantheon
+			capital = 5634
+			
+			own_control_core = 	{ 
+				5635 5634 5633 5631 5632 6453 5636 5489 5491 5484 5485
+			}
+		}
+		ADD = { #Kabushkia
+			government = tribal_kingdom
+			primary_culture = kabushkian
+			religion = hurrian_pantheon
+			capital = 5257
+			
+			own_control_core = 	{ 
+				5257 5886 5887 5888 5890 5889 6445 5891 5907 5908 5855 5859
+			}
+		}
+		ADE = { #Kirruri
+			government = tribal_kingdom
+			primary_culture = kirruran
+			religion = hurrian_pantheon
+			capital = 5389
+			
+			own_control_core = 	{ 
+				5258 5260 5259 5389 5224 5261 5262 5388 5263
+			}
+		}
+		ADF = { #Tamnuma
+			government = tribal_kingdom
+			primary_culture = tamnuman
+			religion = hurrian_pantheon
+			capital = 5274
+			
+			own_control_core = 	{ 
+				5274 5273 5276 5225 5275 5221 5264 5357 5278
+			}
+		}
+		ADG = { #Zutlum
+			government = tribal_kingdom
+			primary_culture = zutlumite
+			religion = hurrian_pantheon
+			capital = 5284
+			
+			own_control_core = 	{ 
+				5284 5356 5355 5613 5283 5282 5281 5280 6674 5395 5393
+			}
+		}
+		ADH = { #Hiptuna
+			government = tribal_kingdom
+			primary_culture = hiptunite
+			religion = hurrian_pantheon
+			capital = 5398
+			
+			own_control_core = 	{ 
+				5618 5619 5399 5617 5616 5615 5398 5396 5620 5621 5614 5394
+			}
+		}
+		ADI = { #Additional
 			government = tribal_kingdom
 			primary_culture = karman
 			religion = hurrian_pantheon
@@ -3635,7 +3734,87 @@ country = {
 				
 			}
 		}
-		ACZ = { #Additional
+		ADJ = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADK = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADL = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADM = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADN = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADO = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADP = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADR = { #Additional
+			government = tribal_kingdom
+			primary_culture = karman
+			religion = hurrian_pantheon
+			capital = 5892
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		ADS = { #Additional
 			government = tribal_kingdom
 			primary_culture = karman
 			religion = hurrian_pantheon

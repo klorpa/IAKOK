@@ -148,7 +148,7 @@
  khalupan:0 "Khalupan"
  aramaic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aramaic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Arabian
+ #Arabian- Zoomed
  arabian:2 "Arabian"
  dilmunite:0 "Dilmunite"
  arab:0 "Arab"
@@ -203,7 +203,7 @@
  tirynian:0 "Tirynian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Aegean culture
+ #Aegean culture - Zoomed
  minoic:2 "Greco-Agean"
  philistine:0 "Philistine"
  eteocypriot:0 "Alashiyan"
@@ -216,10 +216,9 @@
  agade:0 "Babylonian"
  ashurite:0 "Assyrian"
  istarite:0 "Istarite"
- arraphan:0 "Arraphan"
  akkadian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  akkadian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Heirs of the Mittani
+ #Heirs of the Mittani - Zoomed
  hurric:2 "Hurric"
  shubrian:0 "Shubrian"
  alzan:0 "Alzan"
@@ -231,6 +230,12 @@
  derrian:0 "Derrian"
  ullubic:0 "Ullubic"
  kuryian:0 "Kuryian"
+ kabushkian:0 "Kabushkian"
+ kirruran:0 "Kirruran"
+ tamnuman:0 "Tamnuman"
+ zutlumite:0 "Zutlumite"
+ hiptunite:0 "Hiptunite"
+ arraphan:0 "Arraphan"
  hurric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  hurric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kassites and related tribes - Zoomed
@@ -245,6 +250,9 @@
  harhari:0 "Harhari"
  arashtuan:0 "Arashtuan"
  amekan:0 "Amekan"
+ dagaran:0 "Dagaran"
+ ahazan:0 "Ahazan"
+ arragdan:0 "Arragdan"
  kassites_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kassites_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Elamites-Zoomed
@@ -260,7 +268,7 @@
  caucasic:2 "Caucasian"
  colchian:0 "Colchian"
  ciberic:0 "Iberian"
- calbanian: "Albanian"
+ calbanian:0 "Albanian"
  mushkian:0 "Mushkian"
  macronian:0 "Macronian"
  mossynoetian:0 "Mossynoetian"
@@ -305,11 +313,11 @@
  drangic:0 "Drangian"
  sogdic:0 "Sogdian"
  margianic:0 "Margian"
- chorasmic: "Chorasmian"
- bactric: "Bactrian"
- aric: "Arii"
+ chorasmic:0 "Chorasmian"
+ bactric:0 "Bactrian"
+ aric:0 "Arii"
  pakthic:0 "Pakthan"
- archosic: "Archosian"
+ archosic:0 "Archosian"
  eiranic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  eiranic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nuragic

@@ -134,7 +134,6 @@ ashurite_heritage = {
 		OR = {
 			primary_culture = ashurite
 			primary_culture = istarite
-			primary_culture = arraphan
 		}
 	}
 }

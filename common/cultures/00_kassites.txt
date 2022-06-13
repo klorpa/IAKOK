@@ -34,6 +34,9 @@
 		harhari = {}
 		arashtuan = {}
 		amekan = {}
+		dagaran = {}
+		ahazan = {}
+		arragdan = {}
 	}
 	
 	barbarian_names = { 
