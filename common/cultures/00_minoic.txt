@@ -52,6 +52,7 @@
 		eteocypriot = {}
 		kynourian = {}
 		minyan = {}
+		lycic = {}
 	}
 	
 	barbarian_names = { 

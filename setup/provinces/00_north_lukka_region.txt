@@ -1,7 +1,7 @@
 ﻿1889={ #Ilaniya
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 2498={ #Mirli
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 2935={ #Punawari
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -48,8 +48,8 @@
 
 2955={ #Harmazti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -64,8 +64,8 @@
 
 2956={ #Utti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -80,8 +80,8 @@
 
 2957={ #Zarza
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -99,8 +99,8 @@
 
 2958={ #Karsti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -118,8 +118,8 @@
 
 2959={ #Malini
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -137,8 +137,8 @@
 
 2964={ #Ilhati
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -153,8 +153,8 @@
 
 2965={ #Lahisti
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -169,8 +169,8 @@
 
 2966={ #Wisiti
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -185,8 +185,8 @@
 
 2967={ #Tiwarsa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -204,8 +204,8 @@
 
 2968={ #Alariyas
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -220,8 +220,8 @@
 
 2969={ #Harattis
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -236,8 +236,8 @@
 
 2970={ #Ussalli
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -255,8 +255,8 @@
 
 2971={ #Nawis
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -271,8 +271,8 @@
 
 2972={ #Parha
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -293,8 +293,8 @@
 
 2979={ #Aruti
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -309,8 +309,8 @@
 
 2980={ #Harmanis
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -328,8 +328,8 @@
 
 2981={ #Tumzurni
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -344,8 +344,8 @@
 
 2982={ #Attarima
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -360,8 +360,8 @@
 
 2983={ #Arwalan
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -379,8 +379,8 @@
 
 2984={ #Tarwilan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -395,8 +395,8 @@
 
 2985={ #Huiannis
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -411,8 +411,8 @@
 
 2986={ #Wizitis
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -427,8 +427,8 @@
 
 2987={ #Kuizas
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -443,8 +443,8 @@
 
 2988={ #Kuwalapassa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -465,8 +465,8 @@
 
 2989={ #Apamu
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -478,8 +478,8 @@
 
 2990={ #Apawi
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -491,8 +491,8 @@
 
 2991={ #Mintammi
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -510,8 +510,8 @@
 
 2992={ #Inankui
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -526,8 +526,8 @@
 
 2993={ #Winawati
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -542,8 +542,8 @@
 
 2994={ #Amuti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -558,8 +558,8 @@
 
 2995={ #Isnati
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -577,8 +577,8 @@
 
 3013={ #Wasawis
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -590,8 +590,8 @@
 
 3014={ #Sarkuiza
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -606,8 +606,8 @@
 
 3015={ #Hutarli
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -622,8 +622,8 @@
 
 3016={ #Lawar
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -638,8 +638,8 @@
 
 3019={ #Titita
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -651,8 +651,8 @@
 
 3020={ #Tideimi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -667,8 +667,8 @@
 
 3021={ #Uruwa
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -686,8 +686,8 @@
 
 3022={ #Waralli
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -699,8 +699,8 @@
 
 3023={ #Wassina
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -712,8 +712,8 @@
 
 3024={ #Hishija
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -728,8 +728,8 @@
 
 3025={ #Happisa
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -741,8 +741,8 @@
 
 3026={ #Annan
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -760,8 +760,8 @@
 
 3027={ #Ahhalta
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -779,8 +779,8 @@
 
 3028={ #Issasti
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -795,8 +795,8 @@
 
 3029={ #Kummi
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -808,8 +808,8 @@
 
 3030={ #Madduli
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -824,8 +824,8 @@
 
 3031={ #Nawanun
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -843,8 +843,8 @@
 
 3032={ #Nisnija
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -859,8 +859,8 @@
 
 3033={ #Uwassa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=4
@@ -875,8 +875,8 @@
 
 3034={ #Parnati
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=4
@@ -897,8 +897,8 @@
 
 3035={ #Tatar
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=4
@@ -913,8 +913,8 @@
 
 3036={ #Uwalant
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=4
@@ -926,8 +926,8 @@
 
 3037={ #Wastara
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=4
@@ -942,8 +942,8 @@
 
 3038={ #Nanasri
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=4
@@ -958,8 +958,8 @@
 
 3039={ #Naniziti
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=4
@@ -974,8 +974,8 @@
 
 3322={ #Anis
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -987,8 +987,8 @@
 
 3333={ #Ehratta
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1003,8 +1003,8 @@
 
 3334={ #Nurina
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1019,8 +1019,8 @@
 
 3335={ #Pilani
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1035,8 +1035,8 @@
 
 3336={ #Yuniya
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -1051,8 +1051,8 @@
 
 3338={ #Mussatta
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1070,8 +1070,8 @@
 
 3339={ #Piyana
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -1092,8 +1092,8 @@
 
 3340={ #Mutralla
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1111,8 +1111,8 @@
 
 3343={ #Azitta
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0

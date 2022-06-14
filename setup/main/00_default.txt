@@ -2257,6 +2257,335 @@ country = {
 				2265 2275 2278
 			}
 		}
+		
+		HAR = { #Xanthos
+			government = despotic_monarchy
+			primary_culture = lycic
+			religion = grecoid_pantheon
+			capital = 1256
+			
+			own_control_core = 	{ 
+				1195 1196 1330 1256 3010 1333 1334
+			}
+		}
+		
+		HAS = { #Side
+			government = despotic_monarchy
+			primary_culture = sidetan
+			religion = luwic_pantheon
+			capital = 3085
+			
+			own_control_core = 	{ 
+				3084 3087 3088 3082 3085 3089 3099 3100
+			}
+		}
+		
+		HAT = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAU = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAW = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAY = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HAZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBA = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBB = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBC = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBD = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBE = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBF = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBG = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBH = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBI = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBK = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBL= { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBM = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBN = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBO = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBP = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBR = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBS = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBT = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBU = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBW = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		HBY = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		HBZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2263
+			
+			own_control_core = 	{ 
+				
+			}
+		}
 		#Grecoids
 		GAA = { #Salamis
 			government = despotic_monarchy

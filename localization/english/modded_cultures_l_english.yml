@@ -209,6 +209,7 @@
  eteocypriot:0 "Alashiyan"
  kynourian:0 "Kynourian"
  minyan:0 "Minyan"
+ lycic:0 "Lycian"
  minoic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  minoic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Children of Ashur and Marduk - Zoomed
@@ -285,7 +286,7 @@
  luwian:2 "Luwian"
  hamathite:0 "Amathic"
  lukhutic:0 "Khatarikan"
- azitawatan:0 "azitawatan"
+ azitawatan:0 "Azitawatan"
  arpadic:0 "Arpadic"
  patinite:0 "Patinite"
  kizzuwi:0 "Kizzuwatnan"
@@ -299,6 +300,7 @@
  sfardan:0 "Sfardan"
  tarhuntassan:0 "Tarhuntassan"
  sidetan:0 "Sidetan"
+ lukkan:0 "Lukkan"
  luwian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  luwian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Western Iranian
