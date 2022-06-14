@@ -435,7 +435,7 @@ base_window = {
 								position = { 0 4 }
 								size = { 100% 100% }
 								#maxhorizontalslots = 7
-								datamodel_wrap = 6
+								datamodel_wrap = 7
 								
 								datamodel = "[TradeView.GetAvailableTradeGoods]"
 								
@@ -478,7 +478,7 @@ base_window = {
 								position = { 0 4 }
 								size = { 100% 100% }
 								#maxhorizontalslots = 7
-								datamodel_wrap = 6
+								datamodel_wrap = 7
 								
 								datamodel = "[TradeView.GetDeniedTradeGoods]"
 								

@@ -44,3 +44,10 @@
  Siamun:0 "Siamun"
  Siamun2:0 "Siamun"
  
+ #Wargoals
+ event_conquest_wargoal:0 "Historical Conflict"
+ war_goal_event_conquest_wargoal:0 "Historical Conflict"
+ war_goal_event_conquest_wargoal_desc:0 "This is a special historical conflict wargoal. During this conflict the allies will give you the regions the occupy and a cost for anexing the territories is greatly reduced to reflect the historical accuracy."
+ demands_of_ashur_wargoal:0 "Ashur's Demand"
+ war_goal_demands_of_ashur_wargoal:0 "Ashur's Demand"
+ war_goal_demands_of_ashur_wargoal_desc:0 "Ashur's followers are required to participate in or support annual war campaigns. He demands conquests, and defying the will of the god of war is punishable by death."

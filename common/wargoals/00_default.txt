@@ -81,6 +81,10 @@ conquer_wargoal = {
 	type = take_province
 	allow = {
 		is_subject = no
+		NAND = {
+			has_deity_in_pantheon = deity:omen_mashshur
+			deity:omen_mashshur = { has_holy_site = yes }
+		}
 	}
 	
 	attacker = {

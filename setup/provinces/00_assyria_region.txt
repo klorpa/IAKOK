@@ -395,7 +395,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_ashur
+	holy_site=omen_mashshur
 }
 
 5304={ #Sislu

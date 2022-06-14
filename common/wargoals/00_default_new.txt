@@ -27,3 +27,23 @@ event_conquest_wargoal = {
 	ticking_war_score = 1
 
 }
+
+demands_of_ashur_wargoal = {
+	type = take_province #superiority
+	#uses_civil_war_conquest = yes
+	allow = { #Will this show up in the declare war window.
+		is_subject = no
+		AND = {
+			has_deity_in_pantheon = deity:omen_mashshur
+			deity:omen_mashshur = { has_holy_site = yes }
+		}
+	}
+	
+	attacker = {
+		conquer_cost = -0.75
+	}
+	defender = {
+	}
+	ticking_war_score = 1
+
+}
