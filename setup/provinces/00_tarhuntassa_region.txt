@@ -72,10 +72,7 @@
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -161,10 +158,7 @@
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -255,8 +249,8 @@
 
 3246={ #Walma
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="luwic_pantheon"
+	culture="uran"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -271,8 +265,8 @@
 
 3248={ #Kuwari
 	terrain="hills"
-	culture="tarhuntassan"
-	religion="luwic_pantheon"
+	culture="uran"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -287,8 +281,8 @@
 
 3249={ #Kuiyas
 	terrain="plains"
-	culture="tarhuntassan"
-	religion="luwic_pantheon"
+	culture="uran"
+	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -303,8 +297,8 @@
 
 3250={ #Ura
 	terrain="farmland"
-	culture="tarhuntassan"
-	religion="luwic_pantheon"
+	culture="uran"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -325,8 +319,8 @@
 
 3252={ #Warsiya
 	terrain="forest"
-	culture="tarhuntassan"
-	religion="luwic_pantheon"
+	culture="uran"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -448,15 +442,12 @@
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
 	slaves={
-		amount=2
+		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -553,15 +544,12 @@
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
 	slaves={
-		amount=2
+		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -610,15 +598,12 @@
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=3
 	}
 	slaves={
-		amount=3
+		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -923,20 +908,16 @@
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=3
 	}
 	slaves={
-		amount=3
+		amount=1
 	}
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_tarhunz
 }
 
 3300={ #Harmassa

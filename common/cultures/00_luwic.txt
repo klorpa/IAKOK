@@ -105,6 +105,7 @@
 		tarhuntassan = {}
 		sidetan = {}
 		lukkan = {}
+		karkissan = {}
 		hamathite = {
 			levy_template = levy_hattian
 			male_names = {

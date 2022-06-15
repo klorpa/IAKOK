@@ -194,6 +194,12 @@ family={
 			culture = makedon
 			prestige=300
 		}
+		31={
+			key="Sarpedonid"
+			owner=HAR
+			culture = lycic
+			prestige=300
+		}
 	}
 }
 
@@ -214,6 +220,38 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	3997 = { #Acco
 		port_building = 1
+	}
+	
+	637 = { #Pruili
+		port_building = 1
+	}
+	
+	2293 = { #Kartila
+		port_building = 1
+	}
+	
+	2998 = { #Isnari
+		port_building = 1
+	}
+	
+	3249 = { #Kuiyas
+		port_building = 1
+	}
+	
+	2963 = { #Ziwatli
+		port_building = 1
+	}
+	
+	2937 = { #Zumarri
+		port_building = 1
+	}
+	
+	2968 = { #Alaryas
+		port_building = 1
+	}
+	
+	1256 = { #Xanthos
+		port_building = 2
 	}
 	
 	1090 = { #Knossos
@@ -2267,6 +2305,8 @@ country = {
 			own_control_core = 	{ 
 				1195 1196 1330 1256 3010 1333 1334
 			}
+			
+			family = 31
 		}
 		
 		HAS = { #Side
@@ -2280,152 +2320,152 @@ country = {
 			}
 		}
 		
-		HAT = { #Additional
+		HAT = { #Ura
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = uran
+			religion = grecoid_pantheon
+			capital = 3250
 			
 			own_control_core = 	{ 
-				
+				3250 3249 3246 3252 3248
 			}
 		}
 		
-		HAU = { #Additional
+		HAU = { #Perge
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2972
 			
 			own_control_core = 	{ 
-				
+				2972 2971 2976 2979 2980 2970 2968
 			}
 		}
 		
-		HAW = { #Additional
+		HAW = { #Ziwatli
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2963
 			
 			own_control_core = 	{ 
-				
+				2963 2964 2960 2961
 			}
 		}
 		
-		HAY = { #Additional
+		HAY = { #Zumarri
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2937
 			
 			own_control_core = 	{ 
-				
+				2937 2939 2940 2936 3011
 			}
 		}
 		
-		HAZ = { #Additional
+		HAZ = { #Isnari
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2998
 			
 			own_control_core = 	{ 
-				
+				2998 2997 3000
 			}
 		}
 		
-		HBA = { #Additional
+		HBA = { #Pruili
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 637
 			
 			own_control_core = 	{ 
-				
+				637 1192 1449 630 1500
 			}
 		}
 		
-		HBB = { #Additional
+		HBB = { #Kartila
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2293
 			
 			own_control_core = 	{ 
-				
+				2293 2259 1466 2350 1246
 			}
 		}
 		
-		HBC = { #Additional
+		HBC = { #Wyanawanda 
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 3320
 			
 			own_control_core = 	{ 
-				
+				3320 3321 3319 3318
 			}
 		}
 		
-		HBD = { #Additional
+		HBD = { #Nattiswa
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2947
 			
 			own_control_core = 	{ 
-				
+				2947 2942 2944 2946
 			}
 		}
 		
-		HBE = { #Additional
+		HBE = { #Hassa
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2950
 			
 			own_control_core = 	{ 
-				
+				2950 2951 2954 2952
 			}
 		}
 		
-		HBF = { #Additional
+		HBF = { #Huratta
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 7
 			
 			own_control_core = 	{ 
-				
+				7 1468 59 1450 1323
 			}
 		}
 		
-		HBG = { #Additional
+		HBG = { #Hinduwa
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 3007
 			
 			own_control_core = 	{ 
-				
+				3007 3008 3006
 			}
 		}
 		
-		HBH = { #Additional
+		HBH = { #Kuwalapassa
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2988
 			
 			own_control_core = 	{ 
-				
+				2988 2991 2987 2986 2989 2992 2990
 			}
 		}
 		
 		HBI = { #Additional
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lukkan
 			religion = luwic_pantheon
 			capital = 2263
 			
@@ -3650,7 +3690,7 @@ country = {
 			}
 		}
 		ABP = { #Utu
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = utunian
 			religion = anunnaki_pantheon
 			capital = 5746
@@ -3661,7 +3701,7 @@ country = {
 			}
 		}
 		ABR = { #Hiranu
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = hiranic
 			religion = anunnaki_pantheon
 			capital = 5648
@@ -3671,7 +3711,7 @@ country = {
 			}
 		}
 		ABS = { #Rabilu
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = rabilan
 			religion = anunnaki_pantheon
 			capital = 5686
@@ -3681,7 +3721,7 @@ country = {
 			}
 		}
 		ABT = { #Rede
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = redan
 			religion = anunnaki_pantheon
 			capital = 5676

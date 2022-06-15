@@ -148,6 +148,7 @@
 		drerosi = {}
 		eleuthernan = {}
 		tirynian = {}
+		uran = {}
 	}
 	
 	barbarian_names = { 
