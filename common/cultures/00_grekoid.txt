@@ -149,6 +149,9 @@
 		eleuthernan = {}
 		tirynian = {}
 		uran = {}
+		halikarnassian = {}
+		miletan = {}
+		iassosan = {}
 	}
 	
 	barbarian_names = { 

@@ -222,6 +222,18 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1451 = { #Iassos
+		port_building = 1
+	}
+	
+	1470 = { #Miletus
+		port_building = 1
+	}
+	
+	1485 = { #Halikarnassos
+		port_building = 1
+	}
+	
 	637 = { #Pruili
 		port_building = 1
 	}
@@ -2463,36 +2475,36 @@ country = {
 			}
 		}
 		
-		HBI = { #Additional
+		HBI = { #Halikarnassos
 			government = despotic_monarchy
-			primary_culture = lukkan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = halikarnassian
+			religion = grecoid_pantheon
+			capital = 1485
 			
 			own_control_core = 	{ 
-				
+				1485 1490 1492 1441 1495
 			}
 		}
 		
-		HBJ = { #Additional
+		HBJ = { #Miletus
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = miletan
+			religion = grecoid_pantheon
+			capital = 1470
 			
 			own_control_core = 	{ 
-				
+				1470 1469 1462 1467 1457
 			}
 		}
 		
-		HBK = { #Additional
+		HBK = { #Iassos
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = iassosan
+			religion = grecoid_pantheon
+			capital = 1451
 			
 			own_control_core = 	{ 
-				
+				1451 1443 1456 1440
 			}
 		}
 		
