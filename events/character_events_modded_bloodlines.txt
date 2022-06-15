@@ -11,6 +11,7 @@ character_events.35 = {
 				father = {
 					OR = {
 						has_trait = davidids
+						has_trait = sarpedian
 						has_trait = achemenids
 						has_trait = 21dynastys
 						has_trait = 22dynastys
@@ -41,6 +42,17 @@ character_events.35 = {
 					}
 				}
 				add_trait = davidids
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = sarpedian
+					}
+					NOT = {
+						has_trait = sarpedian
+					}
+				}
+				add_trait = sarpedian
 			}
 			if = {
 				limit = {
@@ -241,6 +253,18 @@ character_events.35 = {
 				}
 			}
 			add_trait = davidids	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = sarpedian
+				}
+				NOT = {
+					has_trait = sarpedian
+				}
+			}
+			add_trait = sarpedian	
 		}
 		if = {
 			limit = {

@@ -191,6 +191,7 @@ char_is_civic_trigger = {
 has_bloodline_trigger = {
 	OR = {
 		has_trait = davidids
+		has_trait = sarpedian
 		has_trait = achemenids
 		has_trait = 21dynastys
 		has_trait = 22dynastys

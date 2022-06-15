@@ -11,6 +11,11 @@ pass_down_traits_effect = {
 				}
 				OR = {
 					father = {
+						has_trait = sarpedian
+					}
+				}
+				OR = {
+					father = {
 						has_trait = brihadratha
 					}
 				}
@@ -105,6 +110,17 @@ pass_down_traits_effect = {
 					}
 				}
 				add_trait = davidids
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = sarpedian
+					}
+					NOT = {
+						has_trait = sarpedian
+					}
+				}
+				add_trait = sarpedian
 			}
 			if = {
 				limit = {
@@ -305,6 +321,19 @@ pass_down_traits_effect = {
 				}
 			}
 			add_trait = davidids
+
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = sarpedian
+				}
+				NOT = {
+					has_trait = sarpedian
+				}
+			}
+			add_trait = sarpedian
 
 		}
 		if = {
@@ -539,6 +568,14 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = davidids
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = sarpedian
+			}
+		}
+		add_trait = sarpedian
 	}
 	if = {
 		limit = {

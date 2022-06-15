@@ -29,6 +29,18 @@ bloodlines_setup_completion.1 = {
 				limit = {
 					exists = father
 					father = {
+						has_trait = sarpedian
+					}
+					NOT = {
+						has_trait = sarpedian
+					}
+				}
+				add_trait = sarpedian
+			}
+			if = {
+				limit = {
+					exists = father
+					father = {
 						has_trait = brihadratha
 					}
 					NOT = {
@@ -240,6 +252,18 @@ bloodlines_setup_completion.1 = {
 					}
 				}
 				add_trait = davidids	
+			}
+			if = {
+				limit = {
+					exists = mother
+					mother = {
+						has_trait = sarpedian
+					}
+					NOT = {
+						has_trait = sarpedian
+					}
+				}
+				add_trait = sarpedian	
 			}
 			if = {
 				limit = {

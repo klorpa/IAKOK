@@ -26,6 +26,19 @@ brihadratha = {
 	
 }
 
+sarpedian = {
+	type = status
+	
+	prominence = 20
+	martial = 1
+
+	country = {
+		land_morale_modifier = 0.1
+		global_commerce_modifier = 0.1
+	}
+	
+}
+
 achemenids = {
 	type = status
 	
