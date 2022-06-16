@@ -3155,6 +3155,259 @@ country = {
 			}
 		}
 		
+		GCA = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCB = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCC = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCD = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCE = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCF = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCG = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCH = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCI = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCK = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCL = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCM = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCN = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCO = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCP = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCR = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCS = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCT = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCU = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCW = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCY = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GCZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = tirynian
+			religion = grecoid_pantheon
+			capital = 218
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
 		#Chad Akkadians
 		AAA = { #Karduniash
 			government = aristocratic_monarchy
