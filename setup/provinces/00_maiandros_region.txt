@@ -1,7 +1,7 @@
 ﻿1400={ #Prikanti
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -19,8 +19,8 @@
 
 1403={ #Toros
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -33,10 +33,10 @@
 	}
 }
 
-1406={ #Atriya
+1406={ #Magnesia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -57,8 +57,8 @@
 
 1407={ #Ioposo
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -73,8 +73,8 @@
 
 1408={ #Parlita
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

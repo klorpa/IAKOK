@@ -606,8 +606,8 @@
 
 1209={ #Kerkis
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -622,8 +622,8 @@
 
 1211={ #Ydroussa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -638,20 +638,14 @@
 
 1212={ #Pefkos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=4
-	}
-	slaves={
-		amount=2
 	}
 	tribesmen={
 		amount=1
@@ -660,8 +654,8 @@
 
 1213={ #Pirgos
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -676,8 +670,8 @@
 
 1214={ #Heraion
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -692,8 +686,8 @@
 
 1215={ #Kokkari
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -711,8 +705,8 @@
 
 1216={ #Samos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -733,8 +727,8 @@
 
 1218={ #Palaio
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samosian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

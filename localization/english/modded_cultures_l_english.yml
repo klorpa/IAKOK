@@ -205,6 +205,10 @@
  halikarnassian:0 "Halikarnassian"
  iassosan:0 "Iassosan"
  miletan:0 "Miletan"
+ prienan:0 "Prienan"
+ ephesian:0 "Ephesian"
+ samosian:0 "Samosian"
+ magnesian:0 "Magnesian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed

@@ -1,7 +1,7 @@
 ﻿1384={ #Bimaj
 	terrain="hills"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="ephesian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -14,10 +14,10 @@
 	}
 }
 
-1385={ #Apasa
+1385={ #Ephesus
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="ephesian"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -35,8 +35,8 @@
 
 1386={ #Iokir
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="ephesian"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -54,8 +54,8 @@
 
 1388={ #Tarhu
 	terrain="mountain_valley"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="ephesian"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -70,8 +70,8 @@
 
 1390={ #Jokar
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="prienan"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -89,8 +89,8 @@
 
 1393={ #Kiret
 	terrain="deep_forest"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="prienan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -100,27 +100,11 @@
 	}
 }
 
-1394={ #Pariyana
+1394={ #Priene
 	terrain="forest"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="prienan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=2
-	}
-}
-
-1397={ #Ziprilya
-	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
-	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -138,10 +122,26 @@
 	}
 }
 
+1397={ #Ziprilya
+	terrain="farmland"
+	culture="prienan"
+	religion="grecoid_pantheon"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
 1398={ #Amro
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -159,8 +159,8 @@
 
 1402={ #Kosor
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="magnesian"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0

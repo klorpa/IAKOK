@@ -152,6 +152,10 @@
 		halikarnassian = {}
 		miletan = {}
 		iassosan = {}
+		prienan = {}
+		ephesian = {}
+		samosian = {}
+		magnesian = {}
 	}
 	
 	barbarian_names = { 
