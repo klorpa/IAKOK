@@ -209,6 +209,8 @@
  ephesian:0 "Ephesian"
  samosian:0 "Samosian"
  magnesian:0 "Magnesian"
+ chiosan:0 "Chiosan"
+ colophonese:0 "Colophonese"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed

@@ -1,7 +1,7 @@
 ﻿1220={ #Dotia
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 1221={ #Phanai
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 1223={ #Laii
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -48,8 +48,8 @@
 
 1226={ #Karfas
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -70,8 +70,8 @@
 
 1228={ #Babrantion
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -86,30 +86,24 @@
 
 1229={ #Kardamyle
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
 1234={ #Melanios
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -124,8 +118,8 @@
 
 1238={ #Dimnia
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -140,8 +134,8 @@
 
 1239={ #Pityous
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chiosan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -579,14 +573,20 @@
 
 1300={ #Kolophon
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="colophonese"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=2
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=2
@@ -1113,8 +1113,8 @@
 
 2593={ #Cretame
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="colophonese"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

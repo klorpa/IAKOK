@@ -156,6 +156,8 @@
 		ephesian = {}
 		samosian = {}
 		magnesian = {}
+		chiosan = {}
+		colophonese = {}
 	}
 	
 	barbarian_names = { 

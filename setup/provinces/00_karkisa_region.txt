@@ -1162,8 +1162,8 @@
 
 2592={ #Ligai
 	terrain="mountain_valley"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="colophonese"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

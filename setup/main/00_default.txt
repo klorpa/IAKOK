@@ -2549,14 +2549,14 @@ country = {
 			}
 		}
 		
-		HBO = { #Additional
+		HBO = { #Colophon
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = colophonese
+			religion = grecoid_pantheon
+			capital = 1300
 			
 			own_control_core = 	{ 
-				
+				1300 2593 2592
 			}
 		}
 		
@@ -3174,14 +3174,14 @@ country = {
 			}
 		}
 		
-		GCB = { #Additional
+		GCB = { #Chios
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = chiosan
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 1226
 			
 			own_control_core = 	{ 
-				
+				1226 1220 1221 1223 1228 1239 1238 1229 1234
 			}
 		}
 		
