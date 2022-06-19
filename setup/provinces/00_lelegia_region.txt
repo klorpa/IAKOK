@@ -462,8 +462,8 @@
 
 1290={ #Kiku
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="teosi"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=4
@@ -481,8 +481,8 @@
 
 1292={ #Etrino
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="teosi"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=4
@@ -497,8 +497,8 @@
 
 1293={ #Teos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="teosi"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=5
@@ -519,8 +519,8 @@
 
 1294={ #Lebedos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lebedan"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=3
@@ -541,8 +541,8 @@
 
 1297={ #Kao
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lebedan"
+	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0

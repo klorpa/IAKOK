@@ -53,6 +53,7 @@
 		kynourian = {}
 		minyan = {}
 		lycic = {}
+		icarian = {}
 	}
 	
 	barbarian_names = { 

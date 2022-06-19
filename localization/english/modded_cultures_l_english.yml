@@ -211,6 +211,9 @@
  magnesian:0 "Magnesian"
  chiosan:0 "Chiosan"
  colophonese:0 "Colophonese"
+ troan:0 "Troan"
+ lebedan:0 "Lebedan"
+ teosi:0 "Teosi"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed
@@ -220,6 +223,7 @@
  kynourian:0 "Kynourian"
  minyan:0 "Minyan"
  lycic:0 "Lycian"
+ icarian:0 "Icarian"
  minoic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  minoic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Children of Ashur and Marduk - Zoomed
@@ -312,6 +316,7 @@
  sidetan:0 "Sidetan"
  lukkan:0 "Lukkan"
  karkissan:0 "Karkissan"
+ wilusan:0 "Wilusan"
  luwian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  luwian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Western Iranian

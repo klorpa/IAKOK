@@ -158,6 +158,9 @@
 		magnesian = {}
 		chiosan = {}
 		colophonese = {}
+		lebedan = {}
+		troan = {}
+		teosi = {}
 	}
 	
 	barbarian_names = { 

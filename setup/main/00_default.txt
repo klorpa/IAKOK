@@ -226,6 +226,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1294 = { #Lebedos
+		port_building = 1
+	}
+	
 	1385 = { #Ephesus
 		port_building = 1
 	}
@@ -2560,47 +2564,36 @@ country = {
 			}
 		}
 		
-		HBP = { #Additional
+		HBP = { #Lebedos
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = lebedan
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 1294
 			
 			own_control_core = 	{ 
-				
+				1294 1297
 			}
 		}
 		
-		HBR = { #Additional
+		HBS = { #Troy
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = troan
+			religion = grecoid_pantheon
+			capital = 1477
 			
 			own_control_core = 	{ 
-				
+				1477 1244 1312 1303 1476 1383
 			}
 		}
 		
-		HBS = { #Additional
+		HBT = { #Teos
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = teosi
+			religion = grecoid_pantheon
+			capital = 1293
 			
 			own_control_core = 	{ 
-				
-			}
-		}
-		
-		HBT = { #Additional
-			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
-			
-			own_control_core = 	{ 
-				
+				1293 1292 1290
 			}
 		}
 		
@@ -3185,14 +3178,14 @@ country = {
 			}
 		}
 		
-		GCC = { #Additional
-			government = despotic_monarchy
-			primary_culture = tirynian
+		GCC = { #Icaria
+			government = tribal_kingdom
+			primary_culture = icarian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 1204
 			
 			own_control_core = 	{ 
-				
+				1204 1205 1207 1208
 			}
 		}
 		

@@ -533,30 +533,27 @@
 
 1204={ #Drakanon
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="icarian"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=2
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 1205={ #Therma
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="icarian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -571,8 +568,8 @@
 
 1207={ #Oinoe
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="icarian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -590,8 +587,8 @@
 
 1208={ #Pesi
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="icarian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
