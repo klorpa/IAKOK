@@ -54,6 +54,7 @@
 		minyan = {}
 		lycic = {}
 		icarian = {}
+		alarissan = {}
 	}
 	
 	barbarian_names = { 

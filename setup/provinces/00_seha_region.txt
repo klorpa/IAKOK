@@ -51,8 +51,8 @@
 
 2239={ #Sigron
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sigronese"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -67,8 +67,8 @@
 
 2240={ #Eresos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sigronese"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -83,8 +83,8 @@
 
 2241={ #Provaso
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -99,8 +99,8 @@
 
 2242={ #Argiso
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -115,8 +115,8 @@
 
 2243={ #Antissa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -131,17 +131,20 @@
 
 2244={ #Methymna
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="methymnan"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=6
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -150,8 +153,8 @@
 
 2246={ #Arisba
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="methymnan"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -166,8 +169,8 @@
 
 2247={ #Kravison
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -182,8 +185,8 @@
 
 2248={ #Therma
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mytilenian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -198,17 +201,20 @@
 
 2250={ #Mytilene
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mytilenian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -217,8 +223,8 @@
 
 2251={ #Hiera
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mytilenian"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -239,8 +245,8 @@
 
 2252={ #Pyrra
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="osaian"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -255,8 +261,8 @@
 
 2254={ #Osai
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="osaian"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0

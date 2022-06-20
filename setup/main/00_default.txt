@@ -226,6 +226,22 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	2250 = { #Mytilene
+		port_building = 1
+	}
+	
+	2332 = { #Cyme
+		port_building = 1
+	}
+	
+	1308 = { #Smyrna
+		port_building = 1
+	}
+	
+	1285 = { #Clazomenae
+		port_building = 1
+	}
+	
 	1294 = { #Lebedos
 		port_building = 1
 	}
@@ -2597,46 +2613,46 @@ country = {
 			}
 		}
 		
-		HBU = { #Additional
+		HBU = { #Clazomenae
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = clazomanian
+			religion = grecoid_pantheon
+			capital = 1285
 			
 			own_control_core = 	{ 
-				
+				1285 1283 1287
 			}
 		}
 		
-		HBW = { #Additional
+		HBW = { #Smyrna
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = smyrnese
+			religion = grecoid_pantheon
+			capital = 1308
 			
 			own_control_core = 	{ 
-				
+				1308 1328 1305 1314 1311 2314
 			}
 		}
 		
-		HBY = { #Additional
+		HBY = { #Larissa
 			government = despotic_monarchy
-			primary_culture = sfardan
-			religion = luwic_pantheon
-			capital = 2263
+			primary_culture = alarissan
+			religion = grecoid_pantheon
+			capital = 2327
 			
 			own_control_core = 	{ 
-				
+				2327 2312 2471 2310 2330 2325 2315 
 			}
 		}
-		HBZ = { #Additional
+		HBZ = { #Cyme
 			government = despotic_monarchy
-			primary_culture = sfardan
+			primary_culture = cyman
 			religion = luwic_pantheon
-			capital = 2263
+			capital = 2332
 			
 			own_control_core = 	{ 
-				
+				2332 2323 2333
 			}
 		}
 		#Grecoids
@@ -3189,69 +3205,69 @@ country = {
 			}
 		}
 		
-		GCD = { #Additional
+		GCD = { #Mytilene
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = mytilenian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 2250
 			
 			own_control_core = 	{ 
-				
+				2250 2248 2251
 			}
 		}
 		
-		GCE = { #Additional
+		GCE = { #Methymne
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = methymnan
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 2244
 			
 			own_control_core = 	{ 
-				
+				2244 2247 2242 2246 2243
 			}
 		}
 		
-		GCF = { #Additional
+		GCF = { #Osai
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = osaian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 2254
 			
 			own_control_core = 	{ 
-				
+				2254 2252
 			}
 		}
 		
-		GCG = { #Additional
+		GCG = { #Sigron
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = sigronese
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 2239
 			
 			own_control_core = 	{ 
-				
+				2239 2240 2241
 			}
 		}
 		
-		GCH = { #Additional
+		GCH = { #Lindos
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = lindosian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 1171
 			
 			own_control_core = 	{ 
-				
+				1171 1175 1174 1172 1181 1682
 			}
 		}
 		
-		GCI = { #Additional
+		GCI = { #Ialyssos
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = ialyssian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 1166
 			
 			own_control_core = 	{ 
-				
+				1166 1167 1169 1164 1679
 			}
 		}
 		

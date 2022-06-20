@@ -161,6 +161,15 @@
 		lebedan = {}
 		troan = {}
 		teosi = {}
+		clazomanian = {}
+		smyrnese = {}
+		cyman = {}
+		mytilenian = {}
+		methymnan = {}
+		osaian = {}
+		sigronese = {}
+		lindosian = {}
+		ialyssian = {}
 	}
 	
 	barbarian_names = { 
