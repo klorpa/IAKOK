@@ -170,6 +170,8 @@
 		sigronese = {}
 		lindosian = {}
 		ialyssian = {}
+		kosian = {}
+		triphylian = {}
 	}
 	
 	barbarian_names = { 

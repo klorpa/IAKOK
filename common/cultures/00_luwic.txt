@@ -107,6 +107,7 @@
 		lukkan = {}
 		karkissan = {}
 		lazpan = {}
+		sehan = {}
 		wilusan = {}
 		hamathite = {
 			levy_template = levy_hattian

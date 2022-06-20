@@ -880,18 +880,12 @@
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=4
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -1075,18 +1069,12 @@
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
-	}
-	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 

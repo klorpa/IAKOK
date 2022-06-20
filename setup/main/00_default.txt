@@ -222,6 +222,18 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1166 = { #Ialyssos
+		port_building = 1
+	}
+	
+	1188 = { #Kos
+		port_building = 1
+	}
+	
+	1171 = { #Lindos
+		port_building = 1
+	}
+	
 	1216 = { #Samos
 		port_building = 1
 	}
@@ -3045,7 +3057,7 @@ country = {
 			capital = 169
 			
 			own_control_core = 	{ 
-				169 1217 20 166
+				169 20 166
 			}
 		}
 		
@@ -3256,7 +3268,7 @@ country = {
 			capital = 1171
 			
 			own_control_core = 	{ 
-				1171 1175 1174 1172 1181 1682
+				1171 1175 1174 1172 1681
 			}
 		}
 		
@@ -3271,25 +3283,25 @@ country = {
 			}
 		}
 		
-		GCJ = { #Additional
+		GCJ = { #Kos
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = kosian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 1188
 			
 			own_control_core = 	{ 
-				
+				1188 1185 1184 1181
 			}
 		}
 		
-		GCK = { #Additional
-			government = despotic_monarchy
-			primary_culture = tirynian
+		GCK = { #Triphylia
+			government = tribal_federation
+			primary_culture = triphylian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 68
 			
 			own_control_core = 	{ 
-				
+				68 164 1497 1217
 			}
 		}
 		

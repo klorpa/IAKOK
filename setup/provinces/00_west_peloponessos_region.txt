@@ -318,7 +318,7 @@
 
 68={ #Lepreo
 	terrain="farmland"
-	culture="wvenedi"
+	culture="triphylian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -537,7 +537,7 @@
 
 164={ #Sami
 	terrain="hills"
-	culture="wvenedi"
+	culture="triphylian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1110,7 +1110,7 @@
 
 1217={ #Skillous
 	terrain="farmland"
-	culture="epeian"
+	culture="triphylian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -1161,7 +1161,7 @@
 
 1497={ #Makistos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="triphylian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0

@@ -223,6 +223,8 @@
  sigronese:0 "Sigronese"
  lindosian:0 "Lindosian"
  ialyssian:0 "Ialyssian"
+ kosian:0 "Kosian"
+ triphylian:0 "Triphylian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed
@@ -234,6 +236,7 @@
  lycic:0 "Lycian"
  icarian:0 "Icarian"
  alarissan:0 "Larissan"
+ telechinian:0 "Telechinian"
  minoic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  minoic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Children of Ashur and Marduk - Zoomed
@@ -313,6 +316,7 @@
  azitawatan:0 "Azitawatan"
  arpadic:0 "Arpadic"
  patinite:0 "Patinite"
+ sehan:0 "Sehan"
  kizzuwi:0 "Kizzuwatnan"
  khillikite:0 "Khillikite"
  samalite:0 "Samalite"

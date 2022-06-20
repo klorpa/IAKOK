@@ -215,15 +215,9 @@
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	slaves={
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -237,18 +231,12 @@
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -288,15 +276,9 @@
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
+		amount=3
 	}
 	tribesmen={
 		amount=2
@@ -549,18 +531,12 @@
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -635,15 +611,12 @@
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -724,18 +697,12 @@
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -944,18 +911,12 @@
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=5
-	}
-	slaves={
-		amount=2
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -966,12 +927,12 @@
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -998,18 +959,12 @@
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
+	province_rank="settlement"
+	freemen={
 		amount=3
 	}
-	freemen={
-		amount=5
-	}
-	slaves={
-		amount=2
-	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 

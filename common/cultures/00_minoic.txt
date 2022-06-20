@@ -55,6 +55,7 @@
 		lycic = {}
 		icarian = {}
 		alarissan = {}
+		telechinian = {}
 	}
 	
 	barbarian_names = { 
