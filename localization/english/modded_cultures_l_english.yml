@@ -331,7 +331,7 @@
  lukkan:0 "Lukkan"
  karkissan:0 "Karkissan"
  wilusan:0 "Wilusan"
- lazpan:0 "Lazpan"
+ llazpan:0 "Lazpan"
  luwian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  luwian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Western Iranian

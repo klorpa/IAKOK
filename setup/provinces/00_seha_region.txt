@@ -83,7 +83,7 @@
 
 2241={ #Provaso
 	terrain="hills"
-	culture="lazpan"
+	culture="llazpan"
 	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -99,7 +99,7 @@
 
 2242={ #Argiso
 	terrain="forest"
-	culture="lazpan"
+	culture="llazpan"
 	religion="luwic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -115,7 +115,7 @@
 
 2243={ #Antissa
 	terrain="hills"
-	culture="lazpan"
+	culture="llazpan"
 	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -169,7 +169,7 @@
 
 2247={ #Kravison
 	terrain="hills"
-	culture="lazpan"
+	culture="llazpan"
 	religion="luwic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0

@@ -101,7 +101,7 @@
 		Mago.Mago.Mago.Magid	
 	}
 	culture = {
-		lazpan = {}
+		llazpan = {}
 		tejeker = {}
 		tarhuntassan = {}
 		sidetan = {}
