@@ -35,8 +35,8 @@
 
 1803={ #Methone
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -45,14 +45,14 @@
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
 1810={ #Kyrros
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -102,8 +102,8 @@
 
 1813={ #Mandalo
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -166,8 +166,8 @@
 
 1817={ #Europos
 	terrain="deep_forest"
-	culture="makedon"
-	religion="grecoid_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -204,8 +204,8 @@
 
 1819={ #Rizochori
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
@@ -223,8 +223,8 @@
 
 1820={ #Voreino
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -239,8 +239,8 @@
 
 1821={ #Promachi
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -255,8 +255,8 @@
 
 1822={ #Sarakinoi
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -287,8 +287,8 @@
 
 1824={ #Phoustani
 	terrain="mountain_valley"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -591,8 +591,8 @@
 
 1974={ #Vordori
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0

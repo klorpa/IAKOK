@@ -3092,6 +3092,7 @@ country = {
 			
 			own_control_core = 	{ 
 				1818 1982 1817 1814 1823 1815 1812 1534 1811 1975 1816
+				1810 1974 1813 1819 1822
 			}
 			family = 30
 		}
@@ -4431,6 +4432,207 @@ country = {
 			
 			own_control_core = 	{ 
 				5553 5524 5552 5551 5561 5562 5563 5588 5652 5564 5565
+			}
+		}
+		#Thracians
+		TAA = { #Bottika
+			government = tribal_kingdom
+			primary_culture = bottikan
+			religion = thracic_pantheon
+			capital = 1838
+			
+			own_control_core = 	{ 
+				1838 1837 1834 1843 1833
+			}
+		}
+		TAB = { #Pieria
+			government = tribal_kingdom
+			primary_culture = pieresan
+			religion = thracic_pantheon
+			capital = 1800
+			
+			own_control_core = 	{ 
+				1800 1798 1797 1801 1802 1803
+			}
+		}
+		TAC = { #Almopia
+			government = tribal_kingdom
+			primary_culture = almopian
+			religion = thracic_pantheon
+			capital = 1820
+			
+			own_control_core = 	{ 
+				1820 1824 1821
+			}
+		}
+		TAD = { #Bottia
+			government = tribal_kingdom
+			primary_culture = bottikan
+			religion = thracic_pantheon
+			capital = 1808
+			
+			own_control_core = 	{ 
+				1808 1805 1806 1427 2053
+			}
+		}
+		TAE = { #Anthemous
+			government = tribal_kingdom
+			primary_culture = anthemousi
+			religion = thracic_pantheon
+			capital = 1840
+			
+			own_control_core = 	{ 
+				1840 1835 1189 1831 1832
+			}
+		}
+		TAF = { #Doloncoia
+			government = tribal_kingdom
+			primary_culture = doloncoian
+			religion = thracic_pantheon
+			capital = 2455
+			
+			own_control_core = 	{ 
+				2455 2452 2454 2457 2458
+			}
+		}
+		TAG = { #Lemnos
+			government = tribal_kingdom
+			primary_culture = lemnosic
+			religion = grecoid_pantheon
+			capital = 2236
+			
+			own_control_core = 	{ 
+				2238 2236 2237 2234 2235
+			}
+		}
+		TAH = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAI = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAJ = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAK = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAL = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAM = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAN = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAO = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAP = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAR = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAS = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAT = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		TAU = { #Additional
+			government = tribal_kingdom
+			primary_culture = shurudhumi
+			religion = hurrian_pantheon
+			capital = 5552
+			
+			own_control_core = 	{ 
+				
 			}
 		}
 	}

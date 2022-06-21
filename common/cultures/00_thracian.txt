@@ -41,24 +41,18 @@
 		Zinnicus.Zinnica.Zinnici.Zinnicid
 	}
 	culture = {
-		phrygic = {levy_template = levy_phrygi}
-		bithynic = {}
-		mysic = {}
-		nthracian = {}
-		sthracian = {}
-		peonic = {}
-		fnthracian = {}
-		ethracian = {}
-		belegan = {}
-		corlatenian = {}
-		basarabi = {}
-		pilinic = {}
+		bottikan = {}
+		pieresan = {}
+		almopian = {}
+		anthemousi = {}
+		doloncoian = {}
 	}
 	
 	barbarian_names = { AEDI BIEPHI BIESSOI CARPI CIAGINSI CROBIDAE PIEPHIGI SUCI TERICI TRIXAE }
 	
-	graphical_culture = iberian_gfx
+	graphical_culture = bryges_gfx
 	ethnicities = {
-		10 = anatolian
+		10 = greek
+		7 = luwian
 	}
 }

@@ -101,12 +101,12 @@
 		Mago.Mago.Mago.Magid	
 	}
 	culture = {
+		lazpan = {}
 		tejeker = {}
 		tarhuntassan = {}
 		sidetan = {}
 		lukkan = {}
 		karkissan = {}
-		lazpan = {}
 		sehan = {}
 		wilusan = {}
 		hamathite = {

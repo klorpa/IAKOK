@@ -1,7 +1,7 @@
 ﻿2099={ #Kerdylia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=3
@@ -20,7 +20,7 @@
 2100={ #Ephkarpia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=3
@@ -36,7 +36,7 @@
 2101={ #Achinos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=3
@@ -52,7 +52,7 @@
 2102={ #Patriki
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=3
@@ -68,7 +68,7 @@
 2103={ #Lagkadi
 	terrain="mountain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=3
@@ -84,7 +84,7 @@
 2104={ #Berge
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=3
@@ -100,7 +100,7 @@
 2105={ #Arrolos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=3
@@ -116,7 +116,7 @@
 2106={ #Kheimarros
 	terrain="marsh"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=3
@@ -132,7 +132,7 @@
 2107={ #Anagennisi
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -148,7 +148,7 @@
 2108={ #Kamila
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -164,7 +164,7 @@
 2109={ #Skoutari
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2110={ #Pethelinos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -202,7 +202,7 @@
 2112={ #Eion
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -218,7 +218,7 @@
 2113={ #Myrkinos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -234,7 +234,7 @@
 2114={ #Drabeskos
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -250,7 +250,7 @@
 2115={ #Galepsos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -266,7 +266,7 @@
 2117={ #Apollonia
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -282,7 +282,7 @@
 2118={ #Podhokhori
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -298,7 +298,7 @@
 2120={ #Domatia
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -314,7 +314,7 @@
 2121={ #Oisyme
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -330,7 +330,7 @@
 2122={ #Kipia
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -346,29 +346,23 @@
 2123={ #Saranta
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2124={ #Khortokopi
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -384,7 +378,7 @@
 2125={ #Toska
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -400,7 +394,7 @@
 2126={ #Zygos
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -416,7 +410,7 @@
 2128={ #Pistyros
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -432,7 +426,7 @@
 2129={ #Eklekto
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -448,29 +442,23 @@
 2130={ #Erateino
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2131={ #Agiasma
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -486,7 +474,7 @@
 2132={ #Karya
 	terrain="marsh"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -502,7 +490,7 @@
 2134={ #Erasmio
 	terrain="marsh"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -518,29 +506,23 @@
 2136={ #Abdera
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2137={ #Loutra
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -556,7 +538,7 @@
 2138={ #Genissea
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -572,7 +554,7 @@
 2140={ #Pelekito
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -585,7 +567,7 @@
 2142={ #Ageli
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -601,7 +583,7 @@
 2143={ #Komnina
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -617,7 +599,7 @@
 2144={ #Skopos
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -633,7 +615,7 @@
 2146={ #Likodromio
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -649,7 +631,7 @@
 2147={ #Oraio
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -662,7 +644,7 @@
 2148={ #Nikisiana
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -729,7 +711,7 @@
 2153={ #Adriani
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -745,7 +727,7 @@
 2154={ #Tikhos
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -761,7 +743,7 @@
 2155={ #Kalliphitos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -777,7 +759,7 @@
 2157={ #Proti
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -793,7 +775,7 @@
 2158={ #Angista
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -809,7 +791,7 @@
 2160={ #Khryso
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -825,7 +807,7 @@
 2161={ #Serrai
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -841,7 +823,7 @@
 2162={ #Lephkonas
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -857,7 +839,7 @@
 2163={ #Skotoussa
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -873,29 +855,23 @@
 2171={ #Dikaia
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2172={ #Salpi
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -911,7 +887,7 @@
 2173={ #Porpi
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -927,7 +903,7 @@
 2174={ #Rodopis
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -947,47 +923,35 @@
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=4
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2206={ #Sitagroi
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
-		amount=2
+		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2207={ #Drama
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1003,7 +967,7 @@
 2208={ #Kadoni
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1019,7 +983,7 @@
 2209={ #Lyendos
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1035,7 +999,7 @@
 2210={ #Bagis
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1051,7 +1015,7 @@
 2212={ #Paloxoro
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1067,7 +1031,7 @@
 2213={ #Orkis
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1083,7 +1047,7 @@
 2214={ #Amorio
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1099,7 +1063,7 @@
 2215={ #Appia
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1115,7 +1079,7 @@
 2216={ #Akroini
 	terrain="mountain_valley"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1131,7 +1095,7 @@
 2218={ #Tymani
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1147,7 +1111,7 @@
 2219={ #Alia
 	terrain="mountain"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1163,7 +1127,7 @@
 2221={ #Aurokrara
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1182,7 +1146,7 @@
 2222={ #Marmori
 	terrain="deep_forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1198,7 +1162,7 @@
 2223={ #Aiza
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1214,7 +1178,7 @@
 2224={ #Ipopsi
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1230,29 +1194,23 @@
 2225={ #Brodinso
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
 2226={ #Auro
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

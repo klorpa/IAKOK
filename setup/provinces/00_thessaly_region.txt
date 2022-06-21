@@ -1156,8 +1156,8 @@
 
 1797={ #Herakleion
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1171,13 +1171,12 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_deiwos
 }
 
 1798={ #Dion
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1192,8 +1191,8 @@
 
 1800={ #Paralia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -1211,8 +1210,8 @@
 
 1801={ #Pydna
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1227,8 +1226,8 @@
 
 1802={ #Alonia
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pieresan"
+	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0

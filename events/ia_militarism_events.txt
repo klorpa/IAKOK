@@ -17,7 +17,6 @@ militarism_events.1 = {
 				OR = {
 					country_culture_group = nubian
 					primary_culture = ashurite
-					primary_culture = laconian
 				}			
 			}
 			add_country_modifier = {
@@ -30,6 +29,8 @@ militarism_events.1 = {
 				OR = {
 					country_culture_group = libyan
 					country_culture_group = aramaic
+					primary_culture = laconian
+					primary_culture = makedon
 				}			
 			}
 			add_country_modifier = {

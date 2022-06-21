@@ -296,12 +296,6 @@
 	
 	culture = {
 		lemnosic = {}
-		etrusci = {}
-		setrusci = {}
-		raetic = {}
-		camunnic = {}
-		rutulic = {}
-		sicanic = {}
 	}
 	
 	barbarian_names = { 
@@ -317,8 +311,9 @@
 	
 	
 	
-	graphical_culture = greek_gfx
+	graphical_culture = bryges_gfx
 	ethnicities = {
 		10 = greek
+		7 = luwian
 	}
 }
