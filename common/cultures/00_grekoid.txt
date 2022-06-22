@@ -172,6 +172,10 @@
 		ialyssian = {}
 		kosian = {}
 		triphylian = {}
+		gyrneian = {}
+		pitanic = {}
+		assosi = {}
+		knidan = {}
 	}
 	
 	barbarian_names = { 

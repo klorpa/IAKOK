@@ -954,8 +954,8 @@
 
 1544={ #Erdorati
 	terrain="farmland"
-	culture="karkissan"
-	religion="luwic_pantheon"
+	culture="knidan"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0

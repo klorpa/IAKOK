@@ -414,8 +414,8 @@
 
 2335={ #Kuwrahu
 	terrain="plains"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="gyrneian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -428,15 +428,21 @@
 	}
 }
 
-2337={ #Wallawatta
+2337={ #Gyrneion
 	terrain="farmland"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="gyrneian"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -446,8 +452,8 @@
 
 2341={ #Taruku
 	terrain="plains"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="gyrneian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -462,14 +468,20 @@
 
 2344={ #Kalruwu
 	terrain="forest"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="pitanic"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=6
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -478,8 +490,8 @@
 
 2345={ #Millru
 	terrain="plains"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="pitanic"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -494,8 +506,8 @@
 
 2346={ #Turwruha
 	terrain="farmland"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="pitanic"
+	religion="grecoid_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -526,8 +538,8 @@
 
 2349={ #Priyamra
 	terrain="farmland"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="gyrneian"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1043,8 +1055,8 @@
 
 2400={ #Utwu
 	terrain="farmland"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="adramyttian"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
@@ -1072,8 +1084,8 @@
 
 2403={ #Tarna
 	terrain="hills"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="adramyttian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1088,8 +1100,8 @@
 
 2405={ #Datwassa
 	terrain="deep_forest"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="adramyttian"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1099,19 +1111,22 @@
 	}
 }
 
-2406={ #Kuwati
+2406={ #Adramyttion
 	terrain="farmland"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="adramyttian"
+	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -1120,8 +1135,8 @@
 
 2408={ #Punatinzi
 	terrain="forest"
-	culture="sehan"
-	religion="luwic_pantheon"
+	culture="adramyttian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0

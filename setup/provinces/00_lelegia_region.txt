@@ -151,7 +151,7 @@
 1240={ #Psyra
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -214,8 +214,8 @@
 
 1251={ #Demirki
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="valki"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -230,8 +230,8 @@
 
 1254={ #Bako
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="valki"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -246,17 +246,14 @@
 
 1260={ #Amre
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=2
 	}
 	slaves={
 		amount=2
@@ -268,8 +265,8 @@
 
 1262={ #Spuri
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -284,8 +281,8 @@
 
 1263={ #Serike
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -300,8 +297,8 @@
 
 1265={ #Kaile
 	terrain="deep_forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -313,8 +310,8 @@
 
 1270={ #Pesna
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -329,8 +326,8 @@
 
 1273={ #Vento
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amri"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -367,8 +364,8 @@
 
 1277={ #Airai
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="valki"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -383,17 +380,14 @@
 
 1279={ #Velke
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="valki"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=2
 	}
 	slaves={
 		amount=2
@@ -557,8 +551,8 @@
 
 1298={ #Tite
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sethri"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -595,8 +589,8 @@
 
 1301={ #Zoku
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sethri"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=3
@@ -630,17 +624,14 @@
 
 1306={ #Sethre
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sethri"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=2
 	}
 	slaves={
 		amount=2
@@ -693,8 +684,8 @@
 
 1322={ #Sesan
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gari"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -725,14 +716,14 @@
 
 1337={ #Gari
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gari"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
-		amount=6
+		amount=1
 	}
 	freemen={
 		amount=3
@@ -741,15 +732,12 @@
 
 1339={ #Sanes
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sanesi"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -760,8 +748,8 @@
 
 1340={ #Eki
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sanesi"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -779,8 +767,8 @@
 
 1341={ #Kale
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sanesi"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -798,8 +786,8 @@
 
 1344={ #Lekik
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sanesi"
+	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
 	barbarian_power=0
@@ -814,8 +802,8 @@
 
 1345={ #Kibali
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sanesi"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -833,8 +821,8 @@
 
 1349={ #Igin
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -849,8 +837,8 @@
 
 1380={ #Rafdi
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gari"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -868,8 +856,8 @@
 
 1549={ #Tarhalra
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sethri"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -938,8 +926,8 @@
 
 2316={ #Ewrewatta
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="itusawan"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=3
@@ -957,17 +945,14 @@
 
 2317={ #Itusawa
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="itusawan"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=3
 	}
 	slaves={
 		amount=1
@@ -979,8 +964,8 @@
 
 2321={ #Sallaruhu
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="itusawan"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -995,8 +980,8 @@
 
 2322={ #Prutassa
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="itusawan"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

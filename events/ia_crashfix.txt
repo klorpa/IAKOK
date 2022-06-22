@@ -14,6 +14,20 @@ crashfix.1 = {		#Legendary crash bugfix
 					limit = {
 						NOT = { THIS = ROOT.controller }
 						any_current_war = {
+							OR = {
+								AND = {
+									any_war_attacker = { THIS = c:JAO }
+									any_war_defender = { THIS = c:JAE }
+								}
+								AND = {
+									any_war_attacker = { THIS = c:EAJ }
+									any_war_defender = { THIS = c:EAI }
+								}
+								AND = {
+									any_war_attacker = { THIS = c:AAA }
+									any_war_defender = { THIS = c:ABE }
+								}
+							}
 							any_war_participant = { THIS = ROOT.owner }
 							any_war_participant = { THIS = ROOT.controller }
 							is_war_leader = PREV

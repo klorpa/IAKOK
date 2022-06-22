@@ -222,6 +222,14 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1276 = { #Assos
+		port_building = 1
+	}
+	
+	1550 = { #Knidos
+		port_building = 1
+	}
+	
 	1166 = { #Ialyssos
 		port_building = 1
 	}
@@ -2344,7 +2352,7 @@ country = {
 			
 			own_control_core = 	{ 
 				2263 2262 2267 2536 2284 2276 2569 2574 2538
-				2265 2275 2278
+				2265 2275 2278 2582
 			}
 		}
 		
@@ -2660,11 +2668,111 @@ country = {
 		HBZ = { #Cyme
 			government = despotic_monarchy
 			primary_culture = cyman
-			religion = luwic_pantheon
+			religion = grecoid_pantheon
 			capital = 2332
 			
 			own_control_core = 	{ 
 				2332 2323 2333
+			}
+		}
+		HCA = { #Gyrneion
+			government = despotic_monarchy
+			primary_culture = gyrneian
+			religion = grecoid_pantheon
+			capital = 2337
+			
+			own_control_core = 	{ 
+				2337 2341 2349 2335 2482
+			}
+		}
+		HCB = { #Pitane
+			government = despotic_monarchy
+			primary_culture = pitanic
+			religion = grecoid_pantheon
+			capital = 2344
+			
+			own_control_core = 	{ 
+				2344 2345 2346
+			}
+		}
+		HCC = { #Assos
+			government = despotic_monarchy
+			primary_culture = assosi
+			religion = grecoid_pantheon
+			capital = 1276
+			
+			own_control_core = 	{ 
+				1276 1289 1329
+			}
+		}
+		HCD = { #Adramyttion
+			government = despotic_monarchy
+			primary_culture = adramyttian
+			religion = grecoid_pantheon
+			capital = 2406
+			
+			own_control_core = 	{ 
+				2406 2405 2408 2403 2400
+			}
+		}
+		HCE = { #Kuzassa
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2474
+			
+			own_control_core = 	{ 
+				2474 2269 1269 1274 2308 2472 2476 2296 2297
+			}
+		}
+		HCF = { #Marway
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2541
+			
+			own_control_core = 	{ 
+				2541 2545 2579 2577 2575 2540
+			}
+		}
+		HCG = { #Zasata
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 2547
+			
+			own_control_core = 	{ 
+				2547 2546 2548 2550 1377 1378
+			}
+		}
+		HCH = { #Kawili
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 1361
+			
+			own_control_core = 	{ 
+				1361 1366 1365 1360 1358 1354 1359
+			}
+		}
+		HCI = { #Waris
+			government = despotic_monarchy
+			primary_culture = sfardan
+			religion = luwic_pantheon
+			capital = 1350
+			
+			own_control_core = 	{ 
+				1350 1348 1349
+			}
+		}
+		HCJ = { #Knidos
+			government = despotic_monarchy
+			primary_culture = knidan
+			religion = grecoid_pantheon
+			capital = 1550
+			
+			own_control_core = 	{ 
+				1550 1546 1544
 			}
 		}
 		#Grecoids

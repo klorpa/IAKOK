@@ -56,6 +56,13 @@
 		icarian = {}
 		alarissan = {}
 		telechinian = {}
+		adramyttian = {}
+		sanesi = {}
+		gari = {}
+		sethri = {}
+		valki = {}
+		amri = {}
+		itusawan = {}
 	}
 	
 	barbarian_names = { 

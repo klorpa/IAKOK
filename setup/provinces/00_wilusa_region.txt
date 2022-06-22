@@ -144,14 +144,20 @@
 
 1276={ #Assos
 	terrain="hills"
-	culture="wilusan"
-	religion="luwic_pantheon"
+	culture="assosi"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=2
@@ -230,8 +236,8 @@
 
 1289={ #Ahak
 	terrain="hills"
-	culture="wilusan"
-	religion="luwic_pantheon"
+	culture="assosi"
+	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -294,8 +300,8 @@
 
 1329={ #Ruwa
 	terrain="farmland"
-	culture="wilusan"
-	religion="luwic_pantheon"
+	culture="assosi"
+	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0

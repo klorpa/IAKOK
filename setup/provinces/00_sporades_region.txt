@@ -762,8 +762,8 @@
 
 1546={ #Orna
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knidan"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -776,19 +776,22 @@
 	}
 }
 
-1550={ #Ahma
+1550={ #Knidos
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="knidan"
+	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=5
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1

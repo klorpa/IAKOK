@@ -805,8 +805,8 @@
 
 2482={ #Pahurina
 	terrain="mountain_valley"
-	culture="sfardan"
-	religion="luwic_pantheon"
+	culture="gyrneian"
+	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
@@ -817,7 +817,6 @@
 	tribesmen={
 		amount=3
 	}
-	holy_site=omen_runtiya
 }
 
 2483={ #Kuwaya
