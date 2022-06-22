@@ -722,8 +722,8 @@
 
 2061={ #Gortyna
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="europan"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -952,8 +952,8 @@
 
 2653={ #Koloe
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -968,8 +968,8 @@
 
 2654={ #Hypaipa
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -981,8 +981,8 @@
 
 2655={ #Euippe
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -997,8 +997,8 @@
 
 2656={ #Alabanda
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="parobelian"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1013,8 +1013,8 @@
 
 2658={ #Hyllarima
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0

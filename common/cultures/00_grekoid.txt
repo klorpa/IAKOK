@@ -176,6 +176,18 @@
 		pitanic = {}
 		assosi = {}
 		knidan = {}
+		hermian = {}
+		asinan = {}
+		epidauran = {}
+		megaran = {}
+		aiginan = {}
+		marathonese = {}
+		eleusian = {}
+		mantineian = {}
+		orchomenian = {}
+		oropian = {}
+		theban = {}
+		thisban = {}
 	}
 	
 	barbarian_names = { 

@@ -370,13 +370,9 @@
 		amount=2
 	}
 	freemen={
-		culture="wvenedi"
-		religion="slavic_pantheon"
 		amount=2
 	}
 	tribesmen={
-		culture="wvenedi"
-		religion="slavic_pantheon"
 		amount=1
 	}
 	tribesmen={

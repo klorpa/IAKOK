@@ -46,6 +46,22 @@
 		almopian = {}
 		anthemousi = {}
 		doloncoian = {}
+		pierian = {}
+		edonian = {}
+		odomantian = {}
+		sintikan = {}
+		bisaltian = {}
+		mygdonian = {}
+		chalkidikan = {}
+		krestonian = {}
+		kolokhorian = {}
+		parobelian = {}
+		europan = {}
+		pallenan = {}
+		sitonian = {}
+		aktan = {}
+		sapaioi = {}
+		trausian = {}
 	}
 	
 	barbarian_names = { AEDI BIEPHI BIESSOI CARPI CIAGINSI CROBIDAE PIEPHIGI SUCI TERICI TRIXAE }

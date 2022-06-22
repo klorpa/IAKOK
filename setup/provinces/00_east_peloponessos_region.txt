@@ -711,7 +711,7 @@
 
 140={ #Varson
 	terrain="hills"
-	culture="tegean"
+	culture="mantineian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -730,14 +730,20 @@
 
 141={ #Mantineia
 	terrain="hills"
-	culture="wvenedi"
+	culture="mantineian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=3
+		amount=5
+	}
+	freemen={
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -746,7 +752,7 @@
 
 143={ #Orchomenos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="orchomenian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -768,7 +774,7 @@
 
 144={ #Piana
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="orchomenian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1169,23 +1175,29 @@
 
 221={ #Asini
 	terrain="farmland"
-	culture="wvenedi"
+	culture="asinan"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=3
 	}
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		amount=1
+	}
 }
 
 222={ #Salanti
 	terrain="hills"
-	culture="wvenedi"
+	culture="asinan"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1204,17 +1216,14 @@
 
 223={ #Kosta
 	terrain="farmland"
-	culture="wvenedi"
+	culture="hermian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=4
 	}
 	slaves={
 		amount=1
@@ -1226,14 +1235,17 @@
 
 224={ #Ermione
 	terrain="farmland"
-	culture="wvenedi"
+	culture="hermian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=3
 	}
 	slaves={
 		amount=1
@@ -1296,14 +1308,20 @@
 
 228={ #Epidauros
 	terrain="hills"
-	culture="wvenedi"
+	culture="epidauran"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=3
+	}
+	slaves={
+		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -1328,7 +1346,7 @@
 
 231={ #Dhimaina
 	terrain="hills"
-	culture="wvenedi"
+	culture="epidauran"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -1360,13 +1378,19 @@
 
 629={ #Aigina
 	terrain="hills"
-	culture="wvenedi"
+	culture="aiginan"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
+		amount=5
+	}
+	slaves={
 		amount=2
 	}
 	tribesmen={

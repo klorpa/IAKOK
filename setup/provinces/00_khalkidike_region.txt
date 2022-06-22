@@ -35,7 +35,7 @@
 
 1558={ #Olynthos
 	terrain="hills"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -111,7 +111,7 @@
 
 1828={ #Kalokhori
 	terrain="plains"
-	culture="wvenedi"
+	culture="kolokhorian"
 	religion="thracic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -127,7 +127,7 @@
 
 1829={ #Protoni
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kolokhorian"
 	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -296,7 +296,7 @@
 
 1844={ #Portaria
 	terrain="forest"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -312,7 +312,7 @@
 
 1845={ #Potideia
 	terrain="plains"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -328,7 +328,7 @@
 
 1846={ #Sane
 	terrain="plains"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -344,7 +344,7 @@
 
 1847={ #Mende
 	terrain="plains"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -360,7 +360,7 @@
 
 1849={ #Skione
 	terrain="forest"
-	culture="wvenedi"
+	culture="pallenan"
 	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -376,7 +376,7 @@
 
 1850={ #Prodhromos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -392,7 +392,7 @@
 
 1853={ #Singos
 	terrain="hills"
-	culture="wvenedi"
+	culture="sitonian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -408,7 +408,7 @@
 
 1854={ #Kelli
 	terrain="forest"
-	culture="wvenedi"
+	culture="sitonian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -424,7 +424,7 @@
 
 1857={ #Akanthos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="aktan"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -440,7 +440,7 @@
 
 1858={ #Phteroti
 	terrain="plains"
-	culture="wvenedi"
+	culture="sitonian"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -456,7 +456,7 @@
 
 1859={ #Partheno
 	terrain="hills"
-	culture="wvenedi"
+	culture="sitonian"
 	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -472,7 +472,7 @@
 
 1861={ #Torone
 	terrain="hills"
-	culture="wvenedi"
+	culture="sitonian"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -488,7 +488,7 @@
 
 1862={ #Piloros
 	terrain="hills"
-	culture="wvenedi"
+	culture="aktan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -504,7 +504,7 @@
 
 1863={ #Dion
 	terrain="hills"
-	culture="wvenedi"
+	culture="aktan"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -520,7 +520,7 @@
 
 1864={ #Thyssos
 	terrain="hills"
-	culture="wvenedi"
+	culture="aktan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -536,7 +536,7 @@
 
 1866={ #Stratonion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -555,7 +555,7 @@
 
 1867={ #Stageira
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -571,7 +571,7 @@
 
 1868={ #Stanos
 	terrain="forest"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -587,7 +587,7 @@
 
 1869={ #Arnai
 	terrain="forest"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -603,7 +603,7 @@
 
 1870={ #Riza
 	terrain="hills"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -619,7 +619,7 @@
 
 1871={ #Apollonia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -635,7 +635,7 @@
 
 1872={ #Madytos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -667,7 +667,7 @@
 
 2054={ #Gephyra
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kolokhorian"
 	religion="thracic_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -683,7 +683,7 @@
 
 2055={ #Europos
 	terrain="hills"
-	culture="wvenedi"
+	culture="europan"
 	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -699,7 +699,7 @@
 
 2056={ #Polykastro
 	terrain="hills"
-	culture="wvenedi"
+	culture="europan"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -715,7 +715,7 @@
 
 2057={ #Aspros
 	terrain="farmland"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -731,7 +731,7 @@
 
 2059={ #Euzonoi
 	terrain="hills"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -747,7 +747,7 @@
 
 2060={ #Eiriniko
 	terrain="hills"
-	culture="wvenedi"
+	culture="parobelian"
 	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -763,7 +763,7 @@
 
 2062={ #Mesaio
 	terrain="plains"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -779,7 +779,7 @@
 
 2063={ #Moryllos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -795,7 +795,7 @@
 
 2064={ #Iliolousto
 	terrain="plains"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -811,7 +811,7 @@
 
 2065={ #Doirani
 	terrain="farmland"
-	culture="wvenedi"
+	culture="parobelian"
 	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -827,7 +827,7 @@
 
 2066={ #Kentriko
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="parobelian"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -840,7 +840,7 @@
 
 2068={ #Vathi
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 2069={ #Eptalophos
 	terrain="forest"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -872,7 +872,7 @@
 
 2072={ #Pedino
 	terrain="farmland"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -888,7 +888,7 @@
 
 2073={ #Gallikos
 	terrain="hills"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -904,7 +904,7 @@
 
 2077={ #Lete
 	terrain="farmland"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -923,7 +923,7 @@
 
 2078={ #Karteres
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -939,7 +939,7 @@
 
 2081={ #Rizana
 	terrain="mountain"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -955,7 +955,7 @@
 
 2083={ #Ossa
 	terrain="hills"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -971,7 +971,7 @@
 
 2085={ #Areti
 	terrain="hills"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -987,7 +987,7 @@
 
 2086={ #Askos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1003,7 +1003,7 @@
 
 2087={ #Stivos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -1019,7 +1019,7 @@
 
 2088={ #Vasileios
 	terrain="hills"
-	culture="wvenedi"
+	culture="mygdonian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1035,7 +1035,7 @@
 
 2090={ #Ardameri
 	terrain="hills"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1051,7 +1051,7 @@
 
 2094={ #Limaneia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="bisaltian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1067,7 +1067,7 @@
 
 2095={ #Stephanina
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="bisaltian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1083,7 +1083,7 @@
 
 2096={ #Arethousa
 	terrain="hills"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1099,7 +1099,7 @@
 
 2097={ #Asprovalta
 	terrain="farmland"
-	culture="wvenedi"
+	culture="bisaltian"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1115,7 +1115,7 @@
 
 2164={ #Lithotopos
 	terrain="marsh"
-	culture="wvenedi"
+	culture="sintikan"
 	religion="thracic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1128,7 +1128,7 @@
 
 2165={ #Irakleia
 	terrain="marsh"
-	culture="wvenedi"
+	culture="sintikan"
 	religion="thracic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1144,7 +1144,7 @@
 
 2166={ #Sintike
 	terrain="marsh"
-	culture="wvenedi"
+	culture="sintikan"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -1157,7 +1157,7 @@
 
 2167={ #Kerkini
 	terrain="marsh"
-	culture="wvenedi"
+	culture="sintikan"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1170,7 +1170,7 @@
 
 2168={ #Rodo
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="parobelian"
 	religion="thracic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -1186,7 +1186,7 @@
 
 2169={ #Mouries
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="parobelian"
 	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1202,7 +1202,7 @@
 
 2170={ #Thermopigi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="sintikan"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -1218,7 +1218,7 @@
 
 2202={ #Mordi
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="krestonian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1234,7 +1234,7 @@
 
 2205={ #Nais
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chalkidikan"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0

@@ -124,7 +124,7 @@
 
 243={ #Loumpa
 	terrain="plains"
-	culture="wvenedi"
+	culture="megaran"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -140,7 +140,7 @@
 
 246={ #Megara
 	terrain="farmland"
-	culture="wvenedi"
+	culture="megaran"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -197,7 +197,7 @@
 
 250={ #Loutsa
 	terrain="hills"
-	culture="wvenedi"
+	culture="eleusian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -213,7 +213,7 @@
 
 251={ #Vilia
 	terrain="hills"
-	culture="wvenedi"
+	culture="megaran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -232,7 +232,7 @@
 
 252={ #Threia
 	terrain="hills"
-	culture="wvenedi"
+	culture="eleusian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -248,7 +248,7 @@
 
 253={ #Erythrai
 	terrain="hills"
-	culture="wvenedi"
+	culture="oropian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -264,7 +264,7 @@
 
 254={ #Eleusis
 	terrain="farmland"
-	culture="wvenedi"
+	culture="eleusian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -286,7 +286,7 @@
 
 255={ #Phyle
 	terrain="hills"
-	culture="wvenedi"
+	culture="eleusian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -341,7 +341,7 @@
 
 258={ #Axarnes
 	terrain="farmland"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -360,7 +360,7 @@
 
 259={ #Chalandri
 	terrain="hills"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="marble"
 	civilization_value=0
@@ -376,7 +376,7 @@
 
 261={ #Kitsi
 	terrain="plains"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -395,7 +395,7 @@
 
 262={ #Lagonisi
 	terrain="plains"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 263={ #Koropi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 265={ #Anavyssos
 	terrain="hills"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -449,7 +449,7 @@
 
 266={ #Lavrion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -468,7 +468,7 @@
 
 267={ #Thorikos
 	terrain="plains"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -487,7 +487,7 @@
 
 268={ #Mesoyaias
 	terrain="hills"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -503,7 +503,7 @@
 
 269={ #Rafina
 	terrain="hills"
-	culture="wvenedi"
+	culture="athenic"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -519,17 +519,20 @@
 
 270={ #Marathon
 	terrain="farmland"
-	culture="wvenedi"
+	culture="marathonese"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=3
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -538,7 +541,7 @@
 
 271={ #Dikastika
 	terrain="plains"
-	culture="wvenedi"
+	culture="marathonese"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -560,7 +563,7 @@
 
 273={ #Ramnous
 	terrain="hills"
-	culture="wvenedi"
+	culture="marathonese"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -576,7 +579,7 @@
 
 274={ #Malakasa
 	terrain="hills"
-	culture="wvenedi"
+	culture="marathonese"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -590,16 +593,22 @@
 	}
 }
 
-276={ #Avlonas
+276={ #Amphiaraion
 	terrain="plains"
-	culture="wvenedi"
+	culture="oropian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -608,7 +617,7 @@
 
 325={ #Pagae
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="megaran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -643,7 +652,7 @@
 
 351={ #Oinoi
 	terrain="plains"
-	culture="wvenedi"
+	culture="oropian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -1241,7 +1250,7 @@
 
 2591={ #Philnai
 	terrain="hills"
-	culture="wvenedi"
+	culture="theban"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0

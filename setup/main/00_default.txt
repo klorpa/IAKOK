@@ -222,6 +222,22 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	224 = { #Hermione
+		port_building = 1
+	}
+	
+	239 = { #Korinth
+		port_building = 1
+	}
+	
+	629 = { #Aigina
+		port_building = 1
+	}
+	
+	227 = { #Troizen
+		port_building = 1
+	}
+	
 	1276 = { #Assos
 		port_building = 1
 	}
@@ -3043,7 +3059,7 @@ country = {
 			capital = 137
 			
 			own_control_core = 	{ 
-				137 140 136 2506
+				137 136 2506
 			}
 		}
 		
@@ -3142,8 +3158,9 @@ country = {
 			capital = 257
 			
 			own_control_core = 	{ 
-				257 256
+				257 256 261 263 259 258 269 268 262 265 266 267
 			}
+			
 			family = 27
 		}
 		
@@ -3414,135 +3431,135 @@ country = {
 			}
 		}
 		
-		GCL = { #Additional
+		GCL = { #Hermione
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = hermian
 			religion = grecoid_pantheon
 			capital = 218
 			
 			own_control_core = 	{ 
-				
+				224 223 
 			}
 		}
 		
-		GCM = { #Additional
+		GCM = { #Asine
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = asinan
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 221
 			
 			own_control_core = 	{ 
-				
+				222 221
 			}
 		}
 		
-		GCN = { #Additional
+		GCN = { #Epidauros
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = epidauran
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 228
 			
 			own_control_core = 	{ 
-				
+				228 231
 			}
 		}
 		
-		GCO = { #Additional
+		GCO = { #Megara
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = megaran
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 246
 			
 			own_control_core = 	{ 
-				
+				246 243 325 251
 			}
 		}
 		
-		GCP = { #Additional
+		GCP = { #Aigina
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = aiginan
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 629
 			
 			own_control_core = 	{ 
-				
+				629
 			}
 		}
 		
-		GCR = { #Additional
+		GCR = { #Marathon
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = marathonese
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 270
 			
 			own_control_core = 	{ 
-				
+				270 271 273 274
 			}
 		}
 		
-		GCS = { #Additional
+		GCS = { #Eleusis
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = eleusian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 254
 			
 			own_control_core = 	{ 
-				
+				254 255 252 250
 			}
 		}
 		
-		GCT = { #Additional
+		GCT = { #Mantineia
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = mantineian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 141
 			
 			own_control_core = 	{ 
-				
+				141 140
 			}
 		}
 		
-		GCU = { #Additional
+		GCU = { #Orchomenus
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = orchomenian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 143
 			
 			own_control_core = 	{ 
-				
+				143 144
 			}
 		}
 		
-		GCW = { #Additional
+		GCW = { #Oropia
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = oropian
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 276
 			
 			own_control_core = 	{ 
-				
+				276 351 253
 			}
 		}
 		
-		GCY = { #Additional
+		GCY = { #Thebes
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = theban
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 329
 			
 			own_control_core = 	{ 
-				
+				329 323 324 2591 348 328 333 327
 			}
 		}
 		
-		GCZ = { #Additional
+		GCZ = { #Thisbe
 			government = despotic_monarchy
-			primary_culture = tirynian
+			primary_culture = thisban
 			religion = grecoid_pantheon
-			capital = 218
+			capital = 331
 			
 			own_control_core = 	{ 
-				
+				331 326
 			}
 		}
 		
@@ -4603,134 +4620,134 @@ country = {
 				2238 2236 2237 2234 2235
 			}
 		}
-		TAH = { #Additional
+		TAH = { #Pieria
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = pierian
+			religion = thracic_pantheon
+			capital = 2118
 			
 			own_control_core = 	{ 
-				
+				2118 2112 2115 2114 2117 2121 2120 2122 2123
 			}
 		}
-		TAI = { #Additional
+		TAI = { #Edonis
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = edonian
+			religion = thracic_pantheon
+			capital = 2206
 			
 			own_control_core = 	{ 
-				
+				2206 2158 2157 2207 2208 2209
 			}
 		}
-		TAJ = { #Additional
+		TAJ = { #Odomantia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = odomantian
+			religion = thracic_pantheon
+			capital = 2161
 			
 			own_control_core = 	{ 
-				
+				2161 2160 2110 2113 2109 2108 2162 2107
 			}
 		}
-		TAK = { #Additional
+		TAK = { #Sintike
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = sintikan
+			religion = thracic_pantheon
+			capital = 2165
 			
 			own_control_core = 	{ 
-				
+				2165 2163 2170 2106 2164 2166
 			}
 		}
-		TAL = { #Additional
+		TAL = { #Bisaltia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = bisaltian
+			religion = thracic_pantheon
+			capital = 2102
 			
 			own_control_core = 	{ 
-				
+				2102 2104 2103 2094 2095 2097 2099 2100 2101
 			}
 		}
-		TAM = { #Additional
+		TAM = { #Mygdonia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = mygdonian
+			religion = thracic_pantheon
+			capital = 2077
 			
 			own_control_core = 	{ 
-				
+				2077 2088 2086 2085 2081 2105 2083 2078 2073
 			}
 		}
-		TAN = { #Additional
+		TAN = { #Chalkidike
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = chalkidikan
+			religion = thracic_pantheon
+			capital = 1871
 			
 			own_control_core = 	{ 
-				
+				1871 1872 2096 1868 1869 1867 1866 2090 2087 1870 1850 2205
 			}
 		}
-		TAO = { #Additional
+		TAO = { #Krestonia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = krestonian
+			religion = thracic_pantheon
+			capital = 2072
 			
 			own_control_core = 	{ 
-				
+				2072 2202 2069 2068 2063 2064 2059 2057 2062 
 			}
 		}
-		TAP = { #Additional
+		TAP = { #Kolokhoria
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = kolokhorian
+			religion = thracic_pantheon
+			capital = 1828
 			
 			own_control_core = 	{ 
-				
+				1828 2054 1829
 			}
 		}
-		TAR = { #Additional
+		TAR = { #Parobelia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = parobelian
+			religion = thracic_pantheon
+			capital = 2065
 			
 			own_control_core = 	{ 
-				
+				2065 2066 2060 2169 2656
 			}
 		}
-		TAS = { #Additional
+		TAS = { #Europos
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = europan
+			religion = thracic_pantheon
+			capital = 2055
 			
 			own_control_core = 	{ 
-				
+				2055 2056 2061
 			}
 		}
-		TAT = { #Additional
+		TAT = { #Sapaia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = sapaioi
+			religion = thracic_pantheon
+			capital = 2132
 			
 			own_control_core = 	{ 
-				
+				2132 2131 2130 2134 2136 2138 2142 2129 2128
 			}
 		}
-		TAU = { #Additional
+		TAU = { #Trausia
 			government = tribal_kingdom
-			primary_culture = shurudhumi
-			religion = hurrian_pantheon
-			capital = 5552
+			primary_culture = trausian
+			religion = thracic_pantheon
+			capital = 2144
 			
 			own_control_core = 	{ 
-				
+				2144 2143 2213 2210 2214
 			}
 		}
 	}
