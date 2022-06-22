@@ -928,8 +928,8 @@
 
 2630={ #Khoma
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -944,8 +944,8 @@
 
 2631={ #Tlos
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

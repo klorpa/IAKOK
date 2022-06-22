@@ -789,7 +789,7 @@
 
 2603={ #Germe
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -840,7 +840,7 @@
 
 2608={ #Meka
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -856,7 +856,7 @@
 
 2612={ #Dadon
 	terrain="plains"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -872,7 +872,7 @@
 
 2613={ #Daos
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -888,7 +888,7 @@
 
 2616={ #Matar
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -904,7 +904,7 @@
 
 2618={ #Azena
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -920,7 +920,7 @@
 
 2620={ #Addaket
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -936,7 +936,7 @@
 
 2623={ #Edaes
 	terrain="hills"
-	culture="wvenedi"
+	culture="dentheletaian"
 	religion="slavic_pantheon"
 	trade_goods="stone"
 	civilization_value=0

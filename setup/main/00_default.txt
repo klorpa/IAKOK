@@ -4750,6 +4750,86 @@ country = {
 				2144 2143 2213 2210 2214
 			}
 		}
+		TAW = { #Bistonia
+			government = tribal_kingdom
+			primary_culture = bistonian
+			religion = thracic_pantheon
+			capital = 2172
+			
+			own_control_core = 	{ 
+				2172 2216 2171 2215 2140
+			}
+		}
+		TAY = { #Ciconia
+			government = tribal_kingdom
+			primary_culture = ciconian
+			religion = thracic_pantheon
+			capital = 2221
+			
+			own_control_core = 	{ 
+				2221 2224 2174 2175
+			}
+		}
+		TAZ = { #Corpilia
+			government = tribal_kingdom
+			primary_culture = corpilian
+			religion = thracic_pantheon
+			capital = 2181
+			
+			own_control_core = 	{ 
+				2181 2182 2178
+			}
+		}
+		TBA = { #Paitoia
+			government = tribal_kingdom
+			primary_culture = paitoian
+			religion = thracic_pantheon
+			capital = 2183
+			
+			own_control_core = 	{ 
+				2183 2184 2190 2185 2186 2189
+			}
+		}
+		TBB = { #Odrysia
+			government = tribal_kingdom
+			primary_culture = odrysian
+			religion = thracic_pantheon
+			capital = 2199
+			
+			own_control_core = 	{ 
+				2199 2200 2197 2196 2192 2198 2193 2194
+			}
+		}
+		TBC = { #Apsinthia
+			government = tribal_kingdom
+			primary_culture = apsinthian
+			religion = thracic_pantheon
+			capital = 2188
+			
+			own_control_core = 	{ 
+				2188 2187 2585 2586 2587 
+			}
+		}
+		TBD = { #Dentheletaia
+			government = tribal_kingdom
+			primary_culture = dentheletaian
+			religion = thracic_pantheon
+			capital = 2613
+			
+			own_control_core = 	{ 
+				2613 2612 2616 2618
+			}
+		}
+		TBE = { #Brygia
+			government = tribal_kingdom
+			primary_culture = brygian
+			religion = thracic_pantheon
+			capital = 2635
+			
+			own_control_core = 	{ 
+				2635 2630 2631 2634 2638 2640 2636
+			}
+		}
 	}
 }
 

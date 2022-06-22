@@ -62,6 +62,16 @@
 		aktan = {}
 		sapaioi = {}
 		trausian = {}
+		bistonian = {}
+		ciconian = {}
+		corpilian = {}
+		paitoian = {}
+		odrysian = {}
+		apsinthian = {}
+		samothracan = {}
+		imbrosi = {}
+		dentheletaian = {}
+		brygian = {}
 	}
 	
 	barbarian_names = { AEDI BIEPHI BIESSOI CARPI CIAGINSI CROBIDAE PIEPHIGI SUCI TERICI TRIXAE }

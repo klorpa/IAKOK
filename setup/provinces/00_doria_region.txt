@@ -680,8 +680,8 @@
 
 2634={ #Kidrama
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -699,8 +699,8 @@
 
 2635={ #Tabai
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -718,8 +718,8 @@
 
 2636={ #Saleia
 	terrain="mountain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -734,8 +734,8 @@
 
 2638={ #Olbaso
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -750,8 +750,8 @@
 
 2640={ #Arneai
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

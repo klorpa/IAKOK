@@ -1,6 +1,6 @@
 ﻿2175={ #Maroneia
 	terrain="forest"
-	culture="wvenedi"
+	culture="ciconian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -16,7 +16,7 @@
 
 2176={ #Mesembria
 	terrain="hills"
-	culture="wvenedi"
+	culture="ciconian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -32,7 +32,7 @@
 
 2177={ #Sale
 	terrain="forest"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -48,7 +48,7 @@
 
 2178={ #Apalos
 	terrain="hills"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -64,7 +64,7 @@
 
 2179={ #Doriko
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -80,7 +80,7 @@
 
 2180={ #Pylaia
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -96,7 +96,7 @@
 
 2181={ #Loutros
 	terrain="farmland"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -112,7 +112,7 @@
 
 2182={ #Doriskos
 	terrain="plains"
-	culture="wvenedi"
+	culture="corpilian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -128,7 +128,7 @@
 
 2183={ #Ainos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -144,7 +144,7 @@
 
 2184={ #Reniso
 	terrain="farmland"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -163,7 +163,7 @@
 
 2185={ #Vrenviso
 	terrain="farmland"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -182,7 +182,7 @@
 
 2186={ #Raphikia
 	terrain="hills"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -198,7 +198,7 @@
 
 2187={ #Magarisi
 	terrain="forest"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -214,7 +214,7 @@
 
 2188={ #Brago
 	terrain="hills"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -230,7 +230,7 @@
 
 2189={ #Pigi
 	terrain="hills"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -246,7 +246,7 @@
 
 2190={ #Adele
 	terrain="forest"
-	culture="wvenedi"
+	culture="paitoian"
 	religion="thracic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -262,7 +262,7 @@
 
 2192={ #Sphakaki
 	terrain="plains"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -278,7 +278,7 @@
 
 2193={ #Irini
 	terrain="plains"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -294,7 +294,7 @@
 
 2194={ #Triado
 	terrain="plains"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -310,7 +310,7 @@
 
 2196={ #Germene
 	terrain="farmland"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -326,7 +326,7 @@
 
 2197={ #Latonike
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -342,7 +342,7 @@
 
 2198={ #Thyarei
 	terrain="plains"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -358,7 +358,7 @@
 
 2199={ #Hyrko
 	terrain="plains"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -374,7 +374,7 @@
 
 2200={ #Praigon
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="odrysian"
 	religion="thracic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -390,7 +390,7 @@
 
 2227={ #Demetrion
 	terrain="plains"
-	culture="wvenedi"
+	culture="samothracan"
 	religion="thracic_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -406,7 +406,7 @@
 
 2228={ #Tityasi
 	terrain="hills"
-	culture="wvenedi"
+	culture="samothracan"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -422,7 +422,7 @@
 
 2229={ #Adadi
 	terrain="forest"
-	culture="wvenedi"
+	culture="samothracan"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -438,7 +438,7 @@
 
 2230={ #Modri
 	terrain="farmland"
-	culture="wvenedi"
+	culture="imbrosi"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -454,7 +454,7 @@
 
 2231={ #Tarsia
 	terrain="forest"
-	culture="wvenedi"
+	culture="imbrosi"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -470,7 +470,7 @@
 
 2232={ #Kabia
 	terrain="hills"
-	culture="wvenedi"
+	culture="imbrosi"
 	religion="thracic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -486,7 +486,7 @@
 
 2233={ #Imbros
 	terrain="farmland"
-	culture="wvenedi"
+	culture="imbrosi"
 	religion="thracic_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -802,7 +802,7 @@
 
 2467={ #Larissale
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -818,7 +818,7 @@
 
 2470={ #Murinail
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -850,7 +850,7 @@
 
 2585={ #Rousion
 	terrain="forest"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -866,7 +866,7 @@
 
 2586={ #Modra
 	terrain="forest"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -882,7 +882,7 @@
 
 2587={ #Kierai
 	terrain="hills"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -898,7 +898,7 @@
 
 2588={ #Taitame
 	terrain="hills"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -914,7 +914,7 @@
 
 2589={ #Aproi
 	terrain="hills"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -930,7 +930,7 @@
 
 2590={ #Tarsiai
 	terrain="hills"
-	culture="wvenedi"
+	culture="apsinthian"
 	religion="thracic_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
