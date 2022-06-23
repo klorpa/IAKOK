@@ -19,17 +19,20 @@
 
 28={ #Paralía
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pheraian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -267,7 +270,7 @@
 
 64={ #Marathó
 	terrain="farmland"
-	culture="pylosian"
+	culture="amphigeneian"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -284,15 +287,21 @@
 	}
 }
 
-65={ #Kalonero
+65={ #Amphigeneia
 	terrain="forest"
-	culture="wvenedi"
+	culture="amphigeneian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -302,17 +311,20 @@
 
 66={ #Phigalia
 	terrain="hills"
-	culture="wvenedi"
+	culture="phigalian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
 		amount=4
 	}
-	tribesmen={
-		amount=1
+	slaves={
+		amount=2
 	}
 }
 
@@ -451,7 +463,7 @@
 
 156={ #Karmio
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="phigalian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -524,7 +536,7 @@
 
 162={ #Akovos
 	terrain="forest"
-	culture="wvenedi"
+	culture="adanian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1247,7 +1259,7 @@
 
 2195={ #Leuktron
 	terrain="hills"
-	culture="wvenedi"
+	culture="adanian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1263,13 +1275,19 @@
 
 2508={ #Lykosoura
 	terrain="hills"
-	culture="wvenedi"
+	culture="adanian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=4
+	}
+	slaves={
 		amount=2
 	}
 	tribesmen={

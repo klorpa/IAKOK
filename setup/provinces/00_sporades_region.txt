@@ -154,12 +154,15 @@
 
 1161={ #Kameiros
 	terrain="farmland"
-	culture="telechinian"
+	culture="kameiran"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=5
 	}

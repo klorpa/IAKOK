@@ -241,6 +241,13 @@
  oropian:0 "Oropian"
  theban:0 "Theban"
  thisban:0 "Thisban"
+ kameiran:0 "Kameiran"
+ pagaian:0 "Pagaian"
+ pheraian:0 "Pheraian"
+ leuktran:0 "Leuktran"
+ amphigeneian:0 "Amphigeneian"
+ phigalian:0 "Phigalian"
+ adanian:0 "Adanian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed

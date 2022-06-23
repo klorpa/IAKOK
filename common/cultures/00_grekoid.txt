@@ -188,6 +188,13 @@
 		oropian = {}
 		theban = {}
 		thisban = {}
+		kameiran = {}
+		pagaian = {}
+		pheraian = {}
+		leuktran = {}
+		amphigeneian = {}
+		phigalian = {}
+		adanian = {}
 	}
 	
 	barbarian_names = { 
