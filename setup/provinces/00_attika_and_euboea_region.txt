@@ -757,7 +757,7 @@
 
 387={ #Aigai
 	terrain="plains"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -773,7 +773,7 @@
 
 395={ #Kotylaion
 	terrain="hills"
-	culture="wvenedi"
+	culture="eretrian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -827,7 +827,7 @@
 
 407={ #Pournos
 	terrain="hills"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -843,7 +843,7 @@
 
 409={ #Filla
 	terrain="farmland"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -859,7 +859,7 @@
 
 411={ #Kymi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kymian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -894,20 +894,23 @@
 
 418={ #Khalkis
 	terrain="farmland"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	citizen={
+	nobles={
 		amount=4
 	}
-	freemen={
+	citizen={
 		amount=3
 	}
+	freemen={
+		amount=8
+	}
 	slaves={
-		amount=2
+		amount=4
 	}
 }
 
@@ -948,7 +951,7 @@
 
 427={ #Amyranthos
 	terrain="hills"
-	culture="wvenedi"
+	culture="eretrian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -967,20 +970,23 @@
 
 430={ #Eretria
 	terrain="farmland"
-	culture="wvenedi"
+	culture="eretrian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=1
+	}
 	citizen={
 		amount=3
 	}
 	freemen={
-		amount=3
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 	tribesmen={
 		amount=1
@@ -989,7 +995,7 @@
 
 441={ #Psachna
 	terrain="plains"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1119,7 +1125,7 @@
 
 485={ #Stropones
 	terrain="hills"
-	culture="wvenedi"
+	culture="khalkian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1154,7 +1160,7 @@
 
 563={ #Mistros
 	terrain="forest"
-	culture="wvenedi"
+	culture="eretrian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1221,7 +1227,7 @@
 
 2535={ #Arsilo
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="eretrian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -1237,7 +1243,7 @@
 
 2581={ #Harwalwa
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kymian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0

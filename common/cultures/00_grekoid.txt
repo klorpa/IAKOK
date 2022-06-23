@@ -215,6 +215,15 @@
 		tymphaian = {}
 		orestian = {}
 		derriopian = {}
+		hierapytnan = {}
+		itanosian = {}
+		rhytian = {}
+		tarran = {}
+		elyran = {}
+		phalasarnan = {}
+		khalkian = {}
+		eretrian = {}
+		kymian = {}
 	}
 	
 	barbarian_names = { 

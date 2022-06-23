@@ -222,6 +222,30 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	418 = { #Khalkis
+		port_building = 1
+	}
+	
+	430 = { #Eretria
+		port_building = 1
+	}
+	
+	509 = { #Tarra
+		port_building = 1
+	}
+	
+	1125 = { #Itanos
+		port_building = 1
+	}
+	
+	1118 = { #Zakros
+		port_building = 1
+	}
+	
+	1107 = { #Hierapytna
+		port_building = 1
+	}
+	
 	196 = { #Aegion
 		port_building = 1
 	}
@@ -3865,102 +3889,102 @@ country = {
 			}
 		}
 		
-		GEE = { #Additional
+		GEE = { #Hierapytna
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = hierapytnan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1107
 			
 			own_control_core = 	{ 
-				
+				1107 1105 1108
 			}
 		}
 		
-		GEF = { #Additional
+		GEF = { #Itanos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = itanosian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1121
 			
 			own_control_core = 	{ 
-				
+				1121 1120 1118
 			}
 		}
 		
-		GEG = { #Additional
+		GEG = { #Rhytion
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = rhytian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1130
 			
 			own_control_core = 	{ 
-				
+				1130 1127 1125
 			}
 		}
 		
-		GEH = { #Additional
+		GEH = { #Tarra
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = tarran
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 509
 			
 			own_control_core = 	{ 
-				
+				509 1143
 			}
 		}
 		
-		GEI = { #Additional
+		GEI = { #Elyros
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = elyran
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 424
 			
 			own_control_core = 	{ 
-				
+				424 57 21
 			}
 		}
 		
-		GEJ = { #Additional
+		GEJ = { #Phalasarna
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = phalasarnan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 569
 			
 			own_control_core = 	{ 
-				
+				569 571
 			}
 		}
 		
-		GEK = { #Additional
+		GEK = { #Khalkis
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = khalkian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 418
 			
 			own_control_core = 	{ 
-				
+				418 409 407 441 387 485
 			}
 		}
 		
-		GEL = { #Additional
+		GEL = { #Eretria
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = eretrian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 430
 			
 			own_control_core = 	{ 
-				
+				430 563 395 427 2535
 			}
 		}
 		
-		GEM = { #Additional
+		GEM = { #Kymi
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = kymian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 411
 			
 			own_control_core = 	{ 
-				
+				411 2581
 			}
 		}
 		
