@@ -195,6 +195,26 @@
 		amphigeneian = {}
 		phigalian = {}
 		adanian = {}
+		bassaian = {}
+		hypsian = {}
+		kleitoran = {}
+		psophian = {}
+		stymphalian = {}
+		phenean = {}
+		pellenic = {}
+		aegiran = {}
+		aegian = {}
+		leontian = {}
+		patraian = {}
+		tritheian = {}
+		dyman = {}
+		olenian = {}
+		elimeian = {}
+		eordaian = {}
+		lynkosian = {}
+		tymphaian = {}
+		orestian = {}
+		derriopian = {}
 	}
 	
 	barbarian_names = { 

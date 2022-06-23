@@ -660,7 +660,7 @@
 
 135={ #Asea
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="bassaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -796,7 +796,7 @@
 
 159={ #Perivolia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="bassaian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -815,7 +815,7 @@
 
 200={ #Aegira
 	terrain="farmland"
-	culture="wvenedi"
+	culture="aegiran"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -835,16 +835,22 @@
 	}
 }
 
-201={ #Lavka
+201={ #Stymphalia
 	terrain="mountain"
-	culture="wvenedi"
+	culture="stymphalian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -853,7 +859,7 @@
 
 202={ #Rethi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="pellenic"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -862,17 +868,19 @@
 	tribesmen={
 		amount=4
 	}
-	holy_site=omen_hermahas
 }
 
-203={ #Xylokastro
+203={ #Pellene
 	terrain="plains"
-	culture="wvenedi"
+	culture="pellenic"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=3
 	}
@@ -905,7 +913,7 @@
 
 205={ #Kalianoi
 	terrain="mountain"
-	culture="wvenedi"
+	culture="stymphalian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
