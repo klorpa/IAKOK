@@ -3805,7 +3805,260 @@ country = {
 			}
 		}
 		
-		GDZ= { #Additional
+		GDZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEA = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEB = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEC = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GED = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEE = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEF = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEG = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEH = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEI = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEK = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEL = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEM = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEN = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEO = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEP = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GER = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GES = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GET = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEU = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEW = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEY = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GEZ = { #Additional
 			government = despotic_monarchy
 			primary_culture = thisban
 			religion = grecoid_pantheon
