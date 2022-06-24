@@ -4098,6 +4098,259 @@ country = {
 			}
 		}
 		
+		GFA = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFB = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFC = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFD = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFE = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFF = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFG = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFH = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFI = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFK = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFL = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFM = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFN = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFO = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFP = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFR = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFS = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFT = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFU = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFW = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFY = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GFZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = thisban
+			religion = grecoid_pantheon
+			capital = 331
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
 		#Chad Akkadians
 		AAA = { #Karduniash
 			government = aristocratic_monarchy

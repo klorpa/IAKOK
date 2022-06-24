@@ -34,21 +34,17 @@
    }
 
 	culture = {
-		venetic = {}
-		glasinac = {}
-		lapygian = {}
-		sikelic = {}
-		dardanic = {}
-		grecoid_illyrian = {}
+		byllionian = {}
 	}
 
 	barbarian_names = {
 		# Illyrian Tribes
 		BARIDUSTAE TARIOTES SELEPITANOI PARTHINI BREUCI PIRUSTAE SARDEATI BYLLIONES BALAITES PARTHENI PEUCETI CINAMBRI DASSARETI PENESTI DEUNI NARENSI CHELIDONI BATHIATAE
 	}
-
-	graphical_culture = iberian_gfx
+	
+	graphical_culture = bryges_gfx
 	ethnicities = {
-		10 = illyrian
+		10 = greek
+		7 = luwian
 	}
 }

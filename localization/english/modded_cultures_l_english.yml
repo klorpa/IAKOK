@@ -515,14 +515,9 @@
  naikan:0 "Naikian"
  dravidic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  dravidic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Illyrians
+ #Illyrians-Zoomed
  illyric:2 "Illyrian"
- venetic:0 "Venetian"
- glasinac:0 "Glasinacian"
- lapygian:0 "Lapygian"
- sikelic:0 "Sicelic"
- dardanic:0 "Dardanian"
- grecoid_illyrian:0 "Greco-Illyrian"
+ byllionian:0 "Byllionian"
  illyric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  illyric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Vedic culture
