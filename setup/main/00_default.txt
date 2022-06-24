@@ -222,6 +222,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1005 = { #Andros
+		port_building = 1
+	}
+	
 	1891 = { #Korkyra
 		port_building = 1
 	}
@@ -3992,14 +3996,14 @@ country = {
 			}
 		}
 		
-		GEN = { #Additional
+		GEN = { #Andros
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = androsian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1004
 			
 			own_control_core = 	{ 
-				
+				1004 1006 1005 1003 1002 1001
 			}
 		}
 		
@@ -4025,80 +4029,80 @@ country = {
 			}
 		}
 		
-		GER = { #Additional
+		GER = { #Karystos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = karystian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 475
 			
 			own_control_core = 	{ 
-				
+				475 1000 454 452
 			}
 		}
 		
-		GES = { #Additional
+		GES = { #Styra
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = styran
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 447
 			
 			own_control_core = 	{ 
-				
+				447 421
 			}
 		}
 		
-		GET = { #Additional
+		GET = { #Dystos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = dystosian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 423
 			
 			own_control_core = 	{ 
-				
+				423 460
 			}
 		}
 		
-		GEU = { #Additional
+		GEU = { #Kerunthos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = kerynthian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 368
 			
 			own_control_core = 	{ 
-				
+				368 1700 366 364 380
 			}
 		}
 		
-		GEW = { #Additional
+		GEW = { #Artemisio
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = artemisian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 416
 			
 			own_control_core = 	{ 
-				
+				416 449 399
 			}
 		}
 		
-		GEY = { #Additional
+		GEY = { #Diom
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = diomian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 406
 			
 			own_control_core = 	{ 
-				
+				406 498 1569
 			}
 		}
 		
-		GEZ = { #Additional
+		GEZ = { #Preparethos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = sporadian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1043
 			
 			own_control_core = 	{ 
-				
+				1043
 			}
 		}
 		

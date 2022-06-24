@@ -3710,6 +3710,8 @@
  desc_immune_territory:1 ""
  neighbor_city:0 "In the vicinity of the city"
  desc_neighbor_city:1 ""
+ colonization_progress:0 "Colonization Progress"
+ desc_colonization_progress:1 "The province is currently in the middle of setting up a new administration and will bring less ravenue into the treasury"
  good_efficiency:0 "Good Efficiency"
  desc_great_efficiency:1 ""
  medium_efficiency:0 "Medium Efficiency"

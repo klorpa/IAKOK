@@ -224,6 +224,14 @@
 		khalkian = {}
 		eretrian = {}
 		kymian = {}
+		androsian = {}
+		karystian = {}
+		styran = {}
+		dystosian = {}
+		kerynthian = {}
+		artemisian = {}
+		diomian = {}
+		sporadian = {}
 	}
 	
 	barbarian_names = { 

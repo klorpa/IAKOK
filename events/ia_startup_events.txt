@@ -21,6 +21,38 @@ ia_startup.1 = { #Mesopotamia
 	
     option = {    
         name = ia_startup.1.a
+		hidden_effect = {
+			#Lost Empire of Assyrians		
+			c:AAI = { every_owned_province = { add_claim = c:AAC } }
+			c:AAN = { every_owned_province = { add_claim = c:AAC } }
+			c:AAH = { every_owned_province = { add_claim = c:AAC } }
+			c:AAD = { every_owned_province = { add_claim = c:AAC } }
+			c:AAE = { every_owned_province = { add_claim = c:AAC } }
+			c:AAT = { every_owned_province = { add_claim = c:AAC } }
+			c:AAO = { every_owned_province = { add_claim = c:AAC } }
+			c:AAM = { every_owned_province = { add_claim = c:AAC } }
+			c:AAR = { every_owned_province = { add_claim = c:AAC } }
+			c:ABT = { every_owned_province = { add_claim = c:AAC } }
+			c:ABR = { every_owned_province = { add_claim = c:AAC } }
+			c:ABP = { every_owned_province = { add_claim = c:AAC } }
+			c:AAF = { every_owned_province = { add_claim = c:AAC } }
+			c:AAG = { every_owned_province = { add_claim = c:AAC } }
+			c:AAA = { every_owned_province = { add_claim = c:AAC } }
+			#Babylonia
+			c:AAA = { every_owned_province = { add_claim = c:ABE } }
+			c:ABE = { every_owned_province = { add_claim = c:AAA } }
+			c:ABJ = { every_owned_province = { add_claim = c:ABE } }
+			c:ABJ = { every_owned_province = { add_claim = c:ABE } }
+			c:ABL = { every_owned_province = { add_claim = c:ABE } }
+			c:ABM = { every_owned_province = { add_claim = c:ABE } }
+			c:ABN = { every_owned_province = { add_claim = c:ABE } }
+			c:ABO = { every_owned_province = { add_claim = c:ABE } }
+			c:ABG = { every_owned_province = { add_claim = c:ABE } }
+			c:ABI = { every_owned_province = { add_claim = c:ABE } }
+			c:AAP = { every_owned_province = { add_claim = c:ABE } }
+			c:AAG = { every_owned_province = { add_claim = c:ABE } }
+			c:AAF = { every_owned_province = { add_claim = c:ABE } }
+		}
     }
 }
 

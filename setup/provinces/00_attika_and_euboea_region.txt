@@ -690,7 +690,7 @@
 
 364={ #Kerinthos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kerynthian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -706,15 +706,12 @@
 
 366={ #Oroibiai
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kerynthian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -725,14 +722,20 @@
 
 368={ #Kerynthos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kerynthian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=4
+		amount=6
+	}
+	slaves={
+		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -741,7 +744,7 @@
 
 380={ #Akres
 	terrain="hills"
-	culture="wvenedi"
+	culture="kerynthian"
 	religion="grecoid_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -789,7 +792,7 @@
 
 399={ #Krioneritis
 	terrain="forest"
-	culture="wvenedi"
+	culture="artemisian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -805,7 +808,7 @@
 
 406={ #Diom
 	terrain="farmland"
-	culture="wvenedi"
+	culture="diomian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -878,13 +881,19 @@
 
 416={ #Artemisio
 	terrain="hills"
-	culture="wvenedi"
+	culture="artemisian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=2
 	}
 	tribesmen={
@@ -916,7 +925,7 @@
 
 421={ #Zarex
 	terrain="hills"
-	culture="wvenedi"
+	culture="styran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -930,19 +939,22 @@
 	}
 }
 
-423={ #Tamynai
+423={ #Dystos
 	terrain="hills"
-	culture="wvenedi"
+	culture="dystosian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=2
 	}
+	freemen={
+		amount=6
+	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -1011,13 +1023,19 @@
 
 447={ #Styra
 	terrain="hills"
-	culture="wvenedi"
+	culture="styran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=2
 	}
 	tribesmen={
@@ -1027,15 +1045,12 @@
 
 449={ #Histiaia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="artemisian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -1049,7 +1064,7 @@
 
 452={ #Marmarion
 	terrain="hills"
-	culture="wvenedi"
+	culture="karystian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1068,7 +1083,7 @@
 
 454={ #Akteo
 	terrain="hills"
-	culture="wvenedi"
+	culture="karystian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1084,7 +1099,7 @@
 
 460={ #Prasino
 	terrain="hills"
-	culture="wvenedi"
+	culture="dystosian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1103,7 +1118,7 @@
 
 475={ #Karystos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="karystian"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -1141,7 +1156,7 @@
 
 498={ #Oreos
 	terrain="hills"
-	culture="wvenedi"
+	culture="diomian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -1176,7 +1191,7 @@
 
 1000={ #Geraistos
 	terrain="hills"
-	culture="wvenedi"
+	culture="karystian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -1192,7 +1207,7 @@
 
 1569={ #Azpabura
 	terrain="farmland"
-	culture="wvenedi"
+	culture="diomian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -1211,7 +1226,7 @@
 
 1700={ #Ado
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="kerynthian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
