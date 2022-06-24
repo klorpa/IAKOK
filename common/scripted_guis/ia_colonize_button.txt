@@ -1,0 +1,136 @@
+﻿ia_colonize_button = {
+	scope = province
+	confirm_title = "ia_colonize_button_confirm_t"    
+    confirm_text = "ia_colonize_button_confirm_desc" 
+	saved_scopes = {
+		player
+	}
+	ai_is_valid = {
+		scope:player = {
+			manpower >= 5
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					any_neighbor_province = {
+						owner = scope:player
+						OR = {
+							culture = root.culture
+							AND = {
+								exists = country_culture
+								country_culture = { is_integrated = yes }
+							}
+						}						
+					}
+				}
+			}
+			custom_tooltip = {
+				text = "Owns any neighboring province"
+				any_neighbor_province = {
+					owner = scope:player
+					OR = {
+						culture = root.culture
+						AND = {
+							exists = country_culture
+							country_culture = { is_integrated = yes }
+						}
+					}
+				}
+			}
+		}
+		trigger_if = {
+			limit = {
+				any_neighbor_province = {
+					has_province_modifier = colonization_progress
+					owner = scope:player
+				}
+			}
+			custom_tooltip = {
+				text = "No neighbor has colonization progress"
+				NOT = {
+					any_neighbor_province = {
+						has_province_modifier = colonization_progress
+						owner = scope:player
+					}
+				}
+			}
+		}
+	}
+
+	is_valid = {
+		scope:player = {
+			manpower >= 3
+		}
+		trigger_if = {
+			limit = {
+				NOT = {
+					any_neighbor_province = {
+						owner = scope:player
+						OR = {
+							culture = root.culture
+							AND = {
+								exists = country_culture
+								country_culture = { is_integrated = yes }
+							}
+						}
+					}
+				}
+			}
+			custom_tooltip = {
+				text = "Owns any neighboring province"
+				any_neighbor_province = {
+					owner = scope:player
+					OR = {
+						culture = root.culture
+						AND = {
+							exists = country_culture
+							country_culture = { is_integrated = yes }
+						}
+					}
+				}
+			}
+		}
+		trigger_if = {
+			limit = {
+				any_neighbor_province = {
+					has_province_modifier = colonization_progress
+					owner = scope:player
+				}
+			}
+			custom_tooltip = {
+				text = "No neighbor has colonization progress"
+				NOT = {
+					any_neighbor_province = {
+						has_province_modifier = colonization_progress
+						owner = scope:player
+					}
+				}
+			}
+		}
+	}
+	effect = {
+		scope:player = {
+			pay_price = price_colonize
+			add_manpower = -3
+		}
+		if = {
+			limit = {
+				has_owner = no
+			}
+			set_owned_by = scope:player
+		}
+		colonize_effect = yes
+		#pay_colonize_effect = yes
+		every_neighbor_province = {
+			limit = {
+				has_owner = yes
+				NOT = {
+					owner = scope:player
+				}
+			}
+			root = {
+				add_claim = prev.owner
+			}
+		}
+	}
+}

@@ -35,6 +35,7 @@
 
 	culture = {
 		byllionian = {}
+		liburnian = {}
 	}
 
 	barbarian_names = {

@@ -222,6 +222,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1891 = { #Korkyra
+		port_building = 1
+	}
+	
 	418 = { #Khalkis
 		port_building = 1
 	}
@@ -3999,25 +4003,25 @@ country = {
 			}
 		}
 		
-		GEO = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
-			religion = grecoid_pantheon
-			capital = 331
+		GEO = { #Byllionia
+			government = tribal_kingdom
+			primary_culture = byllionian
+			religion = illyric_pantheon
+			capital = 1786
 			
 			own_control_core = 	{ 
-				
+				1786 2650 1787 1785 1791 1789 1790
 			}
 		}
 		
-		GEP = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
-			religion = grecoid_pantheon
-			capital = 331
+		GEP = { #Korkyra
+			government = tribal_kingdom
+			primary_culture = liburnian
+			religion = illyric_pantheon
+			capital = 1891
 			
 			own_control_core = 	{ 
-				
+				1891 1887 1885 1892 1896
 			}
 		}
 		

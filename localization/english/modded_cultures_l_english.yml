@@ -518,6 +518,7 @@
  #Illyrians-Zoomed
  illyric:2 "Illyrian"
  byllionian:0 "Byllionian"
+ liburnian:0 "Liburnian"
  illyric_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  illyric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Vedic culture

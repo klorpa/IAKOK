@@ -6,6 +6,11 @@ hold_triumph = {
 	political_influence = 30
 }
 
+#modified colonization
+price_colonize = {
+	political_influence = 20
+}
+
 hold_games_price = {
 	scaled_gold = 4.2 #scaled_gold = monthly income, so 420% of monthly income
 }

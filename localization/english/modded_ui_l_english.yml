@@ -2,6 +2,9 @@
 
  aestian:2 "Heretic"
  matrist_religion:0 "Heresy"
+ 
+ ia_colonize_button_confirm_t:0 "Colonization"
+ ia_colonize_button_confirm_desc:0 "Are you sure you want to colonize the territory?"
 
  mountain_valley:0 "Mountain Valley"
  mountain_valley_desc:0 "Land covered on two sides by mountains, giving a river valley rich in resources aswell as easily defendable."

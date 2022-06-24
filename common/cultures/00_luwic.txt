@@ -106,11 +106,10 @@
 		tarhuntassan = {}
 		sidetan = {}
 		lukkan = {}
-		karkissan = {}
-		sehan = {}
-		wilusan = {}
+		karkissan = {levy_template = levy_hattian}
+		sehan = {levy_template = levy_hattian}
+		wilusan = {levy_template = levy_hattian}
 		hamathite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -127,7 +126,6 @@
 			}
 		}
 		lukhutic = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -144,7 +142,6 @@
 			}
 		}
 		arpadic = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -161,7 +158,6 @@
 			}
 		}
 		patinite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -178,7 +174,6 @@
 			}
 		}
 		samalite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -195,7 +190,6 @@
 			}
 		}
 		musuwaric = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -212,7 +206,6 @@
 			}
 		}
 		azitawatan = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -229,9 +222,8 @@
 			}
 		}
 		kizzuwi = {}
-		sfardan = {}
+		sfardan = {levy_template = levy_hattian}
 		khillikite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -248,7 +240,6 @@
 			}
 		}
 		gurgumite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -265,7 +256,6 @@
 			}
 		}
 		kummukhite = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal
@@ -282,7 +272,6 @@
 			}
 		}
 		karkamisan = {
-			levy_template = levy_hattian
 			male_names = {
 				Piyassili Sahurunuwa Ini-Tessub Talmi-Tessub Kuzi-Tessub Mazakarhuha Ir-Tessub Tudhaliya Suppiluliuma Hattusili X-paziti Uratarhunza
 				Suhi Astuwalamanza Katuwa Sangara Astiruwa Yariri Kamani Sastura Pisiri Pugnus-mili Runtiya Arnuwanti Halpasulupi Kundašpu Sulumal

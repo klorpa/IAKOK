@@ -1,0 +1,15 @@
+﻿colonize_effect = {
+	create_state_pop = freemen
+	add_province_modifier = {
+		name = "colonization_progress"
+		duration = 365
+	}
+}
+pay_colonize_effect = {
+	hidden_effect = {
+		owner = {
+			pay_price = price_colonize
+			add_manpower = -3
+		}
+	}
+}

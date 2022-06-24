@@ -4425,11 +4425,11 @@ window = {
                         size = { 144 66 }
                         name = "ColonizeButton"
                         visible = "[Not( ProvinceWindow.GetProvince.HasOwner )]"
-                        enabled = "[ProvinceWindow.CanBeColonized]"
-                        blockoverride "On_click" { onclick = "[ProvinceWindow.QuickColonize]" }
-                        blockoverride "Icon" { texture = "gfx/interface/icons/shared_icons/alert_colonize_province.dds" }
-                        tooltip = "[ProvinceWindow.GetColonizeTooltip]"
-                        layoutpolicy_horizontal = fixed
+						datacontext = "[GetScriptedGui('ia_colonize_button')]"
+                        enabled = "[ScriptedGui.IsValid(GuiScope.SetRoot(ProvinceWindow.GetProvince.MakeScope).AddScope('player', Player.MakeScope).End)]"
+						blockoverride "On_click" { onclick = "[ScriptedGui.Execute(GuiScope.SetRoot(ProvinceWindow.GetProvince.MakeScope).AddScope('player', Player.MakeScope).End)]" }
+						blockoverride "Icon" { texture = "gfx/interface/icons/shared_icons/alert_colonize_province.dds" }
+						tooltip = "[ScriptedGui.BuildTooltip(GuiScope.SetRoot(ProvinceWindow.GetProvince.MakeScope).AddScope('player', Player.MakeScope).End)]"	
                     }
                     
                     icon_button_province = {
