@@ -285,6 +285,11 @@
  artemisian:0 "Artemisian"
  diomian:0 "Diomian"
  sporadian:0 "Sporadian"
+ dassaretaian:0 "Dassaretaian"
+ pareuaeian:0 "Pareuaeian"
+ antitanian:0 "Antitanian"
+ chaonian:0 "Chaonian"
+ thesprotian:0 "Thesprotian"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed

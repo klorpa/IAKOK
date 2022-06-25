@@ -1,6 +1,6 @@
 ﻿1571={ #Gorkala
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -16,7 +16,7 @@
 
 1742={ #Aristi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -32,7 +32,7 @@
 
 1743={ #Iliorrachi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -51,7 +51,7 @@
 
 1746={ #Pixaria
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -67,7 +67,7 @@
 
 1765={ #Gilne
 	terrain="hills"
-	culture="wvenedi"
+	culture="pareuaeian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -83,7 +83,7 @@
 
 1766={ #Vagalat
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="antitanian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -102,7 +102,7 @@
 
 1769={ #Maiandria
 	terrain="farmland"
-	culture="wvenedi"
+	culture="antitanian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -118,7 +118,7 @@
 
 1770={ #Komuna
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="antitanian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -134,7 +134,7 @@
 
 1771={ #Finiko
 	terrain="plains"
-	culture="wvenedi"
+	culture="antitanian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -150,23 +150,26 @@
 
 1772={ #Phoinike
 	terrain="farmland"
-	culture="wvenedi"
+	culture="antitanian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=3
+		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
 1773={ #Vergo
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -182,7 +185,7 @@
 
 1774={ #Zelato
 	terrain="hills"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -198,7 +201,7 @@
 
 1775={ #Borso
 	terrain="forest"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -217,26 +220,26 @@
 
 1776={ #Khimaira
 	terrain="forest"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=3
-	}
-	slaves={
+	province_rank="city"
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
 1778={ #Mesaliko
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -252,7 +255,7 @@
 
 1779={ #Vermiko
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -268,7 +271,7 @@
 
 1780={ #Amantia
 	terrain="forest"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -284,7 +287,7 @@
 
 1781={ #Kote
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -300,7 +303,7 @@
 
 1782={ #Mekatso
 	terrain="hills"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -316,7 +319,7 @@
 
 1783={ #Aulon
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -332,7 +335,7 @@
 
 1784={ #Orikon
 	terrain="farmland"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="tin"
 	civilization_value=0
@@ -399,7 +402,7 @@
 
 1788={ #Gusaro
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="chaonian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -415,8 +418,8 @@
 
 1789={ #Pikro
 	terrain="plains"
-	culture="byllionian"
-	religion="illyric_pantheon"
+	culture="pareuaeian"
+	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -431,8 +434,8 @@
 
 1790={ #Soreno
 	terrain="farmland"
-	culture="byllionian"
-	religion="illyric_pantheon"
+	culture="pareuaeian"
+	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -463,7 +466,7 @@
 
 1792={ #Sokero
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -479,7 +482,7 @@
 
 1793={ #Kosine
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -495,7 +498,7 @@
 
 1794={ #Piska
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -511,7 +514,7 @@
 
 1985={ #Khrastro
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -527,7 +530,7 @@
 
 1986={ #Dardha
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -543,7 +546,7 @@
 
 1989={ #Voskori
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -559,7 +562,7 @@
 
 1990={ #Krekhovi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -578,7 +581,7 @@
 
 1991={ #Meniko
 	terrain="forest"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -594,7 +597,7 @@
 
 1992={ #Khreporio
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -613,7 +616,7 @@
 
 1994={ #Erseki
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -632,7 +635,7 @@
 
 1996={ #Phrasero
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -648,7 +651,7 @@
 
 1997={ #Kerano
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -664,7 +667,7 @@
 
 1998={ #Arnova
 	terrain="forest"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -766,7 +769,7 @@
 
 2641={ #Limyra
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -782,7 +785,7 @@
 
 2643={ #Pinara
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -798,7 +801,7 @@
 
 2644={ #Arsada
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -814,7 +817,7 @@
 
 2646={ #Boubon
 	terrain="forest"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -830,7 +833,7 @@
 
 2647={ #Gagai
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -846,7 +849,7 @@
 
 2648={ #Kandos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -862,7 +865,7 @@
 
 2649={ #Phellos
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -894,7 +897,7 @@
 
 2651={ #Tabai
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -910,7 +913,7 @@
 
 2652={ #Xystis
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0

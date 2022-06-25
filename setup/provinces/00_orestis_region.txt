@@ -48,7 +48,7 @@
 
 1747={ #Molista
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -64,7 +64,7 @@
 
 1748={ #Osna
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -90,7 +90,7 @@
 
 1893={ #Maliko
 	terrain="forest"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -851,7 +851,7 @@
 
 1978={ #Miras
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -915,7 +915,7 @@
 
 2627={ #Tyriaion
 	terrain="hills"
-	culture="wvenedi"
+	culture="dassaretaian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0

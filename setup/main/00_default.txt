@@ -4014,7 +4014,7 @@ country = {
 			capital = 1786
 			
 			own_control_core = 	{ 
-				1786 2650 1787 1785 1791 1789 1790
+				1786 2650 1787 1785 1791
 			}
 		}
 		
@@ -4106,62 +4106,62 @@ country = {
 			}
 		}
 		
-		GFA = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFA = { #Dassaretae
+			government = tribal_kingdom
+			primary_culture = dassaretaian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1992
 			
 			own_control_core = 	{ 
-				
+				1992 1994 1990 1991 1794 1996
 			}
 		}
 		
-		GFB = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFB = { #Pareuaei
+			government = tribal_kingdom
+			primary_culture = pareuaeian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1790
 			
 			own_control_core = 	{ 
-				
+				1790 1789 1765
 			}
 		}
 		
-		GFC = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFC = { #Antitania
+			government = tribal_kingdom
+			primary_culture = antitanian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1772
 			
 			own_control_core = 	{ 
-				
+				1772 1771 1769 1770 1766 1764 1763
 			}
 		}
 		
-		GFD = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFD = { #Chaonia
+			government = tribal_kingdom
+			primary_culture = chaonian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1776
 			
 			own_control_core = 	{ 
-				
+				1776 1775 1773 1774 1778 1779 1780 1781 1782 1783 1784
 			}
 		}
 		
-		GFE = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFE = { #Thesprotia
+			government = tribal_kingdom
+			primary_culture = thesprotian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1753
 			
 			own_control_core = 	{ 
-				
+				1753 1755 1751 1752 1750 1757 1718 1754 477 468 465 1756 1758 1761 1759 1768
 			}
 		}
 		
-		GFF = { #Additional
+		GFF = { #Molossia
 			government = despotic_monarchy
 			primary_culture = thisban
 			religion = grecoid_pantheon

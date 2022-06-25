@@ -232,6 +232,11 @@
 		artemisian = {}
 		diomian = {}
 		sporadian = {}
+		dassaretaian = {}
+		pareuaeian = {}
+		antitanian = {}
+		chaonian = {}
+		thesprotian = {}
 	}
 	
 	barbarian_names = { 
