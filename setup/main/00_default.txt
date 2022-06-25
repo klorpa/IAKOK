@@ -3585,7 +3585,7 @@ country = {
 			capital = 329
 			
 			own_control_core = 	{ 
-				329 323 324 2591 348 328 333 327
+				329 323 324 2591 348 352 349 334
 			}
 		}
 		
@@ -4161,36 +4161,36 @@ country = {
 			}
 		}
 		
-		GFF = { #Molossia
+		GFF = { #Platea
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = platean
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 327
 			
 			own_control_core = 	{ 
-				
+				327 332
 			}
 		}
 		
-		GFG = { #Additional
+		GFG = { #Thespia
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = thespian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 328
 			
 			own_control_core = 	{ 
-				
+				328 333
 			}
 		}
 		
-		GFH = { #Additional
+		GFH = { #Leuktra
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = leuktran
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 636
 			
 			own_control_core = 	{ 
-				
+				636 337
 			}
 		}
 		

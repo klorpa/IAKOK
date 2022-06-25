@@ -57,14 +57,17 @@
 
 327={ #Platea
 	terrain="hills"
-	culture="theban"
+	culture="platean"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=2
+		amount=3
 	}
 	slaves={
 		amount=1
@@ -76,17 +79,23 @@
 
 328={ #Thespia
 	terrain="farmland"
-	culture="theban"
+	culture="thespian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=5
+		amount=3
+	}
+	slaves={
+		amount=1
 	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -130,15 +139,12 @@
 
 332={ #Haliartos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="platean"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -152,7 +158,7 @@
 
 333={ #Mavrommatia
 	terrain="plains"
-	culture="theban"
+	culture="thespian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -171,7 +177,7 @@
 
 334={ #Akraifnio
 	terrain="hills"
-	culture="wvenedi"
+	culture="theban"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -190,7 +196,7 @@
 
 337={ #Lebadeia
 	terrain="plains"
-	culture="wvenedi"
+	culture="leuktran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1001,17 +1007,20 @@
 
 636={ #Solinaro
 	terrain="hills"
-	culture="wvenedi"
+	culture="leuktran"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=3
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=1

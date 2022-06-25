@@ -639,7 +639,7 @@
 
 349={ #Dhrosia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="theban"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -674,7 +674,7 @@
 
 352={ #Arma
 	terrain="hills"
-	culture="wvenedi"
+	culture="theban"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

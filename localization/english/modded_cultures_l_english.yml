@@ -290,6 +290,9 @@
  antitanian:0 "Antitanian"
  chaonian:0 "Chaonian"
  thesprotian:0 "Thesprotian"
+ platean:0 "Platean"
+ thespian:0 "Thespian"
+ leuktran:0 "Leuktran"
  grekoid_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  grekoid_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Aegean culture - Zoomed

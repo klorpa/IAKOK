@@ -237,6 +237,9 @@
 		antitanian = {}
 		chaonian = {}
 		thesprotian = {}
+		platean = {}
+		thespian = {}
+		leuktran = {}
 	}
 	
 	barbarian_names = { 
