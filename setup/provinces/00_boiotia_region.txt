@@ -212,7 +212,7 @@
 
 338={ #Akontio
 	terrain="plains"
-	culture="wvenedi"
+	culture="khaironeian"
 	religion="grecoid_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -228,7 +228,7 @@
 
 339={ #Orchomenos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="orchomenosian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -247,7 +247,7 @@
 
 341={ #Tragana
 	terrain="forest"
-	culture="wvenedi"
+	culture="orchomenosian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -266,7 +266,7 @@
 
 342={ #Malesina
 	terrain="plains"
-	culture="wvenedi"
+	culture="glan"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -280,16 +280,22 @@
 	}
 }
 
-344={ #Larimna
+344={ #Gla
 	terrain="farmland"
-	culture="wvenedi"
+	culture="glan"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=4
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 	slaves={
 		amount=1
@@ -314,7 +320,7 @@
 
 362={ #Livanates
 	terrain="hills"
-	culture="wvenedi"
+	culture="opusan"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -328,15 +334,21 @@
 	}
 }
 
-365={ #Akti
+365={ #Opus
 	terrain="farmland"
-	culture="wvenedi"
+	culture="opusan"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=5
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
@@ -346,7 +358,7 @@
 
 367={ #Asproneri
 	terrain="hills"
-	culture="wvenedi"
+	culture="opusan"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -365,7 +377,7 @@
 
 369={ #Penginion
 	terrain="hills"
-	culture="wvenedi"
+	culture="opusan"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -384,7 +396,7 @@
 
 372={ #Thermopylae
 	terrain="hills"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -413,7 +425,7 @@
 
 376={ #Lamia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -435,7 +447,7 @@
 
 377={ #Kostalexis
 	terrain="farmland"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -454,7 +466,7 @@
 
 378={ #Anthili
 	terrain="farmland"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -470,7 +482,7 @@
 
 381={ #Ekhinos
 	terrain="hills"
-	culture="wvenedi"
+	culture="pelean"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -521,7 +533,7 @@
 
 384={ #Khaironeia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="khaironeian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -956,7 +968,7 @@
 
 534={ #Stirfaka
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -972,7 +984,7 @@
 
 548={ #Peleos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pelean"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -991,7 +1003,7 @@
 
 634={ #Phalara
 	terrain="hills"
-	culture="wvenedi"
+	culture="lamian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0

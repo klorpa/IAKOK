@@ -33,15 +33,21 @@
 	}
 }
 
-336={ #Polyrinia
+336={ #Kissamos
 	terrain="forest"
-	culture="wvenedi"
+	culture="kissamian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
+		amount=6
+	}
+	slaves={
 		amount=2
 	}
 	tribesmen={
@@ -51,7 +57,7 @@
 
 379={ #Diktynnaion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kissamian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -92,15 +98,12 @@
 
 440={ #Maleme
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kissamian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}
@@ -209,7 +212,7 @@
 
 1073={ #Aptera
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apteran"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -228,7 +231,7 @@
 
 1074={ #Amphimala
 	terrain="hills"
-	culture="wvenedi"
+	culture="apteran"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -247,7 +250,7 @@
 
 1075={ #Dramia
 	terrain="hills"
-	culture="wvenedi"
+	culture="apteran"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -263,7 +266,7 @@
 
 1076={ #Lappa
 	terrain="forest"
-	culture="wvenedi"
+	culture="armenaian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -282,7 +285,7 @@
 
 1077={ #Gerani
 	terrain="plains"
-	culture="wvenedi"
+	culture="armenaian"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -317,7 +320,7 @@
 
 1079={ #Armenoi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="armenaian"
 	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
@@ -336,7 +339,7 @@
 
 1080={ #Rithymna
 	terrain="farmland"
-	culture="wvenedi"
+	culture="armenaian"
 	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
@@ -412,7 +415,7 @@
 
 1084={ #Panormos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="axian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -428,7 +431,7 @@
 
 1085={ #Apollonia
 	terrain="hills"
-	culture="wvenedi"
+	culture="axian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -447,9 +450,25 @@
 
 1086={ #Astale
 	terrain="farmland"
-	culture="wvenedi"
+	culture="axian"
 	religion="grecoid_pantheon"
 	trade_goods="saffron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+1087={ #Axos
+	terrain="hills"
+	culture="axian"
+	religion="grecoid_pantheon"
+	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -461,25 +480,6 @@
 	}
 	slaves={
 		amount=1
-	}
-}
-
-1087={ #Axos
-	terrain="hills"
-	culture="wvenedi"
-	religion="grecoid_pantheon"
-	trade_goods="cattle"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
@@ -504,17 +504,14 @@
 
 1089={ #Tylissos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="axian"
 	religion="grecoid_pantheon"
 	trade_goods="saffron"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
-		amount=5
+		amount=2
 	}
 	slaves={
 		amount=2
@@ -1460,7 +1457,7 @@
 
 1531={ #Apam
 	terrain="hills"
-	culture="wvenedi"
+	culture="kissamian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0

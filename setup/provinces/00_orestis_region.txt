@@ -16,7 +16,7 @@
 
 1729={ #Demati
 	terrain="mountain"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -32,7 +32,7 @@
 
 1731={ #Prionia
 	terrain="mountain"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0

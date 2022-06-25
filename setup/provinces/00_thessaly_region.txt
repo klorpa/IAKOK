@@ -156,7 +156,7 @@
 
 543={ #Neraida
 	terrain="hills"
-	culture="wvenedi"
+	culture="pyrasian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -175,7 +175,7 @@
 
 545={ #Almirou
 	terrain="plains"
-	culture="wvenedi"
+	culture="pyrasian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -191,7 +191,7 @@
 
 546={ #Halos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pelean"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -210,7 +210,7 @@
 
 547={ #Nies
 	terrain="hills"
-	culture="wvenedi"
+	culture="pelean"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -226,7 +226,7 @@
 
 551={ #Pyrasos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pyrasian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -248,7 +248,7 @@
 
 553={ #Filaki
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pyrasian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -264,7 +264,7 @@
 
 554={ #Pagasai
 	terrain="hills"
-	culture="wvenedi"
+	culture="iolkosian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -277,7 +277,7 @@
 
 555={ #Iolkos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="iolkosian"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 565={ #Sesklo
 	terrain="farmland"
-	culture="wvenedi"
+	culture="iolkosian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -389,7 +389,7 @@
 
 574={ #Agnanteri
 	terrain="hills"
-	culture="wvenedi"
+	culture="pyrasian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -862,7 +862,7 @@
 
 617={ #Amygdalea
 	terrain="hills"
-	culture="wvenedi"
+	culture="larissan"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -878,7 +878,7 @@
 
 618={ #Larissa
 	terrain="farmland"
-	culture="wvenedi"
+	culture="larissan"
 	religion="grecoid_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -900,7 +900,7 @@
 
 619={ #Agria
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="iolkosian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -929,7 +929,7 @@
 
 621={ #Gyrtone
 	terrain="farmland"
-	culture="wvenedi"
+	culture="larissan"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -945,7 +945,7 @@
 
 622={ #Ampelona
 	terrain="farmland"
-	culture="wvenedi"
+	culture="larissan"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0

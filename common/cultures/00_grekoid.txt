@@ -240,6 +240,22 @@
 		platean = {}
 		thespian = {}
 		leuktran = {}
+		molossian = {}
+		orchomenosian = {}
+		glan = {}
+		khaironeian = {}
+		karpathian = {}
+		kissamian = {}
+		apteran = {}
+		armenaian = {}
+		axian = {}
+		iolkosian = {}
+		pyrasian = {}
+		pelean = {}
+		lamian = {}
+		milosan = {}
+		opusan = {}
+		larissan = {}
 	}
 	
 	barbarian_names = { 

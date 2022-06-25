@@ -1,6 +1,6 @@
 ﻿163={ #Sykies
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 414={ #Ambrakia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -35,7 +35,7 @@
 
 457={ #Ioannina
 	terrain="farmland"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -54,7 +54,7 @@
 
 464={ #Ambrakos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -89,7 +89,7 @@
 
 466={ #Rachi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -140,7 +140,7 @@
 
 500={ #Amphilokhia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -169,7 +169,7 @@
 
 515={ #Idomene
 	terrain="hills"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -201,7 +201,7 @@
 
 517={ #Floriada
 	terrain="hills"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -220,7 +220,7 @@
 
 518={ #Peta
 	terrain="hills"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -346,7 +346,7 @@
 
 1717={ #Zervo
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -381,7 +381,7 @@
 
 1719={ #Assos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -397,7 +397,7 @@
 
 1720={ #Phylake
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -413,27 +413,29 @@
 
 1721={ #Dodona
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=3
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=3
 	}
-	holy_site=omen_diwa
 }
 
 1723={ #Donatos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -449,7 +451,7 @@
 
 1724={ #Sinka
 	terrain="hills"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -465,7 +467,7 @@
 
 1725={ #Peratis
 	terrain="forest"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -481,7 +483,7 @@
 
 1726={ #Pedini
 	terrain="forest"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -497,7 +499,7 @@
 
 1727={ #Avgo
 	terrain="mountain"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -513,7 +515,7 @@
 
 1728={ #Anogeio
 	terrain="mountain"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -529,7 +531,7 @@
 
 1732={ #Passaron
 	terrain="farmland"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -545,7 +547,7 @@
 
 1733={ #Petsali
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -561,7 +563,7 @@
 
 1734={ #Zitsa
 	terrain="hills"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -577,7 +579,7 @@
 
 1735={ #Raveni
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -593,7 +595,7 @@
 
 1736={ #Raiko
 	terrain="hills"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -609,7 +611,7 @@
 
 1737={ #Lista
 	terrain="forest"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -625,7 +627,7 @@
 
 1738={ #Stratinista
 	terrain="plains"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -641,7 +643,7 @@
 
 1739={ #Delvinaki
 	terrain="hills"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -657,7 +659,7 @@
 
 1740={ #Vissani
 	terrain="plains"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -673,7 +675,7 @@
 
 1741={ #Kalpaki
 	terrain="plains"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -689,7 +691,7 @@
 
 1749={ #Nikopolis
 	terrain="plains"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -1024,7 +1026,7 @@
 
 1987={ #Eurymenai
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="molossian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1040,7 +1042,7 @@
 
 2515={ #Limnaia
 	terrain="hills"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0

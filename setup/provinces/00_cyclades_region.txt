@@ -376,7 +376,7 @@
 
 1022={ #Phylakopi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="milosan"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -395,7 +395,7 @@
 
 1023={ #Zefiria
 	terrain="farmland"
-	culture="wvenedi"
+	culture="milosan"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -411,7 +411,7 @@
 
 1024={ #Embourios
 	terrain="forest"
-	culture="wvenedi"
+	culture="milosan"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0

@@ -1,7 +1,7 @@
 ﻿1104={ #Astypalea
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -16,8 +16,8 @@
 
 1147={ #Kasos
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karpathian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -29,8 +29,8 @@
 
 1148={ #Potidaion
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karpathian"
+	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
 	barbarian_power=0
@@ -45,8 +45,8 @@
 
 1149={ #Arkaseia
 	terrain="farmland"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karpathian"
+	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
@@ -61,8 +61,8 @@
 
 1150={ #Karpa
 	terrain="hills"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karpathian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -77,8 +77,8 @@
 
 1152={ #Saros
 	terrain="forest"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karpathian"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -317,7 +317,7 @@
 1178={ #Khalke
 	terrain="forest"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -333,7 +333,7 @@
 1179={ #Telos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -349,7 +349,7 @@
 1180={ #Nisyros
 	terrain="plains"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -435,7 +435,7 @@
 1190={ #Kalimnos
 	terrain="farmland"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
@@ -457,7 +457,7 @@
 1191={ #Vaphos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -473,7 +473,7 @@
 1199={ #Leros
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -489,7 +489,7 @@
 1200={ #Lepsia
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -505,7 +505,7 @@
 1202={ #Patmos
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -521,7 +521,7 @@
 1203={ #Korsiai
 	terrain="hills"
 	culture="wvenedi"
-	religion="slavic_pantheon"
+	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0

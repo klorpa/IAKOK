@@ -4146,7 +4146,7 @@ country = {
 			capital = 1776
 			
 			own_control_core = 	{ 
-				1776 1775 1773 1774 1778 1779 1780 1781 1782 1783 1784
+				1776 1775 1773 1774 1778 1779 1780 1781 1782 1783 1784 1788
 			}
 		}
 		
@@ -4194,168 +4194,169 @@ country = {
 			}
 		}
 		
-		GFI = { #Additional
-			government = despotic_monarchy
-			primary_culture = thisban
+		GFI = { #Molossia
+			government = tribal_kingdom
+			primary_culture = molossian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1721
 			
 			own_control_core = 	{ 
-				
+				1721 1723 1719 1720 1725 1724 1734 1735 1736 1737 1738 1739
+				1987 1726 1727 457 1732 1733 1741 1740 1729
 			}
 		}
 		
-		GFJ = { #Additional
+		GFJ = { #Orchomenos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = orchomenosian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 339
 			
 			own_control_core = 	{ 
-				
+				339 341
 			}
 		}
 		
-		GFK = { #Additional
+		GFK = { #Gla
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = glan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 344
 			
 			own_control_core = 	{ 
-				
+				344 342
 			}
 		}
 		
-		GFL = { #Additional
+		GFL = { #Khaironeia
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = khaironeian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 384
 			
 			own_control_core = 	{ 
-				
+				384 338
 			}
 		}
 		
-		GFM = { #Additional
+		GFM = { #Kissamos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = kissamian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 336
 			
 			own_control_core = 	{ 
-				
+				336 379 1531 440
 			}
 		}
 		
-		GFN = { #Additional
+		GFN = { #Aptera
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = apteran
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1073
 			
 			own_control_core = 	{ 
-				
+				1073 1074 1075
 			}
 		}
 		
-		GFO = { #Additional
+		GFO = { #Armenoi
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = armenaian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1079
 			
 			own_control_core = 	{ 
-				
+				1079 1080 1077 1076
 			}
 		}
 		
-		GFP = { #Additional
+		GFP = { #Axos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = axian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1087
 			
 			own_control_core = 	{ 
-				
+				1087 1085 1089 1086 1084
 			}
 		}
 		
-		GFR = { #Additional
+		GFR = { #Iolkos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = iolkosian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 555
 			
 			own_control_core = 	{ 
-				
+				555 619 565 554
 			}
 		}
 		
-		GFS = { #Additional
+		GFS = { #Pyrasos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = pyrasian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 551
 			
 			own_control_core = 	{ 
-				
+				551 545 543 553 574
 			}
 		}
 		
-		GFT = { #Additional
+		GFT = { #Peleos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = pelean
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 548
 			
 			own_control_core = 	{ 
-				
+				548 547 546 381
 			}
 		}
 		
-		GFU = { #Additional
+		GFU = { #Lamia
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = lamian
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 376
 			
 			own_control_core = 	{ 
-				
+				376 634 378 372 377 534
 			}
 		}
 		
-		GFW = { #Additional
+		GFW = { #Milos
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = milosan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 1022
 			
 			own_control_core = 	{ 
-				
+				1022 1023 1024
 			}
 		}
 		
-		GFY = { #Additional
+		GFY = { #Opus
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = opusan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 365
 			
 			own_control_core = 	{ 
-				
+				365 362 367 369
 			}
 		}
 		
-		GFZ = { #Additional
+		GFZ = { #Larissa
 			government = despotic_monarchy
-			primary_culture = thisban
+			primary_culture = larissan
 			religion = grecoid_pantheon
-			capital = 331
+			capital = 618
 			
 			own_control_core = 	{ 
-				
+				618 621 622 617
 			}
 		}
 		
@@ -5410,7 +5411,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = lemnosic
 			religion = grecoid_pantheon
-			capital = 2236
+			capital = 2235
 			
 			own_control_core = 	{ 
 				2238 2236 2237 2234 2235

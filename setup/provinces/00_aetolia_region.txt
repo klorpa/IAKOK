@@ -248,7 +248,7 @@
 
 461={ #Mytikas
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -283,7 +283,7 @@
 
 463={ #Alyzia
 	terrain="forest"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -299,7 +299,7 @@
 
 467={ #Medion
 	terrain="hills"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -315,7 +315,7 @@
 
 469={ #Tryfos
 	terrain="forest"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -331,7 +331,7 @@
 
 471={ #Vonitsa
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -347,7 +347,7 @@
 
 472={ #Anaktorion
 	terrain="plains"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -363,7 +363,7 @@
 
 476={ #Peratia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="taphian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
