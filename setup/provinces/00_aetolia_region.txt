@@ -1,6 +1,6 @@
 ﻿425={ #Stilia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -16,29 +16,23 @@
 
 426={ #Antirrio
 	terrain="hills"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=2
+		amount=3
 	}
 }
 
 428={ #Perithori
 	terrain="hills"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -57,7 +51,7 @@
 
 429={ #Kalydon
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -79,7 +73,7 @@
 
 432={ #Mousoura
 	terrain="hills"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -95,20 +89,14 @@
 
 435={ #Gavalou
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -117,7 +105,7 @@
 
 436={ #Makrinou
 	terrain="hills"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -130,7 +118,7 @@
 
 438={ #Thermos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="cloth"
 	civilization_value=0
@@ -152,7 +140,7 @@
 
 439={ #Phystion
 	terrain="forest"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -168,7 +156,7 @@
 
 443={ #Dhokimion
 	terrain="plains"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -656,7 +644,7 @@
 
 499={ #Rivio
 	terrain="hills"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -672,7 +660,7 @@
 
 501={ #Stratos
 	terrain="hills"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -688,7 +676,7 @@
 
 503={ #Sitomena
 	terrain="forest"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -701,7 +689,7 @@
 
 504={ #Chouni
 	terrain="mountain"
-	culture="wvenedi"
+	culture="agreian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -717,7 +705,7 @@
 
 505={ #Tripotamo
 	terrain="mountain"
-	culture="wvenedi"
+	culture="agreian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -730,7 +718,7 @@
 
 506={ #Fidakia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="eurytanian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -743,7 +731,7 @@
 
 507={ #Aroniada
 	terrain="mountain"
-	culture="wvenedi"
+	culture="eurytanian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -756,7 +744,7 @@
 
 508={ #Khorion
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="eurytanian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -772,7 +760,7 @@
 
 510={ #Daphnai
 	terrain="mountain"
-	culture="wvenedi"
+	culture="ophioneian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -785,7 +773,7 @@
 
 513={ #Ariada
 	terrain="hills"
-	culture="wvenedi"
+	culture="agreian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -801,7 +789,7 @@
 
 530={ #Rovoliari
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="ophioneian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -817,7 +805,7 @@
 
 633={ #Thesteia
 	terrain="plains"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -849,7 +837,7 @@
 
 638={ #Karpenisi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="eurytanian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0

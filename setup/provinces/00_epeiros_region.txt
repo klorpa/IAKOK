@@ -60,6 +60,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=3
 	}
@@ -156,7 +159,7 @@
 
 514={ #Empesos
 	terrain="hills"
-	culture="wvenedi"
+	culture="agreian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -1061,7 +1064,7 @@
 
 2522={ #Praso
 	terrain="hills"
-	culture="wvenedi"
+	culture="agreian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0

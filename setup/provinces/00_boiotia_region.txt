@@ -912,7 +912,7 @@
 
 531={ #Levkas
 	terrain="hills"
-	culture="wvenedi"
+	culture="ophioneian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -932,7 +932,7 @@
 
 532={ #Ptelea
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ophioneian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -949,7 +949,7 @@
 
 533={ #Fteri
 	terrain="farmland"
-	culture="wvenedi"
+	culture="ophioneian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0

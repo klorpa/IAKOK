@@ -222,6 +222,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	464 = { #Ambrakos
+		port_building = 1
+	}
+	
 	1005 = { #Andros
 		port_building = 1
 	}
@@ -4360,157 +4364,157 @@ country = {
 			}
 		}
 		
-		GGA = { #Additional
+		GGA = { #Xyniae
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = xyniaian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 536
 			
 			own_control_core = 	{ 
-				
+				536 535 537 539 541 538
 			}
 		}
 		
-		GGB = { #Additional
+		GGB = { #Methone
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = methonian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 557
 			
 			own_control_core = 	{ 
-				
+				557 561 560
 			}
 		}
 		
-		GGC = { #Additional
+		GGC = { #Meliboea
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = meliboean
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 591
 			
 			own_control_core = 	{ 
-				
+				591 592 595 564 597 620
 			}
 		}
 		
-		GGD = { #Additional
+		GGD = { #Gonnoi
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = gonnoan
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 625
 			
 			own_control_core = 	{ 
-				
+				625 628 627 623
 			}
 		}
 		
-		GGE = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGE = { #Perrhaebia
+			government = tribal_kingdom
+			primary_culture = perrhaebi
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1898
 			
 			own_control_core = 	{ 
-				
+				1898 568 1899 1902 1903
 			}
 		}
 		
-		GGF = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGF = { #Ambrakos
+			government = tribal_kingdom
+			primary_culture = taphian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 464
 			
 			own_control_core = 	{ 
-				
+				464 414 163
 			}
 		}
 		
-		GGG = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGG = { #Apodotia
+			government = tribal_kingdom
+			primary_culture = apodotian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 438
 			
 			own_control_core = 	{ 
-				
+				438 436 428 425 426 435 429
 			}
 		}
 		
-		GGH = { #Additional
+		GGH = { #Pharsalus
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = pharsalan
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 586
 			
 			own_control_core = 	{ 
-				
+				586 576 587 578 600 601 616 585
 			}
 		}
 		
-		GGI = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGI = { #Aperantia
+			government = tribal_kingdom
+			primary_culture = aperantian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 501
 			
 			own_control_core = 	{ 
-				
+				501 633 503 439 499 443 432
 			}
 		}
 		
-		GGJ = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGJ = { #Eurytania
+			government = tribal_kingdom
+			primary_culture = eurytanian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 638
 			
 			own_control_core = 	{ 
-				
+				638 508 507 506
 			}
 		}
 		
-		GGK = { #Additional
+		GGK = { #Gomphoi
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = gomphoan
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 608
 			
 			own_control_core = 	{ 
-				
+				608 607 606 610 609 527
 			}
 		}
 		
-		GGL = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGL = { #Agreia
+			government = tribal_kingdom
+			primary_culture = agreian
 			religion = grecoid_pantheon
 			capital = 618
 			
 			own_control_core = 	{ 
-				
+				513 514 2522 504 505
 			}
 		}
 		
-		GGM = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGM = { #Ophioneis
+			government = tribal_kingdom
+			primary_culture = ophioneian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 532 
 			
 			own_control_core = 	{ 
-				
+				532 530 533 531 510
 			}
 		}
 		
-		GGN = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGN = { #Magnetia
+			government = tribal_kingdom
+			primary_culture = anargirian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 573
 			
 			own_control_core = 	{ 
-				
+				573 589 593 599 615
 			}
 		}
 		
@@ -4603,6 +4607,138 @@ country = {
 		}
 		
 		GGZ = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHA = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHB = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHC = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHD = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHE = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHF = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHG = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHH = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHI = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHJ = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHK = { #Additional
+			government = despotic_monarchy
+			primary_culture = larissan
+			religion = grecoid_pantheon
+			capital = 618
+			
+			own_control_core = 	{ 
+				
+			}
+		}
+		
+		GHL = { #Additional
 			government = despotic_monarchy
 			primary_culture = larissan
 			religion = grecoid_pantheon

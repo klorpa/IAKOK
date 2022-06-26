@@ -1,6 +1,6 @@
 ﻿527={ #Kalyvia
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -48,7 +48,7 @@
 
 535={ #Perivoli
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -64,12 +64,12 @@
 
 536={ #Xyniada
 	terrain="farmland"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	freemen={
 		amount=3
 	}
@@ -83,7 +83,7 @@
 
 537={ #Metallia
 	terrain="forest"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -102,7 +102,7 @@
 
 538={ #Vouzion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -121,7 +121,7 @@
 
 539={ #Palamas
 	terrain="farmland"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -140,7 +140,7 @@
 
 541={ #Anavra
 	terrain="farmland"
-	culture="wvenedi"
+	culture="xyniaian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -297,14 +297,23 @@
 	}
 }
 
-557={ #Korope
+557={ #Methone
 	terrain="forest"
-	culture="wvenedi"
+	culture="methonian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=3
 	}
@@ -312,7 +321,7 @@
 
 560={ #Trikeri
 	terrain="hills"
-	culture="wvenedi"
+	culture="methonian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -325,7 +334,7 @@
 
 561={ #Anri
 	terrain="forest"
-	culture="wvenedi"
+	culture="methonian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -338,7 +347,7 @@
 
 564={ #Glaphyrai
 	terrain="farmland"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -370,7 +379,7 @@
 
 573={ #Bouthoe
 	terrain="marsh"
-	culture="wvenedi"
+	culture="anargirian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -405,7 +414,7 @@
 
 576={ #Asprogia
 	terrain="hills"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -421,7 +430,7 @@
 
 578={ #Thaumakoi
 	terrain="hills"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -485,7 +494,7 @@
 
 585={ #Euydrion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="fruits"
 	civilization_value=0
@@ -501,7 +510,7 @@
 
 586={ #Pharsalos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -520,7 +529,7 @@
 
 587={ #Thetideion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -536,7 +545,7 @@
 
 589={ #Melia
 	terrain="hills"
-	culture="wvenedi"
+	culture="anargirian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -552,23 +561,26 @@
 
 591={ #Meliboia
 	terrain="hills"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=4
 	}
 	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 592={ #Kasthaneia
 	terrain="hills"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -581,7 +593,7 @@
 
 593={ #Kileler
 	terrain="farmland"
-	culture="wvenedi"
+	culture="anargirian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -597,26 +609,23 @@
 
 595={ #Aetolophos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=2
-	}
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}
 	tribesmen={
-		amount=2
+		amount=1
 	}
 }
 
 597={ #Eleftherio
 	terrain="farmland"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -635,7 +644,7 @@
 
 599={ #Zappio
 	terrain="hills"
-	culture="wvenedi"
+	culture="anargirian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -651,7 +660,7 @@
 
 600={ #Krannon
 	terrain="deep_forest"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -667,15 +676,12 @@
 
 601={ #Iperia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=3
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -718,7 +724,7 @@
 
 606={ #Proastio
 	terrain="farmland"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="horses"
 	civilization_value=0
@@ -734,7 +740,7 @@
 
 607={ #Ithome
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -748,16 +754,22 @@
 	}
 }
 
-608={ #Dimos
+608={ #Gomphoi
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=3
+		amount=6
+	}
+	slaves={
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -766,7 +778,7 @@
 
 609={ #Pialeia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -782,7 +794,7 @@
 
 610={ #Trikke
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="honey"
 	civilization_value=0
@@ -814,7 +826,7 @@
 
 613={ #Potamia
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="perrhaebi"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -827,15 +839,12 @@
 
 615={ #Anargiri
 	terrain="farmland"
-	culture="wvenedi"
+	culture="anargirian"
 	religion="grecoid_pantheon"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=4
-	}
+	province_rank="settlement"
 	freemen={
 		amount=3
 	}
@@ -846,7 +855,7 @@
 
 616={ #Argoura
 	terrain="hills"
-	culture="wvenedi"
+	culture="pharsalan"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -913,7 +922,7 @@
 
 620={ #Elateia
 	terrain="hills"
-	culture="wvenedi"
+	culture="meliboean"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -961,7 +970,7 @@
 
 623={ #Deleria
 	terrain="hills"
-	culture="wvenedi"
+	culture="gonnoan"
 	religion="grecoid_pantheon"
 	trade_goods="hemp"
 	civilization_value=0
@@ -977,7 +986,7 @@
 
 624={ #Argyro
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="perrhaebi"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -990,14 +999,17 @@
 
 625={ #Gonnoi
 	terrain="hills"
-	culture="wvenedi"
+	culture="gonnoan"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=2
+	}
+	freemen={
+		amount=6
 	}
 	tribesmen={
 		amount=2
@@ -1006,7 +1018,7 @@
 
 627={ #Homolion
 	terrain="farmland"
-	culture="wvenedi"
+	culture="gonnoan"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -1025,7 +1037,7 @@
 
 628={ #Eurymenai
 	terrain="farmland"
-	culture="wvenedi"
+	culture="gonnoan"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0

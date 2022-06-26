@@ -253,9 +253,22 @@
 		pyrasian = {}
 		pelean = {}
 		lamian = {}
+		apodotian = {}
+		pharsalan = {}
+		aperantian = {}
+		eurytanian = {}
+		gomphoan = {}
+		agreian = {}
+		ophioneian = {}
 		milosan = {}
 		opusan = {}
 		larissan = {}
+		xyniaian = {}
+		methonian = {}
+		meliboean = {}
+		gonnoan = {}
+		perrhaebi = {}
+		anargirian = {}
 	}
 	
 	barbarian_names = { 
