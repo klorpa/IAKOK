@@ -1096,7 +1096,7 @@ deity_mdiktynna = {
 	icon = deity_war
 	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
 	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = war #This Deity uses a War slot.
 	
 	deification_trigger = {
@@ -1122,7 +1122,7 @@ deity_meleuthya = {
 	icon = deity_eloquence
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {
@@ -1148,7 +1148,7 @@ deity_mvelchanos = {
 	icon = deity_wealth
 	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
 	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = economy #This Deity uses an Economy Slot
 	
 	deification_trigger = {
@@ -1174,7 +1174,7 @@ deity_mrieia = {
 	icon = deity_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -1203,7 +1203,7 @@ deity_mariadne = {
 	icon = deity_eloquence
 	passive_modifier = { global_monthly_civilization = deity_global_monthly_civilization_svalue }
 	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {
@@ -1229,7 +1229,7 @@ deity_mamaya = {
 	icon = deity_love
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -1255,7 +1255,7 @@ deity_mkarmanor = {
 	icon = deity_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
-	religion = roman_pantheon
+	religion = grecoid_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
