@@ -18,7 +18,12 @@
 			scope:province = {
 				OR = {
 					is_in_region = thessaly_region
-					is_in_region = thessaly_region
+					is_in_region = aetolia_region
+					is_in_region = boiotia_region
+					is_in_region = west_peloponessos_region
+					is_in_region = east_peloponessos_region
+					is_in_region = epeiros_region
+					is_in_region = attika_and_euboea_region
 				}
 			}
 		}
@@ -33,7 +38,13 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns_region = central_greece_area
+			owns_region = thessaly_region
+			owns_region = aetolia_region
+			owns_region = boiotia_region
+			owns_region = west_peloponessos_region
+			owns_region = east_peloponessos_region
+			owns_region = epeiros_region
+			owns_region = attika_and_euboea_region
 		}
 		
 		effect = {

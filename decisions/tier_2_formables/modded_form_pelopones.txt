@@ -5,8 +5,52 @@
 		
 		potential = {
 			OR = {
-				primary_culture = laconic
-				primary_culture = arcadic
+				primary_culture = laconian
+				primary_culture = tegean
+				primary_culture = argive
+				primary_culture = korinthian
+				primary_culture = sicyonian
+				primary_culture = skiritian
+				primary_culture = amykleian
+				primary_culture = geronthraian
+				primary_culture = gyrthionian
+				primary_culture = helot
+				primary_culture = asposian
+				primary_culture = boiaian
+				primary_culture = zaraxian
+				primary_culture = parsiaian
+				primary_culture = mycenean
+				primary_culture = tirynian
+				primary_culture = asinian
+				primary_culture = hermian
+				primary_culture = troizenian
+				primary_culture = epidauran
+				primary_culture = adanian
+				primary_culture = leuktran
+				primary_culture = pheraian
+				primary_culture = messenian
+				primary_culture = asinean
+				primary_culture = pylosian
+				primary_culture = amphigeneian
+				primary_culture = phigalian
+				primary_culture = triphylian
+				primary_culture = epeian
+				primary_culture = elean
+				primary_culture = olenian
+				primary_culture = dyman
+				primary_culture = tritheian
+				primary_culture = patraian
+				primary_culture = leontian
+				primary_culture = phenean
+				primary_culture = kleitorian
+				primary_culture = orchomenian
+				primary_culture = psophian
+				primary_culture = hypsian
+				primary_culture = bassaian
+				primary_culture = mantineian
+				primary_culture = stymphalian
+				primary_culture = aegiran
+				primary_culture = pallenic
 			}
 			#is_tribal = yes
 			NOT = {
@@ -21,12 +65,13 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 427
-					province_id = 418
-					province_id = 431
-					province_id = 439
-					province_id = 446
-					province_id = 7891
+					province_id = 4
+					province_id = 137
+					province_id = 209
+					province_id = 196
+					province_id = 174
+					province_id = 50
+					province_id = 239
 				}
 			}
 		}
@@ -41,12 +86,13 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 427
-			owns = 418
-			owns = 431
-			owns = 439
-			owns = 446
-			owns = 7891
+			owns = 4
+			owns = 137
+			owns = 209
+			owns = 196
+			owns = 174
+			owns = 50
+			owns = 239
 		}
 		
 		effect = {

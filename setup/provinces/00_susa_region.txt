@@ -701,12 +701,18 @@
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
+		amount=5
+	}
+	slaves={
 		amount=3
 	}
 	tribesmen={
-		amount=3
+		amount=1
 	}
 	holy_site="omen_kirmashir"
 }
@@ -805,12 +811,15 @@
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
 		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 	tribesmen={
 		amount=1

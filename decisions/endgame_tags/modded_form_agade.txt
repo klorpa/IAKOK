@@ -17,18 +17,20 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 918
-					province_id = 883
-					province_id = 903
-					province_id = 1954
-					province_id = 774
-					province_id = 946
-					province_id = 4950
-					province_id = 4959
-					province_id = 862
-					province_id = 830
-					province_id = 809
-					province_id = 750
+					province_id = 5303 #Ashur
+					province_id = 6126 #Akkad
+					province_id = 6087 #Babylon
+					province_id = 6022 #Uruk
+					province_id = 6182 #Ur
+					province_id = 5967 #Girsu
+					province_id = 6374 #Susa
+					province_id = 6552 #Anshan
+					province_id = 6201 #Lullubu
+					province_id = 5924 #Mari
+					province_id = 4030 #Damascus
+					province_id = 3701 #Ebla?
+					province_id = 3368 #Adaniya
+					province_id = 3378 #Purushanda when map will reach
 				}
 			}
 		}
@@ -43,18 +45,20 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 918
-			owns = 883
-			owns = 903
-			owns = 1954
-			owns = 774
-			owns = 946
-			owns = 4950
-			owns = 4959
-			owns = 862
-			owns = 830
-			owns = 809
-			owns = 750
+			owns = 5303 #Ashur
+			owns = 6126 #Akkad
+			owns = 6087 #Babylon
+			owns = 6022 #Uruk
+			owns = 6182 #Ur
+			owns = 5967 #Girsu
+			owns = 6374 #Susa
+			owns = 6552 #Anshan
+			owns = 6201 #Lullubu
+			owns = 5924 #Mari
+			owns = 4030 #Damascus
+			owns = 3701 #Ebla?
+			owns = 3368 #Adaniya
+			owns = 3378 #Purushanda when map will reach
 		}
 		
 		effect = {
@@ -79,27 +83,27 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 918
+							province_id = 6126
 						}
 					}
 				}
-				set_capital = 918
+				set_capital = 6126
 				hidden_effect = {
-					p:918.state = {
-						set_state_capital = 918
+					p:6126.state = {
+						set_state_capital = 6126
 					}
 				}
 				capital_scope = {
 					establish_city_effect = yes
 				}
 			}
-			#p:918 = {
-			#	if = {
-			#		limit = { has_city_status = no }
-			#		set_city_status = city
-			#	}
-			#}
-			p:918 = {
+			p:6126 = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			p:6126 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}

@@ -1,6 +1,6 @@
 ﻿minoic = {
 	
-	color = hsv { 0.51 0.50 0.48 }
+	color = hsv { 0.60 0.04 0.64 }
 	
 	primary = missile_spearthrowers
 	second = light_spearmen
@@ -119,6 +119,8 @@
 		samans = {}
 		tyrsenic = {}
 		raminijan = {}
+		pelasgian = {}
+		lelegian = {}
 	}
 	
 	barbarian_names = { 
