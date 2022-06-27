@@ -1,0 +1,130 @@
+﻿country_decisions = {
+		
+	# Form Kingdom of Hatti
+	form_hattusa = {
+		
+		potential = {
+			OR = {
+				primary_culture = hamathite
+				primary_culture = lukhutic
+				primary_culture = arpadic
+				primary_culture = patinite
+				primary_culture = khillikite
+				primary_culture = musuwaric
+				primary_culture = gurgumite
+				primary_culture = kummukhite
+				primary_culture = karkamisan
+				AND = {
+					country_culture_group = aramaic
+					religion = luwic_pantheon
+				}
+			}	
+			#is_tribal = yes
+			NOT = {
+				tag = XHI
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 4378 
+					province_id = 4332
+					province_id = 3633
+					province_id = 4342
+					province_id = 4442
+					province_id = 4356
+					province_id = 3378
+					province_id = 3368
+					province_id = 3480
+					province_id = 3569
+					province_id = 3509 
+					province_id = 3674
+					province_id = 3688
+					province_id = 4362
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = hattusa_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XHI
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 4378 
+			owns = 4332
+			owns = 3633
+			owns = 4342
+			owns = 4442
+			owns = 4356
+			owns = 3378
+			owns = 3368 
+			owns = 3480
+			owns = 3569
+			owns = 3509 
+			owns = 3674
+			owns = 3688
+			owns = 4362
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "Hattusa_Name"
+			change_country_flag = hatti_flag
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "Hattusa_ADJ"
+				change_country_color =  "hattusa_color"
+				change_country_tag = XHI
+			}
+			if = {
+				limit = {
+					NOT = {
+						capital_scope = {
+							province_id = 4362
+						}
+					}
+				}
+				set_capital = 4362
+				hidden_effect = {
+					p:4362.state = {
+						set_state_capital = 4362
+					}
+				}
+			}
+			p:4362 = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			p:4362 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}
