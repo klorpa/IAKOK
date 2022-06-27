@@ -64,6 +64,8 @@
 		amri = {}
 		itusawan = {}
 		taphian = {}
+		dryopian = {}
+		praisian = {}
 	}
 	
 	barbarian_names = { 

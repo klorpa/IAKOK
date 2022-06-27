@@ -545,7 +545,7 @@
 		amount=5
 		culture="ma"
 	}
-	
+	holy_site="omen_manubis"
 }
 
 1643={ #Per-Nemty
@@ -797,7 +797,7 @@
 	tribesmen={
 		amount=1
 	}
-	
+	holy_site="omen_mosiris"
 }
 
 2309={ #Uarekht
@@ -838,7 +838,7 @@
 	}
 }
 
-2313={ #Hut-Repyt
+2313={ #Hut_Repyt
 	terrain="flood_plain"
 	culture="khmunite"
 	religion="kemetic_pantheon"
@@ -859,7 +859,6 @@
 		amount=6
 		culture="ma"
 	}
-	
 }
 
 2324={ #Kheri
@@ -998,7 +997,7 @@
 	tribesmen={
 		amount=1
 	}
-	
+	holy_site="omen_manhur"
 }
 
 2609={ #Bahes

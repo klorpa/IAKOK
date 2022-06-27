@@ -348,7 +348,7 @@
 	slaves={
 		amount=4
 	}
-	holy_site=omen_napirisha
+	holy_site="omen_napirisha"
 }
 
 6553={ #Reshu

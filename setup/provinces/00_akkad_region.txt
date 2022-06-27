@@ -266,7 +266,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_sargon
+	
 }
 
 6127={ #Quppu
@@ -311,6 +311,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_dunias"
 }
 
 6129={ #Mankisum
@@ -654,6 +655,7 @@
 	tribesmen={
 		amount=5
 	}
+	holy_site="omen_suqamuna"
 }
 
 6209={ #Beleti

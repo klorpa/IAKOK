@@ -269,6 +269,24 @@
 		gonnoan = {}
 		perrhaebi = {}
 		anargirian = {}
+		dolopian = {}
+		aenianian = {}
+		athamanian = {}
+		delphian = {}
+		kirran = {}
+		amphissan = {}
+		dorian = {}
+		seriphian = {}
+		kefalonian = {}
+		zakynthian = {}
+		lefkaian = {}
+		herakleian = {}
+		tinian = {}
+		mykonian = {}
+		naxian = {}
+		parosian = {}
+		chersonesian = {}
+		koumasan = {}
 	}
 	
 	barbarian_names = { 

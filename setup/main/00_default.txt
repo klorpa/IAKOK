@@ -5,7 +5,307 @@ treasure_manager = {
 		# Joe 61-120
 		# Drikus 121-180
 		# Henrik 181-240
+		1 = { # Hebron
+			key = "treasure_ark_of_covenant"
+			icon = "treasure_chest"
+			state_modifier = {
+				land_morale_modifier = 0.1
+			}
+		}
 		
+		2 = { # Hebron?
+			key = "stone_of_jacob" #Bet-El
+			icon = "treasure_chest"
+            state_modifier = {
+				local_tax_modifier = 0.2
+			}
+		}
+		
+		3 = { # Leontopolis
+			key = "treasure_obelisk_seti" #Somehwere unknown in Egypt - later moved to Alexandria
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
+		
+		4 = { # Leontopolis
+			key = "treasure_book_of_the_dead" #Nile Delta
+			icon = "treasure_urn_3"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_population_capacity_modifier = 0.075
+			}
+		}
+		
+		5 = { # Helioupolis
+			key = "treasure_flaminio_obelisk" #Heliopolis
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		
+		6 = { # Helioupolis
+			key = "benben_stone" #Heliopolis
+			icon = "treasure_chest"
+            state_modifier = {
+				local_population_capacity = 6
+			}
+		}
+		
+		7 = { # Memphis
+			key = "hemhem_crown_of_egypt" 
+			icon = "treasure_chest"
+            state_modifier = {
+				local_monthly_food_modifier = 0.1
+			}
+		}
+		
+		8 = { # Krokodilopolis
+			key = "treasure_crocodile_mummy" #Fayyum - Krokodilopolis / Ptolemais Eurgetis
+			icon = "treasure_sarcophagus_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_building_slot = 2
+			}
+		}
+		
+		9 = {
+			key = "treasure_head_of_amenhotep" #Luxor
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_nobles_happyness = 0.1
+			}
+		}
+		
+		10 = {
+			key = "treasure_lateran_obelisk" #Amun
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		
+		11 = { # Tentyris/Iunet
+            key = "treasure_sistrum_of_hathor"
+            icon = "treasure_chest"
+            state_modifier = {
+                local_citizen_happyness = 0.1
+            }
+        }
+		
+		12 = {
+			key = "treasure_sarcophagus_seti" #Tentyris
+			icon = "treasure_sarcophagus_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_happiness_for_same_religion_modifier = 0.1
+			}
+		}
+		
+		13 = { #r2 Karnak/Thebai Hekatompyloi/Diospolis Magna/Waset
+            key = "treasure_theodosian_obelisk"
+            icon = "treasure_architecture"
+            state_modifier = {
+                local_nobles_output = 0.1
+            }
+        }
+		
+		14 = {
+			key = "treasure_colossi_pharaohs" #Luxor
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_population_capacity = 4
+			}
+		}
+		
+		15 = { # Apollonpolis Megale/Djeba
+            key = "treasure_stella_of_horus"
+            icon = "treasure_chest"
+            state_modifier = {
+                local_nobles_output = 0.1
+            }
+        }
+		
+		16 = { # Bida
+			key = "treasure_stone_of_sinifere"
+			icon = "treasure_sarcophagus"
+			state_modifier = {
+				local_tribesmen_output = 0.15
+			}
+		}
+		
+		17 = {
+			key = "elagabal_stone" 
+			icon = "treasure_chest"
+			state_modifier = {
+				local_freemen_output = 0.15
+			}
+		}
+		
+		18 = { 
+			key = "treasure_sacred_fish_atargatis"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_population_capacity = 4
+			}
+		}
+		
+		19 = {
+			key = "treasure_derafsh" #Karrai
+			icon = "treasure_urn_2"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_happiness_for_same_culture_modifier = 0.1
+			}
+		}
+		
+		20 = {
+			key = "treasure_mask_of_sargon" #Niniveh
+			icon = "treasure_armor_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				monthly_local_governor_wage = -0.15
+			}
+		}
+		
+		21 = {
+			key = "statue_of_marduk" #Somewhat unclear, probably Babylon
+			icon = "treasure_architecture"
+            state_modifier = {
+				local_happiness_for_same_culture_modifier = 0.1
+			}
+		}
+		
+		22 = { # Borsippa
+            key = "treasure_statue_of_nabu"
+            icon = "treasure_architecture"
+            state_modifier = {
+                local_research_points_modifier = 0.1
+            }
+        }
+		
+		23 = {
+			key = "treasure_gilgamesh"
+			icon = "treasure_urn_3"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_nobles_output = 0.1
+			}
+		}
+		
+		24 = {
+			key = "treasure_victory_stele" #Sousa
+			icon = "treasure_architecture_hoa"
+			dlc = "Heirs of Alexander"
+			state_modifier = {
+				local_monthly_state_loyalty = 0.15
+			}
+		}
+		
+		25 = { 
+            key = "treasure_tomb_of_agapenor"
+            icon = "treasure_sarcophagus"
+			dlc = "Magna Graecia"
+            state_modifier = {
+                local_population_growth = 0.05
+            }
+        }
+		
+		26 = {
+			key = "black_stone_of_kaaba" #Mecca
+			icon = "treasure_chest"
+            state_modifier = {
+				local_monthly_food_modifier = 0.1
+			}
+		}
+		
+		27 = { # Knossos
+            key = "treasure_tomb_of_minos"
+            icon = "treasure_sarcophagus"
+			dlc = "Magna Graecia"
+            state_modifier = {
+                local_happiness_for_same_religion_modifier = 0.1
+            }
+        }
+		
+		28 = { # Athenai
+            key = "treasure_palladion_of_athena"
+            icon = "treasure_architecture"
+            state_modifier = {
+				local_defensive = 0.2
+            }
+        }
+		
+		29 = { # Argos
+            key = "treasure_shield_of_diomedes"
+            icon = "treasure_chest"
+			dlc = "Magna Graecia"
+            state_modifier = {
+                local_manpower_modifier = 0.15
+            }
+        }
+		
+		30 = { # Thebes
+            key = "treasure_rhyton_of_cadmus"
+            icon = "treasure_chest"
+			dlc = "Magna Graecia"
+            state_modifier = {
+                local_base_trade_routes_modifier = 0.15
+            }
+        }
+		
+		31 = { 
+			key = "treasure_bone_figurines"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_citizen_happyness = 0.1
+			}
+		}
+		
+		32 = { # Kamachia
+			key = "treasure_silver_idol_ga"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+		
+		33 = { # Kurus
+			key = "treasure_necklace_of_adgilis_deda"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_country_civilization_value = 15
+			}
+		}
+		
+		34 = { # Meschistha-Harmozike
+			key = "treasure_gold_idol_gacim"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+		
+		35 = { # ?
+            key = "treasure_palladium_of_troy"
+            icon = "treasure_architecture"
+            state_modifier = {
+                local_defensive = 0.2
+            }
+        }
+		
+		36 = {
+			key = "statue_of_ashur" #Somewhat unclear, probably Babylon
+			icon = "treasure_architecture"
+            state_modifier = {
+				agressive_expansion_monthly_change = -0.025
+			}
+		}
     }
 }
 family={
@@ -213,12 +513,109 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
+	4284 = { # Hebron
+		treasure_slots = { 	treasures = { 1 2 } }
+	}
 	
+	4550 = { # Taremu
+		treasure_slots = { 	treasures = { 3 4 } }
+	}
 	
+	4575 = { # Helioupolis
+		treasure_slots = { 	treasures = { 5 6 } }
+	}
+	
+	1931 = { # Krokodilopolis
+		treasure_slots = { 	treasures = { 8 } }
+	}
+	
+	2479 = { # Iunet
+		treasure_slots = { 	treasures = { 11 12 } }
+	}
+	
+	2477 = { # Thinis
+		treasure_slots = { 	treasures = { 9 } }
+	}
+	
+	3757 = { # Mabbog
+		treasure_slots = { 	treasures = { 18 } }
+	}
+	
+	3922 = { # Heliopolitana
+		treasure_slots = { 	treasures = { 17 } }
+	}
+	
+	2261 = { # Memphis
+		treasure_slots = { 	treasures = { 7 } }
+	}
+	
+	2306 = { # Abydos
+		treasure_slots = { 	treasures = { 13 } }
+	}
+	
+	1331 = { # Waset
+		treasure_slots = { 	treasures = { 10 14 } }
+	}
+	
+	1090 = { # Knossos
+		treasure_slots = { 	treasures = { 27 } }
+	}
+	
+	257 = { # Athens
+		treasure_slots = { 	treasures = { 28 } }
+	}
+	
+	216 = { # Argos
+		treasure_slots = { 	treasures = { 29 } }
+	}
+	
+	329 = { # Thebes
+		treasure_slots = { 	treasures = { 30 } }
+	}
+	
+	6087 = { # Babylon
+		treasure_slots = { 	treasures = { 21 } }
+	}
+	
+	5288 = { # Niniveh
+		treasure_slots = { 	treasures = { 20 } }
+	}
+	
+	5303 = { # Ashur
+		treasure_slots = { 	treasures = { 36 } }
+	}
+	
+	6084 = { # Borsippa
+		treasure_slots = { 	treasures = { 22 } }
+	}
+	
+	6000 = { # Nippur
+		treasure_slots = { 	treasures = { 23 } }
+	}
+	
+	6374 = { # Susa
+		treasure_slots = { 	treasures = { 24 } }
+	}
+	
+	3170 = { # Paphos
+		treasure_slots = { 	treasures = { 25 } }
+	}
 
 	### BUILDINGS
 	
 	3997 = { #Acco
+		port_building = 1
+	}
+	
+	1141 = { #Soulia
+		port_building = 1
+	}
+	
+	1146 = { #Lebene
+		port_building = 1
+	}
+	
+	1028 = { #Naxos
 		port_building = 1
 	}
 	
@@ -3292,7 +3689,7 @@ country = {
 			capital = 1134
 			
 			own_control_core = 	{ 
-				1134 1133 2521 1132 1135 1136
+				1134 1133 2521 1135 1136
 			}
 		}
 		
@@ -3457,7 +3854,7 @@ country = {
 			capital = 1188
 			
 			own_control_core = 	{ 
-				1188 1185 1184 1181
+				1188 1185 1184 1181 1190 1191
 			}
 		}
 		
@@ -4239,7 +4636,7 @@ country = {
 			capital = 384
 			
 			own_control_core = 	{ 
-				384 338
+				384 338 385 390 383
 			}
 		}
 		
@@ -4360,7 +4757,7 @@ country = {
 			capital = 618
 			
 			own_control_core = 	{ 
-				618 621 622 617
+				618 621 622 617 612
 			}
 		}
 		
@@ -4481,7 +4878,7 @@ country = {
 			capital = 608
 			
 			own_control_core = 	{ 
-				608 607 606 610 609 527
+				608 607 606 610 609 632 604 603 
 			}
 		}
 		
@@ -4503,7 +4900,7 @@ country = {
 			capital = 532 
 			
 			own_control_core = 	{ 
-				532 530 533 531 510
+				532 533 531 510
 			}
 		}
 		
@@ -4518,234 +4915,234 @@ country = {
 			}
 		}
 		
-		GGO = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGO = { #Dolopia
+			government = tribal_kingdom
+			primary_culture = dolopian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 526
 			
 			own_control_core = 	{ 
-				
+				526 525 524 523 521 522
 			}
 		}
 		
-		GGP = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGP = { #Aeniania
+			government = tribal_kingdom
+			primary_culture = aenianian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 582
 			
 			own_control_core = 	{ 
-				
+				582 527 583
 			}
 		}
 		
-		GGR = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGR = { #Athamania
+			government = tribal_kingdom
+			primary_culture = athamanian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 529
 			
 			own_control_core = 	{ 
-				
+				529 528 530 580
 			}
 		}
 		
-		GGS = { #Additional
+		GGS = { #Delphi
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = delphian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 392
 			
 			own_control_core = 	{ 
-				
+				392 391 397
 			}
 		}
 		
-		GGT = { #Additional
+		GGT = { #Kirra
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = kirran
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 405
 			
 			own_control_core = 	{ 
-				
+				405 393 389 388
 			}
 		}
 		
-		GGU = { #Additional
+		GGU = { #Amphissa
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = amphissan
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 396
 			
 			own_control_core = 	{ 
-				
+				396 408 415 410
 			}
 		}
 		
-		GGW = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGW = { #Doris
+			government = tribal_kingdom
+			primary_culture = dorian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 373
 			
 			own_control_core = 	{ 
-				
+				373 400 398 401 512
 			}
 		}
 		
-		GGY = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
+		GGY = { #Dryopia
+			government = tribal_kingdom
+			primary_culture = dryopian
 			religion = grecoid_pantheon
 			capital = 618
 			
 			own_control_core = 	{ 
-				
+				1016 1017 1019 1018
 			}
 		}
 		
-		GGZ = { #Additional
+		GGZ = { #Seriphos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = seriphian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1020
 			
 			own_control_core = 	{ 
-				
+				1020
 			}
 		}
 		
-		GHA = { #Additional
+		GHA = { #Kefalonia
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = kefalonian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 486
 			
 			own_control_core = 	{ 
-				
+				486 484 483 482 487 493 492 489 490
 			}
 		}
 		
-		GHB = { #Additional
+		GHB = { #Zakynthos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = zakynthian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 497
 			
 			own_control_core = 	{ 
-				
+				497 495 496 494
 			}
 		}
 		
-		GHC = { #Additional
+		GHC = { #Lefkas
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = lefkaian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 488
 			
 			own_control_core = 	{ 
-				
+				488 479 478
 			}
 		}
 		
-		GHD = { #Additional
+		GHD = { #Herakleia
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = herakleian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 404
 			
 			own_control_core = 	{ 
-				
+				404 403 382
 			}
 		}
 		
-		GHE = { #Additional
+		GHE = { #Tinos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = tinian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1009
 			
 			own_control_core = 	{ 
-				
+				1009 1010 1008 1007
 			}
 		}
 		
-		GHF = { #Additional
+		GHF = { #Mykonos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = mykonian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1012
 			
 			own_control_core = 	{ 
-				
+				1012 1013
 			}
 		}
 		
-		GHG = { #Additional
+		GHG = { #Naxos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = naxian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1028
 			
 			own_control_core = 	{ 
-				
+				1028 1029 1030 1031 1032
 			}
 		}
 		
-		GHH = { #Additional
+		GHH = { #Paros
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = parosian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1027
 			
 			own_control_core = 	{ 
-				
+				1027 1026 1025
 			}
 		}
 		
-		GHI = { #Additional
-			government = despotic_monarchy
-			primary_culture = larissan
-			religion = grecoid_pantheon
-			capital = 618
+		GHI = { #Sharden Confederation
+			government = tribal_federation
+			primary_culture = shardana
+			religion = nuragian_pantheon
+			capital = 1039
 			
 			own_control_core = 	{ 
-				
+				1039 1038 1040 1141 1140 1145
 			}
 		}
 		
-		GHJ = { #Additional
+		GHJ = { #Praisos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = praisian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1114
 			
 			own_control_core = 	{ 
-				
+				1114 1113 1115
 			}
 		}
 		
-		GHK = { #Additional
+		GHK = { #Chersonissos
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = chersonesian
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1096
 			
 			own_control_core = 	{ 
-				
+				1096 1095 1097
 			}
 		}
 		
-		GHL = { #Additional
+		GHL = { #Koumasa
 			government = despotic_monarchy
-			primary_culture = larissan
+			primary_culture = koumasan
 			religion = grecoid_pantheon
-			capital = 618
+			capital = 1132
 			
 			own_control_core = 	{ 
-				
+				1132 1146
 			}
 		}
 		

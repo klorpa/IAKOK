@@ -110,7 +110,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_nergal
+	
 }
 
 5951={ #Kiag
@@ -216,7 +216,7 @@
 	slaves={
 		amount=5
 	}
-	holy_site=omen_kubau
+	
 }
 
 6047={ #Kashurra
@@ -452,7 +452,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_shamash
+	holy_site="omen_mshamash"
 }
 
 6060={ #Tahazi
@@ -764,7 +764,7 @@
 	slaves={
 		amount=6
 	}
-	holy_site=omen_nabu
+	holy_site="omen_mnabu"
 }
 
 6085={ #Sahrina
@@ -831,7 +831,7 @@
 		amount=6
 		culture="agade"
 	}
-	holy_site=omen_marduk
+	holy_site="omen_mmarduk"
 }
 
 6088={ #Sabhanu

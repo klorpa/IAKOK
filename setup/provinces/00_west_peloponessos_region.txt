@@ -583,6 +583,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_mzeus"
 }
 
 167={ #Pednelissos

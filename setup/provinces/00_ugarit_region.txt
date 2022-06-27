@@ -133,7 +133,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_el
+	
 }
 
 3525={ #Kirsana

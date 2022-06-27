@@ -248,7 +248,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_baalat_gebal
+	holy_site="omen_mbaalat"
 }
 
 3888={ #Annaya
@@ -548,7 +548,7 @@
 	slaves={
 		amount=1
 	}
-	holy_site=omen_eshmun
+	holy_site="omen_meshmun"
 }
 
 3906={ #Habboûch
@@ -1002,7 +1002,7 @@
 	slaves={
 		amount=1
 	}
-	holy_site=omen_lotan
+	holy_site="omen_malakim"
 }
 
 3972={ #Yânôah
@@ -1093,6 +1093,7 @@
 	freemen={
 		amount=6
 	}
+	holy_site="omen_mel"
 }
 
 3978={ #Qatsrin
@@ -1144,7 +1145,7 @@
 	slaves={
 		amount=10
 	}
-	holy_site=omen_melqart
+	holy_site="omen_mmelqart"
 }
 
 3983={ #Maarakeh

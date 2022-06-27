@@ -273,7 +273,7 @@
 	slaves={
 		amount=2
 	}
-	holy_site=omen_shanta
+	
 }
 
 3360={ #Uffu-nna

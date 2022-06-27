@@ -31,6 +31,7 @@
 	slaves={
 		amount=3
 	}
+	holy_site="omen_martemis"
 }
 
 1386={ #Iokir

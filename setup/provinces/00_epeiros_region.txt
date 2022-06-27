@@ -191,7 +191,7 @@
 
 516={ #Thiamos
 	terrain="hills"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -239,7 +239,7 @@
 
 519={ #Megkla
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -252,7 +252,7 @@
 
 520={ #Irakleia
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -265,7 +265,7 @@
 
 521={ #Retsiana
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -278,7 +278,7 @@
 
 522={ #Koryfi
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -291,7 +291,7 @@
 
 523={ #Mesounta
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -304,7 +304,7 @@
 
 524={ #Pindos
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -317,7 +317,7 @@
 
 525={ #Elati
 	terrain="mountain"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -331,19 +331,25 @@
 	}
 }
 
-526={ #Spathes
+526={ #Ctimene
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="dolopian"
 	religion="grecoid_pantheon"
 	trade_goods="base_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=5
 	}
 }
 

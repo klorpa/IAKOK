@@ -113,7 +113,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_ninurta
+	
 }
 
 5968={ #Mash
@@ -155,7 +155,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_nanshe
+	
 }
 
 5970={ #Nina
@@ -344,7 +344,7 @@
 	slaves={
 		amount=4
 	}
-	holy_site=omen_dumuzid
+	
 }
 
 5981={ #Umma
@@ -367,7 +367,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_nisaba
+	
 }
 
 5982={ #Bubussunu
@@ -670,7 +670,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_enki
+	holy_site="omen_mea"
 }
 
 6012={ #Eli
@@ -788,7 +788,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_inanna
+	
 }
 
 6018={ #Kalu
@@ -887,7 +887,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_gilgamesh
+	holy_site="omen_mishtar"
 }
 
 6023={ #Ahisa
@@ -1189,7 +1189,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_ninazu
+	
 }
 
 6176={ #Qannu
@@ -1250,7 +1250,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_nanna
+	
 }
 
 6183={ #Larsa
@@ -1273,7 +1273,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_utu
+	
 }
 
 6185={ #Zikru

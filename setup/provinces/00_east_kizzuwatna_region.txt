@@ -667,7 +667,7 @@
 	slaves={
 		amount=2
 	}
-	holy_site=omen_shaushka
+	
 }
 
 3467={ #Sal-mi

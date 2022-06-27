@@ -457,7 +457,7 @@
 	slaves={
 		amount=2
 	}
-	
+	holy_site="omen_sutekh"
 }
 
 3652={ #Amim
@@ -950,20 +950,27 @@
 	}
 }
 
-3757={ #Harf
+3757={ #Mabbog
 	terrain="plains"
 	culture="bit_adinic"
 	religion="luwic_pantheon"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=4
+	}
 	freemen={
 		amount=4
+	}
+	slaves={
+		amount=2
 	}
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_matargatis"
 }
 
 3758={ #Arsoun

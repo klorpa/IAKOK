@@ -1157,6 +1157,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_kumarbi"
 }
 
 5205={ #Musati

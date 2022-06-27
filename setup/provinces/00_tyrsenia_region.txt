@@ -533,6 +533,7 @@
 	tribesmen={
 		amount=5
 	}
+	holy_site="omen_mhephaestus"
 }
 
 2236={ #Apsoda

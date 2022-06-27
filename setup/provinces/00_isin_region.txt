@@ -149,7 +149,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_ninhursag
+	
 }
 
 5962={ #Dabrum
@@ -195,7 +195,7 @@
 	slaves={
 		amount=5
 	}
-	holy_site=omen_enlil
+	holy_site="omen_menlil"
 }
 
 6001={ #Wussur
@@ -459,7 +459,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_geshtinanna
+	
 }
 
 6030={ #Sumsu

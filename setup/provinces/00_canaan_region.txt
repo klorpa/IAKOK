@@ -510,7 +510,7 @@
 	tribesmen={
 		amount=3
 	}
-	 
+	holy_site="omen_yhwh"
 }
 
 4243={ #'Ârubbôt
@@ -606,6 +606,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_nehushtan"
 }
 
 4248={ #Jamma'in
@@ -1179,6 +1180,7 @@
 	tribesmen={
 		amount=2
 	}
+	holy_site="omen_cherubs"
 }
 
 4285={ #Mâ'on
@@ -1642,6 +1644,7 @@
 	tribesmen={
 		amount=3
 	}
+	holy_site="omen_ashera"
 }
 
 4314={ #Gilat

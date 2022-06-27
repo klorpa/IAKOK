@@ -331,7 +331,7 @@
 		culture="ma"
 		religion="kemetic_pantheon"
 	}
-	
+	holy_site="omen_mamun"
 }
 
 1343={ #Khet
@@ -1181,7 +1181,7 @@
 	tribesmen={
 		amount=1
 	}
-	
+	holy_site="omen_mhathor"
 }
 
 2485={ #Naqada

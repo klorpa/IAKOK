@@ -162,7 +162,7 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_ruhurater
+	
 }
 
 6480={ #Sessum
@@ -618,7 +618,7 @@
 	tribesmen={
 		amount=2
 	}
-	holy_site=omen_humban
+	
 }
 
 6524={ #Kun

@@ -252,7 +252,7 @@
 	tribesmen={
 		amount=3
 	}
-	
+	holy_site="omen_msobek"
 }
 
 1949={ #Aueris
@@ -471,7 +471,7 @@
 		culture="ma"
 		religion="kemetic_pantheon"
 	}
-	
+	holy_site="omen_mptah"
 }
 
 2274={ #Girzah
@@ -702,16 +702,19 @@
 	}
 }
 
-4550={ #Tesheru
+4550={ #Taremu
 	terrain="flood_plain"
 	culture="memphite"
 	religion="kemetic_pantheon"
 	trade_goods="reeds"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=8
+	}
 	freemen={
-		amount=6
+		amount=7
 	}
 	slaves={
 		amount=4
@@ -719,6 +722,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_msekhmet"
 }
 
 4551={ #Nehatu
@@ -797,7 +801,7 @@
 	}
 }
 
-4575={ #Iunu
+4575={ #Awnu
 	terrain="flood_plain"
 	culture="memphite"
 	religion="kemetic_pantheon"
@@ -817,7 +821,7 @@
 	tribesmen={
 		amount=1
 	}
-	
+	holy_site="omen_mra"
 }
 
 4576={ #Rehen

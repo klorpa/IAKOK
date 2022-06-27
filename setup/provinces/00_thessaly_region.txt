@@ -1,6 +1,6 @@
 ﻿527={ #Kalyvia
 	terrain="hills"
-	culture="gomphoan"
+	culture="aenianian"
 	religion="grecoid_pantheon"
 	trade_goods="leather"
 	civilization_value=0
@@ -16,7 +16,7 @@
 
 528={ #Lampero
 	terrain="hills"
-	culture="wvenedi"
+	culture="athamanian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -32,7 +32,7 @@
 
 529={ #Smoukovou
 	terrain="hills"
-	culture="wvenedi"
+	culture="athamanian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -446,7 +446,7 @@
 
 580={ #Leontari
 	terrain="forest"
-	culture="wvenedi"
+	culture="athamanian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -462,7 +462,7 @@
 
 582={ #Kedros
 	terrain="hills"
-	culture="wvenedi"
+	culture="aenianian"
 	religion="grecoid_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -478,7 +478,7 @@
 
 583={ #Filia
 	terrain="farmland"
-	culture="wvenedi"
+	culture="aenianian"
 	religion="grecoid_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -692,7 +692,7 @@
 
 603={ #Fyllo
 	terrain="farmland"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -708,7 +708,7 @@
 
 604={ #Limnaion
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -810,7 +810,7 @@
 
 612={ #Piniada
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="larissan"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -1053,7 +1053,7 @@
 
 632={ #Pedino
 	terrain="hills"
-	culture="wvenedi"
+	culture="gomphoan"
 	religion="grecoid_pantheon"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1069,7 +1069,7 @@
 
 639={ #Phortosi
 	terrain="mountain_valley"
-	culture="wvenedi"
+	culture="tymphaian"
 	religion="grecoid_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=0

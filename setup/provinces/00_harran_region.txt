@@ -152,7 +152,7 @@
 	slaves={
 		amount=3
 	}
-	holy_site=omen_hebat
+	holy_site="omen_msin"
 }
 
 458={ #Shaqîsh

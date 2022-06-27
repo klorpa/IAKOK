@@ -172,7 +172,7 @@
 
 448={ #Louros
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -188,7 +188,7 @@
 
 450={ #Petalas
 	terrain="plains"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -204,7 +204,7 @@
 
 451={ #Katochi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="apodotian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -220,7 +220,7 @@
 
 453={ #Valti
 	terrain="hills"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
@@ -255,7 +255,7 @@
 
 462={ #Bampini
 	terrain="forest"
-	culture="wvenedi"
+	culture="aperantian"
 	religion="grecoid_pantheon"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -367,7 +367,7 @@
 
 478={ #Nariko
 	terrain="farmland"
-	culture="wvenedi"
+	culture="lefkaian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -386,7 +386,7 @@
 
 479={ #Chortata
 	terrain="hills"
-	culture="wvenedi"
+	culture="lefkaian"
 	religion="grecoid_pantheon"
 	trade_goods="cattle"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 482={ #Ithaki
 	terrain="plains"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -418,7 +418,7 @@
 
 483={ #Phiskardo
 	terrain="hills"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="salt"
 	civilization_value=0
@@ -434,7 +434,7 @@
 
 484={ #Pylaros
 	terrain="hills"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="stone"
 	civilization_value=0
@@ -450,17 +450,20 @@
 
 486={ #Sami
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=3
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=1
@@ -469,7 +472,7 @@
 
 487={ #Pronoi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="grain"
 	civilization_value=0
@@ -488,14 +491,17 @@
 
 488={ #Phara
 	terrain="forest"
-	culture="wvenedi"
+	culture="lefkaian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	tribesmen={
 		amount=1
@@ -504,7 +510,7 @@
 
 489={ #Atheras
 	terrain="forest"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -520,7 +526,7 @@
 
 490={ #Pale
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -539,7 +545,7 @@
 
 492={ #Krani
 	terrain="farmland"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="earthware"
 	civilization_value=0
@@ -558,7 +564,7 @@
 
 493={ #Platies
 	terrain="hills"
-	culture="wvenedi"
+	culture="kefalonian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -574,7 +580,7 @@
 
 494={ #Korithi
 	terrain="farmland"
-	culture="wvenedi"
+	culture="zakynthian"
 	religion="grecoid_pantheon"
 	trade_goods="wine"
 	civilization_value=0
@@ -593,7 +599,7 @@
 
 495={ #Mariai
 	terrain="forest"
-	culture="wvenedi"
+	culture="zakynthian"
 	religion="grecoid_pantheon"
 	trade_goods="wood"
 	civilization_value=0
@@ -609,7 +615,7 @@
 
 496={ #Keri
 	terrain="hills"
-	culture="wvenedi"
+	culture="zakynthian"
 	religion="grecoid_pantheon"
 	trade_goods="fish"
 	civilization_value=0
@@ -625,17 +631,20 @@
 
 497={ #Zakynthos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="zakynthian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=1
@@ -789,7 +798,7 @@
 
 530={ #Rovoliari
 	terrain="mountain_valley"
-	culture="ophioneian"
+	culture="athamanian"
 	religion="grecoid_pantheon"
 	trade_goods="fur"
 	civilization_value=0
@@ -821,7 +830,7 @@
 
 635={ #Naupaktos
 	terrain="farmland"
-	culture="wvenedi"
+	culture="dorian"
 	religion="grecoid_pantheon"
 	trade_goods="olive"
 	civilization_value=0

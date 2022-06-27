@@ -227,6 +227,7 @@
 		culture="adyrmachidaic"
 		religion="libyan_pantheon"
 	}
+	holy_site="omen_mset"
 }
 
 4801={ #Maqet

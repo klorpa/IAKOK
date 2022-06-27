@@ -150,8 +150,8 @@
 
 1240={ #Psyra
 	terrain="plains"
-	culture="wvenedi"
-	religion="grecoid_pantheon"
+	culture="shardana"
+	religion="nuragian_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0

@@ -59,6 +59,7 @@
 	tribesmen={
 		amount=6
 	}
+	holy_site="omen_mhyacinthus"
 }
 
 5={ #Loggastra
@@ -1106,6 +1107,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_mhera"
 }
 
 217={ #Midea
@@ -1340,6 +1342,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_masclepius"
 }
 
 229={ #Methana

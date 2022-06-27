@@ -153,6 +153,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_mninurta"
 }
 
 5289={ #Zikku
@@ -395,7 +396,7 @@
 	tribesmen={
 		amount=1
 	}
-	holy_site=omen_mashshur
+	holy_site="omen_mashshur"
 }
 
 5304={ #Sislu

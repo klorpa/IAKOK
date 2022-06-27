@@ -172,16 +172,17 @@
 	trade_goods="precious_metals"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
+	province_rank="city"
+	citizen={
+		amount=2
 	}
 	slaves={
 		amount=3
 	}
 	tribesmen={
-		amount=2
+		amount=5
 	}
+	holy_site="omen_arensnuphis"
 }
 
 1248={ #Neferu
@@ -335,6 +336,7 @@
 		amount=4
 		religion="ethiopian_pantheon"
 	}
+	holy_site="omen_menhit"
 }
 
 1299={ #Rekhit
@@ -996,7 +998,7 @@
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=2
 	}
@@ -1007,8 +1009,9 @@
 		amount=3
 	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
+	holy_site="omen_mandulis"
 }
 
 2390={ #Netert
