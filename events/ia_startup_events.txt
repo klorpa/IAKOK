@@ -6,10 +6,10 @@ ia_startup.1 = { #Mesopotamia
     desc = ia_startup.1.desc
     picture = welcome_1
     
-    left_portrait = c:ADZ.current_ruler
-    left_portrait = c:ABP.current_ruler
-	right_portrait = c:JAA.current_ruler
-	right_portrait = c:JAB.current_ruler
+    left_portrait = c:AAC.current_ruler
+    left_portrait = c:ABE.current_ruler
+	right_portrait = c:JAE.current_ruler
+	right_portrait = c:JAO.current_ruler
 
     trigger = {
 		OR = {
@@ -104,10 +104,6 @@ ia_startup.3 = { #Kanaan and Phoenicia
 
     option = {    
         name = ia_startup.3.a
-		hidden_effect = {
-			#Rebel claims		
-			c:EAO = { every_owned_province = { add_claim = c:EAE } }
-		}
     }
 }
 

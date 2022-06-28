@@ -140,8 +140,8 @@
 
 45={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -150,8 +150,8 @@
 
 46={ #Potentia
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -170,8 +170,8 @@
 
 69={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -220,8 +220,8 @@
 
 74={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -230,8 +230,8 @@
 
 75={ #Aroania
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -240,8 +240,8 @@
 
 76={ #Kyllini
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -250,8 +250,8 @@
 
 77={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -260,8 +260,8 @@
 
 78={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -270,8 +270,8 @@
 
 79={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -280,8 +280,8 @@
 
 80={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -290,8 +290,8 @@
 
 81={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -300,8 +300,8 @@
 
 82={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -310,8 +310,8 @@
 
 83={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -320,8 +320,8 @@
 
 84={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -330,8 +330,8 @@
 
 85={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -340,8 +340,8 @@
 
 86={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -350,8 +350,8 @@
 
 87={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -360,8 +360,8 @@
 
 88={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -370,8 +370,8 @@
 
 89={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -380,8 +380,8 @@
 
 90={ #Parne
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -390,8 +390,8 @@
 
 91={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -400,8 +400,8 @@
 
 92={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -410,8 +410,8 @@
 
 93={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -420,8 +420,8 @@
 
 94={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -430,8 +430,8 @@
 
 95={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -440,8 +440,8 @@
 
 96={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -450,8 +450,8 @@
 
 97={ #Dirphys
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -460,8 +460,8 @@
 
 98={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -470,8 +470,8 @@
 
 99={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -480,8 +480,8 @@
 
 100={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -490,8 +490,8 @@
 
 101={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -500,8 +500,8 @@
 
 102={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -510,8 +510,8 @@
 
 103={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -520,8 +520,8 @@
 
 104={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -540,8 +540,8 @@
 
 110={ #Gamlu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shuhan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -560,8 +560,8 @@
 
 148={ #Siriam
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="khindanic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -570,8 +570,8 @@
 
 278={ #Kitharion
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -580,8 +580,8 @@
 
 279={ #Helikon
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -590,8 +590,8 @@
 
 280={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -600,8 +600,8 @@
 
 281={ #Parnassos
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -610,8 +610,8 @@
 
 282={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -620,8 +620,8 @@
 
 283={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -630,8 +630,8 @@
 
 284={ #Oita
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -640,8 +640,8 @@
 
 285={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -650,8 +650,8 @@
 
 286={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -660,8 +660,8 @@
 
 287={ #Korax
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -710,8 +710,8 @@
 
 292={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="molossian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -720,8 +720,8 @@
 
 293={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dassaretaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=5
@@ -730,8 +730,8 @@
 
 294={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -740,8 +740,8 @@
 
 295={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -750,8 +750,8 @@
 
 296={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="derriopian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -760,8 +760,8 @@
 
 297={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thesprotian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -770,8 +770,8 @@
 
 298={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="brygian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -780,8 +780,8 @@
 
 299={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dassaretaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -790,8 +790,8 @@
 
 300={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="molossian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -800,8 +800,8 @@
 
 301={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dassaretaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -810,8 +810,8 @@
 
 302={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thesprotian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -820,8 +820,8 @@
 
 303={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -850,8 +850,8 @@
 
 306={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="taphian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -860,8 +860,8 @@
 
 307={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -870,8 +870,8 @@
 
 308={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thesprotian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -880,8 +880,8 @@
 
 309={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -890,8 +890,8 @@
 
 310={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -920,8 +920,8 @@
 
 313={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -930,8 +930,8 @@
 
 314={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eordaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -940,8 +940,8 @@
 
 315={ #Olympos
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="perrhaebi"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -950,8 +950,8 @@
 
 316={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -960,8 +960,8 @@
 
 317={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="orestian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -980,8 +980,8 @@
 
 319={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dentheletaian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -990,8 +990,8 @@
 
 320={ #Mountain
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1000,8 +1000,8 @@
 
 321={ #Mountain
 	terrain="plains"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1010,8 +1010,8 @@
 
 346={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2030,8 +2030,8 @@
 
 1054={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2040,8 +2040,8 @@
 
 1055={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2050,8 +2050,8 @@
 
 1056={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2060,8 +2060,8 @@
 
 1057={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2070,8 +2070,8 @@
 
 1058={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -2080,8 +2080,8 @@
 
 1059={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2090,8 +2090,8 @@
 
 1060={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2100,8 +2100,8 @@
 
 1061={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2110,8 +2110,8 @@
 
 1062={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2120,8 +2120,8 @@
 
 1063={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2130,8 +2130,8 @@
 
 1064={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2140,8 +2140,8 @@
 
 1065={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2160,8 +2160,8 @@
 
 1067={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2180,8 +2180,8 @@
 
 1069={ #Sipylos
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=3
@@ -2200,8 +2200,8 @@
 
 1142={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2240,8 +2240,8 @@
 
 1540={ #Arxi
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2250,8 +2250,8 @@
 
 1686={ #Prahundru
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thesprotian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2260,8 +2260,8 @@
 
 1687={ #Pruso
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="thesprotian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2270,8 +2270,8 @@
 
 1688={ #Enai
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="antitanian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2280,8 +2280,8 @@
 
 1689={ #Iles
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pareuaeian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2290,8 +2290,8 @@
 
 1690={ #Ikeisa
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chaonian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2300,8 +2300,8 @@
 
 1691={ #Sabrusu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chaonian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2310,8 +2310,8 @@
 
 1692={ #Sabok
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chaonian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2320,8 +2320,8 @@
 
 1693={ #Iwia
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byllionian"
+	religion="illyric_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2330,8 +2330,8 @@
 
 1694={ #Bukruhu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chaonian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2340,8 +2340,8 @@
 
 1695={ #Tuhpra
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byllionian"
+	religion="illyric_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2350,8 +2350,8 @@
 
 1696={ #Wudrusashana
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dassaretaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2360,8 +2360,8 @@
 
 1697={ #Wurunaha
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="molossian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2370,8 +2370,8 @@
 
 1698={ #Sawrula
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dassaretaian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2390,8 +2390,8 @@
 
 1701={ #Nanrakru
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2400,8 +2400,8 @@
 
 1702={ #Ebehwe
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2410,8 +2410,8 @@
 
 1703={ #Atuhta
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="elimeian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2420,8 +2420,8 @@
 
 1704={ #Trupruha
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="perrhaebi"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2430,8 +2430,8 @@
 
 1705={ #Surahu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mygdonian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2440,8 +2440,8 @@
 
 1706={ #Arsnaraha
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2450,8 +2450,8 @@
 
 1707={ #Wanranura
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="parobelian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2460,8 +2460,8 @@
 
 1708={ #Ihza
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mygdonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2470,8 +2470,8 @@
 
 1709={ #Sratuto
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="bisaltian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2480,8 +2480,8 @@
 
 1710={ #Pumrohu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="mygdonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2490,8 +2490,8 @@
 
 1711={ #Ittahatia
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anthemousi"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2500,8 +2500,8 @@
 
 1712={ #Prahakone
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="harhari"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2510,8 +2510,8 @@
 
 1713={ #Neso
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chalkidikan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2520,8 +2520,8 @@
 
 1714={ #Parafosa
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="chalkidikan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2530,8 +2530,8 @@
 
 1715={ #Izu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sitonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2540,8 +2540,8 @@
 
 1716={ #Besu
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="bottikan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2550,8 +2550,8 @@
 
 1722={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="utunian"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2680,8 +2680,8 @@
 
 2000={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2690,8 +2690,8 @@
 
 2001={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sintikan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2700,8 +2700,8 @@
 
 2002={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="odomantian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2710,8 +2710,8 @@
 
 2003={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sintikan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2720,8 +2720,8 @@
 
 2004={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2730,8 +2730,8 @@
 
 2005={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="byllionian"
+	religion="illyric_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2740,8 +2740,8 @@
 
 2006={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pierian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2750,8 +2750,8 @@
 
 2007={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2760,8 +2760,8 @@
 
 2008={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="trausian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2770,8 +2770,8 @@
 
 2009={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="edonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2780,8 +2780,8 @@
 
 2010={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sitonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2790,8 +2790,8 @@
 
 2011={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sapaioi"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2800,8 +2800,8 @@
 
 2012={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="trausian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2810,8 +2810,8 @@
 
 2013={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sapaioi"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2820,8 +2820,8 @@
 
 2014={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="bistonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2830,8 +2830,8 @@
 
 2015={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2840,8 +2840,8 @@
 
 2016={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="odrysian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2850,8 +2850,8 @@
 
 2017={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="apsinthian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2860,8 +2860,8 @@
 
 2018={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="apsinthian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2870,8 +2870,8 @@
 
 2019={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="doloncoian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2880,8 +2880,8 @@
 
 2020={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="doloncoian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2890,8 +2890,8 @@
 
 2021={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="doloncoian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2900,8 +2900,8 @@
 
 2022={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="doloncoian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2910,8 +2910,8 @@
 
 2023={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="imbrosi"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2920,8 +2920,8 @@
 
 2024={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="samothracan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2930,8 +2930,8 @@
 
 2025={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sapaioi"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2940,8 +2940,8 @@
 
 2026={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lemnosic"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2950,8 +2950,8 @@
 
 2027={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2960,8 +2960,8 @@
 
 2028={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2970,8 +2970,8 @@
 
 2029={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2980,8 +2980,8 @@
 
 2030={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lazpan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2990,8 +2990,8 @@
 
 2031={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3000,8 +3000,8 @@
 
 2032={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3010,8 +3010,8 @@
 
 2033={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sehan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3020,8 +3020,8 @@
 
 2034={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3030,8 +3030,8 @@
 
 2035={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sehan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3040,8 +3040,8 @@
 
 2036={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3050,8 +3050,8 @@
 
 2037={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3060,8 +3060,8 @@
 
 2038={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3070,8 +3070,8 @@
 
 2039={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3080,8 +3080,8 @@
 
 2040={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sehan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3090,8 +3090,8 @@
 
 2041={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3100,8 +3100,8 @@
 
 2042={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3110,8 +3110,8 @@
 
 2043={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3120,8 +3120,8 @@
 
 2044={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3130,8 +3130,8 @@
 
 2045={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=4
@@ -3140,8 +3140,8 @@
 
 2046={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sehan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3150,8 +3150,8 @@
 
 2047={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3160,8 +3160,8 @@
 
 2048={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3170,8 +3170,8 @@
 
 2049={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3180,8 +3180,8 @@
 
 2050={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3190,8 +3190,8 @@
 
 2051={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3200,8 +3200,8 @@
 
 2052={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="almopian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3390,8 +3390,8 @@
 
 2664={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="judahite"
+	religion="judahic"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3450,8 +3450,8 @@
 
 2670={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shugabite"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3530,8 +3530,8 @@
 
 2678={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tadmori"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3540,8 +3540,8 @@
 
 2679={ #Deep Forest
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3550,8 +3550,8 @@
 
 2680={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3610,8 +3610,8 @@
 
 2686={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="liburnian"
+	religion="illyric_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3690,8 +3690,8 @@
 
 2694={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shasan"
+	religion="canaanitic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3750,8 +3750,8 @@
 
 2700={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="aram_samalite"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3970,8 +3970,8 @@
 
 2722={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kizzuwi"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4080,8 +4080,8 @@
 
 2733={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4090,8 +4090,8 @@
 
 2734={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4100,8 +4100,8 @@
 
 2735={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="eteocypriot"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4110,8 +4110,8 @@
 
 2736={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4120,8 +4120,8 @@
 
 2737={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -4330,8 +4330,8 @@
 
 3009={ #Shîmtu
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shuhan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5030,8 +5030,8 @@
 
 4820={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="medjay"
+	religion="ethiopian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5270,8 +5270,8 @@
 
 4844={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5280,8 +5280,8 @@
 
 4845={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5290,8 +5290,8 @@
 
 4846={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5300,8 +5300,8 @@
 
 4847={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5310,8 +5310,8 @@
 
 4848={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5320,8 +5320,8 @@
 
 4849={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5330,8 +5330,8 @@
 
 4850={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tarhuntassan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5340,8 +5340,8 @@
 
 4851={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5350,8 +5350,8 @@
 
 4852={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5360,8 +5360,8 @@
 
 4853={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5370,8 +5370,8 @@
 
 4854={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5380,8 +5380,8 @@
 
 4855={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5390,8 +5390,8 @@
 
 4856={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5400,8 +5400,8 @@
 
 4857={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5410,8 +5410,8 @@
 
 4858={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5420,8 +5420,8 @@
 
 4859={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5430,8 +5430,8 @@
 
 4860={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5440,8 +5440,8 @@
 
 4861={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5450,8 +5450,8 @@
 
 4862={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5460,8 +5460,8 @@
 
 4863={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5470,8 +5470,8 @@
 
 4864={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5480,8 +5480,8 @@
 
 4865={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5490,8 +5490,8 @@
 
 4866={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5500,8 +5500,8 @@
 
 4867={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5510,8 +5510,8 @@
 
 4868={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5520,8 +5520,8 @@
 
 4869={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lelegian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5530,8 +5530,8 @@
 
 4870={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5540,8 +5540,8 @@
 
 4871={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sfardan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5550,8 +5550,8 @@
 
 4872={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="wilusan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5560,8 +5560,8 @@
 
 4873={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ciconian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5570,8 +5570,8 @@
 
 4874={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="europan"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5580,8 +5580,8 @@
 
 4875={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dentheletaian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5590,8 +5590,8 @@
 
 4876={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lynkosian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5620,8 +5620,8 @@
 
 4879={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dolopian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5640,8 +5640,8 @@
 
 4881={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5650,8 +5650,8 @@
 
 4882={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5660,8 +5660,8 @@
 
 4883={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="pelasgian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5730,8 +5730,8 @@
 
 4890={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5740,8 +5740,8 @@
 
 4891={ #Taurus
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="sidetan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5750,8 +5750,8 @@
 
 4892={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5760,8 +5760,8 @@
 
 4893={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5770,8 +5770,8 @@
 
 4894={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="lukkan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5780,8 +5780,8 @@
 
 4895={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dolopian"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5790,8 +5790,8 @@
 
 4896={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5800,8 +5800,8 @@
 
 4897={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="makedon"
+	religion="grecoid_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5810,8 +5810,8 @@
 
 4898={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="krestonian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5820,8 +5820,8 @@
 
 4899={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="corpilian"
+	religion="thracic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5830,8 +5830,8 @@
 
 4900={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5840,8 +5840,8 @@
 
 4901={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="karkissan"
+	religion="luwic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5920,8 +5920,8 @@
 
 5000={ #Dibar Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="bahianic"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5930,8 +5930,8 @@
 
 5001={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5940,8 +5940,8 @@
 
 5002={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5950,8 +5950,8 @@
 
 5003={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5960,8 +5960,8 @@
 
 5004={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5970,8 +5970,8 @@
 
 5005={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tamnuman"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5980,8 +5980,8 @@
 
 5006={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kirruran"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -5990,8 +5990,8 @@
 
 5007={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kirruran"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6000,8 +6000,8 @@
 
 5008={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6010,8 +6010,8 @@
 
 5009={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6020,8 +6020,8 @@
 
 5010={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="alzan"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6030,8 +6030,8 @@
 
 5011={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="gambulu"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6040,8 +6040,8 @@
 
 5012={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kuryian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6050,8 +6050,8 @@
 
 5013={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kadmukhan"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6060,8 +6060,8 @@
 
 5014={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zamanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6070,8 +6070,8 @@
 
 5015={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6080,8 +6080,8 @@
 
 5016={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6090,8 +6090,8 @@
 
 5017={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6100,8 +6100,8 @@
 
 5018={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ahaanu"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6110,8 +6110,8 @@
 
 5019={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6120,8 +6120,8 @@
 
 5020={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6130,8 +6130,8 @@
 
 5021={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kirruran"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6140,8 +6140,8 @@
 
 5022={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hambanese"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6150,8 +6150,8 @@
 
 5023={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zutlumite"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6160,8 +6160,8 @@
 
 5024={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="zutlumite"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6170,8 +6170,8 @@
 
 5025={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tamnuman"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6180,8 +6180,8 @@
 
 5026={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hiptunite"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6190,8 +6190,8 @@
 
 5027={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6200,8 +6200,8 @@
 
 5028={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6210,8 +6210,8 @@
 
 5029={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6220,8 +6220,8 @@
 
 5030={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6230,8 +6230,8 @@
 
 5031={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6240,8 +6240,8 @@
 
 5032={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6250,8 +6250,8 @@
 
 5033={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tursanese"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6260,8 +6260,8 @@
 
 5034={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6270,8 +6270,8 @@
 
 5035={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arraphan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6280,8 +6280,8 @@
 
 5036={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arashtuan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6290,8 +6290,8 @@
 
 5037={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arashtuan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6300,8 +6300,8 @@
 
 5038={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arashtuan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6310,8 +6310,8 @@
 
 5039={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="amekan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6320,8 +6320,8 @@
 
 5040={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="arragdan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6330,8 +6330,8 @@
 
 5041={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="parsuan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6340,8 +6340,8 @@
 
 5042={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="parsuan"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6350,8 +6350,8 @@
 
 5043={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6360,8 +6360,8 @@
 
 5044={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6370,8 +6370,8 @@
 
 5045={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6380,8 +6380,8 @@
 
 5046={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6390,8 +6390,8 @@
 
 5047={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6400,8 +6400,8 @@
 
 5048={ #Sinjar Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6410,8 +6410,8 @@
 
 5049={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="harhari"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6420,8 +6420,8 @@
 
 5050={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="harhari"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6430,8 +6430,8 @@
 
 5051={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6440,8 +6440,8 @@
 
 5052={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hambanese"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6450,8 +6450,8 @@
 
 5053={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="alzan"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6460,8 +6460,8 @@
 
 5054={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hiptunite"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6470,8 +6470,8 @@
 
 5055={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dagaran"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6480,8 +6480,8 @@
 
 5056={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="tursanese"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6490,8 +6490,8 @@
 
 5057={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="redan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6500,8 +6500,8 @@
 
 5058={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="namaric"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6510,8 +6510,8 @@
 
 5059={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kadmukhan"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6520,8 +6520,8 @@
 
 5060={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6530,8 +6530,8 @@
 
 5061={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hambanese"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6540,8 +6540,8 @@
 
 5062={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="hambanese"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6550,8 +6550,8 @@
 
 5063={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6560,8 +6560,8 @@
 
 5064={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6570,8 +6570,8 @@
 
 5065={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6580,8 +6580,8 @@
 
 5066={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="susanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6590,8 +6590,8 @@
 
 5067={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="susanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6600,8 +6600,8 @@
 
 5068={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="susanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6610,8 +6610,8 @@
 
 5069={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="temmanite"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6620,8 +6620,8 @@
 
 5070={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="harhari"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6630,8 +6630,8 @@
 
 5071={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6640,8 +6640,8 @@
 
 5072={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="harhari"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6650,8 +6650,8 @@
 
 5073={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="susanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6660,8 +6660,8 @@
 
 5074={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6670,8 +6670,8 @@
 
 5075={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6680,8 +6680,8 @@
 
 5076={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6690,8 +6690,8 @@
 
 5077={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6700,8 +6700,8 @@
 
 5078={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6710,8 +6710,8 @@
 
 5079={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6720,8 +6720,8 @@
 
 5080={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6730,8 +6730,8 @@
 
 5081={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6740,8 +6740,8 @@
 
 5082={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6750,8 +6750,8 @@
 
 5083={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6760,8 +6760,8 @@
 
 5084={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6770,8 +6770,8 @@
 
 5085={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6780,8 +6780,8 @@
 
 5086={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6790,8 +6790,8 @@
 
 5087={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6800,8 +6800,8 @@
 
 5088={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6810,8 +6810,8 @@
 
 5089={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6820,8 +6820,8 @@
 
 5090={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6830,8 +6830,8 @@
 
 5091={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="barran"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6840,8 +6840,8 @@
 
 5092={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6850,8 +6850,8 @@
 
 5093={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6860,8 +6860,8 @@
 
 5094={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="ellipian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6870,8 +6870,8 @@
 
 5095={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6880,8 +6880,8 @@
 
 5096={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6890,8 +6890,8 @@
 
 5097={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6900,8 +6900,8 @@
 
 5098={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6910,8 +6910,8 @@
 
 5099={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6920,8 +6920,8 @@
 
 5100={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6930,8 +6930,8 @@
 
 5101={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6940,8 +6940,8 @@
 
 5102={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6950,8 +6950,8 @@
 
 5103={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6960,8 +6960,8 @@
 
 5104={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6970,8 +6970,8 @@
 
 5105={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6980,8 +6980,8 @@
 
 5106={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6990,8 +6990,8 @@
 
 5107={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7000,8 +7000,8 @@
 
 5108={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7010,8 +7010,8 @@
 
 5109={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7020,8 +7020,8 @@
 
 5110={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7030,8 +7030,8 @@
 
 5111={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7040,8 +7040,8 @@
 
 5112={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7050,8 +7050,8 @@
 
 5113={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7060,8 +7060,8 @@
 
 5114={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7070,8 +7070,8 @@
 
 5115={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7080,8 +7080,8 @@
 
 5116={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7090,8 +7090,8 @@
 
 5117={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7100,8 +7100,8 @@
 
 5118={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7110,8 +7110,8 @@
 
 5119={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7120,8 +7120,8 @@
 
 5120={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7130,8 +7130,8 @@
 
 5121={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7140,8 +7140,8 @@
 
 5122={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7150,8 +7150,8 @@
 
 5123={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7160,8 +7160,8 @@
 
 5124={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7170,8 +7170,8 @@
 
 5125={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7180,8 +7180,8 @@
 
 5126={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7190,8 +7190,8 @@
 
 5127={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7200,8 +7200,8 @@
 
 5128={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7210,8 +7210,8 @@
 
 5129={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7220,8 +7220,8 @@
 
 5130={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7230,8 +7230,8 @@
 
 5131={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7240,8 +7240,8 @@
 
 5132={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7250,8 +7250,8 @@
 
 5133={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7260,8 +7260,8 @@
 
 5134={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7270,8 +7270,8 @@
 
 5135={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7280,8 +7280,8 @@
 
 5136={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7290,8 +7290,8 @@
 
 5137={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7300,8 +7300,8 @@
 
 5138={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7310,8 +7310,8 @@
 
 5139={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7320,8 +7320,8 @@
 
 5140={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7330,8 +7330,8 @@
 
 5141={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7340,8 +7340,8 @@
 
 5142={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7350,8 +7350,8 @@
 
 5143={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7360,8 +7360,8 @@
 
 5144={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7370,8 +7370,8 @@
 
 5145={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7380,8 +7380,8 @@
 
 5146={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7390,8 +7390,8 @@
 
 5147={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7400,8 +7400,8 @@
 
 5148={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7410,8 +7410,8 @@
 
 5149={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7420,8 +7420,8 @@
 
 5150={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7430,8 +7430,8 @@
 
 5151={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7440,8 +7440,8 @@
 
 5152={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7450,8 +7450,8 @@
 
 5153={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7460,8 +7460,8 @@
 
 5154={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7470,8 +7470,8 @@
 
 5155={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7480,8 +7480,8 @@
 
 5156={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7490,8 +7490,8 @@
 
 5157={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7500,8 +7500,8 @@
 
 5158={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7510,8 +7510,8 @@
 
 5159={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7520,8 +7520,8 @@
 
 5160={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7530,8 +7530,8 @@
 
 5161={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7540,8 +7540,8 @@
 
 5162={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7550,8 +7550,8 @@
 
 5163={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7560,8 +7560,8 @@
 
 5164={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7570,8 +7570,8 @@
 
 5165={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7580,8 +7580,8 @@
 
 5166={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7590,8 +7590,8 @@
 
 5167={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7600,8 +7600,8 @@
 
 5168={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7610,8 +7610,8 @@
 
 5169={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7650,8 +7650,8 @@
 
 5173={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="kabushkian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7660,8 +7660,8 @@
 
 5174={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="dagaran"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7670,8 +7670,8 @@
 
 5175={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="barran"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7680,8 +7680,8 @@
 
 5176={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7690,8 +7690,8 @@
 
 5177={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7700,8 +7700,8 @@
 
 5178={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7710,8 +7710,8 @@
 
 5179={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shubrian"
+	religion="hurrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7730,8 +7730,8 @@
 
 5181={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7750,8 +7750,8 @@
 
 5183={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="barran"
+	religion="kassite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7760,8 +7760,8 @@
 
 5184={ #Mountain
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="anshanian"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7770,8 +7770,8 @@
 
 5185={ #Vast Desert
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="shuhan"
+	religion="anunnaki_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7820,8 +7820,8 @@
 
 6570={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7830,8 +7830,8 @@
 
 6571={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7840,8 +7840,8 @@
 
 6572={ #Uninhabitable Desert
 	terrain="desert"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="huhnuri"
+	religion="elamite_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

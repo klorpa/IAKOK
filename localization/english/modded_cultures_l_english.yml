@@ -110,7 +110,7 @@
  karman:0 "Karman"
  amukanese:0 "Amukanese"
  shilanian:0 "Shilanian"
- shugabite:0 "shugabite"
+ shugabite:0 "Shugabite"
  damascite:0 "Damascan"
  tadmori:0 "Tadmori"
  rehobic:0 "Rehobite"
@@ -559,7 +559,7 @@
  samothracan:0 "Samothracan"
  imbrosi:0 "Imbrosi"
  dentheletaian:0 "Dentheletaian"
- brygian:0 "brygian"
+ brygian:0 "Brygian"
  thracianic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  thracianic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Dravidans
