@@ -40,7 +40,7 @@ demands_of_ashur_wargoal = {
 	}
 	
 	attacker = {
-		conquer_cost = -0.75
+		conquer_cost = -0.90
 	}
 	defender = {
 	}

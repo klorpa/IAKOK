@@ -28,7 +28,6 @@ militarism_events.1 = {
 			limit = {
 				OR = {
 					country_culture_group = libyan
-					country_culture_group = aramaic
 					primary_culture = laconian
 					primary_culture = makedon
 				}			
@@ -42,7 +41,9 @@ militarism_events.1 = {
 			limit = {
 				OR = {
 					country_culture_group = kemetic
-					country_culture_group = levantine					
+					country_culture_group = levantine
+					country_culture_group = elamitic
+					primary_culture = agade					
 				}			
 			}
 			add_country_modifier = {
