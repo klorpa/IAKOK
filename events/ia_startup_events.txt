@@ -168,44 +168,6 @@ ia_startup.6 = { #Zagros Mountains
     }
 }
 
-ia_startup.7 = { #Iranian Platau
-    type = country_event
-    title = ia_startup.7.t
-    desc = ia_startup.7.desc
-    picture = welcome_1
-    
-    left_portrait = c:PAJ.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = iranic
-			country_culture_group = eiranic
-		}
-    }
-
-    option = {    
-        name = ia_startup.7.a
-    }
-}
-
-ia_startup.8 = { #Eurasian Steppes
-    type = country_event
-    title = ia_startup.8.t
-    desc = ia_startup.8.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = scythic
-			country_culture_group = tocharian
-		}
-    }
-
-    option = {    
-        name = ia_startup.8.a
-    }
-}
-
 ia_startup.9 = { #Anatolia and Thrace
     type = country_event
     title = ia_startup.9.t
@@ -217,7 +179,6 @@ ia_startup.9 = { #Anatolia and Thrace
 
     trigger = {
     	OR = {
-			country_culture_group = hattian
 			country_culture_group = luwian
 			country_culture_group = thracianic
 		}
@@ -249,25 +210,6 @@ ia_startup.10 = { #Greece
     }
 }
 
-ia_startup.11 = { #Italy
-    type = country_event
-    title = ia_startup.11.t
-    desc = ia_startup.11.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = italic
-			country_culture_group = thyrrenic
-			country_culture_group = liguric
-		}
-    }
-
-    option = {    
-        name = ia_startup.11.a
-    }
-}
-
 ia_startup.12 = { #Illyrians and Nuragians
     type = country_event
     title = ia_startup.12.t
@@ -277,130 +219,11 @@ ia_startup.12 = { #Illyrians and Nuragians
     trigger = {
     	OR = {
 			country_culture_group = illyric
-			country_culture_group = castelic
 			country_culture_group = occidental
 		}
     }
 
     option = {    
         name = ia_startup.12.a
-    }
-}
-
-ia_startup.13 = { #Iberia
-    type = country_event
-    title = ia_startup.13.t
-    desc = ia_startup.13.desc
-    picture = welcome_1
-    
-    left_portrait = c:SAA.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = bosquian
-			country_culture_group = iberic
-		}
-    }
-
-    option = {    
-        name = ia_startup.13.a
-    }
-}
-
-ia_startup.14 = { #Celts
-    type = country_event
-    title = ia_startup.14.t
-    desc = ia_startup.14.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = celtic
-			country_culture_group = bakeric
-			country_culture_group = nbaker
-		}
-    }
-
-    option = {    
-        name = ia_startup.14.a
-    }
-}
-
-ia_startup.15 = { #Northerners
-    type = country_event
-    title = ia_startup.15.t
-    desc = ia_startup.15.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = barbaric
-			country_culture_group = venedi
-			country_culture_group = baltian
-		}
-    }
-
-    option = {    
-        name = ia_startup.15.a
-    }
-}
-
-ia_startup.16 = { #Vedic and Dravidan tribes
-    type = country_event
-    title = ia_startup.16.t
-    desc = ia_startup.16.desc
-    picture = welcome_1
-    
-	left_portrait = c:VAO.current_ruler
-	left_portrait = c:RDS.current_ruler
-	left_portrait = c:VBA.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = vedic
-			country_culture_group = dravidic
-		}
-    }
-
-    option = {    
-        name = ia_startup.16.a
-    }
-}
-
-ia_startup.17 = { #Himalayas
-    type = country_event
-    title = ia_startup.17.t
-    desc = ia_startup.17.desc
-    picture = welcome_1
-    
-    left_portrait = c:B27.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = qiang
-		}
-    }
-
-    option = {    
-        name = ia_startup.17.a
-    }
-}
-
-ia_startup.18 = { #Srilanka
-    type = country_event
-    title = ia_startup.18.t
-    desc = ia_startup.18.desc
-    picture = welcome_1
-    
-    left_portrait = c:R01.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = veddic
-		}
-    }
-
-    option = {    
-        name = ia_startup.18.a
     }
 }
