@@ -34,7 +34,7 @@
 	terrain="forest"
 	culture="wilusan"
 	religion="luwic_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -238,7 +238,7 @@
 	terrain="hills"
 	culture="assosi"
 	religion="grecoid_pantheon"
-	trade_goods="fur"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -267,7 +267,7 @@
 	terrain="forest"
 	culture="troan"
 	religion="grecoid_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

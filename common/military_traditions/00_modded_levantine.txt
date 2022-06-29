@@ -14,14 +14,20 @@
 			limit = {
 				any_country_culture = {
 					is_integrated = yes
-					this.culture.culture_group = culture_group:levantine
+					OR = {
+						this.culture.culture_group = culture_group:levantine
+						this.culture.culture_group = culture_group:synaic
+					}
 				}
 			}
 			any_country_culture = {
 				custom_tooltip = {
 					text = tradition_unlock_requirement_short
 					is_integrated = yes
-					this.culture.culture_group = culture_group:levantine
+					OR = {
+						this.culture.culture_group = culture_group:levantine
+						this.culture.culture_group = culture_group:synaic
+					}
 				}
 			}
 		}
@@ -30,7 +36,10 @@
 				text = "tradition_unlock_requirement_westsemite"
 				any_country_culture = {
 					is_integrated = yes
-					this.culture.culture_group = culture_group:levantine
+					OR = {
+						this.culture.culture_group = culture_group:levantine
+						this.culture.culture_group = culture_group:synaic
+					}
 				}
 			}
 		}
