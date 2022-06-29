@@ -117,7 +117,7 @@
 	terrain="mountain_valley"
 	culture="harhari"
 	religion="kassite_pantheon"
-	trade_goods="cattle"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -264,7 +264,7 @@
 	terrain="plains"
 	culture="harhari"
 	religion="kassite_pantheon"
-	trade_goods="cattle"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -344,7 +344,7 @@
 	terrain="mountain"
 	culture="barran"
 	religion="kassite_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -357,7 +357,7 @@
 	terrain="mountain_valley"
 	culture="harhari"
 	religion="kassite_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -373,7 +373,7 @@
 	terrain="mountain"
 	culture="ellipian"
 	religion="elamite_pantheon"
-	trade_goods="base_metals"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="mountain_valley"
 	culture="barran"
 	religion="kassite_pantheon"
-	trade_goods="salt"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -482,7 +482,7 @@
 	terrain="plains"
 	culture="ellipian"
 	religion="elamite_pantheon"
-	trade_goods="fur"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -530,7 +530,7 @@
 	terrain="mountain"
 	culture="ellipian"
 	religion="elamite_pantheon"
-	trade_goods="cattle"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -630,7 +630,7 @@
 	terrain="mountain"
 	culture="ellipian"
 	religion="elamite_pantheon"
-	trade_goods="stone"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -806,7 +806,7 @@
 	terrain="hills"
 	culture="harhari"
 	religion="kassite_pantheon"
-	trade_goods="precious_metals"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

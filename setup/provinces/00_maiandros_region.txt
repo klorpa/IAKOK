@@ -59,7 +59,7 @@
 	terrain="hills"
 	culture="magnesian"
 	religion="grecoid_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -75,7 +75,7 @@
 	terrain="deep_forest"
 	culture="magnesian"
 	religion="grecoid_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

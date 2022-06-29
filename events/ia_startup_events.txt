@@ -37,7 +37,7 @@ ia_startup.1 = { #Mesopotamia
 			c:ABP = { every_owned_province = { add_claim = c:AAC } }
 			c:AAF = { every_owned_province = { add_claim = c:AAC } }
 			c:AAG = { every_owned_province = { add_claim = c:AAC } }
-			c:AAA = { every_owned_province = { add_claim = c:AAC } }
+			c:AAP = { every_owned_province = { add_claim = c:AAC } }
 			#Babylonia
 			c:AAA = { every_owned_province = { add_claim = c:ABE } }
 			c:ABE = { every_owned_province = { add_claim = c:AAA } }

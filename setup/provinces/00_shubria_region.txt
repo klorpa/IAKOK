@@ -538,7 +538,7 @@
 	terrain="forest"
 	culture="shubrian"
 	religion="hurrian_pantheon"
-	trade_goods="wood"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="forest"
 	culture="alzan"
 	religion="hurrian_pantheon"
-	trade_goods="wood"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,7 +755,7 @@
 	terrain="forest"
 	culture="kuryian"
 	religion="hurrian_pantheon"
-	trade_goods="wood"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

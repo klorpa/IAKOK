@@ -398,7 +398,7 @@
 	terrain="deep_forest"
 	culture="sfardan"
 	religion="luwic_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1005,7 +1005,7 @@
 	terrain="mountain_valley"
 	culture="sfardan"
 	religion="luwic_pantheon"
-	trade_goods="wild_game"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1072,7 +1072,7 @@
 	terrain="farmland"
 	culture="sfardan"
 	religion="luwic_pantheon"
-	trade_goods="wine"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1091,7 +1091,7 @@
 	terrain="farmland"
 	culture="sfardan"
 	religion="luwic_pantheon"
-	trade_goods="grain"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

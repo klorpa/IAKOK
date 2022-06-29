@@ -315,7 +315,7 @@
 	terrain="mountain"
 	culture="azitawatan"
 	religion="luwic_pantheon"
-	trade_goods="wild_game"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -328,7 +328,7 @@
 	terrain="mountain"
 	culture="azitawatan"
 	religion="luwic_pantheon"
-	trade_goods="base_metals"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -399,7 +399,7 @@
 	terrain="mountain"
 	culture="gurgumite"
 	religion="luwic_pantheon"
-	trade_goods="wild_game"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -606,7 +606,7 @@
 	terrain="mountain_valley"
 	culture="gurgumite"
 	religion="luwic_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

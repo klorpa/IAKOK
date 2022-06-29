@@ -1002,7 +1002,7 @@
 	terrain="desert_hills"
 	culture="met_irtan"
 	religion="kemetic_pantheon"
-	trade_goods="wild_game"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

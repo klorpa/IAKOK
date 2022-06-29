@@ -556,7 +556,7 @@
 	terrain="plains"
 	culture="anshanian"
 	religion="elamite_pantheon"
-	trade_goods="vegetables"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -620,7 +620,7 @@
 	terrain="marsh"
 	culture="anshanian"
 	religion="elamite_pantheon"
-	trade_goods="reeds"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -668,7 +668,7 @@
 	terrain="mountain_valley"
 	culture="anshanian"
 	religion="elamite_pantheon"
-	trade_goods="fur"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

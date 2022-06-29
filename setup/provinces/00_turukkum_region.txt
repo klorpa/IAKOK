@@ -1399,7 +1399,7 @@
 	terrain="farmland"
 	culture="dagaran"
 	religion="kassite_pantheon"
-	trade_goods="grain"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1415,7 +1415,7 @@
 	terrain="farmland"
 	culture="dagaran"
 	religion="kassite_pantheon"
-	trade_goods="grain"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1447,7 +1447,7 @@
 	terrain="hills"
 	culture="dagaran"
 	religion="kassite_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1679,7 +1679,7 @@
 	terrain="hills"
 	culture="dagaran"
 	religion="kassite_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

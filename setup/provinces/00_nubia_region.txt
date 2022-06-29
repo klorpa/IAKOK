@@ -189,7 +189,7 @@
 	terrain="flood_plain"
 	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="ivory"
+	trade_goods="elephants_forest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -300,7 +300,7 @@
 	terrain="plains"
 	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="earthware"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -465,7 +465,7 @@
 	terrain="plains"
 	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -710,7 +710,7 @@
 	terrain="plains"
 	culture="saseban"
 	religion="ethiopian_pantheon"
-	trade_goods="vegetables"
+	trade_goods="elephants_forest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -851,7 +851,7 @@
 	terrain="plains"
 	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="leather"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1624,7 +1624,7 @@
 	terrain="plains"
 	culture="saseban"
 	religion="ethiopian_pantheon"
-	trade_goods="cloth"
+	trade_goods="elephants_forest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1663,7 +1663,7 @@
 	terrain="flood_plain"
 	culture="kerman"
 	religion="ethiopian_pantheon"
-	trade_goods="grain"
+	trade_goods="elephants_forest"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

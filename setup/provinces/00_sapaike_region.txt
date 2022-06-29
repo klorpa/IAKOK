@@ -555,7 +555,7 @@
 	terrain="deep_forest"
 	culture="bistonian"
 	religion="thracic_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -712,7 +712,7 @@
 	terrain="hills"
 	culture="edonian"
 	religion="thracic_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -728,7 +728,7 @@
 	terrain="mountain_valley"
 	culture="trausian"
 	religion="thracic_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -974,7 +974,7 @@
 	terrain="hills"
 	culture="edonian"
 	religion="thracic_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1070,7 +1070,7 @@
 	terrain="deep_forest"
 	culture="bistonian"
 	religion="thracic_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

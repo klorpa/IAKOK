@@ -790,7 +790,7 @@
 	terrain="mountain_valley"
 	culture="kabushkian"
 	religion="hurrian_pantheon"
-	trade_goods="cattle"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -841,7 +841,7 @@
 	terrain="mountain_valley"
 	culture="kabushkian"
 	religion="hurrian_pantheon"
-	trade_goods="cattle"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

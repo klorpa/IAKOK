@@ -368,7 +368,7 @@
 	terrain="hills"
 	culture="asposian"
 	religion="grecoid_pantheon"
-	trade_goods="fish"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -403,7 +403,7 @@
 	terrain="farmland"
 	culture="boiaian"
 	religion="grecoid_pantheon"
-	trade_goods="wine"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

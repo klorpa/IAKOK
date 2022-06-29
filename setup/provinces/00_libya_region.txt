@@ -427,7 +427,7 @@
 	terrain="desert"
 	culture="auschisaic"
 	religion="libyan_pantheon"
-	trade_goods="fish"
+	trade_goods="elephants_african"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -641,7 +641,7 @@
 	terrain="hills"
 	culture="abystaic"
 	religion="libyan_pantheon"
-	trade_goods="cattle"
+	trade_goods="elephants_african"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -785,7 +785,7 @@
 	terrain="plains"
 	culture="abystaic"
 	religion="libyan_pantheon"
-	trade_goods="fur"
+	trade_goods="elephants_african"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -862,7 +862,7 @@
 	terrain="hills"
 	culture="auschisaic"
 	religion="libyan_pantheon"
-	trade_goods="wild_game"
+	trade_goods="elephants_african"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

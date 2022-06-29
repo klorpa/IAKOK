@@ -18,7 +18,7 @@
 	terrain="farmland"
 	culture="androsian"
 	religion="grecoid_pantheon"
-	trade_goods="olive"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -50,7 +50,7 @@
 	terrain="hills"
 	culture="androsian"
 	religion="grecoid_pantheon"
-	trade_goods="fur"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -264,7 +264,7 @@
 	terrain="farmland"
 	culture="dryopian"
 	religion="grecoid_pantheon"
-	trade_goods="olive"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -321,7 +321,7 @@
 	terrain="farmland"
 	culture="dryopian"
 	religion="grecoid_pantheon"
-	trade_goods="fruits"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -340,7 +340,7 @@
 	terrain="farmland"
 	culture="seriphian"
 	religion="grecoid_pantheon"
-	trade_goods="olive"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"

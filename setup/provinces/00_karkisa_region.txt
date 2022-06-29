@@ -105,7 +105,7 @@
 	terrain="forest"
 	culture="prienan"
 	religion="grecoid_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -213,7 +213,7 @@
 	terrain="farmland"
 	culture="karkissan"
 	religion="luwic_pantheon"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,7 +443,7 @@
 	terrain="hills"
 	culture="miletan"
 	religion="grecoid_pantheon"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -545,7 +545,7 @@
 	terrain="hills"
 	culture="karkissan"
 	religion="luwic_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1088,7 +1088,7 @@
 	terrain="farmland"
 	culture="karkissan"
 	religion="luwic_pantheon"
-	trade_goods="wine"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

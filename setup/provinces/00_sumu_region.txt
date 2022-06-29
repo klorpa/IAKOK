@@ -321,7 +321,7 @@
 	terrain="hills"
 	culture="zamanite"
 	religion="anunnaki_pantheon"
-	trade_goods="cattle"
+	trade_goods="steppe_horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

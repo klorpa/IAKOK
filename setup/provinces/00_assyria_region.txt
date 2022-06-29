@@ -1319,7 +1319,7 @@
 	terrain="hills"
 	culture="ashurite"
 	religion="anunnaki_pantheon"
-	trade_goods="cattle"
+	trade_goods="iron"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -18,7 +18,7 @@
 	terrain="desert_hills"
 	culture="huhnuri"
 	religion="elamite_pantheon"
-	trade_goods="stone"
+	trade_goods="tin"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
