@@ -10,21 +10,21 @@
 				primary_culture = hierapytnan
 				primary_culture = latonian
 				primary_culture = drerosi
-				primary_culture = chersonissian
+				primary_culture = chersonesian
 				primary_culture = knossian
 				primary_culture = rhytian
 				primary_culture = gortynian
 				primary_culture = phaistian
 				primary_culture = koumasan
 				primary_culture = eleuthernan
-				primary_culture = armenoian
+				primary_culture = armenaian
 				primary_culture = apteran
 				primary_culture = kydonian
 				primary_culture = tarran
 				primary_culture = elyran
 				primary_culture = kissamian
 				primary_culture = phalasarnan
-				primary_culture = axosian
+				primary_culture = axian
 			}
 			#is_tribal = yes
 			NOT = {

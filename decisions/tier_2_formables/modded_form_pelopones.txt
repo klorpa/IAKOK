@@ -11,7 +11,7 @@
 				primary_culture = korinthian
 				primary_culture = sicyonian
 				primary_culture = skiritian
-				primary_culture = amykleian
+				primary_culture = amycleian
 				primary_culture = geronthraian
 				primary_culture = gyrthionian
 				primary_culture = helot
@@ -21,7 +21,7 @@
 				primary_culture = parsiaian
 				primary_culture = mycenean
 				primary_culture = tirynian
-				primary_culture = asinian
+				primary_culture = asinean
 				primary_culture = hermian
 				primary_culture = troizenian
 				primary_culture = epidauran
@@ -42,7 +42,7 @@
 				primary_culture = patraian
 				primary_culture = leontian
 				primary_culture = phenean
-				primary_culture = kleitorian
+				primary_culture = kleitoran
 				primary_culture = orchomenian
 				primary_culture = psophian
 				primary_culture = hypsian
@@ -50,7 +50,7 @@
 				primary_culture = mantineian
 				primary_culture = stymphalian
 				primary_culture = aegiran
-				primary_culture = pallenic
+				primary_culture = pellenic
 			}
 			#is_tribal = yes
 			NOT = {
