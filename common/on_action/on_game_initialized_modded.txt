@@ -10,10 +10,17 @@ on_game_initialized = {
 		ia_startup.4
 		ia_startup.5
 		ia_startup.6
+		ia_startup.7
+		ia_startup.8
 		ia_startup.9
 		ia_startup.10
 		ia_startup.11
 		ia_startup.12
+		ia_startup.13
+		ia_startup.14
+		ia_startup.15
+		ia_startup.16
+		ia_startup.17
 		#Bloodlines
 		bloodlines_startup.1  #Judah
 		#bloodlines_startup.2  #Persia
