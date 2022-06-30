@@ -10,9 +10,7 @@ ia_startup.1 = { #Akkadians
     left_portrait = c:ABE.current_ruler
 
     trigger = {
-		OR = {
-			country_culture_group = akkadian
-		}
+		country_culture_group = akkadian
     }
 	
     option = {    
@@ -54,45 +52,41 @@ ia_startup.1 = { #Akkadians
 
 ia_startup.2 = { #Arameans
     type = country_event
-    title = ia_startup.1.t
-    desc = ia_startup.1.desc
+    title = ia_startup.2.t
+    desc = ia_startup.2.desc
     picture = welcome_1
 
     trigger = {
-		OR = {
-			country_culture_group = aramaic
-		}
+		country_culture_group = aramaic
     }
 	
     option = {    
-        name = ia_startup.1.a
+        name = ia_startup.2.a
     }
 }
 
 ia_startup.3 = { #Jews
     type = country_event
-    title = ia_startup.1.t
-    desc = ia_startup.1.desc
+    title = ia_startup.3.t
+    desc = ia_startup.3.desc
     picture = welcome_1
 
 	right_portrait = c:JAE.current_ruler
 	right_portrait = c:JAO.current_ruler
 
     trigger = {
-		OR = {
-			country_culture_group = synaic
-		}
+		country_culture_group = synaic
     }
 	
     option = {    
-        name = ia_startup.1.a
+        name = ia_startup.3.a
     }
 }
 
 ia_startup.4 = { #Egyptians
     type = country_event
-    title = ia_startup.2.t
-    desc = ia_startup.2.desc
+    title = ia_startup.4.t
+    desc = ia_startup.4.desc
     picture = welcome_1
     
     left_portrait = c:EAJ.current_ruler
@@ -102,13 +96,11 @@ ia_startup.4 = { #Egyptians
 	right_portrait = c:EAK.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = kemetic
-		}
+		country_culture_group = kemetic
     }
 
     option = {    
-        name = ia_startup.2.a
+        name = ia_startup.4.a
 		hidden_effect = {
 			#Rebel claims		
 			c:EAJ = { every_owned_province = { add_claim = c:EAI } }
@@ -118,160 +110,78 @@ ia_startup.4 = { #Egyptians
 
 ia_startup.5 = { #Libyans
     type = country_event
-    title = ia_startup.1.t
-    desc = ia_startup.1.desc
+    title = ia_startup.5.t
+    desc = ia_startup.5.desc
     picture = welcome_1
 
     trigger = {
-		OR = {
-			country_culture_group = libyan
-		}
+		country_culture_group = libyan
     }
 	
     option = {    
-        name = ia_startup.1.a
+        name = ia_startup.5.a
     }
 }
 
 ia_startup.6 = { #Nubians
     type = country_event
-    title = ia_startup.1.t
-    desc = ia_startup.1.desc
+    title = ia_startup.6.t
+    desc = ia_startup.6.desc
     picture = welcome_1
 
     trigger = {
-		OR = {
-			country_culture_group = nubian
-		}
+		country_culture_group = nubian
     }
 	
     option = {    
-        name = ia_startup.1.a
+        name = ia_startup.6.a
     }
 }
 
 ia_startup.7 = { #Canaanites
     type = country_event
-    title = ia_startup.3.t
-    desc = ia_startup.3.desc
+    title = ia_startup.7.t
+    desc = ia_startup.7.desc
     picture = welcome_1
 	
     left_portrait = c:JBK.current_ruler
 	left_portrait = c:JBG.current_ruler
 	
     trigger = {
-    	OR = {
-			country_culture_group = levantine
-		}
+		country_culture_group = levantine
     }
 
     option = {    
-        name = ia_startup.3.a
+        name = ia_startup.7.a
     }
 }
 
 ia_startup.8 = { #Pelasgians
     type = country_event
-    title = ia_startup.1.t
-    desc = ia_startup.1.desc
+    title = ia_startup.8.t
+    desc = ia_startup.8.desc
     picture = welcome_1
 
     trigger = {
-		OR = {
-			country_culture_group = minoic
-		}
+		country_culture_group = minoic
     }
 	
     option = {    
-        name = ia_startup.1.a
+        name = ia_startup.8.a
     }
 }
 
 ia_startup.9 = { #Dilmun and Magan
     type = country_event
-    title = ia_startup.4.t
-    desc = ia_startup.4.desc
+    title = ia_startup.9.t
+    desc = ia_startup.9.desc
     picture = welcome_1
     
     left_portrait = c:AAW.current_ruler
 	right_portrait = c:ABD.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = arabian
-		}
-    }
-
-    option = {    
-        name = ia_startup.4.a
-    }
-}
-
-ia_startup.10 = { #Hurrians
-    type = country_event
-    title = ia_startup.5.t
-    desc = ia_startup.5.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = hurric
-		}
-    }
-
-    option = {    
-        name = ia_startup.5.a
-    }
-}
-
-ia_startup.11 = { #Elamites
-    type = country_event
-    title = ia_startup.6.t
-    desc = ia_startup.6.desc
-    picture = welcome_1
-    
-	left_portrait = c:AAB.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = elamitic
-		}
-    }
-
-    option = {    
-        name = ia_startup.6.a
-    }
-}
-
-ia_startup.12 = { #Kassites
-    type = country_event
-    title = ia_startup.5.t
-    desc = ia_startup.5.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = kassites
-		}
-    }
-
-    option = {    
-        name = ia_startup.5.a
-    }
-}
-
-ia_startup.13 = { #Luwians
-    type = country_event
-    title = ia_startup.9.t
-    desc = ia_startup.9.desc
-    picture = welcome_1
-    
-    left_portrait = c:HAD.current_ruler
-
-    trigger = {
-    	OR = {
-			country_culture_group = luwian
-		}
+		country_culture_group = arabian
     }
 
     option = {    
@@ -279,37 +189,14 @@ ia_startup.13 = { #Luwians
     }
 }
 
-ia_startup.14 = { #Thracians
-    type = country_event
-    title = ia_startup.5.t
-    desc = ia_startup.5.desc
-    picture = welcome_1
-
-    trigger = {
-    	OR = {
-			country_culture_group = thracianic
-		}
-    }
-
-    option = {    
-        name = ia_startup.5.a
-    }
-}
-
-ia_startup.15 = { #Greece
+ia_startup.10 = { #Hurrians
     type = country_event
     title = ia_startup.10.t
     desc = ia_startup.10.desc
     picture = welcome_1
-    
-    left_portrait = c:GAM.current_ruler
-	left_portrait = c:GAM.current_co_ruler
-	right_portrait = c:GBO.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = grekoid
-		}
+		country_culture_group = hurric
     }
 
     option = {    
@@ -317,16 +204,31 @@ ia_startup.15 = { #Greece
     }
 }
 
-ia_startup.16 = { #Illyrians
+ia_startup.11 = { #Elamites
+    type = country_event
+    title = ia_startup.11.t
+    desc = ia_startup.11.desc
+    picture = welcome_1
+    
+	left_portrait = c:AAB.current_ruler
+
+    trigger = {
+		country_culture_group = elamitic
+    }
+
+    option = {    
+        name = ia_startup.11.a
+    }
+}
+
+ia_startup.12 = { #Kassites
     type = country_event
     title = ia_startup.12.t
     desc = ia_startup.12.desc
     picture = welcome_1
 
     trigger = {
-    	OR = {
-			country_culture_group = illyric
-		}
+		country_culture_group = kassites
     }
 
     option = {    
@@ -334,19 +236,83 @@ ia_startup.16 = { #Illyrians
     }
 }
 
-ia_startup.17= { #Shardana
+ia_startup.13 = { #Luwians
     type = country_event
-    title = ia_startup.5.t
-    desc = ia_startup.5.desc
+    title = ia_startup.13.t
+    desc = ia_startup.13.desc
     picture = welcome_1
+    
+    left_portrait = c:HAD.current_ruler
 
     trigger = {
-    	OR = {
-			country_culture_group = occidental
-		}
+		country_culture_group = luwian
     }
 
     option = {    
-        name = ia_startup.5.a
+        name = ia_startup.13.a
+    }
+}
+
+ia_startup.14 = { #Thracians
+    type = country_event
+    title = ia_startup.14.t
+    desc = ia_startup.14.desc
+    picture = welcome_1
+
+    trigger = {
+		country_culture_group = thracianic
+    }
+
+    option = {    
+        name = ia_startup.14.a
+    }
+}
+
+ia_startup.15 = { #Greece
+    type = country_event
+    title = ia_startup.15.t
+    desc = ia_startup.15.desc
+    picture = welcome_1
+    
+    left_portrait = c:GAM.current_ruler
+	left_portrait = c:GAM.current_co_ruler
+	right_portrait = c:GBO.current_ruler
+
+    trigger = {
+		country_culture_group = grekoid
+    }
+
+    option = {    
+        name = ia_startup.15.a
+    }
+}
+
+ia_startup.16 = { #Illyrians
+    type = country_event
+    title = ia_startup.16.t
+    desc = ia_startup.16.desc
+    picture = welcome_1
+
+    trigger = {
+		country_culture_group = illyric
+    }
+
+    option = {    
+        name = ia_startup.16.a
+    }
+}
+
+ia_startup.17 = { #Shardana
+    type = country_event
+    title = ia_startup.17.t
+    desc = ia_startup.17.desc
+    picture = welcome_1
+
+    trigger = {
+		country_culture_group = occidental
+    }
+
+    option = {    
+        name = ia_startup.17.a
     }
 }
