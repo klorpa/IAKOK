@@ -25,10 +25,7 @@ Osorkons_rebelion_conflict_effect = {
 		add_alliance = EAO
 		add_alliance = EAY
 		add_alliance = EAP
-		add_alliance = EAU
 		add_alliance = EAR
-		add_alliance = EAW
-		add_alliance = EAX
 	}
 	c:EAJ = {
 		declare_war_with_wargoal = {
@@ -45,10 +42,7 @@ Osorkons_rebelion_conflict_effect = {
 		break_alliance = EAO
 		break_alliance = EAY
 		break_alliance = EAP
-		break_alliance = EAU
 		break_alliance = EAR
-		break_alliance = EAW
-		break_alliance = EAX
 	}
 }
 
@@ -57,12 +51,7 @@ Distatnt_descendent_of_elam_conflict_effect = {
 		add_alliance = ABJ
 		add_alliance = ABI
 		add_alliance = ABG
-		add_alliance = ABH
-		add_alliance = ABM
-		add_alliance = ABL
-		add_alliance = ABN
-		add_alliance = ABO
-		add_alliance = ABF
+		add_alliance = AAP
 	}
 	c:AAA = {
 		declare_war_with_wargoal = {
@@ -75,11 +64,6 @@ Distatnt_descendent_of_elam_conflict_effect = {
 		break_alliance = ABJ
 		break_alliance = ABI
 		break_alliance = ABG
-		break_alliance = ABH
-		break_alliance = ABM
-		break_alliance = ABL
-		break_alliance = ABN
-		break_alliance = ABO
-		break_alliance = ABF
+		break_alliance = AAP
 	}
 }
