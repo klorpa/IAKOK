@@ -7,105 +7,13 @@
 	}
 	ai_is_valid = {
 		scope:player = {
-			manpower >= 5
-		}
-		trigger_if = {
-			limit = {
-				NOT = {
-					any_neighbor_province = {
-						owner = scope:player
-						OR = {
-							culture = root.culture
-							AND = {
-								exists = country_culture
-								country_culture = { is_integrated = yes }
-							}
-						}						
-					}
-				}
-			}
-			custom_tooltip = {
-				text = "Owns any neighboring province"
-				any_neighbor_province = {
-					owner = scope:player
-					OR = {
-						culture = root.culture
-						AND = {
-							exists = country_culture
-							country_culture = { is_integrated = yes }
-						}
-					}
-				}
-			}
-		}
-		trigger_if = {
-			limit = {
-				any_neighbor_province = {
-					has_province_modifier = colonization_progress
-					owner = scope:player
-				}
-			}
-			custom_tooltip = {
-				text = "No neighbor has colonization progress"
-				NOT = {
-					any_neighbor_province = {
-						has_province_modifier = colonization_progress
-						owner = scope:player
-					}
-				}
-			}
+			manpower >= 6
 		}
 	}
 
 	is_valid = {
 		scope:player = {
-			manpower >= 3
-		}
-		trigger_if = {
-			limit = {
-				NOT = {
-					any_neighbor_province = {
-						owner = scope:player
-						OR = {
-							culture = root.culture
-							AND = {
-								exists = country_culture
-								country_culture = { is_integrated = yes }
-							}
-						}
-					}
-				}
-			}
-			custom_tooltip = {
-				text = "Owns any neighboring province"
-				any_neighbor_province = {
-					owner = scope:player
-					OR = {
-						culture = root.culture
-						AND = {
-							exists = country_culture
-							country_culture = { is_integrated = yes }
-						}
-					}
-				}
-			}
-		}
-		trigger_if = {
-			limit = {
-				any_neighbor_province = {
-					has_province_modifier = colonization_progress
-					owner = scope:player
-				}
-			}
-			custom_tooltip = {
-				text = "No neighbor has colonization progress"
-				NOT = {
-					any_neighbor_province = {
-						has_province_modifier = colonization_progress
-						owner = scope:player
-					}
-				}
-			}
+			manpower >= 4
 		}
 	}
 	effect = {
