@@ -1,0 +1,3 @@
+﻿synaic = { # Israelic names
+	4242 = PROV4242_israelic #Jerusalem
+}
