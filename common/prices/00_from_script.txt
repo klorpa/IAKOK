@@ -8,7 +8,7 @@ hold_triumph = {
 
 #modified colonization
 price_colonize = {
-	political_influence = 20
+	political_influence = 5
 }
 
 hold_games_price = {

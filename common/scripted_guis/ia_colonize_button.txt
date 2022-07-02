@@ -7,19 +7,19 @@
 	}
 	ai_is_valid = {
 		scope:player = {
-			manpower >= 6
+			manpower >= 2
 		}
 	}
 
 	is_valid = {
 		scope:player = {
-			manpower >= 4
+			manpower >= 1
 		}
 	}
 	effect = {
 		scope:player = {
 			pay_price = price_colonize
-			add_manpower = -3
+			add_manpower = -1
 		}
 		if = {
 			limit = {
