@@ -5,7 +5,7 @@
 	
 	primary = missile_archers
 	second = axemen_heavy
-	flank = chariot_heavy
+	flank = chariot_light
 	
 	primary_navy = tetrere
 	secondary_navy = hexere

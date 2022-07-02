@@ -15,7 +15,7 @@ levy_cpunic = { #Levantine militia
 	default = no
 
 	light_spearmen = 0.4
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 	missile_spearthrowers = 0.2
 	missile_archers = 0.2
 }
@@ -24,7 +24,7 @@ levy_lpunic = { #Cathaginian militia
 	default = no
 
 	light_spearmen = 0.4
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 	missile_archers = 0.2
 	elephant_african = 0.2
 }
@@ -81,7 +81,7 @@ levy_tahenu = { #Libyan militia
 	light_spearmen = 0.4
 	axemen_heavy = 0.2
 	missile_archers = 0.2
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 }
 
 #Nubians
@@ -102,7 +102,7 @@ levy_hattian = { #Hittite militia
 
 	light_swordsmen = 0.4
 	missile_archers = 0.3
-	chariot_heavy = 0.3
+	chariot_light = 0.3
 }
 
 #Luwian
@@ -113,7 +113,7 @@ levy_troic = { #Luwian militia
 	light_swordsmen = 0.3
 	axemen_heavy = 0.3
 	missile_spearthrowers = 0.3
-	chariot_heavy = 0.1
+	chariot_light = 0.1
 }
 
 #Mesopotamian
@@ -123,7 +123,7 @@ levy_sonsofAshur = { #Assyrian militia
 
 	light_spearmen = 0.4
 	missile_archers = 0.2
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 	cavalry_horse_archers = 0.2
 }
 
@@ -132,7 +132,7 @@ levy_sonsofMarduk = { #Babylonian militia
 
 	missile_archers = 0.2
 	light_spearmen = 0.5
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 	cavalry_horse_archers = 0.1
 }
 
@@ -387,7 +387,7 @@ levy_eastindic = { #East Vedic militia
 
 	missile_archers = 0.2
 	light_swordsmen = 0.4
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 	elephant_indian = 0.2
 }
 
@@ -517,7 +517,7 @@ levy_jewishic = { #Jewish militia
 
 	light_spearmen = 0.5
 	missile_spearthrowers = 0.3
-	chariot_heavy = 0.2
+	chariot_light = 0.2
 }
 
 #North Baker

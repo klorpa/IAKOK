@@ -38,7 +38,7 @@
 	
 	assyrian_path_1 = { ###akkadian path
 		modifier = { 
-			chariot_heavy_offensive = 0.1
+			chariot_light_offensive = 0.1
 			chariot_light_offensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3
@@ -56,7 +56,7 @@
 	
 	assyrian_path_2a = { ###akkadian path
 		modifier = { 
-			chariot_heavy_defensive = 0.1
+			chariot_light_defensive = 0.1
 			chariot_light_defensive = 0.1
 		}
 		icon = mauryan_mauryas_path_3

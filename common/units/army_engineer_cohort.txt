@@ -15,7 +15,6 @@ engineer_cohort = {
 	cavalry_camels = 0.1
 	cavalry_horse_archers = 0.1
 	cavalry_light = 0.1
-	chariot_heavy = 0.1
 	chariot_light = 0.1
 	elephant_african = 0.1
 	elephant_forest = 0.1

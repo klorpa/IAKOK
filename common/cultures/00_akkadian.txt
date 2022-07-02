@@ -1,7 +1,7 @@
 ﻿akkadian = {	
 	color = hsv { 0.99 0.1 0.11 }
 
-	primary = chariot_heavy
+	primary = chariot_light
 	second = light_swordsmen
 	flank = cavalry_horse_archers
 

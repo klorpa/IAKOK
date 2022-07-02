@@ -67,7 +67,6 @@ base_metals = { #copper
 
 horses = { #276 territories
 	category = 0
-	allow_unit_type = chariot_heavy
 	allow_unit_type = chariot_light
 	
 	gold = 0.25

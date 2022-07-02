@@ -46,8 +46,8 @@
 	
 	anatolian_path_2 = { ###anatolian path
 		modifier = { 
-			chariot_heavy_offensive = 0.1
-			chariot_heavy_defensive = 0.05
+			chariot_light_offensive = 0.1
+			chariot_light_defensive = 0.05
 		}
 		icon = levantine_egyptian_path_4
 		requires = {anatolian_path_1}

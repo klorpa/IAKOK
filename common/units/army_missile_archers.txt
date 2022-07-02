@@ -13,7 +13,6 @@
 	cavalry_camels = 1.1
 	cavalry_horse_archers = 1.2
 	cavalry_light = 0.8
-	chariot_heavy = 0.9
 	chariot_light = 1.2
 	elephant_african = 0.8
 	elephant_forest = 0.9

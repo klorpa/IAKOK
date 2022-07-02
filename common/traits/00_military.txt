@@ -23,7 +23,6 @@ confident = { #
 	martial = 1
 	unit = {
 		cavalry_light_discipline = 0.05
-		chariot_heavy_discipline = 0.05
 		chariot_light_discipline = 0.05
 	}
 }

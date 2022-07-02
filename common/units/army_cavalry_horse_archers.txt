@@ -11,13 +11,11 @@
 	maneuver = 5
 	movement_speed = 4
 	build_time = 60
-	legions = no
 	
 	axemen_heavy = 1.2
 	cavalry_camels = 1.2
 	cavalry_horse_archers = 1.0
 	cavalry_light = 1.1
-	chariot_heavy = 1.2
 	chariot_light = 1.1
 	elephant_african = 1.1
 	elephant_forest = 1.2

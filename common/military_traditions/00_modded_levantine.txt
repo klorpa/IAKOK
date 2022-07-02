@@ -57,8 +57,8 @@
 	
 	westsemite_path_2 = { ###levantine path
 		modifier = { 
-			chariot_heavy_offensive = 0.1
-			chariot_heavy_defensive = 0.05
+			chariot_light_offensive = 0.1
+			chariot_light_defensive = 0.05
 		}
 		icon = levantine_greco_path_2
 		requires = {westsemite_path_1}
