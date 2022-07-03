@@ -54,4 +54,59 @@
 		}
 	}
 	
+	capture_of_tanis = {
+		
+		potential = {
+			NOT = {
+				root.capital_scope = {
+					province_id = 4565
+				}
+			}
+			OR = {
+				country_culture_group = synaic
+				country_culture_group = libyan
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 4565
+				}
+			}
+		}
+		
+		allow = {
+			NOT = {
+				root.capital_scope = {
+					province_id = 4565
+				}
+			}
+			owns = 4565
+		}
+		
+		effect = {
+			set_capital = 4565
+			hidden_effect = {
+				p:4565.state = {
+					set_state_capital = 4565
+				}
+			}
+			p:4565 = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			p:4565 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
 }

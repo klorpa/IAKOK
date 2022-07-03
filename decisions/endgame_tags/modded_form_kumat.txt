@@ -15,7 +15,7 @@
 			}
 			#is_tribal = yes
 			NOT = {
-				tag = XKE
+				tag = EAJ
 			}
 			NOT = {
 				is_endgame_tag_trigger = yes
@@ -37,7 +37,7 @@
 				text = kumat_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XKE
+						tag = EAJ
 					}
 				}
 			}
@@ -93,7 +93,7 @@
 					change_country_adjective = "Kumat2_ADJ"
 					change_country_color =  "kumat2_color"
 				}
-				change_country_tag = XKE
+				change_country_tag = EAJ
 			}
 			if = {
 				limit = {
