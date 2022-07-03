@@ -18,6 +18,7 @@
  get_msin:1 "Sîn"
  ###Kemetic
  get_mosiris:1 "Osiris"
+ get_maten:1 "Aten"
  get_msekhmet:1 "Sekhmet"
  get_manhur:1 "Anhur"
  get_mresheph:1 "Resheph"

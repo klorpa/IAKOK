@@ -127,6 +127,32 @@ deity_mamun = { # CULTURE
 	}
 }
 
+deity_maten = { # CULTURE
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = { RELIGION = kemetic_pantheon }
+			common_deity_trigger = { RELIGION = libyan_pantheon }
+			common_deity_trigger = { RELIGION = ethiopian_pantheon }
+			deity:omen_maten = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	on_activate = {
+		culture_apotheosis_characters_effect = yes
+	}
+	religion = kemetic_pantheon
+	deity_category = culture #This Deity uses a Culture Slot
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
 deity_mhorus = { # CULTURE
 	trigger = {
 		polytheistic_check_religion_trigger = yes

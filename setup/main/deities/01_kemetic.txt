@@ -56,6 +56,10 @@ deity_manager = {
 			key = omen_mthoth_hermes
 			deity = deity_mthoth_hermes
 		}
+		10055 = {
+			key = omen_maten
+			deity = deity_maten
+		}
 	}
 }
 
