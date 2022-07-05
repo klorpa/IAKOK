@@ -67,7 +67,7 @@ levy_ahlamu = { #Ahlamu militia
 levy_amun = { #Kemetic militia
 	default = no
 
-	light_spearmen = 0.3
+	axemen_heavy = 0.3
 	light_swordsmen = 0.3
 	missile_spearthrowers = 0.2
 	chariot_light = 0.2
