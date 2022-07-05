@@ -63,8 +63,8 @@
 				}
 			}
 			OR = {
-				country_culture_group = synaic
 				country_culture_group = libyan
+				country_culture_group = kemetic
 			}
 		}
 		

@@ -1,0 +1,56 @@
+﻿namespace = ia_kemet_flavor
+
+ia_kemet_flavor.1 = {
+	type = country_event
+	title = "ia_kemet_flavor.1.t"
+	desc = "ia_kemet_flavor.1.desc"
+	picture = greek_court
+	left_portrait = c:EAH.current_ruler
+	
+	trigger = { 
+		c:EAH = { 
+			has_land = yes
+			war = no		
+		}
+		c:EAI = { 
+			has_land = yes 
+			war = no
+			is_ai = yes
+		}
+		char:1 = { # Siamun lives
+			is_alive = yes
+			is_ruler = yes
+		}
+		char:17 = { # Katimala lives
+			is_alive = yes
+			is_ruler = no
+		}
+	}
+	
+	option = { # Accept proposal
+		name = "ia_kemet_flavor.1.a"
+		char:17 = {
+			if = {
+				limit = { is_married = yes}
+				hidden_effect = { divorce_character = char:17.spouse }
+			}
+		}
+		char:1 = { # Marry Syracusan bride
+			if = {
+				limit = { is_married = yes}
+				hidden_effect = { divorce_character = char:1.spouse }
+			}
+			marry_character = char:17
+		}
+		c:EAI = {
+			every_owned_province = {
+				set_conquered_by = p:1399.owner
+			}
+		}
+	}
+	
+	option = { # Reject proposal
+		name = "ia_kemet_flavor.1.b"
+	}
+	
+}

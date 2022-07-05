@@ -38,3 +38,7 @@
  militarism_events.4.t:0 "Decadence is rising!"
  militarism_events.4.desc:0 "Your compatriots have become spoiled and lazy. They feel less and less attracted to military service, which puts the state at risk."
  militarism_events.4.a:0 "That is very bad"
+ ia_kemet_flavor.1.t:0 "Unexpected Proposal"
+ ia_kemet_flavor.1.desc:0 "The usurper's servants came to my nome with an astonishing offer. It seems Osorkon has lost his control of the situation and is wondering how to get out of it alive. He proposes the capitulation of all forces in the Lower Egyptian region and marriage to his daughter Katimala."
+ ia_kemet_flavor.1.a:0 "For the good of Kemet."
+ ia_kemet_flavor.1.b:0 "Son of Ra will never treat with the usurper."
