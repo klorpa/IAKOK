@@ -500,6 +500,12 @@ family={
 			culture = lycic
 			prestige=300
 		}
+		32={
+			key="Heraclidae"
+			owner=HAP
+			culture = sfardan
+			prestige=300
+		}
 	}
 }
 
@@ -3342,6 +3348,8 @@ country = {
 				2263 2262 2267 2536 2284 2276 2569 2574 2538
 				2265 2275 2278 2582
 			}
+			
+			family = 32
 		}
 		
 		HAR = { #Xanthos

@@ -8,6 +8,7 @@ ia_kemet_flavor.1 = {
 	left_portrait = c:EAH.current_ruler
 	
 	trigger = { 
+		tag = EAH
 		c:EAH = { 
 			has_land = yes
 			war = no		
