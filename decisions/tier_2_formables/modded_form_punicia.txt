@@ -1,0 +1,128 @@
+﻿country_decisions = {
+		
+	# Form Phoenicia
+	form_punicia = {
+		
+		potential = {
+			OR = {
+				primary_culture = tyric
+				primary_culture = kitionian
+				primary_culture = sidonian
+				primary_culture = berutian
+				primary_culture = byblosi
+				primary_culture = irqatan
+				primary_culture = sumuri
+				primary_culture = arwadi
+				primary_culture = ardati
+				primary_culture = suksi
+				primary_culture = rissuri
+				primary_culture = azirian
+				primary_culture = kytheran
+				primary_culture = theran
+				primary_culture = iosian
+				primary_culture = sirosian
+				primary_culture = thasosian
+				primary_culture = abydosic
+				primary_culture = erythraian
+			}
+			#is_tribal = yes
+			NOT = {
+				tag = XPN
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3982 #Tyre
+					province_id = 3905
+					province_id = 3893
+					province_id = 3887
+					province_id = 3867
+					province_id = 3562
+					province_id = 3553
+					province_id = 3872
+					province_id = 3540
+					province_id = 3523
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = punicia_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XPN
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 3982 #Tyre
+			owns = 3905
+			owns = 3893
+			owns = 3887
+			owns = 3867
+			owns = 3562
+			owns = 3553
+			owns = 3872
+			owns = 3540
+			owns = 3523
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "Punicia_Name"
+			change_country_flag = Punicia_flag
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "Punicia_ADJ"
+				change_country_color = "punicia_color"
+				change_country_tag = XPN
+			}
+			if = {
+				limit = {
+					NOT = {
+						capital_scope = {
+							province_id = 3982
+						}
+					}
+				}
+				set_capital = 3982
+				hidden_effect = {
+					p:3982.state = {
+						set_state_capital = 3982
+					}
+				}
+			}
+			p:3982 = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			p:3982 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}
