@@ -617,6 +617,10 @@ provinces = { #Any entry must contain a comment with city name.
 		port_building = 1
 	}
 	
+	1039 = { #Minoa
+		port_building = 1
+	}
+	
 	1146 = { #Lebene
 		port_building = 1
 	}

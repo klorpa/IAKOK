@@ -5,31 +5,81 @@ ia_kemet_flavor.1 = {
 	title = "ia_kemet_flavor.1.t"
 	desc = "ia_kemet_flavor.1.desc"
 	picture = greek_court
-	left_portrait = c:EAH.current_ruler
+	fire_only_once = yes
+	left_portrait = c:EAI.current_ruler
+	left_portrait = char:17
+	right_portrait = c:EAH.current_ruler
+	right_portrait = c:EAG.current_ruler
 	
 	trigger = { 
-		tag = EAH
-		c:EAH = { 
-			has_land = yes
-			war = no		
-		}
+		tag = EAI
 		c:EAI = { 
 			has_land = yes 
 			war = no
-			is_ai = yes
-		}
-		char:1 = { # Siamun lives
-			is_alive = yes
-			is_ruler = yes
 		}
 		char:17 = { # Katimala lives
 			is_alive = yes
 			is_ruler = no
 		}
+		owns = 4565
 	}
 	
-	option = { # Accept proposal
+	option = { # Choose Siamun
 		name = "ia_kemet_flavor.1.a"
+		trigger = {
+			c:EAH = { 
+				has_land = yes		
+			}
+			char:1 = { # Siamun lives
+				is_alive = yes
+				is_ruler = yes
+			}
+		}
+		trigger_event = { id = ia_kemet_flavor.2 }
+		ai_chance = {
+            factor = 70
+        }
+	}
+	
+	option = { # Choose Pinedjem
+		name = "ia_kemet_flavor.1.b"
+		trigger = {
+			c:EAG = { 
+				has_land = yes		
+			}
+			char:4 = { # Pinedjem lives
+				is_alive = yes
+				is_ruler = yes
+			}
+		}
+		trigger_event = { id = ia_kemet_flavor.3 }
+		ai_chance = {
+            factor = 20
+        }
+	}
+	
+	option = { # No deal
+		name = "ia_kemet_flavor.1.c"
+		trigger_event = { 
+            id = ia_kemet_flavor.4
+            days = 10
+        }
+		ai_chance = {
+            factor = 10
+        }
+	}
+}
+
+ia_kemet_flavor.2 = {
+	type = country_event
+	title = "ia_kemet_flavor.2.t"
+	desc = "ia_kemet_flavor.2.desc"
+	picture = greek_court
+	left_portrait = c:EAH.current_ruler
+	right_portrait = char:17
+	
+	option = { # Accept proposal
+		name = "ia_kemet_flavor.2.a"
 		char:17 = {
 			if = {
 				limit = { is_married = yes}
@@ -43,15 +93,614 @@ ia_kemet_flavor.1 = {
 			}
 			marry_character = char:17
 		}
-		c:EAI = {
-			every_owned_province = {
-				set_conquered_by = p:1399.owner
+		#Land for the Pharoh
+		p:2261 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
 			}
 		}
+		p:244 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:1119 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4575 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4550 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4631 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:1637 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4588 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4563 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4559 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		p:4543 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1399.owner
+				}
+			}
+		}
+		c:EAH = {
+            make_subject = {
+                target = c:EAI
+                type = feudatory
+            }
+        }
+		ai_chance = {
+            factor = 80
+        }
 	}
 	
 	option = { # Reject proposal
-		name = "ia_kemet_flavor.1.b"
+		name = "ia_kemet_flavor.2.b"
+		trigger_event = { 
+            id = ia_kemet_flavor.4
+            days = 10
+        }
+		ai_chance = {
+            factor = 20
+        }
 	}
 	
+}
+
+ia_kemet_flavor.3 = {
+	type = country_event
+	title = "ia_kemet_flavor.3.t"
+	desc = "ia_kemet_flavor.3.desc"
+	picture = greek_court
+	left_portrait = c:EAG.current_ruler
+	right_portrait = char:17
+	
+	option = { # Reject proposal
+		name = "ia_kemet_flavor.3.a"
+		char:17 = {
+			if = {
+				limit = { is_married = yes}
+				hidden_effect = { divorce_character = char:17.spouse }
+			}
+		}
+		char:4 = { 
+			if = {
+				limit = { is_married = yes}
+				hidden_effect = { divorce_character = char:4.spouse }
+			}
+			marry_character = char:17
+		}
+		#Land for the Pharoh
+		p:2261 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:244 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:1119 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4575 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4550 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4631 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:1637 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4588 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4563 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4559 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		p:4543 = {
+			area = {
+				every_area_province = {
+					limit = { 
+						has_owner = yes
+						trigger_if = {
+							limit = { has_owner = yes }
+							owner = {
+								tag = EAI
+							}
+						}
+					}
+					set_conquered_by = p:1331.owner
+				}
+			}
+		}
+		c:EAG = {
+            make_subject = {
+                target = c:EAI
+                type = feudatory
+            }
+        }
+		ai_chance = {
+            factor = 80
+        }
+	}
+	
+	option = { # Reject proposal
+		name = "ia_kemet_flavor.3.b"
+		trigger_event = { 
+            id = ia_kemet_flavor.4
+            days = 10
+        }
+		ai_chance = {
+            factor = 20
+        }
+	}
+}
+
+ia_kemet_flavor.4 = {
+	type = country_event
+	title = "ia_kemet_flavor.4.t"
+	desc = "ia_kemet_flavor.4.desc"
+	picture = greek_court
+	left_portrait = c:EAI.current_ruler
+	
+	option = { # Troubles
+		name = "ia_kemet_flavor.4.a"
+		p:2261 = { #Memphis
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Memphis_NAME"
+				change_country_adjective = "Memphis_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:2261
+				target = p:2261.owner
+			}
+		}
+		p:244 = { #Tepihu
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = henenite
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Tepihu_NAME"
+				change_country_adjective = "Tepihu_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:244
+				target = p:244.owner
+			}
+		}
+		p:1119 = { #Tayu-djaet
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = henenite
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Tayudjaet_NAME"
+				change_country_adjective = "Tayudjaet_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:1119
+				target = p:1119.owner
+			}
+		}
+		p:4575 = { #Awnu
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = memphite
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Awnu_NAME"
+				change_country_adjective = "Awnu_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4575
+				target = p:4575.owner
+			}
+		}
+		p:4550 = { #Taremu
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = memphite
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Taremu_NAME"
+				change_country_adjective = "Taremu_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4550
+				target = p:4550.owner
+			}
+		}
+		p:4631 = { #Per-Atum
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "PerAtum_NAME"
+				change_country_adjective = "PerAtum_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4631
+				target = p:4631.owner
+			}
+		}
+		p:1637 = { #Manutut
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Manutut_NAME"
+				change_country_adjective = "Manutut_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:1637
+				target = p:1637.owner
+			}
+		}
+		p:4588 = { #Tjaru
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Tjaru_NAME"
+				change_country_adjective = "Tjaru_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4588
+				target = p:4588.owner
+			}
+		}
+		p:4563 = { #Hut-waret
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Hutwaret_NAME"
+				change_country_adjective = "Hutwaret_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4563
+				target = p:4563.owner
+			}
+		}
+		p:4559 = { #Nepert
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Nepert_NAME"
+				change_country_adjective = "Nepert_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4559
+				target = p:4559.owner
+			}
+		}
+		p:4543 = { #Nefer-her
+			create_country = {
+				change_government = despotic_monarchy
+				set_primary_culture = deltan
+				set_country_religion = kemetic_pantheon
+				change_country_name = "Neferher_NAME"
+				change_country_adjective = "Neferher_ADJECTIVE"
+			}
+		}
+		p:2571.owner = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = p:4543
+				target = p:4543.owner
+			}
+		}
+	}
 }

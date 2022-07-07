@@ -10,8 +10,8 @@
 		#Modded events
 		ia_kemet_flavor.1
 		#Invasions
-		#cymmerian_invasion.1
-		#cymmerian_invasion.2
+		cymmerian_invasion.1
+		cymmerian_invasion.2
 		#rise_of_massagetae.1
 		#celtic_invasions.1
 		#tibetan_invasions.1
