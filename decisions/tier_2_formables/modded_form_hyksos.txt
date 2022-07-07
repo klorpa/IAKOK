@@ -8,7 +8,6 @@
 				country_culture_group = levantine
 				country_culture_group = aramaic
 				country_culture_group = synaic
-				country_culture_group = akkadian
 			}
 			#is_tribal = yes
 			NOT = {
