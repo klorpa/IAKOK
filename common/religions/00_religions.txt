@@ -8,6 +8,16 @@
 	religion_category = pantheon
 }
 
+atenism = { # Atenite Faith
+	color = hsv { 0.15  1  0.7 }
+	modifier = {
+		global_building_slot = 1
+		global_pop_conversion_speed_modifier = 0.3
+		global_pop_assimilation_speed_modifier = -0.2
+	}
+	religion_category = prophets
+}
+
 libyan_pantheon = { # Libu Faith
 	color = hsv { 0.05  0.5  0.4 }
 	modifier = { 

@@ -9,6 +9,7 @@
 		family_events.9 #Rise of Family in Republics
 		#Modded events
 		ia_kemet_flavor.1
+		ia_kemet_flavor.5
 		#Invasions
 		cymmerian_invasion.1
 		cymmerian_invasion.2

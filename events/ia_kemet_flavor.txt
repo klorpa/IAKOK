@@ -704,3 +704,61 @@ ia_kemet_flavor.4 = {
 		}
 	}
 }
+
+ia_kemet_flavor.5 = {
+	type = country_event
+	title = "ia_kemet_flavor.5.t"
+	desc = "ia_kemet_flavor.5.desc"
+	picture = greek_court
+	fire_only_once = yes
+	left_portrait = current_ruler
+	
+	trigger = {
+		religion = kemetic_pantheon
+		current_ruler = {
+			has_trait = lunatic
+		}
+		owns=1636
+	}
+	
+	option = { # Change faith
+		name = "ia_kemet_flavor.5.a"
+		set_country_religion = atenism
+		if = {
+			limit = {
+				NOT = {
+					capital_scope = {
+						province_id = 1636
+					}
+				}
+			}
+			set_capital = 1636
+			hidden_effect = {
+				p:1636.state = {
+					set_state_capital = 1636
+				}
+			}
+		}
+		p:1636 = {
+			if = {
+				limit = { has_city_status = no }
+				set_city_status = city
+			}
+		}
+		p:1636 = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		add_2_free_province_investments = yes
+		ai_chance = {
+            factor = 70
+        }
+	}
+	
+	option = { # Keep the faith
+		name = "ia_kemet_flavor.5.b"
+		ai_chance = {
+            factor = 30
+        }
+	}
+}

@@ -2,6 +2,8 @@
  #Modded Religions
  kemetic_pantheon:0 "Kemetic"
  desc_kemetic_pantheon:0 "Manifesting as a polytheistic faith, the worship of Ra, Atum, Sekhmet and others, displays a deep reverence for the fundamental aspects of the natural world. In the old times Pharoh was considered god, but recently he became a more secular ruler. To be considered legitimate pharoh one have to control all of Egypt. Egyptians believed that human remains had to be preserved for soul to live after deth."
+ atenism:0 "Atenism"
+ desc_atenism:0 "First ever Monoteistic faith founded by the heretic pharoh Akhenaten. It's followers believe that there is only one god Aten and only throu obedience to him and the pharoh they can achieve salvation."
  canaanitic_pantheon:0 "Canaanite"
  desc_canaanitic_pantheon:0 "A polytheistic faith whose followers believe in a pantheon consisting of many deities, including El, Dagan, Reshef and Ishtar. Due to the political situation the official church structures never developed and each polity had a bit different beliefs. Yet there also existed many international cults like Ishtar and many god were exported into other lands. For example after canaanite hyxos invaded egypt they introduced the cult of Reshef in kemet."
  judahic:0 "Yahwic"
