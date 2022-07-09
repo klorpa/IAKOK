@@ -35,7 +35,10 @@ ia_kemet_flavor.1 = {
 				is_ruler = yes
 			}
 		}
-		trigger_event = { id = ia_kemet_flavor.2 }
+		#trigger_event = { id = ia_kemet_flavor.2 }
+		set_global_variable = {
+			name = candidate_siamun
+		}
 		ai_chance = {
             factor = 70
         }
@@ -52,7 +55,10 @@ ia_kemet_flavor.1 = {
 				is_ruler = yes
 			}
 		}
-		trigger_event = { id = ia_kemet_flavor.3 }
+		#trigger_event = { id = ia_kemet_flavor.3 }
+		set_global_variable = {
+			name = candidate_pinedjem
+		}
 		ai_chance = {
             factor = 20
         }
@@ -64,6 +70,9 @@ ia_kemet_flavor.1 = {
             id = ia_kemet_flavor.4
             days = 10
         }
+		set_global_variable = {
+			name = candidate_none
+		}
 		ai_chance = {
             factor = 10
         }
@@ -78,9 +87,10 @@ ia_kemet_flavor.2 = {
 	left_portrait = c:EAH.current_ruler
 	right_portrait = char:17
 	
-	#trigger = {
-	#	tag = EAH
-	#}
+	trigger = {
+		tag = EAH
+		has_global_variable = candidate_siamun
+	}
 	
 	option = { # Accept proposal
 		name = "ia_kemet_flavor.2.a"
@@ -306,9 +316,10 @@ ia_kemet_flavor.3 = {
 	left_portrait = c:EAG.current_ruler
 	right_portrait = char:17
 	
-	#trigger = {
-	#	tag = EAG
-	#}
+	trigger = {
+		tag = EAG
+		has_global_variable = candidate_pinedjem
+	}
 	
 	option = { # Reject proposal
 		name = "ia_kemet_flavor.3.a"
@@ -532,9 +543,10 @@ ia_kemet_flavor.4 = {
 	picture = greek_court
 	left_portrait = c:EAI.current_ruler
 	
-	#trigger = {
-	#	tag = EAI
-	#}
+	trigger = {
+		tag = EAI
+		has_global_variable = candidate_none
+	}
 	
 	option = { # Troubles
 		name = "ia_kemet_flavor.4.a"
