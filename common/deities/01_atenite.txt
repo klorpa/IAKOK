@@ -1,0 +1,140 @@
+﻿### General Deity Checks ###
+deity_akhenaten = {
+	trigger = {
+		religion = atenism
+	}
+	icon = deity_war
+	passive_modifier = { global_start_experience = deity_global_start_experience_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
+	religion = atenism
+	deity_category = war #This Deity uses a War slot.
+	on_activate = {
+		add_1_free_province_investments = yes
+	}
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_neferneferuaten = {
+	trigger = {
+		religion = atenism
+	}
+	icon = deity_love
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = atenism
+	deity_category = fertility #This Deity uses a Fertility Slot
+	on_activate = {
+		if = {
+			limit = {
+				any_owned_province = {
+					any_pops_in_province = {
+						NOT = {
+							pop_religion = atenism 
+						}
+					}
+				}
+			}
+		}
+		hidden_effect = {
+			while = {
+				count = 5
+				limit = {
+					any_owned_province = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = atenism
+							}
+						}
+					}
+				}
+				random_owned_province = {
+					limit = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = atenism
+							}
+						}
+					}
+					random_pops_in_province = {
+						limit = {
+							NOT = {
+								pop_religion = atenism 
+							}
+						}
+						set_pop_religion = atenism
+					}
+				}
+			}
+		}
+	}
+	
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_smenkhkare = {
+	trigger = {
+		religion = atenism
+	}
+	icon = deity_eloquence
+	passive_modifier = { agressive_expansion_monthly_change = deity_aggressive_expansion_monthly_change_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = atenism
+	deity_category = culture #This Deity uses a Culture Slot'
+	on_activate = {
+		add_research = {
+			technology = religious_tech
+			value = 10
+		}
+	}
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_anchesenaten = {
+	trigger = {
+		religion = atenism
+	}
+	icon = deity_wealth
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
+	religion = atenism
+	deity_category = economy #This Deity uses an Economy Slot
+	
+	on_activate = {
+		capital_scope = {
+			create_2_citizens_effect = yes
+		}
+	}
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+
+deity_tutanchaton = {
+	trigger = {
+		religion = atenism
+	}
+	icon = deity_wealth
+	passive_modifier = { global_citizen_output = deity_global_citizen_output_svalue }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = atenism
+	deity_category = economy #This Deity uses an Economy Slot
+	on_activate = {
+		capital_scope = {
+			create_2_freemen_effect = yes
+		}
+	}
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+

@@ -1,3 +1,4 @@
 ﻿synaic = { # Israelic names
-	4242 = PROV4242_israelic #Jerusalem
+	4242 = PROV4242_synaic #Jerusalem
+	4563 = PROV4563_synaic #Avaris
 }

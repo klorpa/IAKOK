@@ -1,0 +1,25 @@
+deity_manager = {
+	deities_database = { ### KEYS 10430-10449 ###
+		10430 = {
+			key = omen_akhenaten
+			deity = deity_akhenaten
+		}
+		10431 = {
+			key = omen_neferneferuaten
+			deity = deity_neferneferuaten
+		}
+		10432 = {
+			key = omen_smenkhkare
+			deity = deity_smenkhkare
+		}
+		10433 = {
+			key = omen_anchesenaten
+			deity = deity_anchesenaten
+		}
+		10434 = {
+			key = omen_tutanchaton
+			deity = deity_tutanchaton
+		}
+	}
+}
+

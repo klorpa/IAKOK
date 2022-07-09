@@ -1,0 +1,21 @@
+﻿l_english:
+ ## Default ##
+ deity_akhenaten:0 "$omen_akhenaten$"
+ omen_akhenaten:0 "Akhenaten"
+ omen_akhenaten_desc:0 "A heretic, madman or misunderstood visionary who was ahead of his time. What is known for sure is that he was the first to say that his god is the one and that there are no other than him, and the world was never to be the same again."
+
+ deity_neferneferuaten:0 "$omen_neferneferuaten$"
+ omen_neferneferuaten:0 "Neferneferuaten"
+ omen_neferneferuaten_desc:0 "The wife of the pharaoh Akhenaten who was persistent with her husband and supported his revolutionary plans to the end. Known to many as Nefertiti, she ruled the country after his death, endeavoring to continue its reforms."
+ 
+ deity_smenkhkare:0 "$omen_smenkhkare$"
+ omen_smenkhkare:0 "Smenkhkare"
+ omen_smenkhkare_desc:0 "A mysterious pharaoh who briefly replaced Akhenaten. It is not known whether he was his brother or son. Due to his rather short rule, he did not leave many monuments, but he managed to significantly enlarge the Amarna temple complex."
+ 
+ deity_anchesenaten:0 "$omen_anchesenaten$"
+ omen_anchesenaten:0 "Anchesenaten"
+ omen_anchesenaten_desc:0 "Tutankhamen's wife and his half-sister. Tutankhamen married her on the grounds of being merely the son of the ruler's minor wife. She was pregnant twice and had two miscarriages in the fifth and eighth months. Known for a desperate letter to the Hittite king, written after her husband's death, asking him for one of his sons. She wrote in it that her position was uncertain and she was afraid for her life. The Hittite prince did not arrive and was killed on the way. But the trace of the unfortunate queen was soon lost."
+ 
+ deity_tutanchaton:0 "$omen_tutanchaton$"
+ omen_tutanchaton:0 "Tutanchaton"
+ omen_tutanchaton_desc:0 "Last born member of the Amarna ruling family. As a minor, he had regents in the form of Vizier Ay and General Horemheb. It was believed for a long time that he had died in an assassination attempt, but recent research indicates an infection due to a leg wound possibly sustained on the battlefield. He undertook an attempt to rebuild Egypt's power after years of neglect of his predecessors."

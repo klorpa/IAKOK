@@ -48,7 +48,11 @@
  Siamun2:0 "Siamun"
  
  #Province names
- PROV4242_israelic:1 "Jerusalem"
+ PROV4242_synaic:1 "Jerusalem"
+ PROV4611_grekoid:1 "Alexandria"
+ PROV4563_synaic:1 "Avaris"
+ PROV4563_aramaic:1 "Avaris"
+ PROV4563_levantine:1 "Avaris"
  
  #Wargoals
  event_conquest_wargoal:0 "Historical Conflict"

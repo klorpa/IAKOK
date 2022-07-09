@@ -1,0 +1,3 @@
+﻿grekoid = { # Israelic names
+	4611 = PROV4611_grekoid #Alexandria
+}

@@ -1,0 +1,3 @@
+﻿levantine = { # Israelic names
+	4563 = PROV4563_levantine #Avaris
+}

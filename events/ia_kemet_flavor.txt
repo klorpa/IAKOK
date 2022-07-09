@@ -78,6 +78,10 @@ ia_kemet_flavor.2 = {
 	left_portrait = c:EAH.current_ruler
 	right_portrait = char:17
 	
+	#trigger = {
+	#	tag = EAH
+	#}
+	
 	option = { # Accept proposal
 		name = "ia_kemet_flavor.2.a"
 		char:17 = {
@@ -86,7 +90,7 @@ ia_kemet_flavor.2 = {
 				hidden_effect = { divorce_character = char:17.spouse }
 			}
 		}
-		char:1 = { # Marry Syracusan bride
+		char:1 = { # 
 			if = {
 				limit = { is_married = yes}
 				hidden_effect = { divorce_character = char:1.spouse }
@@ -301,6 +305,10 @@ ia_kemet_flavor.3 = {
 	picture = greek_court
 	left_portrait = c:EAG.current_ruler
 	right_portrait = char:17
+	
+	#trigger = {
+	#	tag = EAG
+	#}
 	
 	option = { # Reject proposal
 		name = "ia_kemet_flavor.3.a"
@@ -524,6 +532,10 @@ ia_kemet_flavor.4 = {
 	picture = greek_court
 	left_portrait = c:EAI.current_ruler
 	
+	#trigger = {
+	#	tag = EAI
+	#}
+	
 	option = { # Troubles
 		name = "ia_kemet_flavor.4.a"
 		p:2261 = { #Memphis
@@ -724,6 +736,9 @@ ia_kemet_flavor.5 = {
 	option = { # Change faith
 		name = "ia_kemet_flavor.5.a"
 		set_country_religion = atenism
+		current_ruler = {
+			set_character_religion = atenism
+		}
 		if = {
 			limit = {
 				NOT = {
@@ -751,14 +766,14 @@ ia_kemet_flavor.5 = {
 		}
 		add_2_free_province_investments = yes
 		ai_chance = {
-            factor = 70
+            factor = 30
         }
 	}
 	
 	option = { # Keep the faith
 		name = "ia_kemet_flavor.5.b"
 		ai_chance = {
-            factor = 30
+            factor = 70
         }
 	}
 }

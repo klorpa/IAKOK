@@ -1884,6 +1884,8 @@
  tocharia_ADJECTIVE:0 "Tocharian"
  grekoidia_Name:0 "Greek Empire"
  grekoidia_ADJ:0 "Greek"
+ aegyptus_Name:0 "Aigyptos"
+ aegyptus_ADJ:0 "Aigyptian"
  #Event country names
  Gomara_NAME:0 "Gomorah"
  Gomara_ADJECTIVE:0 "Gomoran"

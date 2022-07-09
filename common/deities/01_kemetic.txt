@@ -134,6 +134,7 @@ deity_maten = { # CULTURE
 			common_deity_trigger = { RELIGION = kemetic_pantheon }
 			common_deity_trigger = { RELIGION = libyan_pantheon }
 			common_deity_trigger = { RELIGION = ethiopian_pantheon }
+			common_deity_trigger = { RELIGION = atenism }
 			deity:omen_maten = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -143,7 +144,10 @@ deity_maten = { # CULTURE
 	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
 	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
 	on_activate = {
-		culture_apotheosis_characters_effect = yes
+		add_research = {
+			technology = religious_tech
+			value = 10
+		}
 	}
 	religion = kemetic_pantheon
 	deity_category = culture #This Deity uses a Culture Slot

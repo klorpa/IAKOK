@@ -418,6 +418,17 @@ delias_flag = {
 	}
 }
 
+aegyptus_flag = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_egypt.dds"
+		color1 = "roman_gold"
+	}
+}
+
 Punicia_flag  = {
 	pattern = "pattern_solid.tga"
 	color1 = "pure_white"

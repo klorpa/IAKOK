@@ -1,5 +1,5 @@
 ﻿kemetic_pantheon = { # Egyptian Faith
-	color = hsv { 0.15  1  0.7 }
+	color = hsv { 0.10  0.9  0.88 }
 	modifier = { 
 		ruler_popularity_gain = 0.05
 		global_building_slot = 1
@@ -16,6 +16,7 @@ atenism = { # Atenite Faith
 		global_pop_assimilation_speed_modifier = -0.2
 	}
 	religion_category = prophets
+	can_deify_ruler = no
 }
 
 libyan_pantheon = { # Libu Faith
