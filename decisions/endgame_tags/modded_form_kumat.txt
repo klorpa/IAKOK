@@ -43,10 +43,8 @@
 			}
 			can_form_nation_trigger = yes
 			owns = 4565
-			OR = {
-				owns = 1331
-				owns = 2261
-			}
+			owns = 1331
+			owns = 2261
 		}
 		
 		effect = {
