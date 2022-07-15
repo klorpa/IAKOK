@@ -1,7 +1,6 @@
 ﻿##On Game Initialized Events
 
 on_game_initialized = {
-
 	events = {
 		#Startup info
 		ia_startup.1
@@ -53,6 +52,18 @@ on_game_initialized = {
 	}
 	#Events
 	effect = {
+		add_innovation = {
+			value = oratory_tech
+		}
+		add_innovation = {
+			value = military_tech
+		}
+		add_innovation = {
+			value = civic_tech
+		}
+		add_innovation = {
+			value = religious_tech
+		}
 		if = {
 			limit = {
 				NOT = {

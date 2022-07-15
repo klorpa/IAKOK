@@ -1817,7 +1817,7 @@ country = {
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1844,7 +1844,7 @@ country = {
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1878,7 +1878,7 @@ country = {
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			own_control_core = 	{ 
 				2570 2277 2152 1848 2279 1830 2274 1841 1971 2280 1931 1949
@@ -1897,7 +1897,7 @@ country = {
 			succession_law=egyption_succession_law
 			succession=old_egyptian_succession
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5793,7 +5793,7 @@ country = {
 			religion = anunnaki_pantheon
 			capital = 5303
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=3 progress=0 }
@@ -6103,7 +6103,7 @@ country = {
 			capital = 6087
 			
 			monarchy_citizen_law = foreign_law_for_minorities
-			monarchy_military_reforms = work_for_the_best
+			#monarchy_military_reforms = work_for_the_best
 			
 			technology={
 				military_tech={ level=1 progress=0 }
