@@ -270,5 +270,7 @@
  grekoidia_must_not_exist:0 "Greek Empire must not exist."
  form_grekoidia:0 "Form Greek Empire"
  form_grekoidia_desc:0 "Although the confederation led by Wanax collapsed many years ago, the idea of Greece as a unity did not, and since then many Polis have tried to subjugate the whole land. Perhaps a strong ruler will be able to repeat the feat of Agamemnon and become the new lord of Hellas. "
- 
+ epirus_must_not_exist:0 "Epirus must not exist."
+ form_epirus:0 "Form Epirus"
+ form_epirus_desc:0 "Epirus meant land or continent and was inhabited by tribes of mixed ethnicity, incl. Dorian, Illyrian or even Brygian. This mixture meant that he was reunited rather late. Some names of the Epirus tribes appear as early as the Bronze Age, eg Mollosians."
  

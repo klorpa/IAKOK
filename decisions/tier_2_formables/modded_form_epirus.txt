@@ -1,0 +1,98 @@
+﻿country_decisions = {
+		
+	# Form Epirus
+	form_epirus = {
+		
+		potential = {
+			OR = {
+				primary_culture = molossian
+				primary_culture = thesprotian
+				primary_culture = liburnian
+				primary_culture = antitanian
+				primary_culture = pareuaeian
+				primary_culture = byllionian
+				primary_culture = chaonian
+				primary_culture = dassaretaian
+				primary_culture = brygian
+				primary_culture = derriopian
+				primary_culture = orestian
+				primary_culture = tymphaian
+			}
+			#is_tribal = yes
+			NOT = {
+				tag = XEP
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1721 
+					province_id = 1753 
+					province_id = 1772
+					province_id = 1790
+					province_id = 1786
+					province_id = 1776
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = epirus_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XEP
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 1721 
+			owns = 1753 
+			owns = 1772
+			owns = 1790
+			owns = 1786
+			owns = 1776
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "epirus_Name"
+			change_country_flag = epirus_flag
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "epirus_ADJ"
+				change_country_color = "epirus_color"
+				change_country_tag = XEP
+			}
+			capital_scope = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

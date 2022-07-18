@@ -221,6 +221,17 @@ HBU = {
 
 #Special banners
 
+epirus_flag = {
+	pattern = "pattern_solid.tga"
+	color1 = "epirus_light_yellow"
+	color2 = "pitch_black"
+
+	colored_emblem = {
+		texture = "ce_epirus.dds"
+		color1 = "pitch_black"
+	}
+}
+
 haldi_flag = {#haldi_flag
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"

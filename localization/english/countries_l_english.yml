@@ -1886,6 +1886,8 @@
  grekoidia_ADJ:0 "Greek"
  aegyptus_Name:0 "Aegyptos"
  aegyptus_ADJ:0 "Aegyptian"
+ epirus_Name:0 "Epirus"
+ epirus_ADJ:0 "Epirote"
  #Event country names
  Gomara_NAME:0 "Gomorah"
  Gomara_ADJECTIVE:0 "Gomoran"
