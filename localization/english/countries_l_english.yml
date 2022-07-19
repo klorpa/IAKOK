@@ -1888,6 +1888,8 @@
  aegyptus_ADJ:0 "Aegyptian"
  epirus_Name:0 "Epirus"
  epirus_ADJ:0 "Epirote"
+ rhodes_Name:0 "Rhodes"
+ rhodes_ADJ:0 "Rhodian"
  #Event country names
  Gomara_NAME:0 "Gomorah"
  Gomara_ADJECTIVE:0 "Gomoran"

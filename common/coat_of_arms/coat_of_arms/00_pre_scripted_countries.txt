@@ -243,6 +243,18 @@ haldi_flag = {#haldi_flag
 	}
 }
 
+rhodes_flag = {
+	pattern = "pattern_solid.tga"
+	color1 = "rhodes_color"
+	color2 = "roman_red"
+
+	colored_emblem = {
+		texture = "ce_rhodes.dds"
+		color1 = "roman_red"
+		color2 = "ck2_green"
+	}
+}
+
 mittani_flag = {#mittani_flag
 	pattern = "pattern_solid.tga"
 	color1 = "offwhite"
