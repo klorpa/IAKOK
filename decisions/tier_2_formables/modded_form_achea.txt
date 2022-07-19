@@ -1,0 +1,98 @@
+﻿country_decisions = {
+		
+	# Form Achea
+	form_achea = {
+		
+		potential = {
+			OR = {
+				primary_culture = pellenic
+				primary_culture = aegiran
+				primary_culture = aegian
+				primary_culture = leontian
+				primary_culture = patraian
+				primary_culture = tritheian
+				primary_culture = dyman
+				primary_culture = olenian
+			}
+			#is_tribal = yes
+			NOT = {
+				tag = XAC
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 203
+					province_id = 200
+					province_id = 196
+					province_id = 192
+					province_id = 194
+					province_id = 189
+					province_id = 185
+					province_id = 183
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = achea_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XAC
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 203
+			owns = 200
+			owns = 196
+			owns = 192
+			owns = 194
+			owns = 189
+			owns = 185
+			owns = 183
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "achea_Name"
+			change_country_flag = achea_flag
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = despotic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "achea_ADJ"
+				change_country_color =  "achea_color"
+				change_country_tag = XAC
+			}
+			capital_scope = {
+				if = {
+					limit = { has_city_status = no }
+					set_city_status = city
+				}
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

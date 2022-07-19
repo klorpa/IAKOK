@@ -243,6 +243,18 @@ haldi_flag = {#haldi_flag
 	}
 }
 
+achea_flag = {#haldi_flag
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 22 100 184 }
+	
+
+	colored_emblem = {
+		texture = "ce_achea.dds"
+		color1 = rgb { 207 155 25 }
+		color2 = rgb { 0 0 0 }
+	}
+}
+
 rhodes_flag = {
 	pattern = "pattern_solid.tga"
 	color1 = "rhodes_color"
