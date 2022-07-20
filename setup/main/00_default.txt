@@ -4594,7 +4594,7 @@ country = {
 		
 		GDE = { #Leuktra
 			government = despotic_monarchy
-			primary_culture = leuktran
+			primary_culture = leuktranb
 			religion = grecoid_pantheon
 			capital = 25
 			

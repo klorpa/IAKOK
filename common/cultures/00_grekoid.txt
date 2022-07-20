@@ -131,6 +131,7 @@
 		zaraxian = {}
 		parsiaian = {}
 		troizenian = {}
+		leuktranb = {}
 		messenian = {}
 		pylosian = {}
 		asinean = {}

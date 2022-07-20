@@ -255,6 +255,17 @@ achea_flag = {#haldi_flag
 	}
 }
 
+beotia_flag = {#haldi_flag
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	
+
+	colored_emblem = {
+		texture = "ce_pegasus_01.dds"
+		color1 = "roman_gold"
+	}
+}
+
 rhodes_flag = {
 	pattern = "pattern_solid.tga"
 	color1 = "rhodes_color"

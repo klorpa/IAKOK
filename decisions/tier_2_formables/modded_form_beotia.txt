@@ -1,24 +1,22 @@
 ﻿country_decisions = {
 		
-	# Form Achea
-	form_achea = {
+	# Form Beotia
+	form_beotia = {
 		
 		potential = {
 			OR = {
-				primary_culture = pellenic
-				primary_culture = aegiran
-				primary_culture = aegian
-				primary_culture = leontian
-				primary_culture = patraian
-				primary_culture = tritheian
-				primary_culture = dyman
-				primary_culture = olenian
-				primary_culture = kefalonian
-				primary_culture = zakynthian
+				primary_culture = theban
+				primary_culture = glan
+				primary_culture = orchomenosian
+				primary_culture = khaironeian
+				primary_culture = leuktran
+				primary_culture = thespian
+				primary_culture = platean
+				primary_culture = thisban
 			}
 			#is_tribal = yes
 			NOT = {
-				tag = XAC
+				tag = XBE
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -29,42 +27,42 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 203
-					province_id = 200
-					province_id = 196
-					province_id = 192
-					province_id = 194
-					province_id = 189
-					province_id = 185
-					province_id = 183
+					province_id = 329
+					province_id = 344
+					province_id = 339
+					province_id = 384
+					province_id = 636
+					province_id = 328
+					province_id = 327
+					province_id = 331
 				}
 			}
 		}
 		
 		allow = {
 			custom_tooltip = {
-				text = achea_must_not_exist
+				text = beotia_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XAC
+						tag = XBE
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 203
-			owns = 200
-			owns = 196
-			owns = 192
-			owns = 194
-			owns = 189
-			owns = 185
-			owns = 183
+			owns = 329
+			owns = 344
+			owns = 339
+			owns = 384
+			owns = 636
+			owns = 328
+			owns = 327
+			owns = 331
 		}
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			change_country_name = "achea_Name"
-			change_country_flag = achea_flag
+			change_country_name = "beotia_Name"
+			change_country_flag = beotia_flag
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -75,9 +73,9 @@
 				switch_government_type_event_clearup_effect = yes
 			}
 			hidden_effect = {
-				change_country_adjective = "achea_ADJ"
-				change_country_color =  "achea_color"
-				change_country_tag = XAC
+				change_country_adjective = "beotia_ADJ"
+				change_country_color =  "beotia_color"
+				change_country_tag = XBE
 			}
 			capital_scope = {
 				if = {
