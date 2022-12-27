@@ -17,7 +17,7 @@
  omen_borvo_desc:3 "Linked to the cult of water."
  deity_penn:0 "$omen_penn$"
  omen_penn:1 "Penn"
- omen_penn_desc:3 "Proliferation of sanctuaries near the peaks, indicates the cult of celestial numes, represented by the mountains. Later romanizen into Iupiter Poenninus, so probably local sky-father god."
+ omen_penn_desc:3 "Proliferation of sanctuaries near the peaks, indicates the cult of celestial numes, represented by the mountains. Later Romanized into Iupiter Poenninus, so probably local sky-father god."
  deity_alb:0 "$omen_alb$"
  omen_alb:1 "Alb"
  omen_alb_desc:3 "Proliferation of sanctuaries near the peaks, indicates the cult of celestial numes, represented by the mountains.  Alb from which Albiorix."
