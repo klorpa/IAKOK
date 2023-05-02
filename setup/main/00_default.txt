@@ -3613,7 +3613,7 @@ country = {
 		
 		HBS = { #Troy
 			government = despotic_monarchy
-			primary_culture = troan
+			primary_culture = gtroan
 			religion = grecoid_pantheon
 			capital = 1477
 			

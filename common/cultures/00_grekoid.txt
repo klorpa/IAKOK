@@ -160,7 +160,7 @@
 		chiosan = {}
 		colophonese = {}
 		lebedan = {}
-		troan = {}
+		gtroan = {}
 		teosi = {}
 		clazomanian = {}
 		smyrnese = {}
