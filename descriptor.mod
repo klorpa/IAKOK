@@ -1,4 +1,4 @@
-version="2.0.3"
+version="2.0.*"
 tags={
 	"Interface"
 	"Overhaul"
@@ -9,4 +9,4 @@ tags={
 	"Characters"
 }
 name="Rise of Ashur"
-supported_version="2.0.3"
+supported_version="2.0.*"
